@@ -13,7 +13,7 @@ steps:
 - title: Code of behaviour
 - title: Code of behaviour quiz
   knowledge_quiz:
-    path: code-of-behaviour-quiz
+    path: quiz1
     version: 1
     questions: 9
     passing_score: 9
