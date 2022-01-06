@@ -1,11 +1,20 @@
+---
 title: Safeguarding Module
 hero_image: images/banner.png
-description: safeguarding-module description
-version: 4
+description: Safeguarding Module
+version: 0.1
 listed: false
 copyedit: false
-last_tested: "2022-01-06"
+last_tested: 2022-01-05
 steps:
-  - title: Introduction
-  - title: Step title
-  - title: What next?
+- title: What is child safeguarding?
+- title: Recruitment process
+- title: Desirable characteristics
+- title: Code of behaviour
+- title: Code of behaviour quiz
+  knowledge_quiz:
+    path: code-of-behaviour-quiz
+    version: 1
+    questions: 9
+    passing_score: 9
+  completion: internal

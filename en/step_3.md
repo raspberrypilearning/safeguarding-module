@@ -1,7 +1,21 @@
-## What next?
+## Desirable characteristics
 
-If you are following the [PathwayName](https://projects.raspberrypi.org/en/raspberrypi/pathway-name) pathway, you can move on to the [ProjectName](https://projects.raspberrypi.org/en/projects/project-name) project. In this project, you will make a (add description here).
+When first meeting a volunteer there will be some characteristics that are desirable to help create a positive environment! While a volunteer may not have all these traits, they should definitely have at least one.
 
-![ProjectName project](images/projectname-project.png)
+Think about three characteristics you look for in new volunteers and then click on the hint below to see some of ours.
 
-If you want to have more fun exploring Scratch, then you could try out any of [these projects](https://projects.raspberrypi.org/en/projects?software%5B%5D=scratch&curriculum%5B%5D=%201).
+--- hints ---
+--- hint ---
+* Positive
+* Creative
+* Approachable
+* Supportive
+* Committed
+* Collaborative
+* Encouraging
+--- /hint ---
+--- /hints ---
+
+Did yours match some of ours?
+
+Having volunteers with traits such as these is desirable to make your club a fun and safe space for all young people.
