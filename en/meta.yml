@@ -18,3 +18,18 @@ steps:
     questions: 9
     passing_score: 9
   completion: internal
+- title: Abuse & Disclosures
+- title: How to run safe online sessions
+- title: What to do if…
+- title: Recording details of abuse
+- title: Observations and Evaluations Quiz
+  knowledge_quiz:
+      path: quiz2
+      version: 1
+      questions: 6
+      passing_score: 6
+    completion: internal
+- title: That’s almost it!
+- title: 
+- title: 
+- title: 
