@@ -42,5 +42,5 @@ For example:
 
 [Further resources & definition from the NSPCC (UK)](https://www.nspcc.org.uk/what-is-child-abuse/types-of-abuse/child-sexual-abuse/)
 
-Sexual abuse occurs when a child is used by another person for his/her gratification or sexual arousal, or for that of others. This doesn't have to be physical contact and it can happen online.r
+Sexual abuse occurs when a child is used by another person for his/her gratification or sexual arousal, or for that of others. This doesn't have to be physical contact and it can happen online.
 Sometimes the child won't understand that what's happening to them is abuse. They may not even understand that it's wrong.
