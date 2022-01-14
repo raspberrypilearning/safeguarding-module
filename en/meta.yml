@@ -7,26 +7,26 @@ listed: false
 copyedit: false
 last_tested: 2022-01-05
 steps:
-- title: What is child safeguarding?
-- title: Recruitment process
-- title: Desirable characteristics
-- title: Code of behaviour
-- title: Code of behaviour quiz
-  knowledge_quiz:
-    path: quiz1
-    version: 1
-    questions: 9
-    passing_score: 9
-  completion: internal
-- title: "Abuse & Disclosures"
-- title: How to run safe online sessions
-- title: "What to do if…"
-- title: Recording details of abuse
-- title: Observations and Evaluations Quiz
-  knowledge_quiz:
+  - title: What is child safeguarding?
+  - title: Recruitment process
+  - title: Desirable characteristics
+  - title: Code of behaviour
+  - title: Code of behaviour quiz
+    knowledge_quiz:
+      path: quiz1
+      version: 1
+      questions: 9
+      passing_score: 9
+    completion: internal
+  - title: "Abuse & Disclosures"
+  - title: How to run safe online sessions
+  - title: "What to do if…"
+  - title: Recording details of abuse
+  - title: Observations and Evaluations Quiz
+    knowledge_quiz:
       path: quiz2
       version: 1
       questions: 6
       passing_score: 6
     completion: internal
-- title: "That’s almost it!"
+  - title: "That’s almost it!"
