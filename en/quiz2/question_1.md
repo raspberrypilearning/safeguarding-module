@@ -1,14 +1,17 @@
 --- question ---
 ---
-legend: Question 1 of 6
+legend: Question 1 of 3
 ---
 
-Rita made no eye contact.
+How many adults should be present during an online session?
 
 --- choices ---
-- (x) Fact / Observation
 
-- ( ) Opinion / Evaluation
+- ( ) None
+- ( ) One
+- (x) At least two
+- ( ) At least three
+
 --- /choices ---
 
 --- /question ---

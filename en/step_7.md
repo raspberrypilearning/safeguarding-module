@@ -1,6 +1,8 @@
 ## How to run safe online sessions
 
-You may wish to run online sessions for young people at your club who cannot meet in person. We encourage you to do this and have developed helpful resources for you, including guidelines to ensure your online sessions are as safe as possible.  
+You may wish to run online sessions for young people at your club who cannot meet in person. We encourage you to do this and have developed helpful resources for you, including guidelines to ensure your online sessions are as safe as possible.
+
+Read through these guides and answer the following three questions in the next step.
 
 --- collapse ---
 ---
@@ -43,18 +45,5 @@ title: Code of behaviour for young people attending online sessions
  
 --- /collapse ---
 
-
-
-
-
-
-
-
-Read through these guides and answer the following three questions 
-
-How many adults should be present during an online session? (At least two)
-Is it OK to use webcams during the online session? (Yes, but make sure everyone at home knows they are prohibited from recording or taking screenshots of the session)
-Do you need to make sure that every young person has a parent's or guardian's consent before attending an online session? 
-
-Speech bubble (We also recommend that you and your volunteers view the recording of our [community call focussed on running safe online sessions](https://www.raspberrypi.org/club-event-guidance/community-calls/))
+We also recommend that you and your volunteers view the recording of our [community call focussed on running safe online sessions](https://www.gotostage.com/channel/d20e514831f340b3913659639068c724/recording/92bd90b755964f49b87bfd99f9624435/watch?source=CHANNEL)
 
