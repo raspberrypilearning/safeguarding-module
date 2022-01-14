@@ -20,7 +20,7 @@ If you have any doubts then you can fill out our [online safefuarding form to ge
 1. Check with the young person to ensure that what has been heard and understood by you is accurate, and
 1. Do not express any opinions about the alleged abuse or abuser.r
 
-### What to do if a child discloses abuse to you
+### What to do after a child discloses abuse to you
 
 1. Record the conversation.
 1. Sign and date any written records.
