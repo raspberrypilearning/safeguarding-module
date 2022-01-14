@@ -9,16 +9,46 @@ title: Framework to help you assess how to running your club safely
 
 ---
 
+[Framework to help you assess how to running your club safely](https://static.raspberrypi.org/files/clubs/Code_Club_and_CoderDojo_CV_Framework.pdf)
+
 <embed src="https://static.raspberrypi.org/files/clubs/Code_Club_and_CoderDojo_CV_Framework.pdf" width="790" height="500" 
  type="application/pdf">
 
 --- /collapse ---
 
+--- collapse ---
+---
 
+title: Guide for adults to support young people attending online sessions
 
-[Framework to help you assess how to running your club safely](https://static.raspberrypi.org/files/clubs/Code_Club_and_CoderDojo_CV_Framework.pdf)
+---
+
 [Guide for adults to support young people attending online sessions](https://static.raspberrypi.org/files/clubs/Code_Club_and_CoderDojo_Parent_Guide_Supporting_Online_Coding_Session.pdf)
+
+<embed src="https://static.raspberrypi.org/files/clubs/Code_Club_and_CoderDojo_Parent_Guide_Supporting_Online_Coding_Session.pdf" width="790" height="500" 
+ type="application/pdf">
+
+--- /collapse ---
+
+--- collapse ---
+---
+
+title: Code of behaviour for young people attending online sessions
+
+---
 [Code of behaviour for young people attending online sessions](https://static.raspberrypi.org/files/clubs/CoderDojo_Code_Club_Online_Code_of_Behaviour_A4_DIGITAL.pdf)
+
+<embed src="https://static.raspberrypi.org/files/clubs/CoderDojo_Code_Club_Online_Code_of_Behaviour_A4_DIGITAL.pdf" width="790" height="500" 
+ type="application/pdf">
+ 
+--- /collapse ---
+
+
+
+
+
+
+
 
 Read through these guides and answer the following three questions 
 
