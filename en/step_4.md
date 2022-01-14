@@ -2,7 +2,7 @@
 
 Our code of behaviour document is available at [rpf.io/code-of-behaviour](http://rpf.io/code-of-behaviour)
 
-<embed src="https://static.raspberrypi.org/files/safeguarding/Raspberry_Pi_Foundation-safeguarding-code-of-behaviour.pdf" width="600" height="400" 
+<embed src="https://static.raspberrypi.org/files/safeguarding/Raspberry_Pi_Foundation-safeguarding-code-of-behaviour.pdf" width="790" height="500" 
  type="application/pdf">
 
 ### If the code of behaviour is not adhered to
