@@ -2,6 +2,8 @@
 
 Safeguarding is the actions taken to promote the welfare of children and protect them from harm.
 
+![3 young people standing](images/2-RPF-Volunteers.png)
+
 ### What’s ahead?
 
 This learning guide has been created to give all volunteers of the Raspberry Pi Foundation and their programmes (Code Club, CoderDojo, Raspberry Jams, Astro Pi) the opportunity to learn about best practices in child safeguarding.
@@ -44,6 +46,7 @@ title: Legislation
 Each club is responsible for ensuring that they abide with the safeguarding legislation in their area. Some jurisdictions will require that all volunteers working with young people and/or vulnerable persons have background checks before they commence the voluntary activity. Other jurisdictions may require that you have a child protection policy or safeguarding statement.
 
 N.B. Legislation in the USA can vary from state to state.
+
 --- /collapse ---
 
 --- collapse ---
@@ -58,4 +61,5 @@ While it is paramount that you abide by legislation in your region regarding chi
 * Code of behaviour for children (if club is running online sessions)
 * Guide for parents (if club is running online sessions)
 * Reporting process when abuse is disclosed to a volunteer or when a volunteer notices signs of abuse
+
 --- /collapse ---
