@@ -2,7 +2,7 @@
 
 Safeguarding is the actions taken to promote the welfare of children and protect them from harm.
 
-![3 young people standing](images/2-RPF-Volunteers.png)
+![3 young people standing](images/2-RPF-Kids.png)
 
 ### What’s ahead?
 

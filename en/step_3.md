@@ -5,7 +5,9 @@ When first meeting a volunteer there will be some characteristics that are desir
 Think about three characteristics you look for in new volunteers and then click on the hint below to see some of ours.
 
 --- hints ---
+
 --- hint ---
+
 * Positive
 * Creative
 * Approachable
@@ -13,7 +15,9 @@ Think about three characteristics you look for in new volunteers and then click 
 * Committed
 * Collaborative
 * Encouraging
+
 --- /hint ---
+
 --- /hints ---
 
 Did yours match some of ours?
