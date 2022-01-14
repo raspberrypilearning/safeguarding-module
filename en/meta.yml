@@ -20,11 +20,18 @@ steps:
     completion: internal
   - title: "Abuse & Disclosures"
   - title: How to run safe online sessions
+  - title: Observations and Evaluations Quiz
+    knowledge_quiz:
+      path: quiz2
+      version: 1
+      questions: 3
+      passing_score: 3
+    completion: internal
   - title: "What to do if…"
   - title: Recording details of abuse
   - title: Observations and Evaluations Quiz
     knowledge_quiz:
-      path: quiz2
+      path: quiz3
       version: 1
       questions: 6
       passing_score: 6

@@ -1,14 +1,15 @@
 --- question ---
 ---
-legend: Question 3 of 6
+legend: Question 3 of 3
 ---
 
-Mary was embarrassed
+Do you need to make sure that every young person has a parent's or guardian's consent before attending an online session? 
 
 --- choices ---
-- ( ) Fact / Observation
 
-- (x) Opinion / Evaluation
+- ( ) No
+- (x) Yes
+
 --- /choices ---
 
 --- /question ---

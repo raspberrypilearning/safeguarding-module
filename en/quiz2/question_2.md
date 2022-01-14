@@ -1,14 +1,16 @@
 --- question ---
 ---
-legend: Question 2 of 6
+legend: Question 2 of 3
 ---
 
-John smelt of alcohol
+Is it OK to use webcams during the online session?
 
 --- choices ---
-- (x) Fact / Observation
 
-- ( ) Opinion / Evaluation
+- ( ) No
+- ( ) Yes
+- (x) Yes, but make sure everyone knows they are prohibited from recording or taking screenshots of the session
+
 --- /choices ---
 
 --- /question ---
