@@ -28,7 +28,7 @@ title: 2. Application form
 
 This can just be an online form with a few short questions. You should ask for a referee if possible and any relevant skills that may be useful in your club. Information from the application form, such as contact information, will be useful should this potential volunteer join the club.
 
-If you are in a Code Club or CoderDojo, instead of an application form you should encourage potential volunteers to register through our website ([codeclub.org](https://codeclub.org), [coderdojo.com](https://coderdojo.com))
+If you are in a Code Club or CoderDojo, instead of an application form you should encourage potential volunteers to register through our websites ([codeclub.org](https://codeclub.org){:target='_blank'}, [coderdojo.com](https://coderdojo.com){:target='_blank'})
 
 --- /collapse ---
 
@@ -68,7 +68,7 @@ When checking references it is often best to phone the referee as people will be
 title: 6. Training Identification  
 ---
 
-If your volunteers would like some further training or support, you can direct them to the [free online courses](https://www.futurelearn.com/partners/raspberry-pi) that are provided by the Raspberry Pi Foundation. 
+If your volunteers would like some further training or support, you can direct them to the [free online courses](https://www.futurelearn.com/partners/raspberry-pi){:target='_blank'} that are provided by the Raspberry Pi Foundation. 
 
 If you have several volunteers in your club, you could also arrange some sessions between yourselves to share knowledge and try out new programmes and projects together. This will help increase the confidence of your volunteers on what they are covering in the club.
 
