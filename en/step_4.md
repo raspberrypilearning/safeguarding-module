@@ -1,6 +1,6 @@
 ## Code of behaviour
 
-Our code of behaviour document is available at [rpf.io/code-of-behaviour](http://rpf.io/code-of-behaviour)
+Our code of behaviour document is available at [rpf.io/code-of-behaviour](http://rpf.io/code-of-behaviour){:target='_blank'}
 
 <embed src="https://static.raspberrypi.org/files/safeguarding/Raspberry_Pi_Foundation-safeguarding-code-of-behaviour.pdf" width="790" height="500" 
  type="application/pdf">

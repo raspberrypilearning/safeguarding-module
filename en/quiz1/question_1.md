@@ -3,7 +3,7 @@
 legend: Question 1 of 9
 ---
 
-Being inclusive of all young people regardless of gender, age, religion, nationality, ethnicity or creed.
+Is eing inclusive of all young people regardless of gender, age, religion, nationality, ethnicity or creed 'Good practice' or 'Poor practice'?
 
 --- choices ---
 - (x) Good practice
