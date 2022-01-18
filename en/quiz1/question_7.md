@@ -3,7 +3,7 @@
 legend: Question 7 of 9
 ---
 
-Involving young people in decision making where appropriate
+Is involving young people in decision making where appropriate an example of 'Good practice' or 'Poor practice'?
 
 --- choices ---
 - (x) Good practice

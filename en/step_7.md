@@ -11,7 +11,7 @@ title: Framework to help you assess how to running your club safely
 
 ---
 
-[Framework to help you assess how to running your club safely](https://static.raspberrypi.org/files/clubs/Code_Club_and_CoderDojo_CV_Framework.pdf)
+[Framework to help you assess how to running your club safely](https://static.raspberrypi.org/files/clubs/Code_Club_and_CoderDojo_CV_Framework.pdf){:target='_blank'}
 
 <embed src="https://static.raspberrypi.org/files/clubs/Code_Club_and_CoderDojo_CV_Framework.pdf" width="790" height="500" 
  type="application/pdf">
@@ -25,7 +25,7 @@ title: Guide for adults to support young people attending online sessions
 
 ---
 
-[Guide for adults to support young people attending online sessions](https://static.raspberrypi.org/files/clubs/Code_Club_and_CoderDojo_Parent_Guide_Supporting_Online_Coding_Session.pdf)
+[Guide for adults to support young people attending online sessions](https://static.raspberrypi.org/files/clubs/Code_Club_and_CoderDojo_Parent_Guide_Supporting_Online_Coding_Session.pdf){:target='_blank'}
 
 <embed src="https://static.raspberrypi.org/files/clubs/Code_Club_and_CoderDojo_Parent_Guide_Supporting_Online_Coding_Session.pdf" width="790" height="500" 
  type="application/pdf">
@@ -38,7 +38,7 @@ title: Guide for adults to support young people attending online sessions
 title: Code of behaviour for young people attending online sessions
 
 ---
-[Code of behaviour for young people attending online sessions](https://static.raspberrypi.org/files/clubs/CoderDojo_Code_Club_Online_Code_of_Behaviour_A4_DIGITAL.pdf)
+[Code of behaviour for young people attending online sessions](https://static.raspberrypi.org/files/clubs/CoderDojo_Code_Club_Online_Code_of_Behaviour_A4_DIGITAL.pdf){:target='_blank'}
 
 <embed src="https://static.raspberrypi.org/files/clubs/CoderDojo_Code_Club_Online_Code_of_Behaviour_A4_DIGITAL.pdf" width="790" height="500" 
  type="application/pdf">

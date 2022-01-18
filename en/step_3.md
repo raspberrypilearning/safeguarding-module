@@ -2,7 +2,7 @@
 
 When first meeting a volunteer there will be some characteristics that are desirable to help create a positive environment! While a volunteer may not have all these traits, they should definitely have at least one.
 
-![A colunteer holding a Raspberry pi standing](images/5-Volunteers.png)
+![A volunteer holding a Raspberry pi standing](images/5-Volunteers.png){:width="400px"}.
 
 Think about three characteristics you look for in new volunteers and then click on the hint below to see some of ours.
 

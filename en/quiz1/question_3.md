@@ -3,7 +3,7 @@
 legend: Question 3 of 9
 ---
 
-Offensive language
+Is using offensive language in your club an example of 'Good practice' or 'Poor practice'?
 
 --- choices ---
 - ( ) Good practice

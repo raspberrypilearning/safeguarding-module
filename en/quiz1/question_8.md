@@ -3,7 +3,7 @@
 legend: Question 8 of 9
 ---
 
-Physical or emotional punishment
+Is physical or emotional punishment an example of 'Good practice' or 'Poor practice'?
 
 --- choices ---
 - ( ) Good practice
