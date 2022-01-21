@@ -3,7 +3,7 @@
 legend: Question 3 of 6
 ---
 
-Mary was embarrassed
+Mary was embarrassed. Is this:
 
 --- choices ---
 - ( ) Fact / Observation
