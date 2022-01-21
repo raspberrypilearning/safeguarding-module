@@ -12,7 +12,7 @@ If you have several volunteers in your club, you could also arrange some session
 ### 2. Selection
 
 Does the new volunteer seem like a good fit for your club? Get in touch with them and let them know when your next session is to see if they can attend. If you are just starting your club for the first time, maybe consider having an informal meeting with all your volunteers to create a plan for your first session.
-If there is a red flag during the recruitment process of the volunteer you may want to tell them that they are not a good fit. If you are unsure, you can get in touch with the Raspberry Pi Foundation for advice. 
+If there is are any concerns during the recruitment process of the volunteer you may want to tell them that they are not a good fit. If you are unsure, you can get in touch with the Raspberry Pi Foundation for advice. 
 
 ### 3. First club Buddy  
 

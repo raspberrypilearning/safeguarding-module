@@ -18,7 +18,7 @@ If you have any doubts then you can fill out our [online safeguarding form to ge
 1. Do not ask the young person to repeat the story unnecessarily,
 1. Ask questions only for the purpose of clarification.  Be supportive, but do not ask leading questions or seek intimate details beyond those volunteered by the child,
 1. Check with the young person to ensure that what has been heard and understood by you is accurate, and
-1. Do not express any opinions about the alleged abuse or abuser.r
+1. Do not express any opinions about the alleged abuse or abuser.
 
 ### What to do after a child discloses abuse to you
 

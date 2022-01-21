@@ -4,9 +4,9 @@ Typically, the club organiser has the responsibility of recruiting and onboardin
 
 ![3 colunteers standing](images/2-RPF-Volunteers.png)
 
-Often clubs can experience challenges when recruiting volunteers, but it is important to note that not every volunteer who is interested in helping out at your club may be appropriate or a match.
+It is important to note that not every volunteer who is interested in helping out at your club may be appropriate or a match.
 
-By following a recruitment process it makes it easier to say no to volunteers who are not a fit for the club.
+By following a recruitment process it makes it easier makes it easier to identify volunteers who are not a fit for the club.
 
 ### 1. Volunteer description
 

@@ -1,6 +1,6 @@
 ## Abuse & Disclosures
 
-While it is very uncommon that clubs will encounter serious child safeguarding issues due to the short periods of time spent at the club, it is important that volunteers are aware of what to do when they become aware of abuse either through observation or through a child telling you (disclosure) about abuse. As most Raspberry Pi Foundation clubs create an environment in which many young people feel particularly comfortable, disclosures are possible.
+A vast majority of young people take part in our clubs without encountering abuse, but it is important that volunteers are aware of what to do when they become aware of abuse either through observation or through a child telling you (disclosure) about abuse. As most Raspberry Pi Foundation clubs create an environment in which many young people feel particularly comfortable, disclosures are possible.
 
 ![image of three young people standing](images/7-Diverse-Mix.png){:target='_blank'}
 
@@ -8,7 +8,7 @@ Child abuse is generally categorised as neglect, emotional abuse, physical abuse
 
 ### Types of abuse: Neglect
 
-Neglect can normally be defined in terms of an omission, where a child suffers significant harm or impairment of development by being deprived of food, clothing, warmth, hygiene, intellectual stimulation, supervision and safety, attachment to and affection from adults, and/or medical care.r
+Neglect can normally be defined in terms of an omission, where a child suffers significant harm or impairment of development by being deprived of food, clothing, warmth, hygiene, intellectual stimulation, supervision and safety, attachment to and affection from adults, and/or medical care.
 
 [Further resources & definition from the NSPCC (UK)](https://www.nspcc.org.uk/what-is-child-abuse/types-of-abuse/neglect/){:target='_blank'}
 ### Types of abuse: Physical abuse
