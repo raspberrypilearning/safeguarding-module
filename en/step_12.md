@@ -40,8 +40,8 @@ In this scenario, there is an immediate concern about the welfare of a child, an
 
 --- hint ---
 
-It’s important to take a record of what Mark is posting, in case this happens again. He may not know the significance of what he posted, so it’s important that you let his parents know what happened and provide them with the parents guide. 
-Other children attending the online session may have seen the messages and been affected by them, so it’s important that you contact their parents as well and let them know what happened.
+It’s important to take a record of what Robert is posting, in case this happens again. He may not know the significance of what he posted, so it’s important that you let his parents know what happened and provide them with the parents guide. 
+Other children attending the online session may have seen the messages and been affected by them, so it’s important that you contact their parents as well and let them know what happened and how you are following up.
 
 --- /hint ---
 

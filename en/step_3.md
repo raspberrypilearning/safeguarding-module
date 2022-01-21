@@ -16,9 +16,9 @@ If there is a red flag during the recruitment process of the volunteer you may w
 
 ### 3. First club Buddy  
 
-Congratulations! You have successfully recruited a new volunteer for your club. For their first session, remember they will need some help learning the ropes and getting to know the children. If you have several volunteers at your club, try to pair them up with an experienced volunteer. We wouldn’t advise making new volunteers run a session on their first club as it may be intimidating or scary as a newbie, you can plan and run the session together and learn from each other.
+Congratulations! You have successfully recruited a new volunteer for your club. For their first session, remember they will need some help learning the ropes and getting to know the children. If you have several volunteers at your club, try to pair them up with an experienced volunteer. We wouldn’t advise making new volunteers run a session on their first club as it may be intimidating or scary as a new joiner, you can plan and run the session together and learn from each other.
 
-### Desirable characteristics
+### The right volunteer
 
 Think about three characteristics you look for in new volunteers and then click on the hint below to see some of ours.
 
