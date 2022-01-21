@@ -32,7 +32,7 @@ Below are some of the topics we will be covering:
 
 ### Why child safeguarding is important?
 
-All programmes run and supported by the Raspberry Pi Foundation should always be, a safe space for all young people. By maintaining a safe environment you are allowing young people to thrive and learn to code completely carefree.
+All programmes run and supported by the Raspberry Pi Foundation should always be, a safe space for all everyone. By maintaining a safe environment you are allowing young people to thrive and learn to code completely carefree.
 
 Clubs can have young people in attendance from different schools, backgrounds and ages. Therefore, ensuring this safe space is protected is crucial to ensure they can make new friends and share a common interest.
 
@@ -44,7 +44,7 @@ N.B. Legislation in the USA can vary from state to state.
 
 ### Best practices
 
-While it is paramount that you abide by legislation in your region regarding child safeguarding, all clubs should try to have best practices in place, even where they are not required by legislation. Some of the best practices your club can adopt that we are going to cover in this module include:
+While it is paramount that you follow legislation in your region regarding child safeguarding, all clubs should try to have best practices in place, even where they are not required by legislation. Some of the best practices your club can adopt that we are going to cover in this module include:
 
 * Volunteer recruitment
 * Code of behaviour
