@@ -36,23 +36,13 @@ All programmes run and supported by the Raspberry Pi Foundation should always be
 
 Clubs can have young people in attendance from different schools, backgrounds and ages. Therefore, ensuring this safe space is protected is crucial to ensure they can make new friends and share a common interest.
 
-### Legislation and Best Practices
-
---- collapse ---
----
-title: Legislation
----
+### Legislation
 
 Each club is responsible for ensuring that they abide with the safeguarding legislation in their area. Some jurisdictions will require that all volunteers working with young people and/or vulnerable persons have background checks before they commence the voluntary activity. Other jurisdictions may require that you have a child protection policy or safeguarding statement.
 
 N.B. Legislation in the USA can vary from state to state.
 
---- /collapse ---
-
---- collapse ---
----
-title: Best practices
----
+### Best practices
 
 While it is paramount that you abide by legislation in your region regarding child safeguarding, all clubs should try to have best practices in place, even where they are not required by legislation. Some of the best practices your club can adopt that we are going to cover in this module include:
 
@@ -61,5 +51,3 @@ While it is paramount that you abide by legislation in your region regarding chi
 * Code of behaviour for children (if club is running online sessions)
 * Guide for parents (if club is running online sessions)
 * Reporting process when abuse is disclosed to a volunteer or when a volunteer notices signs of abuse
-
---- /collapse ---
