@@ -8,13 +8,10 @@ Child abuse is generally categorised as neglect, emotional abuse, physical abuse
 
 ### Types of abuse: Neglect
 
-[Further resources & definition from the NSPCC (UK)](https://www.nspcc.org.uk/what-is-child-abuse/types-of-abuse/neglect/){:target='_blank'}
-
 Neglect can normally be defined in terms of an omission, where a child suffers significant harm or impairment of development by being deprived of food, clothing, warmth, hygiene, intellectual stimulation, supervision and safety, attachment to and affection from adults, and/or medical care.r
 
+[Further resources & definition from the NSPCC (UK)](https://www.nspcc.org.uk/what-is-child-abuse/types-of-abuse/neglect/){:target='_blank'}
 ### Types of abuse: Physical abuse
-
-[Further resources & definition from the NSPCC (UK)](https://www.nspcc.org.uk/what-is-child-abuse/types-of-abuse/physical-abuse/){:target='_blank'}
 
 Physical abuse of a child is that which results in actual or potential physical harm from an interaction, or lack of interaction, which is reasonably within the control of a parent or person in a position of responsibility, power or trust. There may be single or repeated incidents.  
 
@@ -25,9 +22,9 @@ Physical abuse can involve:
 * Pushing, shaking or throwing
 * Terrorising with threats
 
-### Types of abuse: Emotional Abuse
+[Further resources & definition from the NSPCC (UK)](https://www.nspcc.org.uk/what-is-child-abuse/types-of-abuse/physical-abuse/){:target='_blank'}
 
-[Further resources & definition from the NSPCC (UK)](https://www.nspcc.org.uk/what-is-child-abuse/types-of-abuse/emotional-abuse/){:target='_blank'}
+### Types of abuse: Emotional Abuse
 
 Emotional abuse is normally to be found in the relationship between a parent/caregiver and a child rather than in a specific event or pattern of events. It occurs when a child’s needs for affection, approval, consistency and security are not met. It is rarely manifested in terms of physical symptoms.
 
@@ -38,9 +35,11 @@ For example:
 * Emotional unavailability
 * Use of unreasonable or harsh disciplinary measures
 
-### Types of abuse: Sexual Abuse
+[Further resources & definition from the NSPCC (UK)](https://www.nspcc.org.uk/what-is-child-abuse/types-of-abuse/emotional-abuse/){:target='_blank'}
 
-[Further resources & definition from the NSPCC (UK)](https://www.nspcc.org.uk/what-is-child-abuse/types-of-abuse/child-sexual-abuse/)
+### Types of abuse: Sexual Abuse
 
 Sexual abuse occurs when a child is used by another person for his/her gratification or sexual arousal, or for that of others. This doesn't have to be physical contact and it can happen online.
 Sometimes the child won't understand that what's happening to them is abuse. They may not even understand that it's wrong.
+
+[Further resources & definition from the NSPCC (UK)](https://www.nspcc.org.uk/what-is-child-abuse/types-of-abuse/child-sexual-abuse/)
