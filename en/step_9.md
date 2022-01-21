@@ -6,7 +6,7 @@ If you have a concern about a young person or if a young person discloses abuse 
 
 In this next section we will give you some tips, sample scenarios and sample reporting procedures for your club. We would recommend that you talk about these with your fellow volunteers.
 
-If you have any doubts then you can fill out our [online safefuarding form to get advice and support](https://form.raspberrypi.org/f/safeguarding-concern-form){:target='_blank'}
+If you have any doubts then you can fill out our [online safeguarding form to get advice and support](https://form.raspberrypi.org/f/safeguarding-concern-form){:target='_blank'}
 
 ### What to do if a child discloses abuse to you
 
@@ -25,6 +25,7 @@ If you have any doubts then you can fill out our [online safefuarding form to ge
 1. Record the conversation.
 1. Sign and date any written records.
 1. Pass the information to the person responsible for Child Protection at the venue. They will be able to guide you on next steps, which will include writing down what you have heard as accurately as possible.
+1. Let us know the actions you’ve taken by emailing [safeguarding@raspberrypi.org](mailto:safeguarding@raspberrypi.org){:target='_blank' or filling in the [online safeguarding form](https://form.raspberrypi.org/f/safeguarding-concern-form){:target='_blank'}
 1. If the child is at immediate risk, the person responsible for Child Protection at the venue should contact the police. 
 1. Treat all information confidentially, sharing only with those who have a right to hear.
 1. If it is not possible to report your concern to the venue, please contact safeguarding@raspberrypi.org and a member of the team will advise you.
@@ -36,7 +37,8 @@ Remember if you are unsure about a disclosure or need support, you can get in to
 1. Record any signs in detail.
 1. Sign and date any written records.
 1. Pass the information to the person responsible for Child Protection at the venue. They will be able to guide you on next steps, which will include writing down what you have heard as accurately as possible.
-1. If the child is at immediate risk, the person responsible for Child Protection at the venue should contact the police. 
+1. If the child is at immediate risk, the person responsible for Child Protection at the venue should contact the police.
+1. Let us know the actions you’ve taken by emailing [safeguarding@raspberrypi.org](mailto:safeguarding@raspberrypi.org){:target='_blank' or filling in the [online safeguarding form](https://form.raspberrypi.org/f/safeguarding-concern-form){:target='_blank'}
 1. Treat all information confidentially, sharing only with those who have a right to hear.
 1. If it is not possible to report your concern to the venue, please contact [safeguarding@raspberrypi.org](mailto:safeguarding@raspberrypi.org){:target='_blank'} and a member of the team will advise you.
 
