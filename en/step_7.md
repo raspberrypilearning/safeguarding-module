@@ -27,4 +27,4 @@ Read through these guides and answer the following three questions in the next s
 
 We strongly recommend that you and your volunteers view the recording of our [community call on running safe online sessions](https://www.gotostage.com/channel/d20e514831f340b3913659639068c724/recording/92bd90b755964f49b87bfd99f9624435/watch?source=CHANNEL){:target='_blank'}
 
-You can download all of the above resources in a single at [here](rpf.io/p/en/safeguarding-module-go){:target='_blank'}
+You can download all of the above resources in a single at [here](https://rpf.io/p/en/safeguarding-module-go){:target='_blank'}
