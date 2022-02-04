@@ -28,3 +28,9 @@ Read through these guides and answer the following three questions in the next s
 We strongly recommend that you and your volunteers view the video of our [community call on running safe online sessions](https://www.gotostage.com/channel/d20e514831f340b3913659639068c724/recording/92bd90b755964f49b87bfd99f9624435/watch?source=CHANNEL){:target='_blank'}
 
 You can download all of the above resources in a single at [here](https://rpf.io/p/en/safeguarding-module-go){:target='_blank'}
+
+--- save ---
+
+<p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">
+<span style="color: #0faeb0">**To save**</span> your progress in this module, you will need to be logged in with your <a href="https://my.raspberrypi.org/login">Raspberry Pi Foundation account.</a>
+</p>

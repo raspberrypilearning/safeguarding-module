@@ -43,3 +43,9 @@ Remember if you are unsure about a disclosure or need support, you can get in to
 1. If it is not possible to report your concern to the venue, please contact [safeguarding@raspberrypi.org](mailto:safeguarding@raspberrypi.org){:target='_blank'} and a member of the team will advise you.
 
 Remember if you are unsure about a disclosure or need support, you can get in touch with the Raspberry Pi Foundation at any time.
+
+--- save ---
+
+<p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">
+<span style="color: #0faeb0">**To save**</span> your progress in this module, you will need to be logged in with your <a href="https://my.raspberrypi.org/login">Raspberry Pi Foundation account.</a>
+</p>

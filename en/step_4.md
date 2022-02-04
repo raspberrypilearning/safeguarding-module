@@ -17,3 +17,9 @@ Actions you can take:
 * Banning the Volunteer from participating in further activities in the club
 
 If you or your club is unsure of the action to take please ask for support from the <a href="mailto:safeguarding@raspberrypi.org">Raspberry Pi Foundation</a>
+
+--- save ---
+
+<p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">
+<span style="color: #0faeb0">**To save**</span> your progress in this module, you will need to be logged in with your <a href="https://my.raspberrypi.org/login">Raspberry Pi Foundation account.</a>
+</p>
