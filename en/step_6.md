@@ -58,6 +58,7 @@ Radicalisation can be difficult to notice, but some signs that a child might be 
 - Increased secretiveness, especially around internet use.
 
 [Further resources & definition from the NSPCC (UK)](https://www.nspcc.org.uk/keeping-children-safe/reporting-abuse/dedicated-helplines/protecting-children-from-radicalisation/)
+
 --- save ---
 
 <p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">
