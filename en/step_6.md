@@ -44,6 +44,20 @@ Sometimes the child won't understand that what's happening to them is abuse. The
 
 [Further resources & definition from the NSPCC (UK)](https://www.nspcc.org.uk/what-is-child-abuse/types-of-abuse/child-sexual-abuse/)
 
+### Types of abuse: radicalisation
+
+Children at risk of radicalisation may be victims of other forms of abuse, such as bullying or discrimnation, that make them easy targets for extremists.
+
+Radicalisation can be difficult to notice, but some signs that a child might be being influenced by radicalisation are:
+
+- Isolating themselves from family and friends
+- Talking as if from a scripted speech
+- Unwillingness or inability to discuss their views
+- A sudden disrespectful attitude towards others
+- Increased levels of anger
+- Increased secretiveness, especially around internet use.
+
+[Further resources & definition from the NSPCC (UK)](https://www.nspcc.org.uk/keeping-children-safe/reporting-abuse/dedicated-helplines/protecting-children-from-radicalisation/)
 --- save ---
 
 <p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">
