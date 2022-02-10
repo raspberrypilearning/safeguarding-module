@@ -48,7 +48,7 @@ Sometimes the child won't understand that what's happening to them is abuse. The
 
 Children at risk of radicalisation may be victims of other forms of abuse, such as bullying or discrimnation, that make them easy targets for extremists.
 
-Radicalisation can be difficult to notice, but some signs that a child might be being influenced by radicalisation are:
+Radicalisation can be difficult to notice, as it is similar to some normal teenage behaviour, but here are some signs that a person or group might be attempting to radicalise a child or young person:
 
 - Isolating themselves from family and friends
 - Talking as if from a scripted speech
