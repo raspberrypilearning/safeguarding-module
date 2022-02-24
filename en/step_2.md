@@ -38,7 +38,7 @@ Asking for referees and checking with those referees can be really useful to det
 
 If you have your own application form, you could use this as a space to ask for details of referees. If you haven’t collected referees in the application form, you can ask for them after the informal meeting. The referees can be a colleague, teacher or lecturer, or a friend who knows you well. Many volunteers can be referred to the club by another existing club volunteer, this person can also act as a referee.
 
-**Tip**:When you check references, it is often best to phone the referee as people will be more inclined to give a more honest perspective than in writing. 
+**Tip**: When you check references, it is often best to phone the referee as people will be more inclined to give a more honest perspective than in writing. 
 
 --- save ---
 
