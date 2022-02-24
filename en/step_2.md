@@ -6,7 +6,7 @@ Typically, the club organiser is responsible for recruiting and onboarding new v
 
 It is important to recognise that not every volunteer who is interested in helping out at your club may be appropriate or a match.
 
-By following a recruitment process, it makes it easier to identify volunteers who are not a fit for the club.
+Following a recruitment process makes it easier to identify volunteers who are not a fit for the club.
 
 ### 1. Volunteer description
 
