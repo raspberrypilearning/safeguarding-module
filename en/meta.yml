@@ -1,7 +1,7 @@
 ---
-title: Safeguarding Module
+title: Safeguarding module
 hero_image: images/banner.png
-description: Safeguarding Module
+description: Safeguarding module
 version: 0.1
 listed: false
 copyedit: false
@@ -18,17 +18,17 @@ steps:
       version: 1
       questions: 9
       passing_score: 9
-  - title: "Abuse & Disclosures"
+  - title: "Abuse and disclosures"
   - title: How to run safe online sessions
-  - title: Observations and Evaluations Quiz
+  - title: Observations and evaluations quiz
     knowledge_quiz:
       path: quiz2
       version: 1
       questions: 3
       passing_score: 3
   - title: "What to do if…"
-  - title: Recording details of abuse
-  - title: Observations and Evaluations Quiz
+  - title: How to record details of abuse
+  - title: Observations and evaluations quiz
     knowledge_quiz:
       path: quiz3
       version: 1
