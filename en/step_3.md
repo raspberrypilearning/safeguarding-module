@@ -38,7 +38,7 @@ Think about three characteristics you look for in new volunteers and then click 
 
 --- /hints ---
 
-Did yours match some of ours?
+Did your answers match some of ours?
 
 Having volunteers with traits such as these is desirable to make your club a fun and safe space for all young people.
 
