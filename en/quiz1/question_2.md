@@ -3,7 +3,7 @@
 legend: Question 2 of 9
 ---
 
-Is engaging in one to one messages on social media with an attendee at a club 'Good practice' or 'Poor practice'?
+Is it good practice or poor practice to engage in one-to-one messages on social media with an attendee at a club?
 
 --- choices ---
 - ( ) Good practice
