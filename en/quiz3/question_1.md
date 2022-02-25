@@ -8,7 +8,7 @@ Rita made no eye contact. Is this:
 --- choices ---
 - (x) A fact or observation
 
-- ( ) An opinion or Evaluation
+- ( ) An opinion or evaluation
 --- /choices ---
 
 --- /question ---
