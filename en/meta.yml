@@ -20,7 +20,7 @@ steps:
       passing_score: 9
   - title: "Abuse and disclosures"
   - title: How to run safe online sessions
-  - title: Observations and evaluations quiz
+  - title: Online sessions quiz
     knowledge_quiz:
       path: quiz2
       version: 1
