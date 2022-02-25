@@ -6,9 +6,9 @@ legend: Question 4 of 6
 Rita seemed like she was lying. Is this:
 
 --- choices ---
-- ( ) Fact / Observation
+- ( ) A fact or observation
 
-- (x) Opinion / Evaluation
+- (x) An opinion or evaluation
 --- /choices ---
 
 --- /question ---
