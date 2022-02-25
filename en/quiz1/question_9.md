@@ -3,7 +3,7 @@
 legend: Question 9 of 9
 ---
 
-Is CC’ing parents on all direct email communication to learners an example of 'Good practice' or 'Poor practice'?
+Is it good practice or bad practice to cc parents in on all direct email communication to learners?
 
 --- choices ---
 - (x) Good practice
