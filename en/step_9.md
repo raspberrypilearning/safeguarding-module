@@ -42,7 +42,7 @@ If you have any doubts, you can fill out our [online safeguarding form to get ad
 1. Treat all information confidentially, sharing only with those who have a right to hear.
 1. If it is not possible to report your concern to the venue, please contact [safeguarding@raspberrypi.org](mailto:safeguarding@raspberrypi.org){:target='_blank_'} and a member of the team will advise you.
 
-Remember if you are unsure about a disclosure or need support, you can get in touch with the Raspberry Pi Foundation at any time.
+**Remember**: If you are unsure about a disclosure or need support, you can get in touch with the Raspberry Pi Foundation at any time.
 
 --- save ---
 
