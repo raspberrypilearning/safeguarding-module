@@ -25,7 +25,7 @@ If you have any doubts, you can fill out our [online safeguarding form to get ad
 1. Record the conversation.
 1. Sign and date any written records.
 1. Pass the information to the person responsible for child protection at the venue. They will be able to guide you on next steps, which will include writing down what you have heard as accurately as possible.
-1. Let us know the actions you’ve taken by emailing [safeguarding@raspberrypi.org](mailto:safeguarding@raspberrypi.org){:target='_blank' or filling in the [online safeguarding form](https://form.raspberrypi.org/f/safeguarding-concern-form){:target='_blank'}.
+1. Let us know the actions you’ve taken by emailing [safeguarding@raspberrypi.org](mailto:safeguarding@raspberrypi.org){:target='_blank'} or filling in the [online safeguarding form](https://form.raspberrypi.org/f/safeguarding-concern-form){:target='_blank'}.
 1. If the child is at immediate risk, the person responsible for child protection at the venue should contact the police. 
 1. Treat all information confidentially, share it only with those who have a right to hear.
 1. If it is not possible to report your concern to the venue, please contact safeguarding@raspberrypi.org and a member of the team will advise you.
