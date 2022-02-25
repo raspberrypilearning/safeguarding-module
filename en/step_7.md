@@ -1,6 +1,6 @@
 ## How to run safe online sessions
 
-You may wish to run online sessions for young people at your club who cannot meet in person. We encourage you to do this and have developed helpful resources for you, including guidelines to ensure your online sessions are as safe as possible.
+You may wish to run online sessions for young people at your club who cannot meet in person. We encourage you to do this and have developed resources to help you, including guidelines to make sure your online sessions are as safe as possible.
 
 Read through these guides and answer the following three questions in the next step.
 
