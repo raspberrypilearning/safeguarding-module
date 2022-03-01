@@ -19,7 +19,7 @@ This is a short description to tell potential volunteers what the role involves 
 
 ### 2. Application form
 
-This can just be an online form with a few short questions. You should ask for a referee if possible and any relevant skills that may be useful in your club. Information from the application form, such as contact information, will be useful should this potential volunteer join the club.
+This can be an online form with a few short questions. You should ask for a referee if possible and any relevant skills that may be useful in your club. Information from the application form, such as contact information, will be useful should this potential volunteer join the club.
 
 **Note**: If you are in a Code Club or CoderDojo, instead of an application form you should encourage potential volunteers to register through our websites ([codeclub.org](https://codeclub.org){:target='_blank'}, [coderdojo.com](https://coderdojo.com){:target='_blank'})
 
