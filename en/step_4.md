@@ -7,7 +7,7 @@ Every person at the club must be aware of the code of behaviour and follow these
 <br>
 ### Breaking the code of behaviour
 
-If a volunteer in your club behaves inappropriately and/or breaks the code of behaviour, action will have to be taken by the club organiser. In the case of the club organiser breaking the code of behaviour, action will have to be taken by another volunteer.
+If a volunteer in your club behaves inappropriately and/or breaks the code of behaviour, action will have to be taken by the club organiser. If the club organiser breaks the code of behaviour, action will have to be taken by another volunteer.
 
 Actions to take:
 
