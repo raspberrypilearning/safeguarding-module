@@ -27,7 +27,7 @@ Below are some of the topics that will be covered:
 
 * Background checking
 * Legislation
-* Recruiting volunteers
+* How to recruit volunteers
 * Code of behaviour
 * Types of abuse
 * How to implement processes for reporting abuse
