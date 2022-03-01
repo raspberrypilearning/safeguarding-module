@@ -16,7 +16,7 @@ Actions to take:
 * Suspension of the volunteer from the club
 * Banning the volunteer from participating in further activities in the club
 
-If you or your club is unsure of the action to take please, ask for support from the <a href="mailto:safeguarding@raspberrypi.org">Raspberry Pi Foundation</a>
+If you or your club is unsure of the action to take please, ask for support from the <a href="mailto:safeguarding@raspberrypi.org">Raspberry Pi Foundation</a>.
 
 --- save ---
 
