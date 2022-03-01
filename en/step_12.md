@@ -11,7 +11,7 @@ You can now test your knowledge with some scenarios. In each scenario, we want y
 --- hints ---
 --- hint ---
 
-In this scenario, you should ensure you check in on the young person before you make any assumptions. Kim’s parents should be informed of the game by the most appropriate person, which may be you but could be another volunteer or teacher from the club. It may also be relevant to tell the young person's parents about support in the area if the volunteer knows what these are, often the general practitioner or local doctor is the best place to initially point a parent to in this scenario. Most importantly, you should talk to your club organiser, or teacher if in a school setting, and ensure that someone from the club checks in with Kim in future sessions.
+In this scenario, you should ensure you check in on the young person before you make any assumptions. Kim’s parents should be informed of the game by the most appropriate person, which may be you but could be another volunteer or teacher from the club. It may also be relevant to tell the young person's parents or guardians about local support in the area if the volunteer knows what these are; often the general practitioner or local doctor is the best place to initially point a parent or guardian to in this scenario. Most importantly, you should talk to your club organiser, or teacher if in a school setting, and ensure that someone from the club checks in with Kim in future sessions.
 
 --- /hint ---
 --- /hints ---
@@ -23,7 +23,7 @@ In this scenario, you should ensure you check in on the young person before you 
 --- hints ---
 --- hint ---
 
-The main learning from this scenario is to not overreact or make assumptions, as this could have been something quite innocent or accidental like an advert or pop-up. If the matter can be dealt with immediately, then you (or the club organiser) should speak to Mark without assumptions. Then you (or the club organiser) should speak to both sets of parents separately, mainly to ensure this doesn’t happen again in the club. You should ensure the young person who reported this is OK and knows that you are dealing with the situation. You should make the club organiser aware of the situation and perhaps you may organise an online safety club a few weeks after the club.
+The main learning from this scenario is to not overreact or make assumptions, as this could have been something quite innocent or accidental like an advert or pop-up. If the matter can be dealt with immediately, then you (or the club organiser) should speak to Mark without assumptions. Then you (or the club organiser) should speak to both sets of parents (or guardians) separately, mainly to ensure this doesn’t happen again in the club. You should ensure the young person who reported this is OK and knows that you are dealing with the situation. You should make the club organiser aware of the situation and perhaps you may organise an online safety club a few weeks after the club.
 
 --- /hint ---
 --- /hints ---
@@ -47,8 +47,8 @@ In this scenario, there is an immediate concern about the welfare of a child and
 --- hints ---
 --- hint ---
 
-It’s important to take a record of what Robert has posted, in case this happens again. He may not know the significance of what he has posted, so it’s important that you let his parents know what happened and provide them with the parents guide. 
-Other children attending the online session may have seen the messages and been affected by them, so it’s important that you contact their parents as well and let them know what happened and how you intend to follow up.
+It’s important to take a record of what Robert has posted, in case this happens again. He may not know the significance of what he has posted, so it’s important that you let his parents or guardians know what happened and provide them with the parents guide. 
+Other children attending the online session may have seen the messages and been affected by them, so it’s important that you contact their parents or guardians as well and let them know what happened and how you intend to follow up.
 
 --- /hint ---
 --- /hints ---
@@ -59,7 +59,7 @@ Other children attending the online session may have seen the messages and been 
 --- hints ---
 --- hint ---
 
-One-to-one messaging is not encouraged for any volunteers on social media or on other platforms (including email). There are some situations that you may want to respond to the young person: if it is a long time until the next session or there is a deadline for the project to be entered in a competition and you do not want to disappoint the young person. If you do respond, you should encourage that they email you and ‘cc’ their parent (or the club organiser or teacher) into the conversation in future or regarding this query. 
+One-to-one messaging is not encouraged for any volunteers on social media or on other platforms (including email). There are some situations that you may want to respond to the young person: if it is a long time until the next session or there is a deadline for the project to be entered in a competition and you do not want to disappoint the young person. If you do respond, you should encourage that they email you and ‘cc’ their parent or guardian (or the club organiser or teacher) into the conversation in future or regarding this query. 
 
 --- /hint ---
 --- /hints ---
