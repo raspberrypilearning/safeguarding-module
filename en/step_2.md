@@ -25,20 +25,19 @@ This can be an online form with a few short questions. You should ask for a refe
 
 ### 3. Informal meeting or interview
 
-Invite the person to the club so you can meet with them and they can learn more about the club environment. If your club is running activities online, then you can meet remotely. It should be a casual meeting, but it should give the current club volunteers and the potential volunteer the chance to both decide if they want the potential volunteer to go ahead with volunteering or not. This will also allow current club volunteers and the potential volunteer to see if they can work together well in the club setting. If you are starting your club for the first time, you should set up an informal meeting with your potential volunteer before your first session.
+Invite the person to the club so you can meet with them and they can learn more about the club environment. If your club is running activities online, then you can meet remotely. It should be a casual meeting, but it should give the current club volunteers and the potential volunteer the chance to make a decision about whether they want the potential volunteer to go ahead with volunteering. This will also allow current club volunteers and the potential volunteer to see if they can work together well in the club setting. If you are starting your club for the first time, you should set up an informal meeting with your potential volunteer before your first session.
 
 ### 4. Background checking (dependent on region)
 
-
-Background checking is useful for voluntary coding clubs and in some regions it is mandatory to work as a volunteer with young people. We understand that in some regions it is more difficult to access background checking or that it may be expensive, so that is why reference checking and utilising the rest of the volunteer recruitment process is important.
+Background checking is useful for voluntary coding clubs; in some regions a background check is mandatory to volunteer with young people. We understand that in some regions it is more difficult to access background checking or that it may be expensive, so that is why reference checks and utilising the rest of the volunteer recruitment process is important.
 
 ### 5. Referees (optional)
 
-Asking for referees and checking with those referees can be really useful to determine if a volunteer is suitable to work with young people and/or vulnerable adults. 
+It can be really useful to ask for referees and to check those references to determine if a volunteer is suitable to work with young people and/or vulnerable adults. 
 
-If you have your own application form, you could use this as a space to ask for details of referees. If you haven’t collected referees in the application form, you can ask for them after the informal meeting. The referees can be a colleague, teacher or lecturer, or a friend who knows the potential volunteer well. Many volunteers can be referred to the club by another existing club volunteer, this person can also act as a referee.
+If you have your own application form, you could use this as a space to ask for details of referees. If you haven’t collected referees in the application form, you can ask for them after the informal meeting. Referees can be colleagues, teachers, lecturers, or a friend who knows the potential volunteer well. Many volunteers can be referred to the club by another existing club volunteer, this person can also act as a referee.
 
-**Tip**: When you check references, it is often best to phone the referee as people will be more inclined to give a more honest perspective than in writing. 
+**Tip**: When you check references, it is often best to phone the referee as people may be inclined to give a more honest perspective than in writing. 
 
 --- save ---
 
