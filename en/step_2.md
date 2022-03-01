@@ -35,7 +35,7 @@ Background checking is useful for voluntary coding clubs; in some regions a back
 
 It can be really useful to ask for referees and to check those references to determine if a volunteer is suitable to work with young people and/or vulnerable adults. 
 
-If you have your own application form, you could use this as a space to ask for details of referees. If you haven’t collected referees in the application form, you can ask for them after the informal meeting. Referees can be colleagues, teachers, lecturers, or a friend who knows the potential volunteer well. Many volunteers can be referred to the club by another existing club volunteer, this person can also act as a referee.
+If you have your own application form, you could use this as a space to ask for details of referees. If you haven’t collected referees in the application form, you can ask for them after the informal meeting. Referees can be colleagues, teachers, lecturers, or a friend who knows the potential volunteer well. Volunteers can be referred to the club by another existing club volunteer, this person can also act as a referee.
 
 **Tip**: When you check references, it is often best to phone the referee as people may be inclined to give a more honest perspective than in writing. 
 
