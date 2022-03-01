@@ -29,7 +29,7 @@ Invite the person to the club so you can meet with them and they can learn more 
 
 ### 4. Background checking (dependent on region)
 
-Background checking is useful for voluntary coding clubs; in some regions a background check is mandatory to volunteer with young people. We understand that in some regions it is more difficult to access background checking or that it may be expensive, so that is why reference checks and utilising the rest of the volunteer recruitment process is important.
+Background checking is useful for voluntary coding clubs; in some regions a background check is mandatory to work with young people. We understand that in some regions it is more difficult to access background checking or that it may be expensive, so that is why reference checks and utilising the rest of the volunteer recruitment process is important.
 
 ### 5. Referees (optional)
 
