@@ -1,6 +1,6 @@
 ## Recruitment process
 
-Typically, the club organiser is responsible for recruiting and onboarding new volunteers. From time to time, volunteers may be involved in this process to help the club organiser, in particular to help guide the new volunteer in their first session.
+Typically, it is the club organiser's responsibility to recruit and onboard new volunteers. From time to time, volunteers may be involved in this process to help the club organiser, in particular to help guide the new volunteer in their first session.
 
 ![Three volunteers standing.](images/2-RPF-Volunteers.png)
 
