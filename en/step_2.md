@@ -11,7 +11,7 @@ A recruitment process makes it easier to identify volunteers who are not a fit f
 ### 1. Volunteer description
 
 
-This is a short description to make it clear to potential volunteers what the role they are interested in involves and to give a broad overview of what your club does. This could be a brief description on your website or club profile of what a volunteer in your club does. It should include:
+This is a short description to tell potential volunteers what the role involves and to give a broad overview of your club. This could be a brief description on your website or club profile of what a volunteer in your club does. It should include:
 
 * What happens in a typical session?
 * How often does your club run and for how long?
