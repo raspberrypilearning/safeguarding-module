@@ -25,7 +25,7 @@ This can be an online form with a few short questions. You should ask for a refe
 
 ### 3. Informal meeting or interview
 
-Invite the person to the club so you can meet with them and so they can learn more about the club environment. If your club is running activities online, then you can meet remotely. It should be a casual meeting, but it should give the current club volunteers and the potential volunteer the chance to both decide if they want the potential volunteer to go ahead with volunteering or not. This will also allow current club volunteers and the potential volunteer to see if they can work together well in the club setting. If you are starting your club for the first time, you should set up an informal meeting with your potential volunteer before your first session.
+Invite the person to the club so you can meet with them and they can learn more about the club environment. If your club is running activities online, then you can meet remotely. It should be a casual meeting, but it should give the current club volunteers and the potential volunteer the chance to both decide if they want the potential volunteer to go ahead with volunteering or not. This will also allow current club volunteers and the potential volunteer to see if they can work together well in the club setting. If you are starting your club for the first time, you should set up an informal meeting with your potential volunteer before your first session.
 
 ### 4. Background checking (dependent on region)
 
