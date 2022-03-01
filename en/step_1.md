@@ -38,7 +38,7 @@ Below are some of the topics that will be covered:
 
 All programmes run and supported by the Raspberry Pi Foundation should always be a safe space for all everyone. By maintaining a safe environment, you are allowing young people to thrive and learn to code completely carefree.
 
-Clubs can have young people in attendance from different schools, backgrounds, and ages. Therefore, making sure this safe space is protected is crucial to ensure they can make new friends and share a common interest.
+Clubs can have young people in attendance from different schools, backgrounds, and ages. Therefore, it is crucial to make sure this safe space is protected to ensure young people can make new friends and share a common interest.
 
 ### Legislation
 
