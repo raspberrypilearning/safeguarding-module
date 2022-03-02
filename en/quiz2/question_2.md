@@ -3,7 +3,7 @@
 legend: Question 2 of 3
 ---
 
-Is it OK to use webcams during the online session?
+Is it OK to use webcams during an online session?
 
 --- choices ---
 
