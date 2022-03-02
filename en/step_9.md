@@ -1,4 +1,4 @@
-## What to do if…
+## What to do if…?
 
 If you have a concern about a young person, or if a young person discloses abuse to you, it is important to be prepared. Your club must have a reporting procedure (this may be linked to the venue you operate from).
 
@@ -8,7 +8,7 @@ In this section, there are tips, sample scenarios, and sample reporting procedur
 
 If you have any doubts, you can fill out our [online safeguarding form to get advice and support](https://form.raspberrypi.org/f/safeguarding-concern-form){:target='_blank'}.
 
-### What to do if a child discloses abuse to you
+### What to do if a child discloses abuse to you?
 
 1. React calmly: a serious reaction may alarm the young person and compound feelings of anxiety and guilt.
 1. Listen carefully and attentively, and take the young person seriously.
@@ -20,7 +20,7 @@ If you have any doubts, you can fill out our [online safeguarding form to get ad
 1. Check with the young person to ensure that what has been heard and understood by you is accurate.
 1. Do not express any opinions about the alleged abuse or abuser.
 
-### What to do after a child discloses abuse to you
+### What to do after a child discloses abuse to you?
 
 1. Record the conversation.
 1. Sign and date any written records.
@@ -32,7 +32,7 @@ If you have any doubts, you can fill out our [online safeguarding form to get ad
 
 **Remember**: If you are unsure about a disclosure or need support, you can get in touch with the Raspberry Pi Foundation at any time.
 
-### What to do if you notice signs of abuse
+### What to do if you notice signs of abuse?
 
 1. Record any signs in detail.
 1. Sign and date any written records.
