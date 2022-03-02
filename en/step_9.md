@@ -16,7 +16,7 @@ If you have any doubts, you can fill out our [online safeguarding form to get ad
 1. Do not make false promises (particularly regarding secrecy). 
 1. Explain that if what they are going to tell you is serious, then you will have to tell another person.
 1. Do not ask the young person to repeat the story unnecessarily.
-1. Ask questions only for the purpose of clarification and be supportive, but do not ask leading questions or seek intimate details beyond those volunteered by the child.
+1. Ask questions only for the purpose of clarification. Be supportive, but do not ask leading questions or seek intimate details beyond those volunteered by the child.
 1. Check with the young person to ensure that what has been heard and understood by you is accurate.
 1. Do not express any opinions about the alleged abuse or abuser.
 
