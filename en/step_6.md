@@ -6,12 +6,13 @@ A vast majority of young people take part in our clubs without encountering abus
 
 Child abuse is generally categorised as neglect, emotional abuse, physical abuse, and sexual abuse. Other aspects of these to be aware of include peer abuse, organised abuse, and online abuse.
 
-### Types of abuse: Neglect
+### Types of abuse: neglect
 
 Neglect can be defined in terms of an omission, where a child suffers significant harm or impairment of development by being deprived of food, clothing, warmth, hygiene, intellectual stimulation, supervision and safety, attachment to and affection from adults, and/or medical care.
 
 [Further resources and definition from the NSPCC (UK)](https://www.nspcc.org.uk/what-is-child-abuse/types-of-abuse/neglect/){:target='_blank'}
-### Types of abuse: Physical abuse
+
+### Types of abuse: physical abuse
 
 Physical abuse of a child is that which results in actual or potential physical harm from an interaction, or lack of interaction, which is reasonably within the control of a parent or person in a position of responsibility, power, or trust. There may be single or repeated incidents.  
 
@@ -24,7 +25,7 @@ Physical abuse can involve:
 
 [Further resources and definition from the NSPCC (UK)](https://www.nspcc.org.uk/what-is-child-abuse/types-of-abuse/physical-abuse/){:target='_blank'}
 
-### Types of abuse: Emotional abuse
+### Types of abuse: emotional abuse
 
 Emotional abuse is normally to be found in the relationship between a parent/caregiver and a child rather than in a specific event or pattern of events. It occurs when a child’s needs for affection, approval, consistency, and security are not met. It is rarely manifested in terms of physical symptoms.
 
@@ -37,18 +38,18 @@ For example:
 
 [Further resources and definition from the NSPCC (UK)](https://www.nspcc.org.uk/what-is-child-abuse/types-of-abuse/emotional-abuse/){:target='_blank'}
 
-### Types of abuse: Sexual abuse
+### Types of abuse: sexual abuse
 
 Sexual abuse occurs when a child is used by another person for his/her gratification or sexual arousal, or for that of others. This doesn't have to be physical contact and it can happen online.
 Sometimes the child won't understand that what's happening to them is abuse. They may not even understand that it's wrong.
 
 [Further resources and definition from the NSPCC (UK)](https://www.nspcc.org.uk/what-is-child-abuse/types-of-abuse/child-sexual-abuse/)
 
-### Types of abuse: Radicalisation
+### Types of abuse: radicalisation
 
 Children at risk of radicalisation may be victims of other forms of abuse, such as bullying or discrimnation, that make them easy targets for extremists.
 
-Radicalisation can be difficult to notice, as it is similar to some normal teenage behaviour, but here are some signs that a person or group might be attempting to radicalise a child or young person:
+Radicalisation can be difficult to notice, as it is similar to some normal teenage behaviours. Here are some signs that a person or group might be attempting to radicalise a child or young person:
 
 - Isolating themselves from family and friends
 - Talking as if from a scripted speech
