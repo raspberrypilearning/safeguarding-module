@@ -1,6 +1,6 @@
 ## Abuse and disclosures
 
-A vast majority of young people take part in our clubs without encountering abuse. However, it is important that volunteers are aware of what to do when they become aware of abuse either through observation or through a child telling you (disclosure) about abuse. As most Raspberry Pi Foundation clubs create an environment in which many young people feel particularly comfortable, disclosures are possible.
+A vast majority of young people take part in our clubs without encountering abuse. However, it is important that volunteers are aware of what to do when they become aware of abuse either through observation or through a child telling you about abuse (disclosure). As most Raspberry Pi Foundation clubs create an environment in which many young people feel particularly comfortable, disclosures are possible.
 
 ![Three young people standing.](images/7-Diverse-Mix.png){:target='_blank'}
 
