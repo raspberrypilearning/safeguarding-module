@@ -6,7 +6,7 @@ If you have a concern about a young person, or if a young person discloses abuse
 
 In this section, there are tips, sample scenarios, and sample reporting procedures for your club. We would recommend that you talk about these with your fellow volunteers.
 
-If you have any doubts, you can fill out our [online safeguarding form to get advice and support](https://form.raspberrypi.org/f/safeguarding-concern-form){:target='_blank'}
+If you have any doubts, you can fill out our [online safeguarding form to get advice and support](https://form.raspberrypi.org/f/safeguarding-concern-form){:target='_blank'}.
 
 ### What to do if a child discloses abuse to you
 
