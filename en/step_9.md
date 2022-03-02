@@ -1,6 +1,6 @@
 ## What to do if…
 
-If you have a concern about a young person, or if a young person discloses abuse to you, it is important to be prepared and as a club to have a reporting procedure. Your reporting procedure may be linked to the venue you operate from.
+If you have a concern about a young person, or if a young person discloses abuse to you, it is important to be prepared. Your club must have a reporting procedure (this may be linked to the venue you operate from).
 
 ![Three young people standing.](images/8-Diverse-Mix-2.png)
 
