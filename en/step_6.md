@@ -8,7 +8,7 @@ Child abuse is generally categorised as neglect, emotional abuse, physical abuse
 
 ### Types of abuse: Neglect
 
-Neglect can normally be defined in terms of an omission, where a child suffers significant harm or impairment of development by being deprived of food, clothing, warmth, hygiene, intellectual stimulation, supervision and safety, attachment to and affection from adults, and/or medical care.
+Neglect can be defined in terms of an omission, where a child suffers significant harm or impairment of development by being deprived of food, clothing, warmth, hygiene, intellectual stimulation, supervision and safety, attachment to and affection from adults, and/or medical care.
 
 [Further resources and definition from the NSPCC (UK)](https://www.nspcc.org.uk/what-is-child-abuse/types-of-abuse/neglect/){:target='_blank'}
 ### Types of abuse: Physical abuse
@@ -24,7 +24,7 @@ Physical abuse can involve:
 
 [Further resources and definition from the NSPCC (UK)](https://www.nspcc.org.uk/what-is-child-abuse/types-of-abuse/physical-abuse/){:target='_blank'}
 
-### Types of abuse: Emotional Abuse
+### Types of abuse: Emotional abuse
 
 Emotional abuse is normally to be found in the relationship between a parent/caregiver and a child rather than in a specific event or pattern of events. It occurs when a child’s needs for affection, approval, consistency, and security are not met. It is rarely manifested in terms of physical symptoms.
 
