@@ -6,7 +6,7 @@ Read through these guides and answer the following three questions in the next s
 
 ### Framework to help you assess how to run your club safely
 
-[### Framework to help you assess how to run your club safely](https://static.raspberrypi.org/files/clubs/Code_Club_and_CoderDojo_CV_Framework.pdf){:target='_blank'}
+### [Framework to help you assess how to run your club safely](https://static.raspberrypi.org/files/clubs/Code_Club_and_CoderDojo_CV_Framework.pdf){:target='_blank'}
 
 <embed src="https://static.raspberrypi.org/files/clubs/Code_Club_and_CoderDojo_CV_Framework.pdf" width="790" height="500" 
  type="application/pdf">
