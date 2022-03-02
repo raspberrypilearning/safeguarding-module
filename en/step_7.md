@@ -25,7 +25,7 @@ Read through these guides and answer the following three questions in the next s
 <embed src="https://static.raspberrypi.org/files/clubs/CoderDojo_Code_Club_Online_Code_of_Behaviour_A4_DIGITAL.pdf" width="790" height="1000" 
  type="application/pdf">
 
-We strongly recommend that you and your volunteers watch the video of our [community call about tools for running online sessions safely](https://www.gotostage.com/channel/d20e514831f340b3913659639068c724/recording/92bd90b755964f49b87bfd99f9624435/watch?source=CHANNEL){:target='_blank'}.
+We strongly recommend that you and your volunteers watch our [community call about tools for running online sessions safely](https://www.gotostage.com/channel/d20e514831f340b3913659639068c724/recording/92bd90b755964f49b87bfd99f9624435/watch?source=CHANNEL){:target='_blank'}.
 
 You can [download all of these resources here](https://rpf.io/p/en/safeguarding-module-go){:target='_blank'}.
 
