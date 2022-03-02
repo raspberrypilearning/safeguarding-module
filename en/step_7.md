@@ -4,23 +4,17 @@ You may wish to run online sessions for young people at your club who cannot mee
 
 Read through these guides and answer the following three questions in the next step.
 
-### Framework to help you assess how to run your club safely
-
 ### [Framework to help you assess how to run your club safely](https://static.raspberrypi.org/files/clubs/Code_Club_and_CoderDojo_CV_Framework.pdf){:target='_blank'}
 
 <embed src="https://static.raspberrypi.org/files/clubs/Code_Club_and_CoderDojo_CV_Framework.pdf" width="790" height="500" 
  type="application/pdf">
 
-### Adult guide to support young people attending online sessions
-
-[Adult guide to support young people attending online sessions](https://static.raspberrypi.org/files/clubs/Code_Club_and_CoderDojo_Parent_Guide_Supporting_Online_Coding_Session.pdf){:target='_blank'}
+### [Adult guide to support young people attending online sessions](https://static.raspberrypi.org/files/clubs/Code_Club_and_CoderDojo_Parent_Guide_Supporting_Online_Coding_Session.pdf){:target='_blank'}
 
 <embed src="https://static.raspberrypi.org/files/clubs/Code_Club_and_CoderDojo_Parent_Guide_Supporting_Online_Coding_Session.pdf" width="790" height="1000" 
  type="application/pdf">
 
-### Code of behaviour for young people attending online sessions
-
-[Code of behaviour for young people attending online sessions](https://static.raspberrypi.org/files/clubs/CoderDojo_Code_Club_Online_Code_of_Behaviour_A4_DIGITAL.pdf){:target='_blank'}
+### [Code of behaviour for young people attending online sessions](https://static.raspberrypi.org/files/clubs/CoderDojo_Code_Club_Online_Code_of_Behaviour_A4_DIGITAL.pdf){:target='_blank'}
 
 <embed src="https://static.raspberrypi.org/files/clubs/CoderDojo_Code_Club_Online_Code_of_Behaviour_A4_DIGITAL.pdf" width="790" height="1000" 
  type="application/pdf">
