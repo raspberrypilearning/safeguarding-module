@@ -3,7 +3,7 @@
 legend: Question 6 of 6
 ---
 
-Jane was bored. Is this:
+Ade was bored. Is this:
 
 --- choices ---
 - ( ) A fact or an observation?
