@@ -1,6 +1,6 @@
 ## How to record details of abuse
 
-When you record details of abuse for either your club organiser or external organisations, it is important to ensure you record facts and observations as opposed to an evaluations and opinions.
+When you record details of abuse for either your club organiser or external organisations, it is important to ensure you record facts and observations as opposed to evaluations and opinions.
 
 An observation is something you can see, smell, touch, or hear. An evaluation is what you think about what you saw, smelt, touched, or heard.
 
