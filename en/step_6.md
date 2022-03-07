@@ -4,7 +4,7 @@ A vast majority of young people take part in our clubs without encountering abus
 
 ![Three young people standing.](images/7-Diverse-Mix.png){:target='_blank'}
 
-Child abuse is generally categorised as neglect, emotional abuse, physical abuse, and sexual abuse. Other aspects of these to be aware of include peer abuse, organised abuse, and online abuse.
+Child abuse is generally categorised as neglect, physical abuse, emotional abuse, sexual abuse, and radicalisation. Other aspects of these to be aware of include peer abuse, organised abuse, and online abuse.
 
 ### Types of abuse: neglect
 
