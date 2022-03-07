@@ -12,7 +12,7 @@ This learning guide has been created to give all volunteers of the Raspberry Pi 
 
 Once completed, you will have:
 
-* A basic awareness of the key issues regarding child safeguarding in a coding club
+* A basic awareness of the key issues in relation to child safeguarding in a coding club
 * An understanding of how to implement international best practices in child safeguarding
 
 It will take about 20 minutes to complete this learning guide.
