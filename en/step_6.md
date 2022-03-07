@@ -27,7 +27,7 @@ Physical abuse can involve:
 
 ### Types of abuse: emotional abuse
 
-Emotional abuse is normally to be found in the relationship between a parent/caregiver and a child rather than in a specific event or pattern of events. It occurs when a child’s needs for affection, approval, consistency, and security are not met. It is rarely manifested in terms of physical symptoms.
+Emotional abuse is normally to be found in the relationship between a parent or caregiver and a child rather than in a specific event or pattern of events. It occurs when a child’s needs for affection, approval, consistency, and security are not met. It is rarely manifested in terms of physical symptoms.
 
 For example:
 
