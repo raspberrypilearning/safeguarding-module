@@ -20,7 +20,7 @@ Congratulations! You have successfully recruited a new volunteer for your club. 
 
 ### The right volunteer
 
-Think about three characteristics you look for in new volunteers and then click on the hint below to see some of ours.
+Think about three characteristics you look for in new volunteers and then click on the hint below to see some of our desirable characteristics.
 
 --- hints ---
 
@@ -38,7 +38,7 @@ Think about three characteristics you look for in new volunteers and then click 
 
 --- /hints ---
 
-Did your answers match some of ours?
+Did your answers match some of our desirable characteristics?
 
 Having volunteers with traits such as these is desirable to make your club a fun and safe space for all young people.
 
