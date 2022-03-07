@@ -1,6 +1,6 @@
 ## Abuse and disclosures
 
-A vast majority of young people take part in our clubs without encountering abuse. However, it is important that volunteers are aware of what to do when they become aware of abuse either through observation or through a child telling you about abuse (disclosure). As most Raspberry Pi Foundation clubs create an environment in which many young people feel particularly comfortable, disclosures are possible.
+A vast majority of young people take part in our clubs without encountering abuse. However, it is important that volunteers are aware of what to do when they become aware of abuse either through observation or through a child telling you about abuse (disclosure). Most Raspberry Pi Foundation clubs create an environment in which many young people feel particularly comfortable, which can help encourage disclosures at the club.
 
 ![Three young people standing.](images/7-Diverse-Mix.png){:target='_blank'}
 
@@ -51,7 +51,7 @@ Children at risk of radicalisation may be victims of other forms of abuse, such 
 
 Radicalisation can be difficult to notice, as it is similar to some normal teenage behaviours. Here are some signs that a person or group might be attempting to radicalise a child or young person:
 
-- Isolating themselves from family and friends
+- Isolation of themselves from family and friends
 - Talking as if from a scripted speech
 - Unwillingness or inability to discuss their views
 - A sudden disrespectful attitude towards others
@@ -63,5 +63,5 @@ Radicalisation can be difficult to notice, as it is similar to some normal teena
 --- save ---
 
 <p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">
-<span style="color: #0faeb0">**To save**</span> your progress in this module, you will need to be logged in with your Raspberry Pi Foundation account. Use the ‘Sign in’ link in the navigation to log in.
+<span style="color: #0faeb0">**To save**</span> your progress in this module, you will need to be logged in with your Raspberry Pi Foundation account. Use the ‘Sign in’ link in the navigation menu to log in.
 </p>
