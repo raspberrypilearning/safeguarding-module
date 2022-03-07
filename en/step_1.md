@@ -50,6 +50,6 @@ While it is paramount that you follow legislation in your region regarding child
 
 * Volunteer recruitment
 * Code of behaviour
-* Code of behaviour for children if a club is running online sessions
-* Guide for parents if a club is running online sessions
+* Code of behaviour for young people attending online sessions
+* Guide for adults to support young people attending online sessions
 * The reporting process when abuse is disclosed to a volunteer or when a volunteer notices signs of abuse
