@@ -6,7 +6,7 @@ Typically, it is the club organiser's responsibility to recruit and onboard new 
 
 It is important to recognise that not every volunteer who is interested in helping out at your club may be appropriate or a match.
 
-A recruitment process makes it easier to identify volunteers who are not a fit for the club.
+A recruitment process makes it easier to identify volunteers who are not a fit for the club. Here is an example of a recruitment process. 
 
 ### 1. Volunteer description
 
@@ -27,9 +27,9 @@ This can be an online form with a few short questions. You should ask for a refe
 
 Invite the person to the club so you can meet with them and they can learn more about the club environment. If your club is running activities online, then you can meet remotely. It should be a casual meeting, but it should give the current club volunteers and the potential volunteer the chance to make a decision about whether they want the potential volunteer to go ahead with volunteering. This will also allow current club volunteers and the potential volunteer to see if they can work together well in the club setting. If you are starting your club for the first time, you should set up an informal meeting with your potential volunteer before your first session.
 
-### 4. Background checking (dependent on region)
+### 4. Background checks (dependent on region)
 
-Background checking is useful for voluntary coding clubs; in some regions a background check is mandatory to work with young people. We understand that in some regions it is more difficult to access background checking or that it may be expensive, so that is why reference checks and utilising the rest of the volunteer recruitment process is important.
+Background checks are useful for voluntary coding clubs; in some regions a background check is mandatory to work with young people. We understand that in some regions it is more difficult to access background checking or that it may be expensive, so that is why reference checks and utilising the rest of the volunteer recruitment process is important.
 
 ### 5. Referees (optional)
 
@@ -42,5 +42,5 @@ If you have your own application form, you could use this as a space to ask for 
 --- save ---
 
 <p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">
-<span style="color: #0faeb0">**To save**</span> your progress in this module, you will need to be logged in with your Raspberry Pi Foundation account. Use the ‘Sign in’ link in the navigation to log in.
+<span style="color: #0faeb0">**To save**</span> your progress in this module, you will need to be logged in with your Raspberry Pi Foundation account. Use the ‘Sign in’ link in the navigation menu to log in.
 </p>
