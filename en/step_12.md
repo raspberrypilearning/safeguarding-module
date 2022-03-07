@@ -47,7 +47,7 @@ In this scenario, there is an immediate concern about the welfare of a young per
 --- hints ---
 --- hint ---
 
-It’s important to take a record of what Robert has posted, in case this happens again. He may not know the significance of what he has posted, so it’s important that you let his parents or guardians know what happened and provide them with the parents guide. 
+It’s important to make a record of what Robert has posted, in case this happens again. He may not know the significance of what he has posted, so it’s important that you let his parents or guardians know what happened and provide them with the parents guide. 
 Other children attending the online session may have seen the messages and been affected by them, so it’s important that you contact their parents or guardians as well and let them know what happened and how you intend to follow up.
 
 --- /hint ---
@@ -59,7 +59,7 @@ Other children attending the online session may have seen the messages and been 
 --- hints ---
 --- hint ---
 
-One-to-one messaging is not encouraged for any volunteers on social media or on other platforms (including email). There are some situations that you may want to respond to the young person: if it is a long time until the next session or there is a deadline for the project to be entered in a competition and you do not want to disappoint the young person. If you do respond, you should encourage that they email you and ‘cc’ their parent or guardian (or the club organiser or teacher) into the conversation in future or regarding this query. 
+One-to-one messaging with young people is not encouraged for any volunteers, either on social media or through other mediums (including email). There are some situations that you may want to respond to the young person: if it is a long time until the next session or there is a deadline for the project to be entered in a competition and you do not want to disappoint the young person. If you do respond, you should encourage that they email you and ‘cc’ their parent or guardian (or the club organiser or teacher) into the conversation in future or regarding this query. 
 
 --- /hint ---
 --- /hints ---
