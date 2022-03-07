@@ -11,7 +11,7 @@ You can now test your knowledge with some scenarios. In each scenario, we want y
 --- hints ---
 --- hint ---
 
-In this scenario, you should ensure you check in on the young person before you make any assumptions. Kim’s parents or guardians should be informed of the game by the most appropriate person, which may be you, but could be another volunteer or teacher from the club. It may also be relevant to tell the young person's parents or guardians about local support in the area if the volunteer knows what these are; often the general practitioner or local doctor is the best place to initially point a parent or guardian to in this scenario. Most importantly, you should talk to your club organiser, or teacher if in a school setting, and ensure that someone from the club checks in with Kim in future sessions.
+In this scenario, you should ensure you check on the young person before you make any assumptions. Kim’s parents or guardians should be informed of the game by the most appropriate person, which may be you, but could be another volunteer or teacher from the club. It may also be relevant to tell the young person's parents or guardians about local support in the area if the volunteer knows what these are; often the general practitioner or local doctor is the best place to initially point a parent or guardian to in this scenario. Most importantly, you should talk to your club organiser, or teacher if in a school setting, and ensure that someone from the club checks in with Kim in future sessions.
 
 --- /hint ---
 --- /hints ---
