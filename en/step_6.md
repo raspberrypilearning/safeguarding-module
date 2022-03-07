@@ -51,12 +51,12 @@ Children at risk of radicalisation may be victims of other forms of abuse, such 
 
 Radicalisation can be difficult to notice, as it is similar to some normal teenage behaviours. Here are some signs that a person or group might be attempting to radicalise a child or young person:
 
-- Isolation of themselves from family and friends
-- Talking as if from a scripted speech
-- Unwillingness or inability to discuss their views
-- A sudden disrespectful attitude towards others
-- Increased levels of anger
-- Increased secretiveness, especially around internet use
+- The child or young person isolates themselves from family and friends
+- The child or young person talks as if from a scripted speech
+- The child or young person is unwilling or unable to discuss their views
+- The child or young person shows a suddenly disrespectful attitude towards others
+- The child or young person has increased levels of anger
+- The child or young person is increasingly secretive, especially around internet use
 
 [Further resources and definition from the NSPCC (UK)](https://www.nspcc.org.uk/keeping-children-safe/reporting-abuse/dedicated-helplines/protecting-children-from-radicalisation/)
 
