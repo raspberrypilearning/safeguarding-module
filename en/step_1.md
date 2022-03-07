@@ -46,7 +46,7 @@ Each club is responsible for ensuring that they abide with the safeguarding legi
 
 ### Best practices
 
-While it is paramount that you follow legislation in your region regarding child safeguarding, all clubs should try to have best practices in place, even where they are not required by legislation. Some of the best practices your club can adopt that are going to be covered in this module include:
+While it is paramount that you follow legislation in your region regarding child safeguarding, all clubs should try to have best practices in place, even where they are not required by legislation. Some of the best practices your club can adopt that will be covered in this module include:
 
 * Volunteer recruitment
 * Code of behaviour
