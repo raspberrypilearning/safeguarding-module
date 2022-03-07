@@ -23,7 +23,7 @@ There are many ways to ensure your club is a safe space for young people to lear
 
 Below are some of the topics that will be covered:
 
-* Background checking
+* Background checks
 * Legislation
 * How to recruit volunteers
 * Code of behaviour
@@ -50,6 +50,6 @@ While it is paramount that you follow legislation in your region regarding child
 
 * Volunteer recruitment
 * Code of behaviour
-* Code of behaviour for children (if a club is running online sessions)
-* Guide for parents (if a club is running online sessions)
+* Code of behaviour for children if a club is running online sessions
+* Guide for parents if a club is running online sessions
 * The reporting process when abuse is disclosed to a volunteer or when a volunteer notices signs of abuse
