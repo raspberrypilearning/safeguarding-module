@@ -59,7 +59,7 @@ Other young people attending the online session may have seen the messages and b
 --- hints ---
 --- hint ---
 
-One-to-one messaging with young people is not encouraged for any volunteers, either on social media or through other mediums (including email). There are some situations that you may want to respond to the young person: if it is a long time until the next session or there is a deadline for the project to be entered in a competition and you do not want to disappoint the young person. If you do respond, you should encourage that they email you and ‘cc’ their parent or guardian (or the club organiser or teacher) into the conversation in future or regarding this query. 
+One-to-one messaging with young people is not encouraged for any volunteers, either on social media or through other mediums (including email). There are some situations that you may want to respond to the young person: if it is a long time until the next session or there is a deadline for the project to be entered in a competition and you do not want to disappoint the young person. If you do respond, you should encourage that they email you and cc their parent or guardian (or the club organiser or teacher) into the conversation in future or regarding this query. 
 
 --- /hint ---
 --- /hints ---
