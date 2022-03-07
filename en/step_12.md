@@ -6,7 +6,7 @@ You can now test your knowledge with some scenarios. In each scenario, we want y
 
 ### Kim
 
-**You notice one of the young people at the club, Kim, who is 12 years old, is making a game which focuses on sadness, isolation, and there are some references to suicide. The lead character in the game is also called Kim.**
+**You notice one of the young people at the club, Kim, who is 12 years old, is making a game which focuses on sadness and isolation, and there are some references to suicide. The lead character in the game is also called Kim.**
 
 --- hints ---
 --- hint ---
@@ -35,7 +35,7 @@ The main learning from this scenario is to not overreact or make assumptions, as
 --- hints ---
 --- hint ---
 
-In this scenario, there is an immediate concern about the welfare of a child and you have no way of knowing whether the child is safe. The first thing you need to do is to call the police, who will investigate the incident. The second thing you need to do is call our 24-hour safeguarding number to report what has happened.
+In this scenario, there is an immediate concern about the welfare of a young person and you have no way of knowing whether the young person is safe. The first thing you need to do is to call the police, who will investigate the incident. The second thing you need to do is call our 24-hour safeguarding number to report what has happened.
 
 --- /hint ---
 --- /hints ---
