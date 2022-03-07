@@ -1,6 +1,6 @@
 ## Induction of new volunteers
 
-When first meeting a volunteer there will be some induction requirements and some characteristics that are desirable to help create a positive environment! While a volunteer may not have all these traits, they should definitely have at least one.
+When you first meet a volunteer, there will be some induction requirements. This includes recognising the desirable characteristics for volunteers; while a volunteer may not have all these traits, they should definitely have at least one.
 
 ![An adult volunteer.](images/10-Adult.png){:width="400px"}.
 ### 1. Training identification  
@@ -45,5 +45,5 @@ Having volunteers with traits such as these is desirable to make your club a fun
 --- save ---
 
 <p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">
-<span style="color: #0faeb0">**To save**</span> your progress in this module, you will need to be logged in with your Raspberry Pi Foundation account. Use the ‘Sign in’ link in the navigation to log in.
+<span style="color: #0faeb0">**To save**</span> your progress in this module, you will need to be logged in with your Raspberry Pi Foundation account. Use the ‘Sign in’ link in the navigation menu to log in.
 </p>
