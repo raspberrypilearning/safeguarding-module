@@ -40,7 +40,7 @@ Think about three characteristics you look for in new volunteers and then click 
 
 Did your answers match some of our desirable characteristics?
 
-Having volunteers with traits such as these is desirable to make your club a fun and safe space for all young people.
+Having volunteers with these traits is desirable to make your club a fun and safe space for all young people.
 
 --- save ---
 
