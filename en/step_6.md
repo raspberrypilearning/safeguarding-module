@@ -27,7 +27,7 @@ Physical abuse can involve:
 
 ### Types of abuse: emotional abuse
 
-Emotional abuse is normally to be found in the relationship between a parent or caregiver and a child rather than in a specific event or pattern of events. It occurs when a child’s needs for affection, approval, consistency, and security are not met. It is rarely manifested in terms of physical symptoms.
+Emotional abuse is normally to be found in the relationship between a parent, guardian, or caregiver and a child rather than in a specific event or pattern of events. It occurs when a child’s needs for affection, approval, consistency, and security are not met. It is rarely manifested in terms of physical symptoms.
 
 For example:
 
@@ -40,7 +40,7 @@ For example:
 
 ### Types of abuse: sexual abuse
 
-Sexual abuse occurs when a child is used by another person for his/her gratification or sexual arousal, or for that of others. This doesn't have to be physical contact and it can happen online.
+Sexual abuse occurs when a child is used by another person for their gratification or sexual arousal, or for that of others. This doesn't have to be physical contact and it can happen online.
 Sometimes the child won't understand that what's happening to them is abuse. They may not even understand that it's wrong.
 
 [Further resources and definition from the NSPCC (UK)](https://www.nspcc.org.uk/what-is-child-abuse/types-of-abuse/child-sexual-abuse/)
@@ -49,14 +49,14 @@ Sometimes the child won't understand that what's happening to them is abuse. The
 
 Children at risk of radicalisation may be victims of other forms of abuse, such as bullying or discrimnation, that make them easy targets for extremists.
 
-Radicalisation can be difficult to notice, as it is similar to some normal teenage behaviours. Here are some signs that a person or group might be attempting to radicalise a child or young person:
+Radicalisation can be difficult to notice, as it is similar to some normal teenage behaviours. Here are some signs that a person or group might be attempting to radicalise a child:
 
-- The child or young person isolates themselves from family and friends
-- The child or young person talks as if from a scripted speech
-- The child or young person is unwilling or unable to discuss their views
-- The child or young person shows a suddenly disrespectful attitude towards others
-- The child or young person has increased levels of anger
-- The child or young person is increasingly secretive, especially around internet use
+- The child isolates themselves from family and friends
+- The child talks as if from a scripted speech
+- The child is unwilling or unable to discuss their views
+- The child shows a suddenly disrespectful attitude towards others
+- The child has increased levels of anger
+- The child is increasingly secretive, especially around internet use
 
 [Further resources and definition from the NSPCC (UK)](https://www.nspcc.org.uk/keeping-children-safe/reporting-abuse/dedicated-helplines/protecting-children-from-radicalisation/)
 
