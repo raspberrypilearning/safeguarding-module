@@ -16,7 +16,7 @@ If there are any concerns during the recruitment process of the volunteer, you m
 
 ### 3. First club buddy  
 
-Congratulations! You have successfully recruited a new volunteer for your club. For their first session, remember they will need some help learning the ropes and getting to know the children. If you have several volunteers at your club, try to pair them up with an experienced volunteer. We wouldn’t advise making new volunteers run a session on their first club visit as it may be intimidating to a new joiner. It's a good idea to put volunteers into pairs so they can plan and run the session together and learn from each other.
+Congratulations! You have successfully recruited a new volunteer for your club. For their first session, remember they will need some help to get started and to get to know the children. If you have several volunteers at your club, try to pair them up with an experienced volunteer. We wouldn’t advise making new volunteers run a session on their first club visit as it may be intimidating to a new joiner. It's a good idea to put volunteers into pairs so they can plan and run the session together and learn from each other.
 
 ### The right volunteer
 
