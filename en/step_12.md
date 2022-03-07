@@ -48,7 +48,7 @@ In this scenario, there is an immediate concern about the welfare of a young per
 --- hint ---
 
 It’s important to make a record of what Robert has posted, in case this happens again. He may not know the significance of what he has posted, so it’s important that you let his parents or guardians know what happened and provide them with the parents guide. 
-Other children attending the online session may have seen the messages and been affected by them, so it’s important that you contact their parents or guardians as well and let them know what happened and how you intend to follow up.
+Other young people attending the online session may have seen the messages and been affected by them, so it’s important that you contact their parents or guardians as well and let them know what happened and how you intend to follow up.
 
 --- /hint ---
 --- /hints ---
