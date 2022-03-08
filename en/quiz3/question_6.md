@@ -3,12 +3,12 @@
 legend: Question 6 of 6
 ---
 
-Jane was bored. Is this:
+Ade was bored. Is this:
 
 --- choices ---
-- ( ) Fact / Observation
+- ( ) A fact or an observation?
 
-- (x) Opinion / Evaluation
+- (x) An opinion or evaluation?
 --- /choices ---
 
 --- /question ---

@@ -7,19 +7,19 @@ Every person at the club must be aware of the code of behaviour and follow these
 <br>
 ### Breaking the code of behaviour
 
-If a volunteer in your club behaves inappropriately and/or breaks the code of behaviour, action will have to be taken by the club organiser, or in the case of the club organiser breaking code of behaviour, by another volunteer.
+If a volunteer in your club behaves inappropriately and/or breaks the code of behaviour, action will have to be taken by the club organiser. If the club organiser breaks the code of behaviour, action will have to be taken by another volunteer.
 
-Actions you can take:
+Actions to take:
 
 * A verbal warning
-* A formal written warning, to which any further indiscretions will lead to suspension from the club or to ending their role as a volunteer of the club.
-* Suspension of the Volunteer from the club
-* Banning the Volunteer from participating in further activities in the club
+* A formal written warning, to which any further indiscretions will lead to suspension from the club or to ending their role as a volunteer of the club
+* Suspension of the volunteer from the club
+* Banning the volunteer from participating in further activities in the club
 
-If you or your club is unsure of the action to take please ask for support from the <a href="mailto:safeguarding@raspberrypi.org">Raspberry Pi Foundation</a>
+If you or your club is unsure of the action to take please, ask for support from the <a href="mailto:safeguarding@raspberrypi.org">Raspberry Pi Foundation</a>.
 
 --- save ---
 
 <p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">
-<span style="color: #0faeb0">**To save**</span> your progress in this module, you will need to be logged in with your Raspberry Pi Foundation account. Use the ‘Sign in’ link in the navigation to log in.
+<span style="color: #0faeb0">**To save**</span> your progress in this module, you will need to be logged in with your Raspberry Pi Foundation account. Use the ‘Sign in’ link in the navigation menu to log in.
 </p>

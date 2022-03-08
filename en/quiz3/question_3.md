@@ -6,9 +6,9 @@ legend: Question 3 of 6
 Mary was embarrassed. Is this:
 
 --- choices ---
-- ( ) Fact / Observation
+- ( ) A fact or an observation?
 
-- (x) Opinion / Evaluation
+- (x) An opinion or evaluation?
 --- /choices ---
 
 --- /question ---

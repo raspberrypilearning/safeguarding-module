@@ -6,9 +6,9 @@ legend: Question 1 of 6
 Rita made no eye contact. Is this:
 
 --- choices ---
-- (x) Fact / Observation
+- (x) A fact or an observation?
 
-- ( ) Opinion / Evaluation
+- ( ) An opinion or evaluation?
 --- /choices ---
 
 --- /question ---

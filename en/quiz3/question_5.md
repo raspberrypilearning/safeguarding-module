@@ -6,9 +6,9 @@ legend: Question 5 of 6
 Jane looked at her watch twice. Is this:
 
 --- choices ---
-- (x) Fact / Observation
+- (x) A fact or an observation?
 
-- ( ) Opinion / Evaluation
+- ( ) An opinion or evaluation?
 --- /choices ---
 
 --- /question ---

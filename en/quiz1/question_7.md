@@ -3,7 +3,7 @@
 legend: Question 7 of 9
 ---
 
-Is involving young people in decision making where appropriate an example of 'Good practice' or 'Poor practice'?
+Is it good practice or poor practice to take into account young people's views in the decision-making process at your club?
 
 --- choices ---
 - (x) Good practice

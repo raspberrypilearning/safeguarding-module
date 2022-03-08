@@ -3,7 +3,7 @@
 legend: Question 5 of 9
 ---
 
-Is practicing favouritism with certain learners an example of 'Good practice' or 'Poor practice'?
+Is it good practice or poor practice to carry out favouritism with certain young people?
 
 --- choices ---
 - ( ) Good practice
