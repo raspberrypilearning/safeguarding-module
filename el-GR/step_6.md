@@ -62,5 +62,5 @@ Radicalisation can be difficult to notice, as it is similar to some normal teena
 --- save ---
 
 <p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">
-<span style="color: #0faeb0">**To save**</span> your progress in this module, you will need to be logged in with your Raspberry Pi Foundation account. Use the ‘Sign in’ link in the navigation menu to log in.
+<span style="color: #0faeb0">**To save**</span> your progress in this module, you will need to be logged in with your Raspberry Pi Foundation account. Use the ‘Log in’ link in the navigation menu to log in.
 </p>
