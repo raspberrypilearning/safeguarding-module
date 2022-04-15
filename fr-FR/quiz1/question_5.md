@@ -1,13 +1,13 @@
 --- question ---
 ---
-legend: Question 5 of 9
+legend: Question 5 sur 9
 ---
 
-Is it good practice or poor practice to carry out favouritism with certain young people?
+Est-ce une bonne ou une mauvaise pratique de faire du favoritisme avec certains jeunes ?
 
 --- choices ---
-- ( ) Good practice
+- ( ) Bonne pratique
 
-- (x) Poor practice --- /choices ---
+- (x) Mauvaise pratique --- /choices ---
 
 --- /question ---
