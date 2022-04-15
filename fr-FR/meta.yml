@@ -1,7 +1,7 @@
 ---
-title: Safeguarding module
+title: Module de protection
 hero_image: images/banner.png
-description: Safeguarding module
+description: Module de protection
 version: 0.1
 listed: false
 copyedit: false
@@ -9,37 +9,37 @@ volunteers: true
 last_tested: 2022-01-05
 steps:
   - 
-    title: What is child safeguarding?
+    title: Qu'est-ce que la protection de l'enfance ?
   - 
-    title: Recruitment process
+    title: Processus de recrutement
   - 
-    title: Induction of new volunteers
+    title: Accueil des nouveaux bénévoles
   - 
-    title: Code of behaviour
+    title: Code de conduite
   - 
-    title: Code of behaviour quiz
+    title: Quiz sur le code de conduite
     knowledge_quiz:
       path: quiz1
       version: 1
       questions: 9
       passing_score: 9
   - 
-    title: "Abuse and disclosures"
+    title: "Abus et divulgations"
   - 
-    title: How to run safe online sessions
+    title: Comment organiser des sessions en ligne en toute sécurité
   - 
-    title: Online sessions quiz
+    title: Quiz sur les sessions en ligne
     knowledge_quiz:
       path: quiz2
       version: 1
       questions: 3
       passing_score: 3
   - 
-    title: "What to do if…"
+    title: "Que faire si…"
   - 
-    title: How to record details of abuse
+    title: Comment enregistrer les détails de l'abus
   - 
-    title: Observations and evaluations quiz
+    title: Quiz d'observations et d'évaluations
     knowledge_quiz:
       path: quiz3
       version: 1
@@ -47,4 +47,4 @@ steps:
       passing_score: 6
     completion: external
   - 
-    title: "That’s almost it!"
+    title: "C'est quasiment terminé !"
