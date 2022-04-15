@@ -1,13 +1,13 @@
 --- question ---
 ---
-legend: Question 5 of 6
+legend: Question 5 sur 6
 ---
 
-Jane looked at her watch twice. Is this:
+Jane a regardé sa montre deux fois. Es-ce :
 
 --- choices ---
-- (x) A fact or an observation?
+- (x) Un fait ou une observation ?
 
-- ( ) An opinion or evaluation? --- /choices ---
+- ( ) Un avis ou une évaluation ? --- /choices ---
 
 --- /question ---
