@@ -1,13 +1,13 @@
 --- question ---
 ---
-legend: Question 8 of 9
+legend: Question 8 sur 9
 ---
 
-Is physical or emotional punishment an example of good practice or poor practice?
+Les punitions physiques ou émotionnelles sont-elles un exemple de bonne ou de mauvaise pratique ?
 
 --- choices ---
-- ( ) Good practice
+- ( ) Bonne pratique
 
-- (x) Poor practice --- /choices ---
+- (x) Mauvaise pratique --- /choices ---
 
 --- /question ---
