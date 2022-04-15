@@ -1,13 +1,13 @@
 --- question ---
 ---
-legend: Question 6 of 6
+legend: Question 6 sur 6
 ---
 
-Ade was bored. Is this:
+Ade s'ennuyait. Es-ce :
 
 --- choices ---
-- ( ) A fact or an observation?
+- ( ) Un fait ou une observation ?
 
-- (x) An opinion or evaluation? --- /choices ---
+- (x) Un avis ou une évaluation ? --- /choices ---
 
 --- /question ---
