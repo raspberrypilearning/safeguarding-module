@@ -1,1 +1,1 @@
-## Code of behaviour quiz
+## Quiz sur le code de conduite
