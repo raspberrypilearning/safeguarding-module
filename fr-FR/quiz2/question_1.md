@@ -1,16 +1,16 @@
 --- question ---
 ---
-legend: Question 1 of 3
+legend: Question 1 sur 3
 ---
 
-How many adults should be present during an online session?
+Combien d'adultes doivent être présents lors d'une session en ligne ?
 
 --- choices ---
 
-- ( ) None
-- ( ) One
-- (x) At least two
-- ( ) At least three
+- ( ) Aucun
+- ( ) Un
+- (x) Au moins deux
+- ( ) Au moins trois
 
 --- /choices ---
 
