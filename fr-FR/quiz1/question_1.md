@@ -1,13 +1,13 @@
 --- question ---
 ---
-legend: Question 1 of 9
+legend: Question 1 sur 9
 ---
 
-Is it good practice or poor practice to be inclusive of all young people regardless of gender, age, religion, nationality, ethnicity, or creed?
+Est-ce une bonne ou une mauvaise pratique d'inclure tous les jeunes sans distinction de sexe, d'âge, de religion, de nationalité, d'ethnie ou de croyance ?
 
 --- choices ---
-- (x) Good practice
+- (x) Bonne pratique
 
-- ( ) Poor practice --- /choices ---
+- ( ) Mauvaise pratique --- /choices ---
 
 --- /question ---
