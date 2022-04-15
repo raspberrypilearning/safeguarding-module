@@ -1,15 +1,15 @@
 --- question ---
 ---
-legend: Question 2 of 3
+legend: Question 2 sur 3
 ---
 
-Is it OK to use webcams during an online session?
+Est-il possible d'utiliser des webcams pendant une session en ligne ?
 
 --- choices ---
 
-- ( ) No
-- ( ) Yes
-- (x) Yes, but make sure everyone knows they are prohibited from recording or taking screenshots of the session
+- ( ) Non
+- ( ) Oui
+- (x) Oui, mais assurez-vous que chacun sait qu'il lui est interdit d'enregistrer ou de faire des captures d'écran de la session
 
 --- /choices ---
 
