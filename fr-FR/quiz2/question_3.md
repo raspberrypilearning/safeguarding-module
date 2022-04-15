@@ -1,14 +1,14 @@
 --- question ---
 ---
-legend: Question 3 of 3
+legend: Question 3 sur 3
 ---
 
-Do you need to make sure that every young person has a parent's or guardian's consent before they attend an online session?
+Devez-vous vous assurer que chaque jeune a le consentement d'un parent ou d'un tuteur avant de participer à une session en ligne ?
 
 --- choices ---
 
-- ( ) No
-- (x) Yes
+- ( ) Non
+- (x) Oui
 
 --- /choices ---
 
