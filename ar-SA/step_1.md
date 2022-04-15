@@ -1,40 +1,40 @@
 ## ما هي حماية الطفل؟
 
-Safeguarding is the actions taken to promote the welfare of children and protect them from harm.
+الحماية هي الإجراءات المتّخَذى لتعزيز رفاهية الأطفال وحمايتهم من الأذى.
 
 <p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">
-Ensure you're <span style="color: #0faeb0">logged into your Raspberry Pi Foundation account</span> to save your progress, otherwise your completion will not be recorded. Use the <a href="https://my.raspberrypi.org/login">'Log in'</a> link in the navigation menu to log in.
+تأكّد من أنّك <span style="color: #0faeb0">سجّلت دخولك إلى حساب مؤسّسة Raspberry Pi</span> لحفظ تقدّمك، وإلّا فلن يُسجَّل إتمامك. استخدم رابط <a href="https://my.raspberrypi.org/login">"تسجيل الدخول"</a> في قائمة التنقّل لتسجيل الدخول.
 </p>
 
 ![Three young people standing.](images/3-RPF-Kids.png)
 
-This learning guide has been created to give all volunteers of the Raspberry Pi Foundation and their programmes (Code Club, CoderDojo, Raspberry Jams, and Astro Pi) the opportunity to learn about best practices in child safeguarding.
+أُنشِئَ دليل التعلّم هذا لمنح الفرصة لجميع المتطوّعين في مؤسّسة Raspberry Pi وبرامجهم (Code Club وCoderDojo وRaspberry Jams وAstro Pi)، للتعرّف على أفضل الممارسات في حماية الطفل.
 
-Once completed, you will have:
+بمجرّد إتمامه، ستحصل على:
 
-* A basic awareness of the key issues in relation to child safeguarding in a coding club
-* An understanding of how to implement international best practices in child safeguarding
+* الوعي الأساسي بالقضايا الرئيسة المتعلّقة بحماية الطفل في نوادي Code Club
+* فهم كيفيّة تنفيذ أفضل الممارسات الدوليّة في حماية الطفل
 
-It will take about 20 minutes to complete this learning guide.
+سيستغرق إكمال دليل التعلّم هذا حوالي 20 دقيقة.
 
-### What topics will be covered?
+### ما الموضوعات الّتي ستتمّ تغطيتها؟
 
-There are many ways to ensure your club is a safe space for young people to learn and engage with technology.
+هناك العديد من الطرق للتأكد من أن ناديك هو مكان آمن للشباب للتعلم والتعامل مع التكنولوجيا.
 
-Below are some of the topics that will be covered:
+أدناه، بعض الموضوعات الّتي ستتمّ تغطيتها:
 
-* Background checks
-* Legislation
-* How to recruit volunteers
-* Code of behaviour
-* Types of abuse
-* How to implement processes for reporting abuse
-* Example scenarios in a coding club
-* How to run safe online sessions
+* فحص الخلفية
+* التشريعات
+* كيفيّة توظيف المتطوّعين
+* قواعد السلوك
+* أنواع الإساءة
+* كيفية تنفيذ عمليات الإبلاغ عن الإساءة
+* أمثلة عن سيناريوهات في Code Club
+* كيفية إجراء جلسات آمنة عبر الإنترنت
 
-### Why is child safeguarding important?
+### لماذا تعدّ حماية الطفل مهمّة؟
 
-All programmes run and supported by the Raspberry Pi Foundation should always be a safe space for everyone. By maintaining a safe environment, you are allowing young people to thrive and learn to code completely carefree.
+يجب أن تكون جميع البرامج الّتي تديرها وتدعمها مؤسّسة Raspberry Pi آمنة للجميع. By maintaining a safe environment, you are allowing young people to thrive and learn to code completely carefree.
 
 Clubs can have young people in attendance from different schools, backgrounds, and ages. Therefore, it is crucial to make sure this safe space is protected to ensure young people can make new friends and share a common interest.
 
