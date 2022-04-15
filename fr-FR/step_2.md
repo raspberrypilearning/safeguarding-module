@@ -1,46 +1,46 @@
-## Recruitment process
+## Processus de recrutement
 
-Typically, it is the club organiser's responsibility to recruit and onboard new volunteers. From time to time, volunteers may be involved in this process to help the club organiser, in particular to help guide the new volunteer in their first session.
+En général, c'est à l'organisateur du club qu'il incombe de recruter et d'intégrer les nouveaux bénévoles. De temps en temps, des bénévoles peuvent être impliqués dans ce processus pour aider l'organisateur du club, en particulier pour aider à guider le nouveau bénévole lors de sa première session.
 
-![Three volunteers standing.](images/2-RPF-Volunteers.png)
+![Trois bénévoles debout.](images/2-RPF-Volunteers.png)
 
-It is important to recognise that not every volunteer who is interested in helping out at your club may be appropriate or a match.
+Il est important de reconnaître que tous les bénévoles qui souhaitent apporter leur aide à votre club ne sont pas forcément appropriés ou compatibles.
 
-A recruitment process makes it easier to identify volunteers who are not a fit for the club. Here is an example of a recruitment process.
+Un processus de recrutement permet d'identifier plus facilement les bénévoles qui ne conviennent pas au club. Voici un exemple de processus de recrutement.
 
-### 1. Volunteer description
+### 1. Description du bénévole
 
 
-This is a short description to tell potential volunteers what the role involves and to give a broad overview of your club. This could be a brief description on your website or a club profile of a volunteer's role. It should include:
+Il s'agit d'une brève description destinée à informer les bénévoles potentiels de ce que le rôle implique et à donner un aperçu général de votre club. Il peut s'agir d'une brève description sur votre site web ou d'un profil de club sur le rôle d'un bénévole. Elle doit inclure :
 
-* What happens in a typical session?
-* How often does your club run and for how long?
-* How much time do you require from your volunteers?
+* Que se passe-t-il lors d'une session typique ?
+* À quelle fréquence et pendant combien de temps votre club fonctionne-t-il ?
+* Combien de temps demandez-vous à vos bénévoles ?
 
-### 2. Application form
+### 2. Formulaire de candidature
 
-This can be an online form with a few short questions. You should ask for a referee if possible and any relevant skills that may be useful in your club. Information from the application form, such as contact information, will be useful should this potential volunteer join the club.
+Il peut s'agir d'un formulaire en ligne comportant quelques questions brèves. Vous devez demander une personne de référence si possible et toute compétence pertinente qui pourrait être utile dans votre club. Les informations contenues dans le formulaire de candidature, telles que les coordonnées, seront utiles si ce bénévole potentiel rejoint le club.
 
-**Note**: If you are in a Code Club or CoderDojo, instead of an application form you should encourage potential volunteers to register through our websites ([codeclub.org](https://codeclub.org){:target='_blank'} and [coderdojo.com](https://coderdojo.com){:target='_blank'}).
+**Remarque** : Si vous faites partie d'un Code Club ou d'un CoderDojo, au lieu d'un formulaire de candidature, vous devez encourager les bénévoles potentiels à s'inscrire sur nos sites web ([codeclub.org](https://codeclub.org){:target='_blank'} et [coderdojo.com](https://coderdojo.com){:target='_blank'}).
 
-### 3. Informal meeting or interview
+### 3. Réunion ou entretien informel
 
-Invite the person to the club so you can meet with them and they can learn more about the club environment. If your club is running activities online, then you can meet remotely. It should be a casual meeting, but it should give the current club volunteers and the potential volunteer the chance to make a decision about whether they want the potential volunteer to go ahead with volunteering. This will also allow current club volunteers and the potential volunteer to see if they can work together well in the club setting. If you are starting your club for the first time, you should set up an informal meeting with your potential volunteer before your first session.
+Invitez la personne au club afin que vous puissiez la rencontrer et qu'elle puisse en apprendre davantage sur l'environnement du club. Si votre club organise des activités en ligne, vous pouvez vous réunir à distance. Il devrait s'agir d'une réunion informelle, mais elle devrait donner aux bénévoles actuels du club et au bénévole potentiel l'occasion de décider s'ils veulent que le bénévole potentiel continue de faire du bénévolat. Cela permettra également aux bénévoles actuels du club et au bénévole potentiel de voir s'ils peuvent bien travailler ensemble dans le cadre du club. Si vous créez votre club pour la première fois, vous devez organiser une réunion informelle avec votre bénévole potentiel avant la première session.
 
-### 4. Background checks (dependent on region)
+### 4. Vérification des antécédents (selon la région)
 
-Background checks are useful for voluntary coding clubs; in some regions a background check is mandatory to work with young people. We understand that in some regions it is more difficult to access background checks or that it may be expensive, so that is why reference checks and utilising the rest of the volunteer recruitment process is important.
+La vérification des antécédents est utile pour les clubs de codage bénévoles ; dans certaines régions, une vérification des antécédents est obligatoire pour travailler avec des jeunes. Nous comprenons que dans certaines régions, il est plus difficile d'accéder à la vérification des antécédents ou que cela peut être coûteux, c'est pourquoi la vérification des références et l'utilisation du reste du processus de recrutement des bénévoles sont importantes.
 
-### 5. Referees (optional)
+### 5. Personnes de référence (facultatif)
 
-It can be really useful to ask for referees and to check those references to determine if a volunteer is suitable to work with young people and/or vulnerable adults.
+Il peut être très utile de demander des personnes de référence et de les vérifier pour déterminer si un bénévole est apte à travailler avec des jeunes et/ou des adultes vulnérables.
 
-If you have your own application form, you could use this as a space to ask for details of referees. If you haven’t collected referees in the application form, you can ask for them after the informal meeting. Referees can be colleagues, teachers, lecturers, or a friend who knows the potential volunteer well. Volunteers can be referred to the club by another existing club volunteer, this person can also act as a referee.
+Si vous disposez de votre propre formulaire de candidature, vous pouvez utiliser cet espace pour demander les coordonnées des personnes de référence. Si vous n'avez pas demandé des personnes de référence dans le formulaire de candidature, vous pouvez les demander après l'entretien informel. Les personnes de référence peuvent être des collègues, des enseignants, des conférenciers ou un ami qui connaît bien le bénévole potentiel. Les bénévoles peuvent être recommandés au club par un autre bénévole existant du club, cette personne peut également servir de personne de référence.
 
-**Tip**: When you check references, it is often best to phone the referee as people may be inclined to give a more honest perspective than in writing.
+**Astuce** : Lorsque vous vérifiez des personnes de références, il est souvent préférable de téléphoner à la personne concernée, car elle peut être encline à donner un point de vue plus honnête que par écrit.
 
 --- save ---
 
 <p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">
-Ensure you're <span style="color: #0faeb0">logged into your Raspberry Pi Foundation account</span> to save your progress, otherwise your completion will not be recorded. Use the <a href="https://my.raspberrypi.org/login">'Log in'</a> link in the navigation menu to log in.
+Assurez-vous d'être <span style="color: #0faeb0">connecté à votre compte Raspberry Pi Foundation</span> pour enregistrer votre progression, sinon votre achèvement ne sera pas enregistré. Utilisez le lien <a href="https://my.raspberrypi.org/login">"Se connecter"</a> dans le menu de navigation pour vous connecter.
 </p>
