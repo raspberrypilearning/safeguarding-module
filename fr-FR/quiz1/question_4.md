@@ -1,13 +1,13 @@
 --- question ---
 ---
-legend: Question 4 of 9
+legend: Question 4 sur 9
 ---
 
-Is it good practice or poor practice to have a ratio of at least 1:10 adults to young people at your club?
+Est-ce une bonne ou une mauvaise pratique d'avoir un ratio d'au moins 1:10 entre les adultes et les jeunes dans votre club ?
 
 --- choices ---
-- (x) Good practice
+- (x) Bonne pratique
 
-- ( ) Poor practice --- /choices ---
+- ( ) Mauvaise pratique --- /choices ---
 
 --- /question ---
