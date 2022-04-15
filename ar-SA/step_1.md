@@ -1,4 +1,4 @@
-## What is child safeguarding?
+## ما هي حماية الطفل؟
 
 Safeguarding is the actions taken to promote the welfare of children and protect them from harm.
 
