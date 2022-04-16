@@ -1,51 +1,51 @@
-## What to do if…?
+## Que faire si…?
 
-If you have a concern about a young person, or if a young person discloses abuse to you, it is important to be prepared. Your club must have a reporting procedure (this may be linked to the venue you operate from).
+Si vous avez des inquiétudes au sujet d'un jeune, ou si un jeune vous révèle un abus, il est important d'être préparé. Votre club doit disposer d'une procédure de signalement (celle-ci peut être liée au lieu où vous opérez).
 
-![Three young people standing.](images/8-Diverse-Mix-2.png)
+![Trois jeunes debout.](images/8-Diverse-Mix-2.png)
 
-In this section, there are tips, sample scenarios, and sample reporting procedures for your club. We would recommend that you talk about these with your fellow volunteers.
+Dans cette section, vous trouverez des conseils, des exemples de scénarios et des exemples de procédures de rapport pour votre club. Nous vous recommandons d'en parler avec vos collègues bénévoles.
 
-If you have any doubts, you can fill out our [online safeguarding form to get advice and support](https://form.raspberrypi.org/f/safeguarding-concern-form){:target='_blank'}.
+Si vous avez des doutes, vous pouvez remplir notre [formulaire de protection en ligne pour obtenir des conseils et un soutien](https://form.raspberrypi.org/f/safeguarding-concern-form){:target='_blank'}.
 
-### What to do if a young person discloses abuse to you?
+### Que faire si un jeune vous révèle un abus ?
 
-1. React calmly: a serious reaction may alarm the young person and compound feelings of anxiety and/or guilt.
-1. Listen carefully and attentively, and take the young person seriously.
-1. Reassure the young person that they have taken the right action in talking to you.
-1. Do not make false promises (particularly regarding secrecy).
-1. Explain that if what they tell you is serious, then you will have to tell another person.
-1. Do not ask the young person to repeat the story unnecessarily.
-1. Ask questions only for the purpose of clarification. Be supportive, but do not ask leading questions or seek intimate details beyond those volunteered by the young person.
-1. Check with the young person to ensure that what has been heard and understood by you is accurate.
-1. Do not express any opinions about the alleged abuse or abuser.
+1. Réagir calmement: une réaction sérieuse peut alarmer le jeune et aggraver les sentiments d'anxiété et/ou de culpabilité.
+1. Écoutez attentivement et prenez le jeune au sérieux.
+1. Rassurez le jeune qu'il a pris la bonne décision en vous parlant.
+1. Ne faites pas de fausses promesses (notamment en matière de secret).
+1. Expliquez-lui que si ce qu'il vous dit est sérieux, vous devrez en parler à une autre personne.
+1. Ne demandez pas au jeune de répéter l'histoire inutilement.
+1. Ne posez des questions qu'à des fins de clarification. Faites preuve de soutien, mais ne posez pas de questions ou ne cherchez pas à obtenir des détails intimes au-delà de ceux qui sont bénévoles par le jeune.
+1. Vérifiez avec le jeune pour vous assurer que ce que vous avez entendu et compris est exact.
+1. N'exprimez aucune opinion sur l'abus présumé ou l'agresseur.
 
-### What to do after a young person discloses abuse to you?
+### Que faire après qu'un jeune vous ait révélé un abus ?
 
-1. Record the conversation.
-1. Sign and date any written records.
-1. Pass the information to the person responsible for child protection at the venue. They will be able to guide you on next steps, which will include writing down what you have heard as accurately as possible.
-1. Let us know the actions you’ve taken by emailing [safeguarding@raspberrypi.org](mailto:safeguarding@raspberrypi.org){:target='_blank'} or filling in the [online safeguarding form](https://form.raspberrypi.org/f/safeguarding-concern-form){:target='_blank'}.
-1. If the young person is at immediate risk, the person responsible for child protection at the venue should contact the police.
-1. Treat all information confidentially, share it only with those who have a right to hear.
-1. If it is not possible to report your concern to the venue, please contact [safeguarding@raspberrypi.org](mailto:safeguarding@raspberrypi.org){:target='_blank'} and a member of the team will advise you what to do.
+1. Enregistrer la conversation.
+1. Signez et datez tous les documents écrits.
+1. Transmettez l'information à la personne responsable de la protection des enfants sur le lieu de l'événement. Ils seront en mesure de vous guider sur les prochaines étapes, ce qui comprendra la rédaction de ce que vous avez entendu le plus précisément possible.
+1. Faites-nous part des mesures que vous avez prises en envoyant un e-mail à [safeguarding@raspberrypi.org](mailto:safeguarding@raspberrypi.org){:target='_blank'} ou en remplissant le [formulaire de protection en ligne](https://form.raspberrypi.org/f/safeguarding-concern-form){:target='_blank'}.
+1. Si le jeune est en danger immédiat, la personne responsable de la protection des enfants sur le lieu de l'événement doit contacter la police.
+1. Traitez toutes les informations de manière confidentielle, ne les partagez qu'avec ceux qui ont le droit de les entendre.
+1. S'il n'est pas possible de signaler votre problème au lieu de l'événement, veuillez contacter [safeguarding@raspberrypi.org](mailto:safeguarding@raspberrypi.org){:target='_blank'} et un membre de l'équipe vous indiquera la marche à suivre.
 
-**Remember**: If you are unsure about a disclosure or need support, you can get in touch with the Raspberry Pi Foundation at any time.
+**N'oubliez pas** : Si vous n'êtes pas sûr d'une dénonciation ou si vous avez besoin de soutien, vous pouvez contacter la Raspberry Pi Foundation à tout moment.
 
-### What to do if you notice signs of abuse?
+### Que faire si vous remarquez des signes d'abus ?
 
-1. Record any signs in detail.
-1. Sign and date any written records.
-1. Pass the information to the person responsible for child protection at the venue. They will be able to guide you on next steps, which will include writing down what you have heard and/or seen as accurately as possible.
-1. If the young person is at immediate risk, the person responsible for child protection at the venue should contact the police.
-1. Let us know the actions you’ve taken by emailing [safeguarding@raspberrypi.org](mailto:safeguarding@raspberrypi.org){:target='_blank'} or filling in the [online safeguarding form](https://form.raspberrypi.org/f/safeguarding-concern-form){:target='_blank'}.
-1. Treat all information confidentially, share it only with those who have a right to hear.
-1. If it is not possible to report your concern to the venue, please contact [safeguarding@raspberrypi.org](mailto:safeguarding@raspberrypi.org){:target='_blank'} and a member of the team will advise you what to do.
+1. Enregistrer tous les signes en détail.
+1. Signez et datez tous les documents écrits.
+1. Transmettez l'information à la personne responsable de la protection des enfants sur le lieu de l'événement. Ils seront en mesure de vous guider sur les prochaines étapes, ce qui comprendra la rédaction de ce que vous avez entendu et/ou vu avec la plus grande précision possible.
+1. Si le jeune est en danger immédiat, la personne responsable de la protection des enfants sur le lieu de l'événement doit contacter la police.
+1. Faites-nous part des mesures que vous avez prises en envoyant un e-mail à [safeguarding@raspberrypi.org](mailto:safeguarding@raspberrypi.org){:target='_blank'} ou en remplissant le [formulaire de protection en ligne](https://form.raspberrypi.org/f/safeguarding-concern-form){:target='_blank'}.
+1. Traitez toutes les informations de manière confidentielle, ne les partagez qu'avec ceux qui ont le droit de les entendre.
+1. S'il n'est pas possible de signaler votre problème au lieu de l'événement, veuillez contacter [safeguarding@raspberrypi.org](mailto:safeguarding@raspberrypi.org){:target='_blank'} et un membre de l'équipe vous indiquera la marche à suivre.
 
-**Remember**: If you are unsure about a disclosure or need support, you can get in touch with the Raspberry Pi Foundation at any time.
+**N'oubliez pas** : Si vous n'êtes pas sûr d'une dénonciation ou si vous avez besoin de soutien, vous pouvez contacter la Raspberry Pi Foundation à tout moment.
 
 --- save ---
 
 <p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">
-Ensure you're <span style="color: #0faeb0">logged into your Raspberry Pi Foundation account</span> to save your progress, otherwise your completion will not be recorded. Use the <a href="https://my.raspberrypi.org/login">'Log in'</a> link in the navigation menu to log in.
+Assurez-vous d'être <span style="color: #0faeb0">connecté à votre compte Raspberry Pi Foundation</span> pour enregistrer votre progression, sinon votre achèvement ne sera pas enregistré. Utilisez le lien <a href="https://my.raspberrypi.org/login">"Se connecter"</a> dans le menu de navigation pour vous connecter.
 </p>
