@@ -49,12 +49,12 @@ Il est important d'enregistrer ce que Robert a posté, au cas où cela se reprod
 
 --- hints --- --- hint ---
 
-La messagerie individuelle avec les jeunes n'est pas encouragée pour les bénévoles, que ce soit sur les réseaux sociaux ou par d'autres moyens (y compris par e-mail). Dans certaines situations, vous pouvez avoir envie de répondre au jeune : si le temps est long jusqu'à la prochaine session ou s'il y a une date limite pour que le projet soit inscrit à un concours et que vous ne voulez pas décevoir le jeune. If you do respond, you should encourage that they email you and cc their parent or guardian (or the club organiser or teacher) into the conversation in future or regarding this query.
+La messagerie individuelle avec les jeunes n'est pas encouragée pour les bénévoles, que ce soit sur les réseaux sociaux ou par d'autres moyens (y compris par e-mail). Dans certaines situations, vous pouvez avoir envie de répondre au jeune : si le temps est long jusqu'à la prochaine session ou s'il y a une date limite pour que le projet soit inscrit à un concours et que vous ne voulez pas décevoir le jeune. Si vous répondez, vous devez l'encourager à vous envoyer un e-mail et à mettre en copie cachée son parent ou tuteur (ou l'organisateur du club ou l'enseignant) dans la conversation à l'avenir ou concernant cette question.
 
 --- /hint --- --- /hints ---
 
 --- save ---
 
 <p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">
-Ensure you're <span style="color: #0faeb0">logged into your Raspberry Pi Foundation account</span> to save your progress, otherwise your completion will not be recorded. Use the <a href="https://my.raspberrypi.org/login">'Log in'</a> link in the navigation menu to log in.
+Assurez-vous d'être <span style="color: #0faeb0">connecté à votre compte Raspberry Pi Foundation</span> pour enregistrer votre progression, sinon votre achèvement ne sera pas enregistré. Utilisez le lien <a href="https://my.raspberrypi.org/login">"Se connecter"</a> dans le menu de navigation pour vous connecter.
 </p>
