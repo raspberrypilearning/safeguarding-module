@@ -1,17 +1,17 @@
-## How to run safe online sessions
+## Comment organiser des sessions en ligne en toute sécurité
 
-You may wish to run online sessions for young people at your club who cannot meet in person. We encourage you to do this and have developed resources to help you, including guidelines to make sure your online sessions are as safe as possible.
+Vous souhaiterez peut-être organiser des sessions en ligne pour les jeunes de votre club qui ne peuvent pas se rencontrer en personne. Nous vous encourageons à le faire et avons développé des ressources pour vous aider, y compris des directives pour que vos sessions en ligne soient aussi sûres que possible.
 
-Read through these guides and answer the following three questions in the next step.
+Lisez ces guides et répondez aux trois questions suivantes à l'étape suivante.
 
-### [Framework to help you assess how to run your club safely](https://static.raspberrypi.org/files/clubs/Code_Club_and_CoderDojo_CV_Framework.pdf){:target='_blank'}
+### [Cadre pour vous aider à évaluer comment gérer votre club en toute sécurité](https://static.raspberrypi.org/files/clubs/Code_Club_and_CoderDojo_CV_Framework.pdf){:target='_blank'}
 
 <embed src="https://static.raspberrypi.org/files/clubs/Code_Club_and_CoderDojo_CV_Framework.pdf" width="790" height="500" 
  type="application/pdf">
   </p>
 
 <h3 spaces-before="0">
-  <a href="https://static.raspberrypi.org/files/clubs/Code_Club_and_CoderDojo_Parent_Guide_Supporting_Online_Coding_Session.pdf">Adult guide to support young people attending online sessions</a>{:target='_blank'}
+  <a href="https://static.raspberrypi.org/files/clubs/Code_Club_and_CoderDojo_Parent_Guide_Supporting_Online_Coding_Session.pdf">Guide adulte pour soutenir les jeunes qui participent aux sessions en ligne</a>{:target='_blank'}
 </h3>
 
 <p spaces-before="0">
@@ -21,7 +21,7 @@ Read through these guides and answer the following three questions in the next s
     </p>
 
 <h3 spaces-before="0">
-  <a href="https://static.raspberrypi.org/files/clubs/CoderDojo_Code_Club_Online_Code_of_Behaviour_A4_DIGITAL.pdf">Code of behaviour for young people attending online sessions</a>{:target='_blank'}
+  <a href="https://static.raspberrypi.org/files/clubs/CoderDojo_Code_Club_Online_Code_of_Behaviour_A4_DIGITAL.pdf">Code de conduite pour les jeunes participant aux sessions en ligne</a>{:target='_blank'}
 </h3>
 
 <p spaces-before="0">
@@ -31,11 +31,11 @@ Read through these guides and answer the following three questions in the next s
     </p> 
     
     <p spaces-before="0">
-      We strongly recommend that you and your volunteers watch our <a href="https://www.gotostage.com/channel/d20e514831f340b3913659639068c724/recording/92bd90b755964f49b87bfd99f9624435/watch?source=CHANNEL">community call about tools for running online sessions safely</a>{:target='_blank'}.
+      Nous vous recommandons vivement, ainsi qu'à vos bénévoles, de consultez notre <a href="https://www.gotostage.com/channel/d20e514831f340b3913659639068c724/recording/92bd90b755964f49b87bfd99f9624435/watch?source=CHANNEL">appel communautaire sur les outils permettant d'organiser des sessions en ligne en toute sécurité</a>{:target='_blank'}.
     </p>
     
     <p spaces-before="0">
-      You can <a href="https://rpf.io/p/en/safeguarding-module-go">download all of these resources here</a>{:target='_blank'}.
+      Vous pouvez <a href="https://rpf.io/p/en/safeguarding-module-go">télécharger toutes ces ressources ici</a>{:target='_blank'}.
     </p>
     
     <p spaces-before="0">
@@ -43,5 +43,5 @@ Read through these guides and answer the following three questions in the next s
     </p>
 
 <p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">
-Ensure you're <span style="color: #0faeb0">logged into your Raspberry Pi Foundation account</span> to save your progress, otherwise your completion will not be recorded. Use the <a href="https://my.raspberrypi.org/login">'Log in'</a> link in the navigation menu to log in.
+Assurez-vous d'être <span style="color: #0faeb0">connecté à votre compte Raspberry Pi Foundation</span> pour enregistrer votre progression, sinon votre achèvement ne sera pas enregistré. Utilisez le lien <a href="https://my.raspberrypi.org/login">"Se connecter"</a> dans le menu de navigation pour vous connecter.
 </p>
