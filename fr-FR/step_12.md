@@ -1,55 +1,55 @@
-## That’s almost it
+## C'est presque terminé
 
-You’ve completed this short interactive learning guide. Well done!
+Vous avez terminé ce court guide d'apprentissage interactif. Bien joué !
 
-You can now test your knowledge with some scenarios. In each scenario, we want you to consider what you definitely would do, what you may do (depending on the circumstances), and what you would not do.
+Vous pouvez maintenant tester vos connaissances à l'aide de quelques scénarios. Dans chaque scénario, nous voulons que vous envisagiez ce que vous feriez certainement, ce que vous pourriez faire (en fonction des circonstances) et ce que vous ne feriez pas.
 
 ### Kim
 
-**You notice one of the young people at the club, Kim, who is 12 years old, is making a game which focuses on sadness and isolation, and there are some references to suicide. The lead character in the game is also called Kim.**
+**Vous remarquez que l'un des jeunes du club, Kim, âgé de 12 ans, réalise un jeu axé sur la tristesse et l'isolement, et qu'il y a quelques références au suicide. Le personnage principal du jeu s'appelle également Kim.**
 
 --- hints --- --- hint ---
 
-In this scenario, you should ensure you check on the young person before you make any assumptions. Kim’s parents or guardians should be informed of the game by the most appropriate person, which may be you, but could be another volunteer or teacher from the club. It may also be relevant to tell the young person's parents or guardians about local support in the area if the volunteer knows what these are; often a general practitioner or local doctor is the best place to initially point a parent or guardian to in this scenario. Most importantly, you should talk to your club organiser, or teacher if in a school setting, and ensure that someone from the club checks on Kim in future sessions.
+Dans ce scénario, vous devez vous assurer que vous vérifiez l'état de la jeune personne avant de faire des suppositions. Les parents ou tuteurs de Kim devraient être informés du jeu par la personne la plus appropriée qui peut être vous, mais pourrait être un autre bénévole ou un autre enseignant du club. Il peut également être utile d'informer les parents ou les tuteurs du jeune de l'existence d'un soutien local dans la région, si le bénévole sait de quoi il s'agit ; souvent, un médecin généraliste ou un médecin local est le meilleur endroit vers lequel diriger un parent ou un tuteur dans ce cas. Le plus important est d'en parler à votre organisateur de club, ou à votre professeur s'il s'agit d'un établissement scolaire, et de veiller à ce que quelqu'un du club surveille Kim lors des prochaines sessions.
 
 --- /hint --- --- /hints ---
 
 ### Mark
 
-**One of the young people in the club has come to you and told you that Mark, aged 11, is on his laptop and is looking at pictures of people with "no clothes on and doing strange things".**
+**L'un des jeunes du club est venu vous voir pour vous dire que Mark, 11 ans, est sur son ordinateur portable et regarde des photos de personnes « sans vêtements et faisant des choses étranges ».**
 
 --- hints --- --- hint ---
 
-The main learning from this scenario is to not overreact or make assumptions, as this could have been something quite innocent or accidental like an advert or pop-up. If the matter can be dealt with immediately, then you (or the club organiser) should speak to Mark without assumptions. Then you (or the club organiser) should speak to both sets of parents (or guardians) separately, mainly to ensure this doesn’t happen again in the club. You should ensure the young person who reported this is OK and knows that you are dealing with the situation. You should make the club organiser aware of the situation and perhaps you may organise an online safety session a few weeks after the incident.
+La principale leçon à tirer de ce scénario est qu'il ne faut pas réagir de manière excessive ni faire de suppositions, car il aurait pu s'agir de quelque chose de tout à fait innocent ou accidentel, comme une publicité ou une fenêtre pop-up. Si la question peut être traitée immédiatement, alors vous (ou l'organisateur du club) devriez parler à Mark sans hypothèses. Ensuite, vous (ou l'organisateur du club) devez parler aux deux groupes de parents (ou tuteurs) séparément, principalement pour vous assurer que cela ne se reproduira pas dans le club. Vous devez vous assurer que le jeune qui a signalé l'incident va bien et qu'il sait que vous vous occupez de la situation. Vous devez informer l'organisateur du club de la situation et peut-être organiser une session de sécurité en ligne quelques semaines après l'incident.
 
 --- /hint --- --- /hints ---
 
-### Zoe
+### Zoé
 
-**During an online club session, one of the club members, Zoe, shouts an obscenity at an adult in their home. The adult shouts back. You hear a loud crash, and the club member disappears from your view. You can hear threatening behaviour from the adult and the camera turns off.**
+**Au cours d'une session de club en ligne, l'un des membres du club, Zoé, crie une obscénité à un adulte chez lui. L'adulte répond en criant. Vous entendez un grand fracas, et le membre du club disparaît de votre vue. On entend un comportement menaçant de la part de l'adulte et la caméra s'éteint.**
 
 --- hints --- --- hint ---
 
-In this scenario, there is an immediate concern about the welfare of a young person and you have no way of knowing whether the young person is safe. The first thing you need to do is to call the police, who will investigate the incident. The second thing you need to do is call our 24-hour safeguarding number to report what has happened.
+Dans ce scénario, il y a une préoccupation immédiate concernant le bien-être d'un jeune et vous n'avez aucun moyen de savoir si le jeune est en sécurité. La première chose à faire est d'appeler la police, qui enquêtera sur l'incident. La deuxième chose que vous devez faire est d'appeler notre numéro de protection 24h/24 pour signaler ce qui s'est passé.
 
 --- /hint --- --- /hints ---
 
 ### Robert
 
-**During an online session, you notice that Robert, one of the club members, posts sexually explicit language and links to pornographic websites in the comments section.**
+**Lors d'une session en ligne, vous remarquez que Robert, l'un des membres du club, publie des propos sexuellement explicites et des liens vers des sites pornographiques dans la section des commentaires.**
 
 --- hints --- --- hint ---
 
-It’s important to make a record of what Robert has posted, in case this happens again. He may not know the significance of what he has posted, so it’s important that you let his parents or guardians know what happened and provide them with the [parents guide](https://help.coderdojo.com/cdkb/s/article/Parents-guide-to-CoderDojo). Other young people attending the online session may have seen the messages and been affected by them, so it’s important that you contact their parents or guardians as well and let them know what happened and how you intend to follow up.
+Il est important d'enregistrer ce que Robert a posté, au cas où cela se reproduirait. Il peut ne pas connaître la signification de ce qu'il a posté, il est donc important que vous fassiez savoir à ses parents ou tuteurs ce qui s'est passé et que vous leur fournissiez le [guide des parents](https://help.coderdojo.com/cdkb/s/article/Parents-guide-to-CoderDojo). D'autres jeunes participant à la session en ligne peuvent avoir vu les messages et en avoir été affectés. Il est donc important que vous contactiez également leurs parents ou tuteurs pour leur faire savoir ce qui s'est passé et comment vous comptez assurer le suivi.
 
 --- /hint --- --- /hints ---
 ### Lisa
 
-**Lisa, one of the young people in your club, has got in touch through a private message on social media to ask for help with a project.**
+**Lisa, l'un des jeunes de votre club, a pris contact par le biais d'un message privé sur les réseaux sociaux pour demander de l'aide pour un projet.**
 
 --- hints --- --- hint ---
 
-One-to-one messaging with young people is not encouraged for any volunteers, either on social media or through other mediums (including email). There are some situations that you may want to respond to the young person: if it is a long time until the next session or there is a deadline for the project to be entered in a competition and you do not want to disappoint the young person. If you do respond, you should encourage that they email you and cc their parent or guardian (or the club organiser or teacher) into the conversation in future or regarding this query.
+La messagerie individuelle avec les jeunes n'est pas encouragée pour les bénévoles, que ce soit sur les réseaux sociaux ou par d'autres moyens (y compris par e-mail). Dans certaines situations, vous pouvez avoir envie de répondre au jeune : si le temps est long jusqu'à la prochaine session ou s'il y a une date limite pour que le projet soit inscrit à un concours et que vous ne voulez pas décevoir le jeune. If you do respond, you should encourage that they email you and cc their parent or guardian (or the club organiser or teacher) into the conversation in future or regarding this query.
 
 --- /hint --- --- /hints ---
 
