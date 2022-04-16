@@ -1,1 +1,1 @@
-## Online sessions quiz
+## Quiz sur les sessions en ligne
