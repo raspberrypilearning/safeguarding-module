@@ -1,14 +1,14 @@
 ## Abus et dénonciations
 
-Une grande majorité de jeunes participent à nos clubs sans rencontrer d'abus. Cependant, il est important que les bénévoles sachent ce qu'ils doivent faire lorsqu'ils ont connaissance d'un abus, soit par observation, soit par un jeune qui vous en parle (divulgation). La plupart des clubs de la Raspberry Pi Foundation créent un environnement dans lequel de nombreux jeunes se sentent particulièrement à l'aise, ce qui peut contribuer à encourager les révélations au sein du club.
+Une grande majorité de jeunes participent à nos clubs sans rencontrer d'abus. Cependant, il est important que les bénévoles sachent ce qu'ils doivent faire lorsqu'ils ont connaissance d'un abus, soit par observation, soit par un jeune qui vous en parle (dénonciation). La plupart des clubs de la Raspberry Pi Foundation créent un environnement dans lequel beaucoup de jeunes se sentent particulièrement à l'aise, ce qui peut aider à encourager la dénonciation au sein du club.
 
 ![Trois jeunes debout.](images/7-Diverse-Mix.png){:target='_blank'}
 
-La violence envers les enfants est généralement classée dans les catégories suivantes : négligence, violence physique, violence psychologique, violence sexuelle ou radicalisation. D'autres aspects à connaître sont la violence entre pairs, la violence organisée et la violence en ligne.
+La violence envers les enfants est généralement classée dans les catégories suivantes : négligence, violence physique, violence psychologique, abus sexuelle ou radicalisation. D'autres aspects à connaître sont la violence entre pairs, la violence organisée et la violence en ligne.
 
 ### Types de mauvais traitements : négligence
 
-La négligence peut être définie en termes d'omission, lorsqu'une jeune personne subit un préjudice important ou une altération de son développement en étant privée de nourriture, de vêtements, de chaleur, d'hygiène, de stimulation intellectuelle, de supervision et de sécurité, d'attachement et d'affection de la part d'adultes, et/ou de soins médicaux.
+La négligence peut être définie en termes d'omission, où un jeune souffre d'un préjudice significatif ou d'un handicap de développement en étant privé de nourriture, vêtements, chaleur, hygiène, stimulation intellectuelle, surveillance et sécurité, attachement et affection des adultes, et/ou soins médicaux.
 
 [Autres ressources et définition de la NSPCC (UK)](https://www.nspcc.org.uk/what-is-child-abuse/types-of-abuse/neglect/){:target='_blank'}
 
@@ -40,21 +40,21 @@ Par exemple :
 
 ### Types d'abus : abus sexuel
 
-Il y a abus sexuel lorsqu'un jeune est utilisé par une autre personne pour son propre plaisir ou excitation sexuelle, ou pour celle d'autres personnes. Il ne s'agit pas forcément d'un contact physique et cela peut se faire en ligne. Parfois, le jeune ne comprendra pas que ce qui lui arrive est un abus. Ils peuvent même ne pas comprendre que c'est mal.
+Il y a abus sexuel lorsqu'un jeune est utilisé par une autre personne pour son propre plaisir ou excitation sexuelle, ou pour celle d'autres personnes. Il ne s'agit pas forcément d'un contact physique et cela peut se produire en ligne. Parfois, le jeune ne comprendra pas que ce qui lui arrive est un abus. Ils peuvent même ne pas comprendre que c'est mal.
 
 [Ressources supplémentaires et définition de la NSPCC (Royaume-Uni)](https://www.nspcc.org.uk/what-is-child-abuse/types-of-abuse/child-sexual-abuse/)
 
 ### Types d'abus : radicalisation
 
-Les jeunes à risque de radicalisation peuvent être victimes d'autres formes d'abus, comme les brimades ou la discrimination, qui en font des cibles faciles pour les extrémistes.
+Les jeunes à risque de radicalisation peuvent être victimes d'autres formes d'abus, comme l'intimidation ou la discrimination, qui en font des cibles faciles pour les extrémistes.
 
-La radicalisation peut être difficile à remarquer, car elle ressemble à certains comportements normaux d'adolescents. Voici quelques signes indiquant qu'une personne ou un groupe pourrait tenter de radicaliser un jeune :
+La radicalisation peut être difficile à déceler, car elle ressemble à certains comportements normaux chez les adolescents. Voici quelques signes indiquant qu'une personne ou un groupe pourrait tenter de radicaliser un jeune :
 
 - Le jeune s'isole de sa famille et de ses amis
 - Le jeune parle comme s'il s'agissait d'un discours écrit
 - Le jeune ne veut pas ou ne peut pas discuter de son point de vue
 - Le jeune fait preuve d'une attitude soudainement irrespectueuse envers les autres
-- Le jeune a des niveaux de colère anormales
+- Le jeune a des niveaux de colère accrus
 - Le jeune est de plus en plus secret, surtout en ce qui concerne l'utilisation d'Internet
 
 [Ressources supplémentaires et définition de la NSPCC (Royaume-Uni)](https://www.nspcc.org.uk/keeping-children-safe/reporting-abuse/dedicated-helplines/protecting-children-from-radicalisation/)
