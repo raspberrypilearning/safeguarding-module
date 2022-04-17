@@ -26,7 +26,7 @@ Chaque personne du club doit connaître le code de conduite et suivre ces attent
     Un avertissement verbal
   </li>
   <li>
-    Un avertissement écrit formel, en vertu duquel toute nouvelle indiscrétion entraînera la suspension du club ou la fin du rôle de bénévole du club
+    Un avertissement écrit formel, au terme duquel toute nouvelle indiscrétion entraînera la suspension du club ou la fin de son rôle de bénévole au sein du club
   </li>
   <li>
     Suspension du bénévole du club
@@ -37,7 +37,7 @@ Chaque personne du club doit connaître le code de conduite et suivre ces attent
 </ul>
 
 <p spaces-before="0">
-  Si vous ou votre club n'êtes pas sûr de l'action à entreprendre, demandez l'aide de la <a href="mailto:safeguarding@raspberrypi.org">Raspberry Pi Foundation</a>.
+  Si vous ou votre club n'êtes pas sûr de l'action à entreprendre, demandez une assistance de la <a href="mailto:safeguarding@raspberrypi.org">Raspberry Pi Foundation</a>.
 </p>
 
 <p spaces-before="0">
