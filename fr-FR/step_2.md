@@ -19,7 +19,7 @@ Il s'agit d'une brève description destinée à informer les bénévoles potenti
 
 ### 2. Formulaire de candidature
 
-Il peut s'agir d'un formulaire en ligne comportant quelques questions brèves. Vous devez demander une personne de référence si possible et toute compétence pertinente qui pourrait être utile dans votre club. Les informations contenues dans le formulaire de candidature, telles que les coordonnées, seront utiles si ce bénévole potentiel rejoint le club.
+Il peut s'agir d'un formulaire en ligne comportant quelques questions brèves. Vous devriez demander une personne de référence si possible et toute compétence pertinente qui pourrait être utile dans votre club. Les informations contenues dans le formulaire de candidature, telles que les coordonnées, seront utiles si ce bénévole potentiel rejoint le club.
 
 **Remarque** : Si vous faites partie d'un Code Club ou d'un CoderDojo, au lieu d'un formulaire de candidature, vous devez encourager les bénévoles potentiels à s'inscrire sur nos sites web ([codeclub.org](https://codeclub.org){:target='_blank'} et [coderdojo.com](https://coderdojo.com){:target='_blank'}).
 
@@ -29,7 +29,7 @@ Invitez la personne au club afin que vous puissiez la rencontrer et qu'elle puis
 
 ### 4. Vérification des antécédents (selon la région)
 
-La vérification des antécédents est utile pour les clubs de codage bénévoles ; dans certaines régions, une vérification des antécédents est obligatoire pour travailler avec des jeunes. Nous comprenons que dans certaines régions, il est plus difficile d'accéder à la vérification des antécédents ou que cela peut être coûteux, c'est pourquoi la vérification des références et l'utilisation du reste du processus de recrutement des bénévoles sont importantes.
+La vérification des antécédents est utile pour les clubs de codage bénévoles ; dans certaines régions, une vérification des antécédents est obligatoire pour travailler avec des jeunes. Nous comprenons que dans certaines régions, il est plus difficile d'accéder à la vérification des antécédents ou que cela peut être coûteux, c'est pourquoi la vérification des personnes de référence et l'utilisation du reste du processus de recrutement des bénévoles sont importantes.
 
 ### 5. Personnes de référence (facultatif)
 
