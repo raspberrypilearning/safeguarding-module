@@ -26,7 +26,7 @@ Voici quelques-uns des sujets qui seront abordés :
 * Vérification des antécédents
 * Législation
 * Comment recruter des bénévoles
-* Code conduite
+* Code de conduite
 * Types d'abus
 * Comment mettre en place des processus pour signaler les abus
 * Exemples de scénarios dans un club de codage
@@ -46,7 +46,7 @@ Chaque club est responsable du respect de la législation en matière de protect
 
 ### Bonnes pratiques
 
-Bien qu'il soit primordial de respecter la législation de votre région en matière de protection des enfants, tous les clubs devraient essayer de mettre en place des pratiques exemplaires, même si elles ne sont pas exigées par la législation. Voici quelques-unes des bonnes pratiques que votre club peut adopter et qui seront abordées dans ce module :
+Bien qu'il soit primordial de respecter la législation de votre région en matière de protection des enfants, tous les clubs devraient essayer de mettre en place des bonnes pratiques exemplaires, même si elles ne sont pas exigées par la législation. Voici quelques-unes des bonnes pratiques que votre club peut adopter et qui seront abordées dans ce module :
 
 * Recrutement des bénévoles
 * Code de conduite
