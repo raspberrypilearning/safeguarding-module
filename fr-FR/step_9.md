@@ -6,7 +6,7 @@ Si vous avez des inquiétudes au sujet d'un jeune, ou si un jeune vous révèle 
 
 Dans cette section, vous trouverez des conseils, des exemples de scénarios et des exemples de procédures de rapport pour votre club. Nous vous recommandons d'en parler avec vos collègues bénévoles.
 
-Si vous avez des doutes, vous pouvez remplir notre [formulaire de protection en ligne pour obtenir des conseils et un soutien](https://form.raspberrypi.org/f/safeguarding-concern-form){:target='_blank'}.
+Si vous avez des doutes, vous pouvez remplir notre [formulaire de protection en ligne pour obtenir des conseils et une assistance](https://form.raspberrypi.org/f/safeguarding-concern-form){:target='_blank'}.
 
 ### Que faire si un jeune vous révèle un abus ?
 
@@ -30,7 +30,7 @@ Si vous avez des doutes, vous pouvez remplir notre [formulaire de protection en 
 1. Traitez toutes les informations de manière confidentielle, ne les partagez qu'avec ceux qui ont le droit de les entendre.
 1. S'il n'est pas possible de signaler votre problème au lieu de l'événement, veuillez contacter [safeguarding@raspberrypi.org](mailto:safeguarding@raspberrypi.org){:target='_blank'} et un membre de l'équipe vous indiquera la marche à suivre.
 
-**N'oubliez pas** : Si vous n'êtes pas sûr d'une dénonciation ou si vous avez besoin de soutien, vous pouvez contacter la Raspberry Pi Foundation à tout moment.
+**N'oubliez pas** : Si vous n'êtes pas sûr d'une dénonciation ou si vous avez besoin d'assistance, vous pouvez contacter la Raspberry Pi Foundation à tout moment.
 
 ### Que faire si vous remarquez des signes d'abus ?
 
@@ -42,7 +42,7 @@ Si vous avez des doutes, vous pouvez remplir notre [formulaire de protection en 
 1. Traitez toutes les informations de manière confidentielle, ne les partagez qu'avec ceux qui ont le droit de les entendre.
 1. S'il n'est pas possible de signaler votre problème au lieu de l'événement, veuillez contacter [safeguarding@raspberrypi.org](mailto:safeguarding@raspberrypi.org){:target='_blank'} et un membre de l'équipe vous indiquera la marche à suivre.
 
-**N'oubliez pas** : Si vous n'êtes pas sûr d'une dénonciation ou si vous avez besoin de soutien, vous pouvez contacter la Raspberry Pi Foundation à tout moment.
+**N'oubliez pas** : Si vous n'êtes pas sûr d'une dénonciation ou si vous avez besoin d'assistance, vous pouvez contacter la Raspberry Pi Foundation à tout moment.
 
 --- save ---
 
