@@ -11,7 +11,7 @@ Lisez ces guides et répondez aux trois questions suivantes à l'étape suivante
   </p>
 
 <h3 spaces-before="0">
-  <a href="https://static.raspberrypi.org/files/clubs/Code_Club_and_CoderDojo_Parent_Guide_Supporting_Online_Coding_Session.pdf">Guide adulte pour soutenir les jeunes qui participent aux sessions en ligne</a>{:target='_blank'}
+  <a href="https://static.raspberrypi.org/files/clubs/Code_Club_and_CoderDojo_Parent_Guide_Supporting_Online_Coding_Session.pdf">Guide des adultes pour soutenir les jeunes qui participent aux sessions en ligne</a>{:target='_blank'}
 </h3>
 
 <p spaces-before="0">
