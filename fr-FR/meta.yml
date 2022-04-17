@@ -24,7 +24,7 @@ steps:
       questions: 9
       passing_score: 9
   - 
-    title: "Abus et divulgations"
+    title: "Abus et dénonciations"
   - 
     title: Comment organiser des sessions en ligne en toute sécurité
   - 
@@ -47,4 +47,4 @@ steps:
       passing_score: 6
     completion: external
   - 
-    title: "C'est quasiment terminé !"
+    title: "C'est presque terminé !"
