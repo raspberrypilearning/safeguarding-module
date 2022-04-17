@@ -1,6 +1,6 @@
 ## Accueil des nouveaux bénévoles
 
-Lorsque vous rencontrerez un bénévole pour la première fois, il y aura quelques exigences d'accueil. Cela comprend la reconnaissance des caractéristiques souhaitables pour les bénévoles ; bien qu'un bénévole ne possède pas toutes ces caractéristiques, il devrait certainement en avoir au moins une.
+Lorsque vous rencontrerez un bénévole pour la première fois, il y aura quelques exigences d'accueil. Cela implique notamment de reconnaître les caractéristiques souhaitables des bénévoles ; même si un bénévole peut ne pas avoir tous ces caractéristiques, il devrait certainement en avoir au moins un.
 
 ![Un bénévole adulte.](images/10-Adult.png){:width="400px"}.
 ### 1. Identification de la formation
@@ -11,11 +11,11 @@ Si vous avez plusieurs bénévoles dans votre club, vous pouvez également organ
 
 ### 2. Sélection
 
-Le nouveau bénévole semble-t-il convenir à votre club ? Prenez contact avec eux et informez-les de la date de votre prochaine session pour voir s'ils peuvent y assister. Si vous venez de créer votre club pour la première fois, vous pouvez envisager d'organiser une réunion informelle avec tous vos bénévoles afin de créer un plan pour votre première session. Si vous avez des doutes pendant le processus de recrutement du bénévole, vous pouvez lui dire qu'il ne convient pas. Si vous n'êtes pas sûr, vous pouvez contacter la Raspberry Pi Foundation pour obtenir des conseils.
+Le nouveau bénévole semble-t-il convenir à votre club ? Prenez contact avec eux et informez-les de la date de votre prochaine session pour voir s'ils peuvent y assister. Si vous commencez votre club pour la première fois, peut-être envisagez d'avoir une réunion informelle avec tous vos bénévoles pour créer un plan pour votre première session. Si vous avez des doutes pendant le processus de recrutement du bénévole, vous pouvez lui dire qu'il ne convient pas. Si vous n'êtes pas sûr, vous pouvez contacter la Raspberry Pi Foundation pour obtenir des conseils.
 
-### 3. Premier camarade de club
+### 3. Premier collègue de club
 
-Félicitations ! Vous avez réussi à recruter un nouveau bénévole pour votre club. Pour leur première session, n'oubliez pas qu'ils auront besoin d'un peu d'aide pour démarrer et faire connaissance avec les enfants. Si vous avez plusieurs bénévole dans votre club, essayez de les associer avec un bénévole expérimenté. Nous ne conseillons pas aux nouveaux bénévoles de diriger une session lors de leur première visite au club, car cela peut être intimidant pour un nouveau membre. Il est judicieux de mettre les bénévoles par deux afin qu'ils puissent planifier et diriger la session ensemble et apprendre les uns des autres.
+Félicitations ! Vous avez réussi à recruter un nouveau bénévole pour votre club. Pour leur première session, n'oubliez pas qu'ils auront besoin d'un peu d'aide pour démarrer et faire connaissance avec les enfants. Si vous avez plusieurs bénévoles dans votre club, essayez de les associer avec un bénévole expérimenté. Nous ne conseillons pas aux nouveaux bénévoles de diriger une session lors de leur première visite au club, car cela peut être intimidant pour un nouveau membre. Il est judicieux de mettre les bénévoles par deux afin qu'ils puissent planifier et diriger la session ensemble et apprendre les uns des autres.
 
 ### Le bénévole idéal
 
