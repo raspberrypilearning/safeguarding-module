@@ -1,1 +1,1 @@
-## Code of behaviour quiz
+## Gedragscode quiz
