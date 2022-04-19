@@ -1,12 +1,12 @@
-## What to do if…?
+## Wat te doen als…?
 
-If you have a concern about a young person, or if a young person discloses abuse to you, it is important to be prepared. Your club must have a reporting procedure (this may be linked to the venue you operate from).
+Als je je zorgen maakt over een jongere, of als een jongere misbruik aan je onthult, is het belangrijk om voorbereid te zijn. Je club moet een meldprocedure hebben (deze kan gekoppeld zijn aan de locatie van waaruit je opereert).
 
 ![Three young people standing.](images/8-Diverse-Mix-2.png)
 
-In this section, there are tips, sample scenarios, and sample reporting procedures for your club. We would recommend that you talk about these with your fellow volunteers.
+In dit gedeelte vind je tips, voorbeeldscenario's en voorbeeldrapportageprocedures voor jouw club. We raden je aan om hierover met je vrijwilligers te praten.
 
-If you have any doubts, you can fill out our [online safeguarding form to get advice and support](https://form.raspberrypi.org/f/safeguarding-concern-form){:target='_blank'}.
+Als je twijfels hebt, kun je ons [online beschermingsformulier invullen voor advies en ondersteuning](https://form.raspberrypi.org/f/safeguarding-concern-form){:target='_blank'}.
 
 ### What to do if a young person discloses abuse to you?
 
