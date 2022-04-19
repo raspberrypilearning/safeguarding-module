@@ -1,13 +1,13 @@
 --- question ---
 ---
-legend: Question 3 of 6
+legend: Vraag 3 van 6
 ---
 
-Mary was embarrassed. Is this:
+Maria schaamde zich. Is dit:
 
 --- choices ---
-- ( ) A fact or an observation?
+- ( ) Een feit of een observatie?
 
-- (x) An opinion or evaluation? --- /choices ---
+- (x) Een mening of evaluatie? --- /choices ---
 
 --- /question ---
