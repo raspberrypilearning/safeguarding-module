@@ -1,13 +1,13 @@
 --- question ---
 ---
-legend: Question 9 of 9
+legend: Vraag 9 van 9
 ---
 
-Is it good practice or poor practice to cc parents in on all direct email communication to young people?
+Is het een goede gewoonte of een slechte gewoonte om ouders in cc te betrekken bij alle directe e-mailcommunicatie met jongeren?
 
 --- choices ---
-- (x) Good practice
+- (x) Goede gewoonte
 
-- ( ) Poor practice --- /choices ---
+- ( ) Slechte gewoonte --- /choices ---
 
 --- /question ---
