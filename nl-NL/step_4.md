@@ -1,6 +1,6 @@
-## Code of behaviour
+## Gedragscode
 
-Every person at the club must be aware of the code of behaviour and follow these expectations. Our code of behaviour document is available at [rpf.io/code-of-behaviour](http://rpf.io/code-of-behaviour){:target='_blank'}
+Elke persoon in de club moet op de hoogte zijn van de gedragscode en deze naleven. Ons gedragscodedocument is beschikbaar op [rpf.io/code-of-behaviour](http://rpf.io/code-of-behaviour){:target='_blank'}
 
 <embed src="images/Raspberry_Pi_Foundation-safeguarding-code-of-behaviour.pdf" width="790" height="500" 
  type="application/pdf">
@@ -10,34 +10,34 @@ Every person at the club must be aware of the code of behaviour and follow these
     <br>
   </p>
 <h3 spaces-before="0">
-  Breaking the code of behaviour
+  De gedragscode overtreden
 </h3>
 
 <p spaces-before="0">
-  If a volunteer in your club behaves inappropriately and/or breaks the code of behaviour, action will have to be taken by the club organiser. If the club organiser breaks the code of behaviour, action will have to be taken by another volunteer.
+  Indien een vrijwilliger in je club zich ongepast gedraagt en/of de gedragscode overtreedt, zal de cluborganisator actie moeten ondernemen. Als de cluborganisator de gedragscode overtreedt, zal een andere vrijwilliger actie moeten ondernemen.
 </p>
 
 <p spaces-before="0">
-  Actions to take:
+  Te ondernemen acties:
 </p>
 
 <ul>
   <li>
-    A verbal warning
+    Een mondelinge waarschuwing
   </li>
   <li>
-    A formal written warning, to which any further indiscretions will lead to suspension from the club or to ending their role as a volunteer of the club
+    Een formele schriftelijke waarschuwing, waarbij elke verdere indiscretie zal leiden tot schorsing uit de club of tot beëindiging van hun rol als vrijwilliger van de club
   </li>
   <li>
-    Suspension of the volunteer from the club
+    Schorsing van de vrijwilliger van de club
   </li>
   <li>
-    Banning the volunteer from participating in further activities in the club
+    De vrijwilliger verbieden deel te nemen aan verdere activiteiten in de club
   </li>
 </ul>
 
 <p spaces-before="0">
-  If you or your club is unsure of the action to take please, ask for support from the <a href="mailto:safeguarding@raspberrypi.org">Raspberry Pi Foundation</a>.
+  Als jij of je club niet zeker weet welke actie je moet ondernemen, vraag dan om ondersteuning van de <a href="mailto:safeguarding@raspberrypi.org">Raspberry Pi Foundation</a>.
 </p>
 
 <p spaces-before="0">
@@ -45,5 +45,5 @@ Every person at the club must be aware of the code of behaviour and follow these
 </p>
 
 <p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">
-Ensure you're <span style="color: #0faeb0">logged into your Raspberry Pi Foundation account</span> to save your progress, otherwise your completion will not be recorded. Use the <a href="https://my.raspberrypi.org/login">'Log in'</a> link in the navigation menu to log in.
+Zorg ervoor dat je <span style="color: #0faeb0">bent ingelogd op je Raspberry Pi Foundation account</span> om je voortgang op te slaan, anders wordt je voltooiing niet geregistreerd. Gebruik de <a href="https://my.raspberrypi.org/login">'Inloggen'</a> link in het navigatiemenu om in te loggen.
 </p>
