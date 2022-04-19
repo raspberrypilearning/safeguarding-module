@@ -1,13 +1,13 @@
 --- question ---
 ---
-legend: Question 5 of 6
+legend: Vraag 5 van 6
 ---
 
-Jane looked at her watch twice. Is this:
+Jane keek twee keer op haar horloge. Is dit:
 
 --- choices ---
-- (x) A fact or an observation?
+- (x) Een feit of een observatie?
 
-- ( ) An opinion or evaluation? --- /choices ---
+- ( ) Een mening of evaluatie? --- /choices ---
 
 --- /question ---
