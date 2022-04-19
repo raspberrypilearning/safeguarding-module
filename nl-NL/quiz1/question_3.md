@@ -1,13 +1,13 @@
 --- question ---
 ---
-legend: Question 3 of 9
+legend: Vraag 3 van 9
 ---
 
-Is it good practice or poor practice to use offensive language in your club?
+Is het een goede gewoonte of een slechte gewoonte om beledigende taal te gebruiken in je club?
 
 --- choices ---
-- ( ) Good practice
+- ( ) Goede gewoonte
 
-- (x) Poor practice --- /choices ---
+- (x) Slechte gewoonte --- /choices ---
 
 --- /question ---
