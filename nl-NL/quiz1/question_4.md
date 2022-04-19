@@ -1,13 +1,13 @@
 --- question ---
 ---
-legend: Question 4 of 9
+legend: Vraag 4 van 9
 ---
 
-Is it good practice or poor practice to have a ratio of at least 1:10 adults to young people at your club?
+Is het een goede gewoonte of een slechte gewoonte om een verhouding van ten minste 1:10 volwassenen en jongeren in je club te hebben?
 
 --- choices ---
-- (x) Good practice
+- (x) Goede gewoonte
 
-- ( ) Poor practice --- /choices ---
+- ( ) Slechte gewoonte --- /choices ---
 
 --- /question ---
