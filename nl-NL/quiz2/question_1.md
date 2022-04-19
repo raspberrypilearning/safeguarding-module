@@ -1,16 +1,16 @@
 --- question ---
 ---
-legend: Question 1 of 3
+legend: Vraag 1 van 3
 ---
 
-How many adults should be present during an online session?
+Hoeveel volwassenen moeten er aanwezig zijn tijdens een online sessie?
 
 --- choices ---
 
-- ( ) None
-- ( ) One
-- (x) At least two
-- ( ) At least three
+- ( ) Geen
+- ( ) Eén
+- (x) Ten minste twee
+- ( ) Ten minste drie
 
 --- /choices ---
 
