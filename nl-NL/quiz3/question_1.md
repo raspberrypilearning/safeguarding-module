@@ -1,13 +1,13 @@
 --- question ---
 ---
-legend: Question 1 of 6
+legend: Vraag 1 van 6
 ---
 
-Rita made no eye contact. Is this:
+Rita maakte geen oogcontact. Is dit:
 
 --- choices ---
-- (x) A fact or an observation?
+- (x) Een feit of een observatie?
 
-- ( ) An opinion or evaluation? --- /choices ---
+- ( ) Een mening of evaluatie? --- /choices ---
 
 --- /question ---
