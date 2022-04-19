@@ -26,25 +26,25 @@ steps:
   - 
     title: "Misbruik en bekendmakingen"
   - 
-    title: How to run safe online sessions
+    title: Veilige online sessies uitvoeren
   - 
-    title: Online sessions quiz
+    title: Online sessies quiz
     knowledge_quiz:
       path: quiz2
       version: 1
       questions: 3
       passing_score: 3
   - 
-    title: "What to do if…"
+    title: "Wat te doen als…"
   - 
-    title: How to record details of abuse
+    title: Details van misbruik vastleggen
   - 
-    title: Observations and evaluations quiz
+    title: Observaties en evaluaties quiz
     knowledge_quiz:
       path: quiz3
       version: 1
       questions: 6
       passing_score: 6
-    completion: external
+    completion: extern
   - 
-    title: "That’s almost it!"
+    title: "Je bent bijna klaar!"
