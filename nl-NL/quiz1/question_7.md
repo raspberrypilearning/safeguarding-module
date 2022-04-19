@@ -1,13 +1,13 @@
 --- question ---
 ---
-legend: Question 7 of 9
+legend: Vraag 7 van 9
 ---
 
-Is it good practice or poor practice to take into account young people's views in the decision-making process at your club?
+Is het een goede of slechte gewoonte om rekening te houden met de mening van jongeren in het besluitvormingsproces in jouw club?
 
 --- choices ---
-- (x) Good practice
+- (x) Goede gewoonte
 
-- ( ) Poor practice --- /choices ---
+- ( ) Slechte gewoonte --- /choices ---
 
 --- /question ---
