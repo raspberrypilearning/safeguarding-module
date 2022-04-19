@@ -1,46 +1,46 @@
-## Recruitment process
+## Wervingsproces
 
-Typically, it is the club organiser's responsibility to recruit and onboard new volunteers. From time to time, volunteers may be involved in this process to help the club organiser, in particular to help guide the new volunteer in their first session.
+Doorgaans is het de verantwoordelijkheid van de cluborganisator om nieuwe vrijwilligers te werven en aan te nemen. Van tijd tot tijd kunnen vrijwilligers bij dit proces worden betrokken om de organisator van de club te helpen, in het bijzonder om de nieuwe vrijwilliger te helpen bij hun eerste sessie.
 
-![Three volunteers standing.](images/2-RPF-Volunteers.png)
+![Drie vrijwilligers staan.](images/2-RPF-Volunteers.png)
 
-It is important to recognise that not every volunteer who is interested in helping out at your club may be appropriate or a match.
+Het is belangrijk om te beseffen dat niet elke vrijwilliger die geïnteresseerd is in het helpen van jouw club geschikt is of een match kan zijn.
 
-A recruitment process makes it easier to identify volunteers who are not a fit for the club. Here is an example of a recruitment process.
+Een wervingsproces maakt het gemakkelijker om vrijwilligers te identificeren die niet bij de club passen. Hier is een voorbeeld van een wervingsprocedure.
 
-### 1. Volunteer description
+### 1. Beschrijving vrijwilliger
 
 
-This is a short description to tell potential volunteers what the role involves and to give a broad overview of your club. This could be a brief description on your website or a club profile of a volunteer's role. It should include:
+Dit is een korte beschrijving om potentiële vrijwilligers te vertellen wat de rol inhoudt en om een breed overzicht van je club te geven. Dit kan een korte beschrijving op je website zijn of een clubprofiel van de rol van een vrijwilliger. Het moet omvatten:
 
-* What happens in a typical session?
-* How often does your club run and for how long?
-* How much time do you require from your volunteers?
+* Wat gebeurt er tijdens een sessie?
+* Hoe vaak organiseer je je club en hoe lang?
+* Hoeveel tijd vraag je van je vrijwilligers?
 
-### 2. Application form
+### 2. Aanmeldingsformulier
 
-This can be an online form with a few short questions. You should ask for a referee if possible and any relevant skills that may be useful in your club. Information from the application form, such as contact information, will be useful should this potential volunteer join the club.
+Dit kan een online formulier zijn met een paar korte vragen. Vraag indien mogelijk om een referent en eventuele relevante vaardigheden die nuttig kunnen zijn in je club. Informatie op het aanmeldingsformulier, zoals contactgegevens, is nuttig als deze potentiële vrijwilliger lid wordt van de club.
 
-**Note**: If you are in a Code Club or CoderDojo, instead of an application form you should encourage potential volunteers to register through our websites ([codeclub.org](https://codeclub.org){:target='_blank'} and [coderdojo.com](https://coderdojo.com){:target='_blank'}).
+**Opmerking**: Als je lid bent van een Code Club of CoderDojo, moet je in plaats van een aanmeldingsformulier potentiële vrijwilligers aanmoedigen om zich te registreren via onze websites ([codeclub.org](https://codeclub.org){:target='_blank'} en [coderdojo.com](https://coderdojo.com){:target='_blank'}).
 
-### 3. Informal meeting or interview
+### 3. Informele bijeenkomst of interview
 
-Invite the person to the club so you can meet with them and they can learn more about the club environment. If your club is running activities online, then you can meet remotely. It should be a casual meeting, but it should give the current club volunteers and the potential volunteer the chance to make a decision about whether they want the potential volunteer to go ahead with volunteering. This will also allow current club volunteers and the potential volunteer to see if they can work together well in the club setting. If you are starting your club for the first time, you should set up an informal meeting with your potential volunteer before your first session.
+Nodig de persoon uit voor de club zodat je hem/haar kunt ontmoeten en hij/zij meer te weten kan komen over de clubomgeving. Als je club online activiteiten organiseert, kun je online vergaderen. Het moet een informele bijeenkomst zijn, maar het moet de huidige clubvrijwilligers en de potentiële vrijwilliger de kans geven om te beslissen of ze willen dat de potentiële vrijwilliger doorgaat met vrijwilligerswerk. Zo kunnen huidige clubvrijwilligers en potentiële vrijwilliger ook kijken of ze goed kunnen samenwerken in de clubsetting. Als je voor de eerste keer met je club begint, moet je voor je eerste sessie een informele ontmoeting regelen met je potentiële vrijwilliger.
 
-### 4. Background checks (dependent on region)
+### 4. Antecedentenonderzoek (afhankelijk van regio)
 
-Background checks are useful for voluntary coding clubs; in some regions a background check is mandatory to work with young people. We understand that in some regions it is more difficult to access background checks or that it may be expensive, so that is why reference checks and utilising the rest of the volunteer recruitment process is important.
+Antecedentenonderzoeken zijn nuttig voor vrijwillige codeerclubs; in sommige regio's is een antecedentenonderzoek verplicht om met jongeren te werken. We begrijpen dat het in sommige regio's moeilijker is om toegang te krijgen tot antecedentenonderzoek of dat het duur kan zijn, daarom zijn referentiecontroles en het gebruik van de rest van het wervingsproces voor vrijwilligers belangrijk.
 
-### 5. Referees (optional)
+### 5. Referenten (optioneel)
 
-It can be really useful to ask for referees and to check those references to determine if a volunteer is suitable to work with young people and/or vulnerable adults.
+Het kan heel nuttig zijn om referenten te vragen en die referenties te checken om te bepalen of een vrijwilliger geschikt is om met jongeren en/of kwetsbare volwassenen te werken.
 
-If you have your own application form, you could use this as a space to ask for details of referees. If you haven’t collected referees in the application form, you can ask for them after the informal meeting. Referees can be colleagues, teachers, lecturers, or a friend who knows the potential volunteer well. Volunteers can be referred to the club by another existing club volunteer, this person can also act as a referee.
+Als je een eigen aanvraagformulier heeft, kun je dit gebruiken als een ruimte om gegevens van referenten op te vragen. Als je geen referenten hebt verzameld in het aanvraagformulier, kun je deze na de informele bijeenkomst opvragen. Referenten kunnen collega's, docenten, docenten of een vriend zijn die de potentiële vrijwilliger goed kent. Vrijwilligers kunnen door een andere bestaande clubvrijwilliger naar de club worden verwezen, deze persoon kan ook als referent optreden.
 
-**Tip**: When you check references, it is often best to phone the referee as people may be inclined to give a more honest perspective than in writing.
+**Tip**: Als je referenties checkt, is het vaak het beste om de referent te bellen, omdat mensen geneigd kunnen zijn om een eerlijker perspectief te geven dan schriftelijk.
 
 --- save ---
 
 <p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">
-Ensure you're <span style="color: #0faeb0">logged into your Raspberry Pi Foundation account</span> to save your progress, otherwise your completion will not be recorded. Use the <a href="https://my.raspberrypi.org/login">'Log in'</a> link in the navigation menu to log in.
+Zorg ervoor dat je <span style="color: #0faeb0">bent ingelogd op je Raspberry Pi Foundation account</span> om je voortgang op te slaan, anders wordt je voltooiing niet geregistreerd. Gebruik de <a href="https://my.raspberrypi.org/login">'Inloggen'</a> link in het navigatiemenu om in te loggen.
 </p>
