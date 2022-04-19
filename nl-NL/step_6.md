@@ -1,66 +1,66 @@
-## Abuse and disclosures
+## Misbruik en bekendmakingen
 
-A vast majority of young people take part in our clubs without encountering abuse. However, it is important that volunteers are aware of what to do when they become aware of abuse either through observation or through a young person telling you about abuse (disclosure). Most Raspberry Pi Foundation clubs create an environment in which many young people feel particularly comfortable, which can help encourage disclosures at the club.
+Een overgrote meerderheid van de jongeren neemt deel aan onze clubs zonder te worden misbruikt. Het is echter belangrijk dat vrijwilligers weten wat ze moeten doen als ze zich bewust worden van mishandeling, hetzij door observatie, hetzij door een jongere die je over misbruik vertelt (openbaarmaking). De meeste Raspberry Pi Foundation clubs creëren een omgeving waarin veel jonge mensen zich bijzonder op hun gemak voelen, wat kan helpen om onthullingen in de club te stimuleren.
 
-![Three young people standing.](images/7-Diverse-Mix.png){:target='_blank'}
+![Drie jonge mensen staan.](images/7-Diverse-Mix.png){:target='_blank'}
 
-Child abuse is generally categorised as neglect, physical abuse, emotional abuse, sexual abuse, or radicalisation. Other aspects to be aware of include peer abuse, organised abuse, and online abuse.
+Kindermishandeling wordt over het algemeen gecategoriseerd als verwaarlozing, lichamelijke mishandeling, emotionele mishandeling, seksueel misbruik of radicalisering. Andere aspecten om rekening mee te houden zijn onder meer misbruik door leeftijdsgenoten, georganiseerd misbruik en online misbruik.
 
-### Types of abuse: neglect
+### Soorten misbruik: verwaarlozing
 
-Neglect can be defined in terms of an omission, where a young person suffers significant harm or impairment of development by being deprived of food, clothing, warmth, hygiene, intellectual stimulation, supervision and safety, attachment to and affection from adults, and/or medical care.
+Verwaarlozing kan worden gedefinieerd in termen van een omissie, waarbij een jongere aanzienlijke schade lijdt of zijn ontwikkeling belemmert doordat hij wordt beroofd van voedsel, kleding, warmte, hygiëne, intellectuele stimulatie, toezicht en veiligheid, gehechtheid aan en genegenheid van volwassenen, en/of medische zorg.
 
-[Further resources and definition from the NSPCC (UK)](https://www.nspcc.org.uk/what-is-child-abuse/types-of-abuse/neglect/){:target='_blank'}
+[Verdere bronnen en definitie van de NSPCC (VK)](https://www.nspcc.org.uk/what-is-child-abuse/types-of-abuse/neglect/){:target='_blank'}
 
-### Types of abuse: physical abuse
+### Soorten mishandeling: fysieke mishandeling
 
-Physical abuse of a young person is that which results in actual or potential physical harm from an interaction, or lack of interaction, which is reasonably within the control of a parent or person in a position of responsibility, power, or trust. There may be single or repeated incidents.
+Lichamelijke mishandeling van een jongere is datgene wat resulteert in feitelijke of potentiële fysieke schade door een interactie, of een gebrek aan interactie, die redelijkerwijs binnen de macht ligt van een ouder of persoon in een positie van verantwoordelijkheid, macht of vertrouwen. Er kunnen eenmalige of herhaalde incidenten zijn.
 
-Physical abuse can involve:
+Lichamelijke mishandeling kan betrekking hebben op:
 
-* Severe physical punishment
-* Beating, slapping, hitting, or kicking
-* Pushing, shaking, or throwing
-* Terrorising with threats
+* Zware fysieke straffen
+* Slaan of schoppen
+* Duwen, schudden of gooien
+* Terroriseren met bedreigingen
 
-[Further resources and definition from the NSPCC (UK)](https://www.nspcc.org.uk/what-is-child-abuse/types-of-abuse/physical-abuse/){:target='_blank'}
+[Verdere bronnen en definitie van de NSPCC (VK)](https://www.nspcc.org.uk/what-is-child-abuse/types-of-abuse/physical-abuse/){:target='_blank'}
 
-### Types of abuse: emotional abuse
+### Soorten mishandeling: emotionele mishandeling
 
-Emotional abuse is normally to be found in the relationship between a parent, guardian, or caregiver and a young person rather than in a specific event or pattern of events. It occurs when a young person’s needs for affection, approval, consistency, and security are not met. It is rarely manifested in terms of physical symptoms.
+Emotioneel misbruik komt normaal gesproken voor in de relatie tussen een ouder, voogd of verzorger en een jongere, en niet in een specifieke gebeurtenis of patroon van gebeurtenissen. Het treedt op wanneer niet wordt voldaan aan de behoeften van een jongere aan genegenheid, goedkeuring, consistentie en veiligheid. Het manifesteert zich zelden in termen van lichamelijke symptomen.
 
-For example:
+Bijvoorbeeld:
 
-* Persistent criticism
-* Sarcasm or hostility
-* Emotional unavailability
-* Use of unreasonable or harsh disciplinary measures
+* Aanhoudende kritiek
+* Sarcasme of vijandigheid
+* Emotionele onbeschikbaarheid
+* Gebruik van onredelijke of harde disciplinaire maatregelen
 
-[Further resources and definition from the NSPCC (UK)](https://www.nspcc.org.uk/what-is-child-abuse/types-of-abuse/emotional-abuse/){:target='_blank'}
+[Verdere bronnen en definitie van de NSPCC (VK)](https://www.nspcc.org.uk/what-is-child-abuse/types-of-abuse/emotional-abuse/){:target='_blank'}
 
-### Types of abuse: sexual abuse
+### Soorten misbruik: seksueel misbruik
 
-Sexual abuse occurs when a young person is used by another person for their gratification or sexual arousal, or for that of others. This doesn't have to be physical contact and it can happen online. Sometimes the young person won't understand that what's happening to them is abuse. They may not even understand that it's wrong.
+Er is sprake van seksueel misbruik wanneer een jongere door een ander wordt gebruikt voor zijn of haar bevrediging of seksuele opwinding, of voor die van anderen. Dit hoeft geen fysiek contact te zijn en kan online gebeuren. Soms zal de jongere niet begrijpen dat wat er met hem gebeurt misbruik is. Ze begrijpen misschien niet eens dat het verkeerd is.
 
-[Further resources and definition from the NSPCC (UK)](https://www.nspcc.org.uk/what-is-child-abuse/types-of-abuse/child-sexual-abuse/)
+[Verdere bronnen en definitie van de NSPCC (VK)](https://www.nspcc.org.uk/what-is-child-abuse/types-of-abuse/child-sexual-abuse/)
 
-### Types of abuse: radicalisation
+### Soorten misbruik: radicalisering
 
-Young people at risk of radicalisation may be victims of other forms of abuse, such as bullying or discrimnation, that make them easy targets for extremists.
+Jongeren die het risico lopen te radicaliseren, kunnen het slachtoffer zijn van andere vormen van misbruik, zoals pesten of discriminatie, waardoor ze een gemakkelijk doelwit zijn voor extremisten.
 
-Radicalisation can be difficult to notice, as it is similar to some normal teenage behaviours. Here are some signs that a person or group might be attempting to radicalise a young person:
+Radicalisering kan moeilijk op te merken zijn, omdat het vergelijkbaar is met normaal tienergedrag. Hier zijn enkele tekenen dat een persoon of groep een jongere zou kunnen radicaliseren:
 
-- The young person isolates themselves from family and friends
-- The young person talks as if from a scripted speech
-- The young person is unwilling or unable to discuss their views
-- The young person shows a suddenly disrespectful attitude towards others
-- The young person has increased levels of anger
-- The young person is increasingly secretive, especially around internet use
+- De jongere isoleert zich van familie en vrienden
+- De jongere praat alsof uit een geschreven toespraak
+- De jongere is niet bereid of niet in staat om over zijn of haar mening te praten
+- De jongere vertoont een plotseling respectloze houding ten opzichte van anderen
+- De jongere heeft een verhoogde mate van woede
+- De jongere doet steeds geheimzinniger, vooral rond internetgebruik
 
-[Further resources and definition from the NSPCC (UK)](https://www.nspcc.org.uk/keeping-children-safe/reporting-abuse/dedicated-helplines/protecting-children-from-radicalisation/)
+[Verdere bronnen en definitie van de NSPCC (VK)](https://www.nspcc.org.uk/keeping-children-safe/reporting-abuse/dedicated-helplines/protecting-children-from-radicalisation/)
 
 --- save ---
 
 <p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">
-Ensure you're <span style="color: #0faeb0">logged into your Raspberry Pi Foundation account</span> to save your progress, otherwise your completion will not be recorded. Use the <a href="https://my.raspberrypi.org/login">'Log in'</a> link in the navigation menu to log in.
+Zorg ervoor dat je <span style="color: #0faeb0">bent ingelogd op je Raspberry Pi Foundation account</span> om je voortgang op te slaan, anders wordt je voltooiing niet geregistreerd. Gebruik de <a href="https://my.raspberrypi.org/login">'Inloggen'</a> link in het navigatiemenu om in te loggen.
 </p>
