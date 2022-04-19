@@ -1,55 +1,55 @@
-## What is child safeguarding?
+## Wat is kinderbescherming?
 
-Safeguarding is the actions taken to promote the welfare of children and protect them from harm.
+Bescherming van kinderen wordt gewaarborgd door de maatregelen die worden genomen om het welzijn van kinderen te bevorderen en hen te beschermen tegen schade.
 
 <p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">
-Ensure you're <span style="color: #0faeb0">logged into your Raspberry Pi Foundation account</span> to save your progress, otherwise your completion will not be recorded. Use the <a href="https://my.raspberrypi.org/login">'Log in'</a> link in the navigation menu to log in.
+Zorg ervoor dat je <span style="color: #0faeb0">bent ingelogd op je Raspberry Pi Foundation account</span> om je voortgang op te slaan, anders wordt je voltooiing niet geregistreerd. Gebruik de <a href="https://my.raspberrypi.org/login">'Inloggen'</a> link in het navigatiemenu om in te loggen.
 </p>
 
-![Three young people standing.](images/3-RPF-Kids.png)
+![Drie jonge mensen staan.](images/3-RPF-Kids.png)
 
-This learning guide has been created to give all volunteers of the Raspberry Pi Foundation and their programmes (Code Club, CoderDojo, Raspberry Jams, and Astro Pi) the opportunity to learn about best practices in child safeguarding.
+Deze leergids is gemaakt om alle vrijwilligers van de Raspberry Pi Foundation en hun programma's (Code Club, CoderDojo, Raspberry Jams en Astro Pi) de kans te geven om te leren over de best practices op het gebied van kinderbescherming.
 
-Once completed, you will have:
+Eenmaal voltooid, heb je:
 
-* A basic awareness of the key issues in relation to child safeguarding in a coding club
-* An understanding of how to implement international best practices in child safeguarding
+* Een basisbewustzijn van de belangrijkste kwesties met betrekking tot de bescherming van kinderen in een codeerclub
+* Inzicht in hoe internationale best practices op het gebied van kinderbescherming kunnen worden geïmplementeerd
 
-It will take about 20 minutes to complete this learning guide.
+Het duurt ongeveer 20 minuten om deze leergids af te ronden.
 
-### What topics will be covered?
+### Welke onderwerpen komen aan bod?
 
-There are many ways to ensure your club is a safe space for young people to learn and engage with technology.
+Er zijn veel manieren om ervoor te zorgen dat jouw club een veilige plek is voor jonge mensen om te leren en zich bezig te houden met technologie.
 
-Below are some of the topics that will be covered:
+Hieronder staan enkele van de onderwerpen die zullen worden behandeld:
 
-* Background checks
-* Legislation
-* How to recruit volunteers
-* Code of behaviour
-* Types of abuse
-* How to implement processes for reporting abuse
-* Example scenarios in a coding club
-* How to run safe online sessions
+* Antecedentenonderzoek
+* Wetgeving
+* Hoe vrijwilligers te werven
+* Gedragscode
+* Soorten misbruik
+* Hoe processen te implementeren voor het melden van misbruik
+* Voorbeeldscenario's in een codeerclub
+* Veilige online sessies uitvoeren
 
-### Why is child safeguarding important?
+### Waarom is kinderbescherming belangrijk?
 
-All programmes run and supported by the Raspberry Pi Foundation should always be a safe space for everyone. By maintaining a safe environment, you are allowing young people to thrive and learn to code completely carefree.
+Alle programma's die worden uitgevoerd en ondersteund door de Raspberry Pi Foundation moeten altijd een veilige plek zijn voor iedereen. Door een veilige omgeving te behouden, laat je jonge mensen opbloeien en volledig zorgeloos leren coderen.
 
-Clubs can have young people in attendance from different schools, backgrounds, and ages. Therefore, it is crucial to make sure this safe space is protected to ensure young people can make new friends and share a common interest.
+Clubs kunnen jongeren van verschillende scholen, achtergronden en leeftijden hebben. Daarom is het van cruciaal belang ervoor te zorgen dat deze veilige ruimte wordt beschermd om ervoor te zorgen dat jongeren nieuwe vrienden kunnen maken en een gemeenschappelijke interesse kunnen delen.
 
-### Legislation
+### Wetgeving
 
-Each club is responsible for ensuring that they abide with the safeguarding legislation in their area. Some jurisdictions will require that all volunteers who work with young people and/or vulnerable persons have background checks before they commence the voluntary activity. Other jurisdictions may require that you have a child protection policy or safeguarding statement.
+Elke club is verantwoordelijk om ervoor te zorgen dat ze zich houden aan de beschermingswetgeving in hun gebied. Sommige rechtsgebieden vereisen dat alle vrijwilligers die met jongeren en/of kwetsbare personen werken, een antecedentenonderzoek ondergaan voordat ze met de vrijwilligersactiviteit beginnen. Andere rechtsgebieden kunnen vereisen dat je een kinderbeschermingsbeleid of beschermingsverklaring hebt.
 
-**Note**: Legislation in the USA can vary from state to state.
+**Opmerking**: De wetgeving in de VS kan van staat tot staat verschillen.
 
 ### Best practices
 
-While it is paramount that you follow legislation in your region regarding child safeguarding, all clubs should try to have best practices in place, even where they are not required by legislation. Some of the best practices your club can adopt that will be covered in this module include:
+Hoewel het van het grootste belang is dat je je houdt aan de wetgeving in jouw regio met betrekking tot de bescherming van kinderen, moeten alle clubs proberen om de beste werkwijzen te hanteren, zelfs als ze niet wettelijk verplicht zijn. Enkele van de best practices die je club kan toepassen en die in deze module worden behandeld, zijn onder meer:
 
-* Volunteer recruitment
-* Code of behaviour
-* Code of behaviour for young people attending online sessions
-* Guide for adults to support young people attending online sessions
-* The reporting process when abuse is disclosed to a volunteer or when a volunteer notices signs of abuse
+* Werving van vrijwilligers
+* Gedragscode
+* Gedragscode voor kinderen die online sessies bijwonen
+* Gids voor volwassenen ter ondersteuning van kinderen die online sessies bijwonen
+* Het meldingsproces wanneer misbruik wordt bekendgemaakt aan een vrijwilliger of wanneer een vrijwilliger tekenen van misbruik opmerkt
