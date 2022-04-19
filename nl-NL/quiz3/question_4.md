@@ -1,13 +1,13 @@
 --- question ---
 ---
-legend: Question 4 of 6
+legend: Vraag 4 van 6
 ---
 
-Aisha seemed like she was lying. Is this:
+Het leek alsof Aisha loog. Is dit:
 
 --- choices ---
-- ( ) A fact or an observation?
+- ( ) Een feit of een observatie?
 
-- (x) An opinion or evaluation? --- /choices ---
+- (x) Een mening of evaluatie? --- /choices ---
 
 --- /question ---
