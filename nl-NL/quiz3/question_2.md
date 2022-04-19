@@ -1,13 +1,13 @@
 --- question ---
 ---
-legend: Question 2 of 6
+legend: Vraag 2 van 6
 ---
 
-John smelt of alcohol. Is this:
+John rook naar alcohol. Is dit:
 
 --- choices ---
-- (x) A fact or an observation?
+- (x) Een feit of een observatie?
 
-- ( ) An opinion or evaluation? --- /choices ---
+- ( ) Een mening of evaluatie? --- /choices ---
 
 --- /question ---
