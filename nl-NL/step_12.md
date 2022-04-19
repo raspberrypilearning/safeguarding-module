@@ -1,60 +1,60 @@
-## That’s almost it
+## Je bent bijna klaar
 
-You’ve completed this short interactive learning guide. Well done!
+Je hebt deze korte interactieve leergids voltooid. Goed gedaan!
 
-You can now test your knowledge with some scenarios. In each scenario, we want you to consider what you definitely would do, what you may do (depending on the circumstances), and what you would not do.
+Je kunt nu je kennis testen met enkele scenario's. In elk scenario willen we dat je overweegt wat je zeker zou doen, wat je zou kunnen doen (afhankelijk van de omstandigheden) en wat je niet zou doen.
 
 ### Kim
 
-**You notice one of the young people at the club, Kim, who is 12 years old, is making a game which focuses on sadness and isolation, and there are some references to suicide. The lead character in the game is also called Kim.**
+**Je merkt dat een van de jonge mensen van de club, Kim, die 12 jaar oud is, een spel maakt waarin verdriet en isolatie centraal staan, en er zijn enkele verwijzingen naar zelfmoord. Het hoofdpersonage in het spel heet ook Kim.**
 
 --- hints --- --- hint ---
 
-In this scenario, you should ensure you check on the young person before you make any assumptions. Kim’s parents or guardians should be informed of the game by the most appropriate person, which may be you, but could be another volunteer or teacher from the club. It may also be relevant to tell the young person's parents or guardians about local support in the area if the volunteer knows what these are; often a general practitioner or local doctor is the best place to initially point a parent or guardian to in this scenario. Most importantly, you should talk to your club organiser, or teacher if in a school setting, and ensure that someone from the club checks on Kim in future sessions.
+In dit scenario moet je ervoor zorgen dat je de jongere spreekt voordat je aannames doet. De ouders of voogden van Kim moeten over het spel worden geïnformeerd door de meest geschikte persoon, jijzelf, maar kunnen ook een andere vrijwilliger of leraar van de club zijn. Het kan ook relevant zijn om de ouders of voogden van de jongere te vertellen over lokale ondersteuning in het gebied als de vrijwilliger weet wat deze zijn; vaak is een huisarts of plaatselijke arts de beste plaats om een ouder of voogd in eerste instantie naar te verwijzen in dit scenario. Het belangrijkste is dat je met de organisator van je club, of leraar als je in een schoolomgeving bent, moet praten en ervoor moet zorgen dat iemand van de club Kim in toekomstige sessies in de gaten houdt.
 
 --- /hint --- --- /hints ---
 
 ### Mark
 
-**One of the young people in the club has come to you and told you that Mark, aged 11, is on his laptop and is looking at pictures of people with "no clothes on and doing strange things".**
+**Een van de jongeren in de club is naar je toe gekomen en heeft je verteld dat Mark, 11 jaar oud, op zijn laptop zit te kijken naar foto's van mensen die "geen kleren aan hebben en rare dingen doen".**
 
 --- hints --- --- hint ---
 
-The main learning from this scenario is to not overreact or make assumptions, as this could have been something quite innocent or accidental like an advert or pop-up. If the matter can be dealt with immediately, then you (or the club organiser) should speak to Mark without assumptions. Then you (or the club organiser) should speak to both sets of parents (or guardians) separately, mainly to ensure this doesn’t happen again in the club. You should ensure the young person who reported this is OK and knows that you are dealing with the situation. You should make the club organiser aware of the situation and perhaps you may organise an online safety session a few weeks after the incident.
+De belangrijkste les van dit scenario is om niet overdreven te reageren of aannames te doen, aangezien dit iets heel onschuldigs of per ongeluk kan zijn geweest, zoals een advertentie of pop-up. Als de zaak onmiddellijk kan worden afgehandeld, moet je (of de cluborganisator) zonder veronderstellingen met Mark praten. Dan moet je (of de organisator van de club) beide groepen ouders (of verzorgers) afzonderlijk aanspreken, vooral om ervoor te zorgen dat dit niet opnieuw gebeurt in de club. Je moet ervoor zorgen dat de jongere die dit heeft gemeld in orde is en weet dat jij met de situatie te maken hebt. Je moet de organisator van de club op de hoogte brengen van de situatie en misschien kun je een paar weken na het incident een online veiligheidssessie organiseren.
 
 --- /hint --- --- /hints ---
 
 ### Zoe
 
-**During an online club session, one of the club members, Zoe, shouts an obscenity at an adult in their home. The adult shouts back. You hear a loud crash, and the club member disappears from your view. You can hear threatening behaviour from the adult and the camera turns off.**
+**Tijdens een online clubsessie roept een van de clubleden, Zoe, een obsceniteit uit naar een volwassene in hun huis. De volwassene roept terug. Je hoort een luide knal en het clublid verdwijnt uit je zicht. Je hoort dreigend gedrag van de volwassene en de camera gaat uit.**
 
 --- hints --- --- hint ---
 
-In this scenario, there is an immediate concern about the welfare of a young person and you have no way of knowing whether the young person is safe. The first thing you need to do is to call the police, who will investigate the incident. The second thing you need to do is call our 24-hour safeguarding number to report what has happened.
+In dit scenario is er een onmiddellijke bezorgdheid over het welzijn van een jongere en weet je niet of de jongere veilig is. Het eerste dat je moet doen, is de politie bellen, die het incident zal onderzoeken. Het tweede dat je moet doen, is ons 24-uurs beveiligingsnummer bellen om te melden wat er is gebeurd.
 
 --- /hint --- --- /hints ---
 
 ### Robert
 
-**During an online session, you notice that Robert, one of the club members, posts sexually explicit language and links to pornographic websites in the comments section.**
+**Tijdens een online sessie merk je dat Robert, een van de clubleden, seksueel expliciete taal en links naar pornografische websites plaatst in de commentarensectie.**
 
 --- hints --- --- hint ---
 
-It’s important to make a record of what Robert has posted, in case this happens again. He may not know the significance of what he has posted, so it’s important that you let his parents or guardians know what happened and provide them with the [parents guide](https://help.coderdojo.com/cdkb/s/article/Parents-guide-to-CoderDojo). Other young people attending the online session may have seen the messages and been affected by them, so it’s important that you contact their parents or guardians as well and let them know what happened and how you intend to follow up.
+Het is belangrijk om vast te leggen wat Robert heeft gepost, voor het geval dit opnieuw gebeurt. Hij weet misschien niet de betekenis van wat hij heeft gepost, dus het is belangrijk dat je zijn ouders of voogden laat weten wat er is gebeurd en hen de [oudergids](https://help.coderdojo.com/cdkb/s/article/Parents-guide-to-CoderDojo)geeft. Andere jongeren die de online sessie bijwonen, hebben de berichten misschien gezien en zijn erdoor geraakt, dus het is belangrijk dat je ook contact opneemt met hun ouders of voogden en hen laat weten wat er is gebeurd en hoe je van plan bent te reageren.
 
 --- /hint --- --- /hints ---
 ### Lisa
 
-**Lisa, one of the young people in your club, has got in touch through a private message on social media to ask for help with a project.**
+**Lisa, een van de jongeren in je club, heeft via een privébericht op sociale media contact opgenomen om hulp te vragen bij een project.**
 
 --- hints --- --- hint ---
 
-One-to-one messaging with young people is not encouraged for any volunteers, either on social media or through other mediums (including email). There are some situations that you may want to respond to the young person: if it is a long time until the next session or there is a deadline for the project to be entered in a competition and you do not want to disappoint the young person. If you do respond, you should encourage that they email you and cc their parent or guardian (or the club organiser or teacher) into the conversation in future or regarding this query.
+Eén-op-één berichten met jongeren worden door vrijwilligers niet aangemoedigd, noch op sociale media, noch via andere media (inclusief e-mail). Er zijn enkele situaties waarin je op de jongere wilt reageren: als het lang duurt tot de volgende sessie of als er een deadline is voor het project om deel te nemen aan een wedstrijd en je wilt de jongere niet teleurstellen. Als je reageert, moet je ze aanmoedigen om je een e-mail te sturen en hun ouder of voogd (of de cluborganisator of leraar) in de toekomst of met betrekking tot deze vraag bij het gesprek te betrekken.
 
 --- /hint --- --- /hints ---
 
 --- save ---
 
 <p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">
-Ensure you're <span style="color: #0faeb0">logged into your Raspberry Pi Foundation account</span> to save your progress, otherwise your completion will not be recorded. Use the <a href="https://my.raspberrypi.org/login">'Log in'</a> link in the navigation menu to log in.
+Zorg ervoor dat je <span style="color: #0faeb0">bent ingelogd op je Raspberry Pi Foundation account</span> om je voortgang op te slaan, anders wordt je voltooiing niet geregistreerd. Gebruik de <a href="https://my.raspberrypi.org/login">'Inloggen'</a> link in het navigatiemenu om in te loggen.
 </p>
