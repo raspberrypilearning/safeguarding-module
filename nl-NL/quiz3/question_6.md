@@ -1,13 +1,13 @@
 --- question ---
 ---
-legend: Question 6 of 6
+legend: Vraag 6 van 6
 ---
 
-Ade was bored. Is this:
+Ad verveelde zich. Is dit:
 
 --- choices ---
-- ( ) A fact or an observation?
+- ( ) Een feit of een observatie?
 
-- (x) An opinion or evaluation? --- /choices ---
+- (x) Een mening of evaluatie? --- /choices ---
 
 --- /question ---
