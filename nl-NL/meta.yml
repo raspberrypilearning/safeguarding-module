@@ -1,7 +1,7 @@
 ---
-title: Safeguarding module
+title: Beschermingsmodule
 hero_image: images/banner.png
-description: Safeguarding module
+description: Beschermingsmodule
 version: 0.1
 listed: false
 copyedit: false
@@ -9,22 +9,22 @@ volunteers: true
 last_tested: 2022-01-05
 steps:
   - 
-    title: What is child safeguarding?
+    title: Wat is kinderbescherming?
   - 
-    title: Recruitment process
+    title: Wervingsproces
   - 
-    title: Induction of new volunteers
+    title: Introductie van nieuwe vrijwilligers
   - 
-    title: Code of behaviour
+    title: Gedragscode
   - 
-    title: Code of behaviour quiz
+    title: Gedragscode quiz
     knowledge_quiz:
       path: quiz1
       version: 1
       questions: 9
       passing_score: 9
   - 
-    title: "Abuse and disclosures"
+    title: "Misbruik en bekendmakingen"
   - 
     title: How to run safe online sessions
   - 
