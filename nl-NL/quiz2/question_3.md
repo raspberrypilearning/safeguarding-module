@@ -1,14 +1,14 @@
 --- question ---
 ---
-legend: Question 3 of 3
+legend: Vraag 3 van 3
 ---
 
-Do you need to make sure that every young person has a parent's or guardian's consent before they attend an online session?
+Moet je ervoor zorgen dat elke jongere toestemming heeft van een ouder of voogd voordat ze een online sessie bijwonen?
 
 --- choices ---
 
-- ( ) No
-- (x) Yes
+- ( ) Nee
+- (x) Ja
 
 --- /choices ---
 
