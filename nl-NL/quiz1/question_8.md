@@ -1,13 +1,13 @@
 --- question ---
 ---
-legend: Question 8 of 9
+legend: Vraag 8 van 9
 ---
 
-Is physical or emotional punishment an example of good practice or poor practice?
+Is fysieke of emotionele bestraffing een voorbeeld van goede praktijk of slechte gewoonte?
 
 --- choices ---
-- ( ) Good practice
+- ( ) Goede gewoonte
 
-- (x) Poor practice --- /choices ---
+- (x) Slechte gewoonte --- /choices ---
 
 --- /question ---
