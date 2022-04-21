@@ -1,6 +1,6 @@
 --- question ---
 ---
-legend: Vraag 1 van 6
+legenda: Vraag 1 van 6
 ---
 
 Rita maakte geen oogcontact. Is dit:
