@@ -1,9 +1,9 @@
 --- question ---
 ---
-legend: Vraag 3 van 9
+legenda: Vraag 3 van 9
 ---
 
-Is het een goede gewoonte of een slechte gewoonte om beledigende taal te gebruiken in je club?
+Is het een goede of slechte gewoonte om beledigende taal te gebruiken in je club?
 
 --- choices ---
 - ( ) Goede gewoonte
