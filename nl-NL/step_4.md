@@ -1,6 +1,6 @@
 ## Gedragscode
 
-Elke persoon in de club moet op de hoogte zijn van de gedragscode en deze naleven. Ons gedragscodedocument is beschikbaar op [rpf.io/code-of-behaviour](http://rpf.io/code-of-behaviour){:target='_blank'}
+Elke persoon in de club moet op de hoogte zijn van de gedragscode en deze naleven. Ons gedragscode document is beschikbaar op [rpf.io/code-of-behaviour](http://rpf.io/code-of-behaviour){:target='_blank'}
 
 <embed src="images/Raspberry_Pi_Foundation-safeguarding-code-of-behaviour.pdf" width="790" height="500" 
  type="application/pdf">
