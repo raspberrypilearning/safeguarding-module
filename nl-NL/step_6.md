@@ -1,14 +1,14 @@
-## Misbruik en bekendmakingen
+## Het signaleren en melden van misbruik
 
 Een overgrote meerderheid van de jongeren neemt deel aan onze clubs zonder te worden misbruikt. Het is echter belangrijk dat vrijwilligers weten wat ze moeten doen als ze zich bewust worden van mishandeling, hetzij door observatie, hetzij door een jongere die je over misbruik vertelt (openbaarmaking). De meeste Raspberry Pi Foundation clubs creëren een omgeving waarin veel jonge mensen zich bijzonder op hun gemak voelen, wat kan helpen om onthullingen in de club te stimuleren.
 
-![Drie jonge mensen staan.](images/7-Diverse-Mix.png){:target='_blank'}
+![Drie staande jonge mensen.](images/7-Diverse-Mix.png){:target='_blank'}
 
 Kindermishandeling wordt over het algemeen gecategoriseerd als verwaarlozing, lichamelijke mishandeling, emotionele mishandeling, seksueel misbruik of radicalisering. Andere aspecten om rekening mee te houden zijn onder meer misbruik door leeftijdsgenoten, georganiseerd misbruik en online misbruik.
 
 ### Soorten misbruik: verwaarlozing
 
-Verwaarlozing kan worden gedefinieerd in termen van een omissie, waarbij een jongere aanzienlijke schade lijdt of zijn ontwikkeling belemmert doordat hij wordt beroofd van voedsel, kleding, warmte, hygiëne, intellectuele stimulatie, toezicht en veiligheid, gehechtheid aan en genegenheid van volwassenen, en/of medische zorg.
+Verwaarlozing kan worden gedefinieerd in termen van een omissie, waarbij een jongere aanzienlijke schade lijdt of in zijn ontwikkeling belemmerd wordt doordat hij wordt beroofd van voedsel, kleding, warmte, hygiëne, intellectuele stimulatie, toezicht en veiligheid, gehechtheid aan en genegenheid van volwassenen, en/of medische zorg.
 
 [Verdere bronnen en definitie van de NSPCC (VK)](https://www.nspcc.org.uk/what-is-child-abuse/types-of-abuse/neglect/){:target='_blank'}
 
@@ -62,5 +62,5 @@ Radicalisering kan moeilijk op te merken zijn, omdat het vergelijkbaar is met no
 --- save ---
 
 <p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">
-Zorg ervoor dat je <span style="color: #0faeb0">bent ingelogd op je Raspberry Pi Foundation account</span> om je voortgang op te slaan, anders wordt je voltooiing niet geregistreerd. Gebruik de <a href="https://my.raspberrypi.org/login">'Inloggen'</a> link in het navigatiemenu om in te loggen.
+Zorg ervoor dat je <span style="color: #0faeb0">bent ingelogd op je Raspberry Pi Foundation account</span> om je voortgang op te slaan, anders word je eindresultaat niet geregistreerd. Gebruik de <a href="https://my.raspberrypi.org/login">'Inloggen'</a> link in het navigatiemenu om in te loggen.
 </p>
