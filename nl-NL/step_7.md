@@ -1,8 +1,8 @@
 ## Veilige online sessies uitvoeren
 
-Misschien wil je online sessies houden voor jongeren in je club die elkaar niet persoonlijk kunnen ontmoeten. We moedigen je aan om dit te doen en hebben bronnen ontwikkeld om je te helpen, inclusief richtlijnen om ervoor te zorgen dat je online sessies zo veilig mogelijk zijn.
+Misschien wil je online sessies houden voor jongeren in je club die elkaar niet persoonlijk kunnen ontmoeten. We moedigen je aan om dit te doen en hebben materiaal ontwikkeld om je te helpen, inclusief richtlijnen om ervoor te zorgen dat je online sessies zo veilig mogelijk zijn.
 
-Lees deze handleidingen door en beantwoord de volgende drie vragen in de volgende stap.
+Lees deze handleidingen door en beantwoord de drie vragen in de volgende stap.
 
 ### [Kader om je te helpen beoordelen hoe je jouw club veilig kunt runnen](https://static.raspberrypi.org/files/clubs/Code_Club_and_CoderDojo_CV_Framework.pdf){:target='_blank'}
 
@@ -35,7 +35,7 @@ Lees deze handleidingen door en beantwoord de volgende drie vragen in de volgend
     </p>
     
     <p spaces-before="0">
-      Je kunt al deze bronnen hier <a href="https://rpf.io/p/en/safeguarding-module-go">downloaden</a>{:target='_blank'}.
+      Je kunt al deze materialen hier <a href="https://rpf.io/p/en/safeguarding-module-go">downloaden</a>{:target='_blank'}.
     </p>
     
     <p spaces-before="0">
@@ -43,5 +43,5 @@ Lees deze handleidingen door en beantwoord de volgende drie vragen in de volgend
     </p>
 
 <p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">
-Zorg ervoor dat je <span style="color: #0faeb0">bent ingelogd op je Raspberry Pi Foundation account</span> om je voortgang op te slaan, anders wordt je voltooiing niet geregistreerd. Gebruik de <a href="https://my.raspberrypi.org/login">'Inloggen'</a> link in het navigatiemenu om in te loggen.
+Zorg ervoor dat je <span style="color: #0faeb0">bent ingelogd op je Raspberry Pi Foundation account</span> om je voortgang op te slaan, anders word je eindresultaat niet geregistreerd. Gebruik de <a href="https://my.raspberrypi.org/login">'Inloggen'</a> link in het navigatiemenu om in te loggen.
 </p>
