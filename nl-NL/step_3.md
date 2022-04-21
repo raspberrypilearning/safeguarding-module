@@ -11,7 +11,7 @@ Als je meerdere vrijwilligers in je club hebt, kun je ook wat sessies met elkaar
 
 ### 2. Selectie
 
-Lijkt de nieuwe vrijwilliger goed bij jouw club te passen? Neem contact met hen op en laat hen weten wanneer je volgende sessie is om te zien of ze aanwezig kunnen zijn. Als je voor de eerste keer met je club begint, moet je voor je eerste sessie een informele ontmoeting regelen met je potentiële vrijwilliger. Als er zorgen zijn tijdens het wervingsproces van de vrijwilliger, wil je ze misschien vertellen dat ze niet goed bij je passen. Kom je er niet uit, dan kun je voor advies contact opnemen met de Raspberry Pi Foundation.
+Lijkt de nieuwe vrijwilliger goed bij jouw club te passen? Neem contact met hen op en laat hen weten wanneer je volgende sessie is om te zien of ze aanwezig kunnen zijn. Als je voor de eerste keer met je club begint, moet je voor je eerste sessie een informele ontmoeting regelen met je potentiële vrijwilliger. Als er zorgen zijn tijdens het wervingsproces van de vrijwilliger, wil je ze misschien vertellen dat ze niet goed bij je club passen. Kom je er niet uit, dan kun je voor advies contact opnemen met de Raspberry Pi Foundation.
 
 ### 3. Eerste clubmaatje
 
@@ -44,5 +44,5 @@ Het hebben van vrijwilligers met deze eigenschappen is wenselijk om van je club 
 --- save ---
 
 <p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">
-Zorg ervoor dat je <span style="color: #0faeb0">bent ingelogd op je Raspberry Pi Foundation account</span> om je voortgang op te slaan, anders wordt je voltooiing niet geregistreerd. Gebruik de <a href="https://my.raspberrypi.org/login">'Inloggen'</a> link in het navigatiemenu om in te loggen.
+Zorg ervoor dat je <span style="color: #0faeb0">bent ingelogd op je Raspberry Pi Foundation account</span> om je voortgang op te slaan, anders word je eindresultaat niet geregistreerd. Gebruik de <a href="https://my.raspberrypi.org/login">'Inloggen'</a> link in het navigatiemenu om in te loggen.
 </p>
