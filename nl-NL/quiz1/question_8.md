@@ -1,9 +1,9 @@
 --- question ---
 ---
-legend: Vraag 8 van 9
+legenda: Vraag 8 van 9
 ---
 
-Is fysieke of emotionele bestraffing een voorbeeld van goede praktijk of slechte gewoonte?
+Is het geven van fysieke of verbale straf een voorbeeld van een goede of slechte gewoonte?
 
 --- choices ---
 - ( ) Goede gewoonte
