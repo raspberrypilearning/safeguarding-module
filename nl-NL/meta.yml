@@ -1,7 +1,7 @@
 ---
-title: Beschermingsmodule
+title: Gids ter bescherming van deelnemers
 hero_image: images/banner.png
-description: Beschermingsmodule
+description: Gids ter bescherming van deelnemers
 version: 0.1
 listed: false
 copyedit: false
@@ -9,7 +9,7 @@ volunteers: true
 last_tested: 2022-01-05
 steps:
   - 
-    title: Wat is kinderbescherming?
+    title: Hoe zorgen we voor een veilige omgeving voor kinderen?
   - 
     title: Wervingsproces
   - 
@@ -24,7 +24,7 @@ steps:
       questions: 9
       passing_score: 9
   - 
-    title: "Misbruik en bekendmakingen"
+    title: "Het signaleren en melden van misbruik"
   - 
     title: Veilige online sessies uitvoeren
   - 
@@ -37,7 +37,7 @@ steps:
   - 
     title: "Wat te doen als…"
   - 
-    title: Details van misbruik vastleggen
+    title: Gegevens van misbruik vastleggen
   - 
     title: Observaties en evaluaties quiz
     knowledge_quiz:
