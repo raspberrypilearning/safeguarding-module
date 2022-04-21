@@ -1,6 +1,6 @@
 ## Je bent bijna klaar
 
-Je hebt deze korte interactieve leergids voltooid. Goed gedaan!
+Je hebt deze korte interactieve gids voltooid. Goed gedaan!
 
 Je kunt nu je kennis testen met enkele scenario's. In elk scenario willen we dat je overweegt wat je zeker zou doen, wat je zou kunnen doen (afhankelijk van de omstandigheden) en wat je niet zou doen.
 
@@ -20,13 +20,13 @@ In dit scenario moet je ervoor zorgen dat je de jongere spreekt voordat je aanna
 
 --- hints --- --- hint ---
 
-De belangrijkste les van dit scenario is om niet overdreven te reageren of aannames te doen, aangezien dit iets heel onschuldigs of per ongeluk kan zijn geweest, zoals een advertentie of pop-up. Als de zaak onmiddellijk kan worden afgehandeld, moet je (of de cluborganisator) zonder veronderstellingen met Mark praten. Dan moet je (of de organisator van de club) beide groepen ouders (of verzorgers) afzonderlijk aanspreken, vooral om ervoor te zorgen dat dit niet opnieuw gebeurt in de club. Je moet ervoor zorgen dat de jongere die dit heeft gemeld in orde is en weet dat jij met de situatie te maken hebt. Je moet de organisator van de club op de hoogte brengen van de situatie en misschien kun je een paar weken na het incident een online veiligheidssessie organiseren.
+De belangrijkste les van dit scenario is om niet overdreven te reageren of aannames te doen, aangezien dit iets heel onschuldigs of per ongeluk kan zijn geweest, zoals een advertentie of pop-up. Als de zaak onmiddellijk kan worden afgehandeld, moet je (of de cluborganisator) zonder veronderstellingen met Mark praten. Dan moet je (of de organisator van de club) beide groepen ouders (of verzorgers) afzonderlijk aanspreken, vooral om ervoor te zorgen dat dit niet opnieuw gebeurt in de club. Je moet ervoor zorgen dat de jongere die dit heeft gemeld in orde is en weet dat jij met de situatie bezig bent. Je moet de organisator van de club op de hoogte brengen van de situatie en misschien kun je een paar weken na het incident een online veiligheidssessie organiseren.
 
 --- /hint --- --- /hints ---
 
 ### Zoe
 
-**Tijdens een online clubsessie roept een van de clubleden, Zoe, een obsceniteit uit naar een volwassene in hun huis. De volwassene roept terug. Je hoort een luide knal en het clublid verdwijnt uit je zicht. Je hoort dreigend gedrag van de volwassene en de camera gaat uit.**
+**Tijdens een online clubsessie scheldt een van de clubleden, Zoe, naar een volwassene in hun huis. De volwassene roept terug. Je hoort een luide knal en het clublid verdwijnt uit je zicht. Je hoort dreigend gedrag van de volwassene en de camera gaat uit.**
 
 --- hints --- --- hint ---
 
@@ -36,11 +36,11 @@ In dit scenario is er een onmiddellijke bezorgdheid over het welzijn van een jon
 
 ### Robert
 
-**Tijdens een online sessie merk je dat Robert, een van de clubleden, seksueel expliciete taal en links naar pornografische websites plaatst in de commentarensectie.**
+**Tijdens een online sessie merk je dat Robert, een van de clubleden, seksueel expliciete taal en links naar pornografische websites plaatst in de comments.**
 
 --- hints --- --- hint ---
 
-Het is belangrijk om vast te leggen wat Robert heeft gepost, voor het geval dit opnieuw gebeurt. Hij weet misschien niet de betekenis van wat hij heeft gepost, dus het is belangrijk dat je zijn ouders of voogden laat weten wat er is gebeurd en hen de [oudergids](https://help.coderdojo.com/cdkb/s/article/Parents-guide-to-CoderDojo)geeft. Andere jongeren die de online sessie bijwonen, hebben de berichten misschien gezien en zijn erdoor geraakt, dus het is belangrijk dat je ook contact opneemt met hun ouders of voogden en hen laat weten wat er is gebeurd en hoe je van plan bent te reageren.
+Het is belangrijk om vast te leggen wat Robert heeft gepost, voor het geval dit opnieuw gebeurt. Hij weet misschien niet de betekenis van wat hij heeft gepost, dus het is belangrijk dat je zijn ouders of voogden laat weten wat er is gebeurd en hen de [gids voor ouders](https://help.coderdojo.com/cdkb/s/article/Parents-guide-to-CoderDojo)geeft. Andere jongeren die de online sessie bijwonen, hebben de berichten misschien gezien en zijn erdoor geraakt, dus het is belangrijk dat je ook contact opneemt met hun ouders of voogden en hen laat weten wat er is gebeurd en hoe je van plan bent te reageren.
 
 --- /hint --- --- /hints ---
 ### Lisa
@@ -49,12 +49,12 @@ Het is belangrijk om vast te leggen wat Robert heeft gepost, voor het geval dit 
 
 --- hints --- --- hint ---
 
-Eén-op-één berichten met jongeren worden door vrijwilligers niet aangemoedigd, noch op sociale media, noch via andere media (inclusief e-mail). Er zijn enkele situaties waarin je op de jongere wilt reageren: als het lang duurt tot de volgende sessie of als er een deadline is voor het project om deel te nemen aan een wedstrijd en je wilt de jongere niet teleurstellen. Als je reageert, moet je ze aanmoedigen om je een e-mail te sturen en hun ouder of voogd (of de cluborganisator of leraar) in de toekomst of met betrekking tot deze vraag bij het gesprek te betrekken.
+Eén-op-één berichten tussen vrijwilligers en jongeren worden niet aangemoedigd, noch op sociale media, noch via andere media (inclusief e-mail). Er zijn enkele situaties waarin je op de jongere wilt reageren: als het lang duurt tot de volgende sessie of als er een deadline is voor het project om deel te nemen aan een wedstrijd en je wilt de jongere niet teleurstellen. Als je reageert, moet je ze aanmoedigen om je een e-mail te sturen en hun ouder of voogd (of de cluborganisator of leraar) in de toekomst of met betrekking tot deze vraag bij het gesprek te betrekken.
 
 --- /hint --- --- /hints ---
 
 --- save ---
 
 <p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">
-Zorg ervoor dat je <span style="color: #0faeb0">bent ingelogd op je Raspberry Pi Foundation account</span> om je voortgang op te slaan, anders wordt je voltooiing niet geregistreerd. Gebruik de <a href="https://my.raspberrypi.org/login">'Inloggen'</a> link in het navigatiemenu om in te loggen.
+Zorg ervoor dat je <span style="color: #0faeb0">bent ingelogd op je Raspberry Pi Foundation account</span> om je voortgang op te slaan, anders word je eindresultaat niet geregistreerd. Gebruik de <a href="https://my.raspberrypi.org/login">'Inloggen'</a> link in het navigatiemenu om in te loggen.
 </p>
