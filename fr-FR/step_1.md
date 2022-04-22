@@ -40,7 +40,7 @@ Les clubs peuvent accueillir des jeunes de différentes écoles, de différents 
 
 ### Législation
 
-Chaque club est responsable du respect de la législation en matière de protection dans sa région. Certaines juridictions exigeront que tous les bénévoles qui travaillent avec des jeunes et/ou des personnes vulnérables fassent l'objet d'une vérification de leurs antécédents avant de commencer leur activité bénévole. D'autres juridictions peuvent exiger que vous ayez une politique de protection des enfants ou une déclaration de protection.
+Chaque club est responsable du respect de la législation en matière de protection de sa région. Certaines juridictions exigeront que tous les bénévoles qui travaillent avec des jeunes et/ou des personnes vulnérables fassent l'objet d'une vérification de leurs antécédents avant de commencer leur activité bénévole. D'autres juridictions peuvent exiger que vous ayez une politique de protection des enfants ou une déclaration de protection.
 
 **Remarque** : La législation aux États-Unis peut varier d'un État à l'autre.
 
