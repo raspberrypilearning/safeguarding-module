@@ -1,6 +1,6 @@
 ## Accueil des nouveaux bénévoles
 
-Lorsque vous rencontrerez un bénévole pour la première fois, il y aura quelques exigences d'accueil. Cela implique notamment de reconnaître les caractéristiques souhaitables des bénévoles ; même si un bénévole peut ne pas avoir tous ces caractéristiques, il devrait certainement en avoir au moins un.
+Lorsque vous rencontrerez un bénévole pour la première fois, il y aura quelques exigences d'accueil. Cela implique notamment de reconnaître les caractéristiques souhaitables des bénévoles ; même si un bénévole peut ne pas avoir tous ces caractéristiques, il devrait certainement en avoir au moins une.
 
 ![Un bénévole adulte.](images/10-Adult.png){:width="400px"}.
 ### 1. Identification de la formation
@@ -28,7 +28,7 @@ Réfléchissez à trois caractéristiques que vous recherchez chez de nouveaux b
 * Positif
 * Créatif
 * Accessible
-* Encourageant
+* Soutenant
 * Engagé
 * Collaboratif
 * Encourageant
