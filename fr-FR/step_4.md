@@ -26,7 +26,7 @@ Chaque personne du club doit connaître le code de conduite et suivre ces attent
     Un avertissement verbal
   </li>
   <li>
-    Un avertissement écrit formel, au terme duquel toute nouvelle indiscrétion entraînera la suspension du club ou la fin de son rôle de bénévole au sein du club
+    Un avertissement écrit formel, au terme duquel toute nouvelle indiscrétion entraînera la suspension de la part du club ou la fin de son rôle de bénévole au sein du club
   </li>
   <li>
     Suspension du bénévole du club
