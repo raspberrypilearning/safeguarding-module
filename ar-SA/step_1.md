@@ -34,22 +34,22 @@
 
 ### لماذا تعدّ حماية الطفل مهمّة؟
 
-يجب أن تكون جميع البرامج الّتي تديرها وتدعمها مؤسّسة Raspberry Pi آمنة للجميع. By maintaining a safe environment, you are allowing young people to thrive and learn to code completely carefree.
+يجب أن تكون جميع البرامج الّتي تديرها وتدعمها مؤسّسة Raspberry Pi آمنة للجميع. من خلال المحافظة على بيئة آمنة، فإنّك تسمح للأطفال وبالنجاح وتعلّم البرمجة بشكل خالٍ من المشاكل.
 
-Clubs can have young people in attendance from different schools, backgrounds, and ages. Therefore, it is crucial to make sure this safe space is protected to ensure young people can make new friends and share a common interest.
+من الممكن أن يكون في النوادي شباب من مختلف المدارس والخلفيات والأعمار. لذلك، من المهمّ التأكّد من حماية هذه المساحة الآمنة، لضمان تمكّن الأطفال من تكوين صداقات جديدة والمشاركة في الاهتمامات المشتركة.
 
 ### التشريعات
 
-Each club is responsible for ensuring that they abide with the safeguarding legislation in their area. Some jurisdictions will require that all volunteers who work with young people and/or vulnerable persons have background checks before they commence the voluntary activity. Other jurisdictions may require that you have a child protection policy or safeguarding statement.
+كلّ نادٍ مسؤول عن ضمان التزامه بتشريعات الحماية في منطقته. وستطلب بعض الولايات القضائية أن يجري جميع المتطوعين الذين يعملون مع الشباب و/أو الأشخاص المستضعفين التحقق من خلفيتهم قبل أن يبدؤوا بالنشاط التطوعي. وقد تطلّب الولايات القضائيّة الأخرى أن تكون لديك سياسة لحماية الطفل أو بين بالحماية.
 
-**Note**: Legislation in the USA can vary from state to state.
+**ملاحظة**: التشريعات في الولايات المتحدة الأمريكية يمكن أن تختلف من ولاية إلى أخرى.
 
 ### أفضل الممارسات
 
-While it is paramount that you follow legislation in your region regarding child safeguarding, all clubs should try to have best practices in place, even where they are not required by legislation. Some of the best practices your club can adopt that will be covered in this module include:
+في حين أنه من المهمّ للغاية أن تتبع التشريعات في منطقتك فيما يتعلق بحماية الطفل، يجب على جميع الأندية محاولة الحصول على أفضل الممارسات، حتى عندما لا تكون مطلوبة بموجب التشريعات. تشمل بعض أفضل الممارسات التي يمكن لناديك اعتمادها والتي سيتم تغطيتها في هذه الوحدة ما يلي:
 
-* Volunteer recruitment
-* Code of behaviour
-* Code of behaviour for young people attending online sessions
-* Guide for adults to support young people attending online sessions
-* The reporting process when abuse is disclosed to a volunteer or when a volunteer notices signs of abuse
+* توظيف المتطوّعين
+* قواعد السلوك
+* قواعد السلوك للأطفال الّذسن يحضرون الجلسات الإلكترونيّة عن بعد
+* دليل للبالغين لدعم الأطفال الّذين يحضرون الجلسات الإلكترونيّة عن بعد
+* عمليّة الإبلاغ عند اكتشاف إساءة حاصلة لمتطوّع، أو عندما يلاحظ متطوّع علامة من علامات سوء المعاملة
