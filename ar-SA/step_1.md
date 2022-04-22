@@ -6,7 +6,7 @@
 تأكّد من أنّك <span style="color: #0faeb0">سجّلت دخولك إلى حساب مؤسّسة Raspberry Pi</span> لحفظ تقدّمك، وإلّا فلن يُسجَّل إتمامك. استخدم رابط <a href="https://my.raspberrypi.org/login">"تسجيل الدخول"</a> في قائمة التنقّل لتسجيل الدخول.
 </p>
 
-![Three young people standing.](images/3-RPF-Kids.png)
+![ثلاثة أطفال واقفون.](images/3-RPF-Kids.png)
 
 أُنشِئَ دليل التعلّم هذا لمنح الفرصة لجميع المتطوّعين في مؤسّسة Raspberry Pi وبرامجهم (Code Club وCoderDojo وRaspberry Jams وAstro Pi)، للتعرّف على أفضل الممارسات في حماية الطفل.
 
@@ -44,7 +44,7 @@ Each club is responsible for ensuring that they abide with the safeguarding legi
 
 **Note**: Legislation in the USA can vary from state to state.
 
-### Best practices
+### أفضل الممارسات
 
 While it is paramount that you follow legislation in your region regarding child safeguarding, all clubs should try to have best practices in place, even where they are not required by legislation. Some of the best practices your club can adopt that will be covered in this module include:
 
