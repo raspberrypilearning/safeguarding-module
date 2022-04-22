@@ -1,4 +1,4 @@
-## Recruitment process
+## عمليّة التوظيف
 
 Typically, it is the club organiser's responsibility to recruit and onboard new volunteers. From time to time, volunteers may be involved in this process to help the club organiser, in particular to help guide the new volunteer in their first session.
 
