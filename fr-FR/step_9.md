@@ -16,7 +16,7 @@ Si vous avez des doutes, vous pouvez remplir notre [formulaire de protection en 
 1. Ne faites pas de fausses promesses (notamment en matière de secret).
 1. Expliquez-lui que si ce qu'il vous dit est sérieux, vous devrez en parler à une autre personne.
 1. Ne demandez pas au jeune de répéter l'histoire inutilement.
-1. Ne posez des questions qu'à des fins de clarification. Faites preuve de soutien, mais ne posez pas de questions ou ne cherchez pas à obtenir des détails intimes au-delà de ceux qui sont bénévoles par le jeune.
+1. Ne posez des questions qu'à des fins de clarification. Faites preuve de soutien, mais ne posez pas de questions ou ne cherchez pas à obtenir des détails intimes au-delà de ceux qui sont volontaires par le jeune.
 1. Vérifiez avec le jeune pour vous assurer que ce que vous avez entendu et compris est exact.
 1. N'exprimez aucune opinion sur l'abus présumé ou l'agresseur.
 
@@ -34,7 +34,7 @@ Si vous avez des doutes, vous pouvez remplir notre [formulaire de protection en 
 
 ### Que faire si vous remarquez des signes d'abus ?
 
-1. Enregistrer tous les signes en détail.
+1. Enregistrez tous les signes en détail.
 1. Signez et datez tous les documents écrits.
 1. Transmettez l'information à la personne responsable de la protection des enfants sur le lieu de l'événement. Ils seront en mesure de vous guider sur les prochaines étapes, ce qui comprendra la rédaction de ce que vous avez entendu et/ou vu avec la plus grande précision possible.
 1. Si le jeune est en danger immédiat, la personne responsable de la protection des enfants sur le lieu de l'événement doit contacter la police.
