@@ -1,13 +1,13 @@
 --- question ---
 ---
-legend: Question 3 of 6
+legend: السؤال 3 من 6
 ---
 
-Mary was embarrassed. Is this:
+كانت ماري تشعر بالإحراج. هل هذا:
 
 --- choices ---
-- ( ) A fact or an observation?
+- () حقيقة أو ملاحظة؟
 
-- (x) An opinion or evaluation? --- /choices ---
+- (x) رأي أو تقييم؟ --- /choices ---
 
 --- /question ---
