@@ -1,14 +1,14 @@
 --- question ---
 ---
-legend: Question 3 of 3
+legend: السؤال 3 من 3
 ---
 
-Do you need to make sure that every young person has a parent's or guardian's consent before they attend an online session?
+هل تحتاج إلى التأكد من حصول كل شاب على موافقة أحد الوالدين أو الوصي قبل حضور جلسة عبر الإنترنت؟
 
 --- choices ---
 
-- ( ) No
-- (x) Yes
+- ( ) لا
+- (x) نعم
 
 --- /choices ---
 
