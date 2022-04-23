@@ -1,15 +1,15 @@
 --- question ---
 ---
-legend: Question 2 of 3
+legend: السؤال 2 من 3
 ---
 
-Is it OK to use webcams during an online session?
+هل من المقبول الاتّصال في الكاميرا أثناء جلسة عبر الإنترنت؟
 
 --- choices ---
 
-- ( ) No
-- ( ) Yes
-- (x) Yes, but make sure everyone knows they are prohibited from recording or taking screenshots of the session
+- ( ) لا
+- ( ) نعم
+- (x) نعم، ولكن تأكد من أن الجميع يعلم أن تسجيل الشاشة أو التقاط لقطات شاشة للجلسة ممنوع
 
 --- /choices ---
 
