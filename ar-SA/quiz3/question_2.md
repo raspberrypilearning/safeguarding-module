@@ -1,13 +1,13 @@
 --- question ---
 ---
-legend: Question 2 of 6
+legend: السؤال 2 من 6
 ---
 
-John smelt of alcohol. Is this:
+تفوح من جون رائحة الكحول. هل هذا:
 
 --- choices ---
-- (x) A fact or an observation?
+- (x) حقيقة أو ملاحظة؟
 
-- ( ) An opinion or evaluation? --- /choices ---
+- () رأي أو تقييم؟ --- /choices ---
 
 --- /question ---
