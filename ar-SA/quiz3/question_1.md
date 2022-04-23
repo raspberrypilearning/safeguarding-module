@@ -1,13 +1,13 @@
 --- question ---
 ---
-legend: Question 1 of 6
+legend: السؤال 1 من 6
 ---
 
-Rita made no eye contact. Is this:
+لم تقم ريتا بأي اتصال بالعين. هل هذا:
 
 --- choices ---
-- (x) A fact or an observation?
+- (x) حقيقة أو ملاحظة؟
 
-- ( ) An opinion or evaluation? --- /choices ---
+- () رأي أو تقييم؟ --- /choices ---
 
 --- /question ---
