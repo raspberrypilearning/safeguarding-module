@@ -4,14 +4,14 @@
 
 اقرأ هذه الأدلة وأجب عن الأسئلة الثلاثة التالية في الخطوة التالية.
 
-### [Framework to help you assess how to run your club safely](https://static.raspberrypi.org/files/clubs/Code_Club_and_CoderDojo_CV_Framework.pdf){:target='_blank'}
+### [إطار لمساعدتك في تقييم كيفية إدارة ناديك بأمان](https://static.raspberrypi.org/files/clubs/Code_Club_and_CoderDojo_CV_Framework.pdf){:target='_blank'}
 
 <embed src="https://static.raspberrypi.org/files/clubs/Code_Club_and_CoderDojo_CV_Framework.pdf" width="790" height="500" 
  type="application/pdf">
   </p>
 
 <h3 spaces-before="0">
-  <a href="https://static.raspberrypi.org/files/clubs/Code_Club_and_CoderDojo_Parent_Guide_Supporting_Online_Coding_Session.pdf">Adult guide to support young people attending online sessions</a>{:target='_blank'}
+  <a href="https://static.raspberrypi.org/files/clubs/Code_Club_and_CoderDojo_Parent_Guide_Supporting_Online_Coding_Session.pdf">دليل الكبار لدعم الشباب الذين يحضرون الجلسات عبر الإنترنت</a>{:target='_blank'}
 </h3>
 
 <p spaces-before="0">
@@ -21,7 +21,7 @@
     </p>
 
 <h3 spaces-before="0">
-  <a href="https://static.raspberrypi.org/files/clubs/CoderDojo_Code_Club_Online_Code_of_Behaviour_A4_DIGITAL.pdf">Code of behaviour for young people attending online sessions</a>{:target='_blank'}
+  <a href="https://static.raspberrypi.org/files/clubs/CoderDojo_Code_Club_Online_Code_of_Behaviour_A4_DIGITAL.pdf">قواعد سلوك للشباب الذين يحضرون جلسات عبر الإنترنت</a>{:target='_blank'}
 </h3>
 
 <p spaces-before="0">
@@ -31,11 +31,11 @@
     </p> 
     
     <p spaces-before="0">
-      We strongly recommend that you and your volunteers watch our <a href="https://www.gotostage.com/channel/d20e514831f340b3913659639068c724/recording/92bd90b755964f49b87bfd99f9624435/watch?source=CHANNEL">community call about tools for running online sessions safely</a>{:target='_blank'}.
+      نوصي بشدة بأن تراقب أنت ومتطوعيك <a href="https://www.gotostage.com/channel/d20e514831f340b3913659639068c724/recording/92bd90b755964f49b87bfd99f9624435/watch?source=CHANNEL">اتصالاتنا المجتمعية حول أدوات تشغيل الجلسات عبر الإنترنت بأمان</a>{:target='_blank'}.
     </p>
     
     <p spaces-before="0">
-      You can <a href="https://rpf.io/p/en/safeguarding-module-go">download all of these resources here</a>{:target='_blank'}.
+      يمكنك <a href="https://rpf.io/p/en/safeguarding-module-go">تنزيل جميع الموارد من هنا</a>{:target='_blank'}.
     </p>
     
     <p spaces-before="0">
@@ -43,5 +43,5 @@
     </p>
 
 <p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">
-Ensure you're <span style="color: #0faeb0">logged into your Raspberry Pi Foundation account</span> to save your progress, otherwise your completion will not be recorded. Use the <a href="https://my.raspberrypi.org/login">'Log in'</a> link in the navigation menu to log in.
+تأكّد من أنّك <span style="color: #0faeb0">سجّلت دخولك إلى حساب مؤسّسة Raspberry Pi</span> لحفظ تقدّمك، وإلّا فلن يُسجَّل إتمامك. استخدم رابط <a href="https://my.raspberrypi.org/login">"تسجيل الدخول"</a> في قائمة التنقّل لتسجيل الدخول.
 </p>
