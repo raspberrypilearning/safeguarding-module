@@ -20,41 +20,45 @@
 
 --- hints --- --- hint ---
 
-ما يجب أن تتعلّمه من هذا السيناريو هو عدم المبالغة في ردّ الفعل أو وضع الافتراضات، فقد يكون الأمر عرضيًّا كظهور إعلان أو نافذة منبثقة. If the matter can be dealt with immediately, then you (or the club organiser) should speak to Mark without assumptions. Then you (or the club organiser) should speak to both sets of parents (or guardians) separately, mainly to ensure this doesn’t happen again in the club. You should ensure the young person who reported this is OK and knows that you are dealing with the situation. You should make the club organiser aware of the situation and perhaps you may organise an online safety session a few weeks after the incident.
+ما يجب أن تتعلّمه من هذا السيناريو هو عدم المبالغة في ردّ الفعل أو وضع الافتراضات، فقد يكون الأمر عرضيًّا كظهور إعلان أو نافذة منبثقة. إذا كان من الممكن التعامل مع الأمر على الفور، فيجب عليك (أو على منظم النادي) التحدث إلى مارك دون افتراضات. ثم يجب عليك (أو على منظم النادي) التحدث إلى كلا الوالدين (أو الأوصياء) بشكل منفصل، وذلك لضمان عدم حدوث ذلك مرة أخرى في النادي. يجب عليك التأكد من أن الشاب الذي أبلغ عن ذلك على ما يرام ويعرف أنك تتعامل مع الموقف. يجب أن تجعل منظم النادي على علم بالموقف وربما يمكنك تنظيم جلسة أمان عبر الإنترنت بعد أسابيع قليلة من وقوع الحادث.
 
 --- /hint --- --- /hints ---
 
-### Zoe
+### زوي
 
-**During an online club session, one of the club members, Zoe, shouts an obscenity at an adult in their home. The adult shouts back. You hear a loud crash, and the club member disappears from your view. You can hear threatening behaviour from the adult and the camera turns off.**
+**أثناء إحدى جلسات النادي عبر الإنترنت، تصرخ زوي (أحد أعضاء النادي) بكلمات بذيئة على أحد البالغين في منزلها. فيصرخ الشخص البالغ ردًّا عليها. تسمع صوت تحطّم عالٍ، وتختفي زوي من شاشتك. يمكنك سماع سلوك التهديد من الراشدين مع إيقاف تشغيل الكاميرا.**
 
 --- hints --- --- hint ---
 
-In this scenario, there is an immediate concern about the welfare of a young person and you have no way of knowing whether the young person is safe. The first thing you need to do is to call the police, who will investigate the incident. The second thing you need to do is call our 24-hour safeguarding number to report what has happened.
+في هذا السيناريو، يوجد قلق فوري بشأن رفاهية الشاب وليس لديك طريقة لمعرفة ما إذا كان الشاب آمنًا. أول شيء عليك القيام به هو الاتصال بالشرطة التي ستحقق في الحادث. الشيء الثاني الذي عليك القيام به هو الاتصال برقم الحماية على مدار 24 ساعة للإبلاغ عما حدث.
 
 --- /hint --- --- /hints ---
 
-### Robert
+### روبرت
 
-**During an online session, you notice that Robert, one of the club members, posts sexually explicit language and links to pornographic websites in the comments section.**
+**أثناء جلسة عبر الإنترنت لاحظتَ أن روبرت (أحد أعضاء النادي) ينشر لغة جنسية صريحة وروابط لمواقع إباحية في قسم التعليقات.**
 
 --- hints --- --- hint ---
 
-It’s important to make a record of what Robert has posted, in case this happens again. He may not know the significance of what he has posted, so it’s important that you let his parents or guardians know what happened and provide them with the [parents guide](https://help.coderdojo.com/cdkb/s/article/Parents-guide-to-CoderDojo). Other young people attending the online session may have seen the messages and been affected by them, so it’s important that you contact their parents or guardians as well and let them know what happened and how you intend to follow up.
+من المهم إعداد سجل لما نشره روبرت، في حالة حدوث ذلك مرة أخرى. قد لا يعرف خطورة ما نشره، لذلك من المهم أن تخبر والديه أو الأوصياء عليه بما حدث وأن تزوّدهم بـ</a>دليل الوالدين
+
+. وربما يكون الشباب الآخرون الذين حضروا الجلسة على الإنترنت قد شاهدوا الرسائل وتأثروا بها، لذلك من المهم أن تتصل بأهلهم أو أولياء أمورهم وأن تبلغهم بما حدث وكيف تنوي المتابعة.</p> 
 
 --- /hint --- --- /hints ---
-### Lisa
 
-**Lisa, one of the young people in your club, has got in touch through a private message on social media to ask for help with a project.**
+
+### ليسا
+
+**لقد تواصلت ليزا (إحدى أعضاء النادي) من خلال رسالة خاصة على وسائل التواصل الاجتماعي لطلب المساعدة في مشروع ما.**
 
 --- hints --- --- hint ---
 
-One-to-one messaging with young people is not encouraged for any volunteers, either on social media or through other mediums (including email). There are some situations that you may want to respond to the young person: if it is a long time until the next session or there is a deadline for the project to be entered in a competition and you do not want to disappoint the young person. If you do respond, you should encourage that they email you and cc their parent or guardian (or the club organiser or teacher) into the conversation in future or regarding this query.
+لا يُشجَّع أي متطوع على المراسلة مع الشباب سواء في وسائط الإعلام الاجتماعية أو من خلال وسائط أخرى (بما في ذلك البريد الإلكتروني). وهناك بعض الحالات التي قد ترغب فيها بالرد على الشاب: إذا كان ذلك هناك وقت طويل حتى الدورة التالية، أو إذا كان هناك موعد نهائي للدخول في المشروع في مسابقة ولا تريد أن تخيب آمال الشاب. إذا قمت بالرد، فيجب عليك تشجيعه على إرسال بريد إلكتروني إليك وإرسال نسخة إلى والدهم أو الوصي عليهم (أو منظم النادي أو المعلم) في المحادثة في المستقبل أو فيما يتعلق بهذا الاستعلام. 
 
 --- /hint --- --- /hints ---
 
 --- save ---
 
 <p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">
-Ensure you're <span style="color: #0faeb0">logged into your Raspberry Pi Foundation account</span> to save your progress, otherwise your completion will not be recorded. Use the <a href="https://my.raspberrypi.org/login">'Log in'</a> link in the navigation menu to log in.
+تأكّد من أنّك <span style="color: #0faeb0">سجّلت دخولك إلى حساب مؤسّسة Raspberry Pi</span> لحفظ تقدّمك، وإلّا فلن يُسجَّل إتمامك. استخدم رابط <a href="https://my.raspberrypi.org/login">"تسجيل الدخول"</a> في قائمة التنقّل لتسجيل الدخول.
 </p>
