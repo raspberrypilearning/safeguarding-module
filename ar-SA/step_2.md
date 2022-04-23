@@ -1,46 +1,46 @@
 ## عمليّة التوظيف
 
-Typically, it is the club organiser's responsibility to recruit and onboard new volunteers. From time to time, volunteers may be involved in this process to help the club organiser, in particular to help guide the new volunteer in their first session.
+عادة ما تقع على عاتق منظّم النادي مسؤوليّة توظيف وضمّ المتطوّعين الجدد. من وقت إلى آخر، قد يشارك المتطوّعون في هذه العمليّة لمساعدة منظّم النادي، لا سيّما في المساعدة على توجيه المتطوّع الجديد في جلسته الأولى.
 
-![Three volunteers standing.](images/2-RPF-Volunteers.png)
+![ثلاثة متطوعين واقفين.](images/2-RPF-Volunteers.png)
 
-It is important to recognise that not every volunteer who is interested in helping out at your club may be appropriate or a match.
+من المهمّ أن تدرك أنّه ليس كلّ متطوّع مهتمّ في المساعدة في ناديك قد يكون مناسبًا.
 
-A recruitment process makes it easier to identify volunteers who are not a fit for the club. Here is an example of a recruitment process.
+عمليّة التوظيف تجعل الأمر أسهل في تحديد المتطوّعين غير المناسبين للنادي. وفيما يلي مثال على عملية التوظيف.
 
-### 1. Volunteer description
+### 1. وصف المتطوع
 
 
-This is a short description to tell potential volunteers what the role involves and to give a broad overview of your club. This could be a brief description on your website or a club profile of a volunteer's role. It should include:
+هذا وصف موجز لإخبار المتطوعين المحتملين بما يتضمنه الدور ولإعطاء نظرة عامة واسعة عن ناديك. يمكن أن يكون هذا وصفاً موجزاً على موقعك الإلكترونيّ أو ملفّ تعريف النادي لدور المتطوّع. يجب أن يتضمّن:
 
-* What happens in a typical session?
-* How often does your club run and for how long?
-* How much time do you require from your volunteers?
+* ماذا يحدث في الجلسة العاديّة؟
+* كم مرة يعمل النادي الخاص بك ولكم من الوقت؟
+* ما الوقت الذي تحتاج إليه من المتطوعين؟
 
-### 2. Application form
+### 2. استمارة التقديم
 
-This can be an online form with a few short questions. You should ask for a referee if possible and any relevant skills that may be useful in your club. Information from the application form, such as contact information, will be useful should this potential volunteer join the club.
+من اليمكن أن يكون النموذج إلكترونيًّا عن بعد، مع بعض الأسئلة القصيرة. يتوجب عليك أن تسأل عن الحكم، إن أمكن، وعن أي مهارات ذات صلة قد تكون مفيدة في ناديك. ستكون المعلومات الواردة في استمارة التقديم، مثل معلومات الاتّصال، مفيدة في حال انضمام المتطوّع المحتمل إلى النادي.
 
-**Note**: If you are in a Code Club or CoderDojo, instead of an application form you should encourage potential volunteers to register through our websites ([codeclub.org](https://codeclub.org){:target='_blank'} and [coderdojo.com](https://coderdojo.com){:target='_blank'}).
+**ملاحظة**: إذا كنت في Code Club أو CoderDojo، بدلًا من نموذج الطلب يمكنك تشجيع المتطوّعين المحتملين للتسجيل عبر مواقعنا الإلكترونيّة ([codeclub.org](https://codeclub.org){:target='_blank'} و [coderdojo.com](https://coderdojo.com){:target='_blank'}).
 
-### 3. Informal meeting or interview
+### 3. اجتماع أو مقابلة غير رسميّة
 
-Invite the person to the club so you can meet with them and they can learn more about the club environment. If your club is running activities online, then you can meet remotely. It should be a casual meeting, but it should give the current club volunteers and the potential volunteer the chance to make a decision about whether they want the potential volunteer to go ahead with volunteering. This will also allow current club volunteers and the potential volunteer to see if they can work together well in the club setting. If you are starting your club for the first time, you should set up an informal meeting with your potential volunteer before your first session.
+ادعُ الشخص إلى النادي، حتّى تتمكّن من مقابلته، وبالتالي يمكنه معرفة المزيد حول بيئة النادي. إذا كان ناديك يقيم أنشطة إلكترونيّ’ عن بعد، يمكنك لقاؤهم عن بعد. يجب أن يكون لقاءً غير رسميّ، لكن لا بدّ أن يُمنَح متطّوعو النادي الحاليّون والمتطوّعون المحتملون الفرصة ليتّخذوا القرار يشأن ما إذا كانوا يريدون المتطوّع المحتمل يمضي قدمًا في العمل التطوّعي. سيسمح هذا أيضًا لمتطوعي النادي الحاليين والمتطوعين المحتملين بمعرفة ما إذا كان بإمكانهم العمل معًا بشكل جيد في بيئة النادي. إذا كنت ستبدأ ناديك للمرّة الأولى، يجب عليك عقد اجتماع غير رسميّ مع المتطوّعين المحتملين قبل جلستك الأولى.
 
-### 4. Background checks (dependent on region)
+### 4. التحقق من الخلفية (حسب المنطقة)
 
-Background checks are useful for voluntary coding clubs; in some regions a background check is mandatory to work with young people. We understand that in some regions it is more difficult to access background checks or that it may be expensive, so that is why reference checks and utilising the rest of the volunteer recruitment process is important.
+عمليّات التحقّق من الخلفيّة مفيدة لنوادي البرمجة التطوّعيّة؛ في بعض المناطق فحوصات الخلفيّة تعدّ إلزاميّة للتعامل مع الأطفال. نحن ندرك أنه في بعض المناطق يكون الوصول إلى عمليات التحقق من الخلفية أكثر صعوبة أو أنه قد يكون مكلفًا، ولهذا السبب فإن عمليات التحقق من الجهات المرجعية والاستفادة من بقية عملية توظيف المتطوعين مهمة.
 
-### 5. Referees (optional)
+### 5. الحكام (اختياري)
 
-It can be really useful to ask for referees and to check those references to determine if a volunteer is suitable to work with young people and/or vulnerable adults.
+قد يكون من المفيد حقًا طلب الحكام والتحقق من تلك المراجع لتحديد ما إذا كان المتطوع مناسبًا للعمل مع الشباب و/أو البالغين المستضعفين.
 
-If you have your own application form, you could use this as a space to ask for details of referees. If you haven’t collected referees in the application form, you can ask for them after the informal meeting. Referees can be colleagues, teachers, lecturers, or a friend who knows the potential volunteer well. Volunteers can be referred to the club by another existing club volunteer, this person can also act as a referee.
+إن كانت لديك استمارة تقديم خاصّة بك، يمكنك استخدامها مساحةً لطلب تفاصيل الحكام. إذا لم تكن قد جمعت الحكام في استمارة التقديم، يمكنك أن تبحث عنهم بعد الاجتماع غير الرسمي. يمكن أن يكون الحكام زملاء أو مدرّسين أو محاضرين أو صديقًا يعرف المتطوّع المحتمل جيّدًا. يمكن إحالة المتطوعين إلى النادي من قبل متطوع آخر موجود في النادي، ويمكن لهذا الشخص أيضًا أن يعمل حكمًا.
 
-**Tip**: When you check references, it is often best to phone the referee as people may be inclined to give a more honest perspective than in writing.
+**نصيحة**: عند التحقق من المراجع، من الأفضل غالبًا الاتصال بالحكم حيث قد يميل الناس إلى إعطاء منظور أكثر صدقًا من الكتابة.
 
---- save ---
+--- حفظ ---
 
 <p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">
-Ensure you're <span style="color: #0faeb0">logged into your Raspberry Pi Foundation account</span> to save your progress, otherwise your completion will not be recorded. Use the <a href="https://my.raspberrypi.org/login">'Log in'</a> link in the navigation menu to log in.
+تأكّد من أنّك <span style="color: #0faeb0">سجّلت دخولك إلى حساب مؤسّسة Raspberry Pi</span> لحفظ تقدّمك، وإلّا فلن يُسجَّل إتمامك. استخدم رابط <a href="https://my.raspberrypi.org/login">"تسجيل الدخول"</a> في قائمة التنقّل لتسجيل الدخول.
 </p>
