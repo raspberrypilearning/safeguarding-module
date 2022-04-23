@@ -1,6 +1,6 @@
-## Code of behaviour
+## قواعد السلوك
 
-Every person at the club must be aware of the code of behaviour and follow these expectations. Our code of behaviour document is available at [rpf.io/code-of-behaviour](http://rpf.io/code-of-behaviour){:target='_blank'}
+يجب أن يكون كل شخص في النادي على دراية بقواعد السلوك وأن يتبع هذه التطلّعات. وثيقة كود السلوك لدينا متاحة على [rpf.io/code-of-behaviour](http://rpf.io/code-of-behaviour){:target='_blank'}
 
 <embed src="images/Raspberry_Pi_Foundation-safeguarding-code-of-behaviour.pdf" width="790" height="500" 
  type="application/pdf">
@@ -10,34 +10,34 @@ Every person at the club must be aware of the code of behaviour and follow these
     <br>
   </p>
 <h3 spaces-before="0">
-  Breaking the code of behaviour
+  خرق قواعد السلوك
 </h3>
 
 <p spaces-before="0">
-  If a volunteer in your club behaves inappropriately and/or breaks the code of behaviour, action will have to be taken by the club organiser. If the club organiser breaks the code of behaviour, action will have to be taken by another volunteer.
+  إذا تصرف أحد المتطوعين في ناديك بشكل غير لائق و/أو خالف قواعد السلوك، فسيتعين على منظم النادي اتخاذ إجراء. إذا خالف منظم النادي قواعد السلوك، فسيتعين على متطوع آخر اتخاذ إجراء.
 </p>
 
 <p spaces-before="0">
-  Actions to take:
+  الإجراءات الواجب اتخاذها:
 </p>
 
 <ul>
   <li>
-    A verbal warning
+    تحذير شفهي
   </li>
   <li>
-    A formal written warning, to which any further indiscretions will lead to suspension from the club or to ending their role as a volunteer of the club
+    تحذير كتابيّ رسميّ، نتيجة حصول أيّ تصرّف طائش آخر، ممّا يؤدّي إلى تعليق عضويّة المتطوّع أو إنهاء دوره في النادي
   </li>
   <li>
-    Suspension of the volunteer from the club
+    تعليق عمل المتطوع من النادي
   </li>
   <li>
-    Banning the volunteer from participating in further activities in the club
+    منع المتطوع من المشاركة في أنشطة أخرى في النادي
   </li>
 </ul>
 
 <p spaces-before="0">
-  If you or your club is unsure of the action to take please, ask for support from the <a href="mailto:safeguarding@raspberrypi.org">Raspberry Pi Foundation</a>.
+  إذا لم تكن أنت -أو ناديك- متأكدًا من الإجراء المطلوب اتخاذه، اطلب الدعم من <a href="mailto:safeguarding@raspberrypi.org">مؤسسة Raspberry Pi</a>.
 </p>
 
 <p spaces-before="0">
@@ -45,5 +45,5 @@ Every person at the club must be aware of the code of behaviour and follow these
 </p>
 
 <p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">
-Ensure you're <span style="color: #0faeb0">logged into your Raspberry Pi Foundation account</span> to save your progress, otherwise your completion will not be recorded. Use the <a href="https://my.raspberrypi.org/login">'Log in'</a> link in the navigation menu to log in.
+تأكّد من أنّك <span style="color: #0faeb0">سجّلت دخولك إلى حساب مؤسّسة Raspberry Pi</span> لحفظ تقدّمك، وإلّا فلن يُسجَّل إتمامك. استخدم رابط <a href="https://my.raspberrypi.org/login">"تسجيل الدخول"</a> في قائمة التنقّل لتسجيل الدخول.
 </p>
