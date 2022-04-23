@@ -1,13 +1,13 @@
 --- question ---
 ---
-legend: Question 5 of 9
+legend: السؤال 5 من 9
 ---
 
-Is it good practice or poor practice to carry out favouritism with certain young people?
+هل من الممارسات الجيدة أو الممارسة السيئة القيام بالتحيّز لصالح بعض الشباب؟
 
 --- choices ---
-- ( ) Good practice
+- () ممارسة جيدة
 
-- (x) Poor practice --- /choices ---
+- (x) ممارسة سيئة --- /choices ---
 
 --- /question ---
