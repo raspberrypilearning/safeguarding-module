@@ -1,13 +1,13 @@
 --- question ---
 ---
-legend: Question 6 of 6
+legend: السؤال 6 من 6
 ---
 
-Ade was bored. Is this:
+أصيبت آدي بالملل. هل هذا:
 
 --- choices ---
-- ( ) A fact or an observation?
+- ( ) حقيقة أو ملاحظة؟
 
-- (x) An opinion or evaluation? --- /choices ---
+- (x) رأي أو تقييم؟ --- /choices ---
 
 --- /question ---
