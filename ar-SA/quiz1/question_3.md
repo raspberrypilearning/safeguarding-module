@@ -1,13 +1,13 @@
 --- question ---
 ---
-legend: Question 3 of 9
+legend: السؤال 3 من 9
 ---
 
-Is it good practice or poor practice to use offensive language in your club?
+هل من الممارسات الجيدة أو الممارسات السيئة استخدام لغة مهينة في ناديك؟
 
 --- choices ---
-- ( ) Good practice
+- () ممارسة جيدة
 
-- (x) Poor practice --- /choices ---
+- (x) ممارسة سيئة --- /choices ---
 
 --- /question ---
