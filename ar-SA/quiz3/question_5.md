@@ -1,6 +1,6 @@
 --- question ---
 ---
-legend: Question 5 of 6
+legend: السؤال 5 من 6
 ---
 
 Jane looked at her watch twice. Is this:
