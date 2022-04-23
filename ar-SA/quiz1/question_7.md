@@ -1,13 +1,13 @@
 --- question ---
 ---
-legend: Question 7 of 9
+legend: السؤال 7 من 9
 ---
 
-Is it good practice or poor practice to take into account young people's views in the decision-making process at your club?
+هل من الممارسات الجيدة أو الممارسة السيئة أن تأخذ في الاعتبار آراء الشباب في عملية صنع القرار في ناديك؟
 
 --- choices ---
-- (x) Good practice
+- (x) ممارسة جيدة
 
-- ( ) Poor practice --- /choices ---
+- () ممارسة سيئة --- /choices ---
 
 --- /question ---
