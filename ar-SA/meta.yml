@@ -1,7 +1,7 @@
 ---
-title: Safeguarding module
+title: وحدة الحماية
 hero_image: images/banner.png
-description: Safeguarding module
+description: وحدة الحماية
 version: 0.1
 listed: false
 copyedit: false
@@ -9,26 +9,26 @@ volunteers: true
 last_tested: 2022-01-05
 steps:
   - 
-    title: What is child safeguarding?
+    title: ما هي حماية الطفل؟
   - 
-    title: Recruitment process
+    title: عمليّة التوظيف
   - 
-    title: Induction of new volunteers
+    title: تعريف المتطوعين الجدد
   - 
-    title: Code of behaviour
+    title: قواعد السلوك
   - 
-    title: Code of behaviour quiz
+    title: اختبار قواعد السلوك
     knowledge_quiz:
       path: quiz1
       version: 1
       questions: 9
       passing_score: 9
   - 
-    title: "Abuse and disclosures"
+    title: "الإساءة والإفصاحات"
   - 
-    title: How to run safe online sessions
+    title: كيفية إجراء جلسات آمنة عبر الإنترنت
   - 
-    title: Online sessions quiz
+    title: اختبار الجلسات عبر الإنترنت
     knowledge_quiz:
       path: quiz2
       version: 1
@@ -37,9 +37,9 @@ steps:
   - 
     title: "What to do if…"
   - 
-    title: How to record details of abuse
+    title: كيفية تسجيل تفاصيل إساءة المعاملة
   - 
-    title: Observations and evaluations quiz
+    title: اختبار الملاحظات والتقييمات
     knowledge_quiz:
       path: quiz3
       version: 1
