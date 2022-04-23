@@ -1,16 +1,16 @@
 --- question ---
 ---
-legend: Question 1 of 3
+legend: السؤال 1 من 3
 ---
 
-How many adults should be present during an online session?
+كم عدد البالغين الذين يجب أن يكونوا حاضرين أثناء جلسة عبر الإنترنت؟
 
 --- choices ---
 
-- ( ) None
-- ( ) One
-- (x) At least two
-- ( ) At least three
+- ( ) لا أحد
+- ( ) واحد
+- (x) على الأقلّ اثنان
+- ( ) على الأقلّ ثلاثة
 
 --- /choices ---
 
