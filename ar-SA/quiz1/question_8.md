@@ -1,13 +1,13 @@
 --- question ---
 ---
-legend: Question 8 of 9
+legend: السؤال 8 من 9
 ---
 
-Is physical or emotional punishment an example of good practice or poor practice?
+هل العقاب الجسدي أو العاطفي يعدّ مثالًا على الممارسات الجيدة أم الممارسات السيئة؟
 
 --- choices ---
-- ( ) Good practice
+- () ممارسة جيدة
 
-- (x) Poor practice --- /choices ---
+- (x) ممارسة سيئة --- /choices ---
 
 --- /question ---
