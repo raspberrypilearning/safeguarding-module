@@ -1,26 +1,26 @@
-## That’s almost it
+## هذا تقريبًا كلّ شيء
 
-You’ve completed this short interactive learning guide. Well done!
+لقد أكملت دليل التعليم التفاعلي القصير. أحسنت صنعًا!
 
-You can now test your knowledge with some scenarios. In each scenario, we want you to consider what you definitely would do, what you may do (depending on the circumstances), and what you would not do.
+يمكنك الآن اختبار معلوماتك ببعض السيناريوهات. في كل سيناريو ، نريدك أن تفكر في ما ستفعله بشكل حتميّ، وما قد تفعله (حسب الظروف)، وما لن تفعله.
 
-### Kim
+### كيم
 
-**You notice one of the young people at the club, Kim, who is 12 years old, is making a game which focuses on sadness and isolation, and there are some references to suicide. The lead character in the game is also called Kim.**
+**لاحظت أن أحد الشباب في النادي، كيم البالغ من العمر 12 سنة، ينشئ لعبة تركز على الحزن والعزلة، وفيها إشارات إلى الانتحار. الشخصية الرائدة في اللعبة أيضًا تسمى كيم.**
 
 --- hints --- --- hint ---
 
-In this scenario, you should ensure you check on the young person before you make any assumptions. Kim’s parents or guardians should be informed of the game by the most appropriate person, which may be you, but could be another volunteer or teacher from the club. It may also be relevant to tell the young person's parents or guardians about local support in the area if the volunteer knows what these are; often a general practitioner or local doctor is the best place to initially point a parent or guardian to in this scenario. Most importantly, you should talk to your club organiser, or teacher if in a school setting, and ensure that someone from the club checks on Kim in future sessions.
+في هذا السيناريو، يجب أن تضمن تحثّقك من الشاب قبل وضع أي افتراضات. يجب أن يتم إبلاغ والدَي كيم أو الأوصياء عليه باللعبة من قبل الشخص الأنسب، والذي قد يكون أنت، ولكن يمكن أن يكون متطوعًا أو مدرسًا آخر من النادي. قد يكون من المناسب أيضًا إخبار والدي الشاب أو الأوصياء عليه عن الدعم المحلي في المنطقة إذا كان المتطوع يعرف ماهيتها، غالبًا ما يكون الممارس العام أو الطبيب المحلي هو أفضل مكان لتوجيه أحد الوالدين أو الوصي إليه في هذا السيناريو. الأهم من ذلك، يجب عليك التحدث مع منظم النادي أو مع المعلم إذا كان في المدرسة، وتأكّد من قيام شخص من النادي بالتحقق من كيم في الجلسات المقبلة.
 
 --- /hint --- --- /hints ---
 
-### Mark
+### مارك
 
-**One of the young people in the club has come to you and told you that Mark, aged 11, is on his laptop and is looking at pictures of people with "no clothes on and doing strange things".**
+**أحد الشباب في النادي قد جاء إليك وأخبرك أن مارك، الّذي يبلغ من العمر 11 عاماً، هو على حاسوبه المحمول وينظر إلى صور لأشخاص "بلا ملابس ويقومون بأشياء غريبة".**
 
 --- hints --- --- hint ---
 
-The main learning from this scenario is to not overreact or make assumptions, as this could have been something quite innocent or accidental like an advert or pop-up. If the matter can be dealt with immediately, then you (or the club organiser) should speak to Mark without assumptions. Then you (or the club organiser) should speak to both sets of parents (or guardians) separately, mainly to ensure this doesn’t happen again in the club. You should ensure the young person who reported this is OK and knows that you are dealing with the situation. You should make the club organiser aware of the situation and perhaps you may organise an online safety session a few weeks after the incident.
+ما يجب أن تتعلّمه من هذا السيناريو هو عدم المبالغة في ردّ الفعل أو وضع الافتراضات، فقد يكون الأمر عرضيًّا كظهور إعلان أو نافذة منبثقة. If the matter can be dealt with immediately, then you (or the club organiser) should speak to Mark without assumptions. Then you (or the club organiser) should speak to both sets of parents (or guardians) separately, mainly to ensure this doesn’t happen again in the club. You should ensure the young person who reported this is OK and knows that you are dealing with the situation. You should make the club organiser aware of the situation and perhaps you may organise an online safety session a few weeks after the incident.
 
 --- /hint --- --- /hints ---
 
