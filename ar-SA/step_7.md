@@ -1,8 +1,8 @@
-## How to run safe online sessions
+## كيفية إجراء جلسات آمنة عبر الإنترنت
 
-You may wish to run online sessions for young people at your club who cannot meet in person. We encourage you to do this and have developed resources to help you, including guidelines to make sure your online sessions are as safe as possible.
+قد ترغب في إجراء جلسات عبر الإنترنت للشباب في ناديك الذين لا يستطيعون الالتقاء شخصيًّا. نحن نشجعك على القيام بذلك وقمنا بتطوير موارد لمساعدتك، بما في ذلك إرشادات للتأكد من أن جلساتك عبر الإنترنت آمنة قدر الإمكان.
 
-Read through these guides and answer the following three questions in the next step.
+اقرأ هذه الأدلة وأجب عن الأسئلة الثلاثة التالية في الخطوة التالية.
 
 ### [Framework to help you assess how to run your club safely](https://static.raspberrypi.org/files/clubs/Code_Club_and_CoderDojo_CV_Framework.pdf){:target='_blank'}
 
