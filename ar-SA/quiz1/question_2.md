@@ -1,13 +1,13 @@
 --- question ---
 ---
-legend: Question 2 of 9
+legend: السؤال 2 من 9
 ---
 
-Is it good practice or poor practice to send one-to-one messages on social media to an attendee at a club?
+هل من الممارسات الجيدة أو الممارسات السيئة إرسال رسائل فردية على وسائل التواصل الاجتماعي إلى أحد الحاضرين في النادي؟
 
 --- choices ---
-- ( ) Good practice
+- () ممارسة جيدة
 
-- (x) Poor practice --- /choices ---
+- (x) ممارسة سيئة --- /choices ---
 
 --- /question ---
