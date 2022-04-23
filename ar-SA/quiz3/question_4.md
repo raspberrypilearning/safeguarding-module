@@ -1,13 +1,13 @@
 --- question ---
 ---
-legend: Question 4 of 6
+legend: السؤال 4 من 6
 ---
 
-Aisha seemed like she was lying. Is this:
+بدت عائشة وكأنها كانت تكذب. هل هذا:
 
 --- choices ---
-- ( ) A fact or an observation?
+- () حقيقة أو ملاحظة؟
 
-- (x) An opinion or evaluation? --- /choices ---
+- (x) رأي أو تقييم؟ --- /choices ---
 
 --- /question ---
