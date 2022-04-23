@@ -1,13 +1,13 @@
 --- question ---
 ---
-legend: Question 9 of 9
+legend: السؤال 9 من 9
 ---
 
-Is it good practice or poor practice to cc parents in on all direct email communication to young people?
+هل من الممارسات الجيدة أو الممارسات السيئة أن يكون الوالدان في جميع الاتصالات المباشرة بالبريد الإلكتروني إلى الشباب؟
 
 --- choices ---
-- (x) Good practice
+- (x) ممارسة جيدة
 
-- ( ) Poor practice --- /choices ---
+- () ممارسة سيئة --- /choices ---
 
 --- /question ---
