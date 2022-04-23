@@ -1,13 +1,13 @@
-## Induction of new volunteers
+## تعريف المتطوعين الجدد
 
-When you first meet a volunteer, there will be some induction requirements. This includes recognising the desirable characteristics for volunteers; while a volunteer may not have all these traits, they should definitely have at least one.
+عندما تقابل متطوّعًا لأوّل مرّة، ستكون هناك بعض متطلّبات التعريف. ويشمل ذلك التعرّف على الخصائص المرغوبة للمتطوعين، وفي حين أن المتطوع قد لا تكون له جميع هذه السمات، فإنه ينبغي قطعا أن يمتلك واحدة على الأقل.
 
 ![An adult volunteer.](images/10-Adult.png){:width="400px"}.
-### 1. Training identification
+### 1. تحديد التدريب
 
-If your volunteers would like some further training or support, you can direct them to the [free online courses](https://www.futurelearn.com/partners/raspberry-pi){:target='_blank'} that are provided by the Raspberry Pi Foundation.
+إذا رغب المتطوعون في الحصول على مزيد من التدريب أو الدعم ، فيمكنك توجيههم إلى [دورات مجانية عبر الإنترنت](https://www.futurelearn.com/partners/raspberry-pi){:target='_blank'} والتي تقدمها مؤسسة Raspberry Pi Foundation.
 
-If you have several volunteers in your club, you could also arrange some sessions between yourselves to share knowledge and try out new programmes and projects together. This will help increase the confidence of your volunteers on what they are covering in the club.
+إذا كان لديك العديد من المتطوعين في ناديك، يمكنك أيضًا ترتيب بعض الجلسات بينكم لمشاركة المعرفة وتجربة برامج ومشاريع جديدة معًا. سيساعد هذا على زيادة ثقة المتطوعين حول ما يغطونه في النادي.
 
 ### 2. Selection
 
