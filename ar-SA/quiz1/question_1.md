@@ -1,13 +1,13 @@
 --- question ---
 ---
-legend: Question 1 of 9
+legend: السؤال 1 من 9
 ---
 
-Is it good practice or poor practice to be inclusive of all young people regardless of gender, age, religion, nationality, ethnicity, or creed?
+هل يعدّ من الممارسات الجيدة أم من الممارسات السيئة إشراك جميع الشباب بغض النظر عن الجنس أو العمر أو الدين أو الجنسية أو العرق أو العقيدة؟
 
 --- choices ---
-- (x) Good practice
+- (x) ممارسة جيدة
 
-- ( ) Poor practice --- /choices ---
+- () ممارسة سيئة --- /choices ---
 
 --- /question ---
