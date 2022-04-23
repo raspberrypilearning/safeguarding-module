@@ -1,13 +1,13 @@
 --- question ---
 ---
-legend: Question 6 of 9
+legend: السؤال 6 من 9
 ---
 
-Is it good practice or poor practice to take young people alone on car journeys?
+هل من الممارسات الجيدة أو الممارسات السيئة اصطحاب الشباب وحدهم في رحلات السيارات؟
 
 --- choices ---
-- ( ) Good practice
+- () ممارسة جيدة
 
-- (x) Poor practice --- /choices ---
+- (x) ممارسة سيئة --- /choices ---
 
 --- /question ---
