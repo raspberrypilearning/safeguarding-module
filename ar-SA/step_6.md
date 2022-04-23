@@ -1,18 +1,18 @@
-## Abuse and disclosures
+## الإساءة والإفصاحات
 
-A vast majority of young people take part in our clubs without encountering abuse. However, it is important that volunteers are aware of what to do when they become aware of abuse either through observation or through a young person telling you about abuse (disclosure). Most Raspberry Pi Foundation clubs create an environment in which many young people feel particularly comfortable, which can help encourage disclosures at the club.
+الغالبية العظمى من الشباب يشاركون في أنديتنا دون التعرض للإساءة. ومع ذلك، من المهم أن يكون المتطوعون على دراية بما يجب عليهم فعله عندما يصبحون على دراية بالإساءة إما من خلال الملاحظة وإمّا من خلال شاب يخبرك عن الإساءة (الإفصاح). أغلب نوادي مؤسّسة Raspberry Pi تخلق بيئة يشعر فيها العديد من الشباب بالراحة، والّذي يشجّع على الإفصاحات في النادي.
 
 ![Three young people standing.](images/7-Diverse-Mix.png){:target='_blank'}
 
-Child abuse is generally categorised as neglect, physical abuse, emotional abuse, sexual abuse, or radicalisation. Other aspects to be aware of include peer abuse, organised abuse, and online abuse.
+يتم تصنيف إساءة معاملة الأطفال عمومًا على أنها إهمال أو اعتداء جسدي أو اعتداء عاطفي أو اعتداء جنسي أو تطرف. تشمل الجوانب الأخرى التي يجب أن تكون على دراية بها إساءة استخدام الأقران، والإساءة المنظمة، والإساءة عبر الإنترنت.
 
-### Types of abuse: neglect
+### أنواع الإساءة: الإهمال
 
-Neglect can be defined in terms of an omission, where a young person suffers significant harm or impairment of development by being deprived of food, clothing, warmth, hygiene, intellectual stimulation, supervision and safety, attachment to and affection from adults, and/or medical care.
+ويمكن تعريف الإهمال على أساس الإغفال، عندما يعاني الشاب من ضرر أو إعاقة كبيرة للتنمية بسبب حرمانه من الغذاء والملبس والدفء والنظافة الصحية والتحفيز الفكري والإشراف والسلامة، والارتباط بالبالغين والحنان منهم، و/أو الرعاية الطبية.
 
-[Further resources and definition from the NSPCC (UK)](https://www.nspcc.org.uk/what-is-child-abuse/types-of-abuse/neglect/){:target='_blank'}
+[موارد أكثر وتعريف من NSPCC (UK)](https://www.nspcc.org.uk/what-is-child-abuse/types-of-abuse/neglect/){:target='_blank'}
 
-### Types of abuse: physical abuse
+### أنواع الإساءة: الاعتداء الجسدي
 
 Physical abuse of a young person is that which results in actual or potential physical harm from an interaction, or lack of interaction, which is reasonably within the control of a parent or person in a position of responsibility, power, or trust. There may be single or repeated incidents.
 
