@@ -1,13 +1,13 @@
 --- question ---
 ---
-legend: Question 4 of 9
+legend: السؤال 4 من 9
 ---
 
-Is it good practice or poor practice to have a ratio of at least 1:10 adults to young people at your club?
+هل هي ممارسة جيدة أم ممارسة سيئة أن يكون لديك نسبة لا تقل عن 1:10 من البالغين إلى الشباب في ناديك؟
 
 --- choices ---
-- (x) Good practice
+- (x) ممارسة جيدة
 
-- ( ) Poor practice --- /choices ---
+- () ممارسة سيئة --- /choices ---
 
 --- /question ---
