@@ -3,11 +3,11 @@
 legend: السؤال 5 من 6
 ---
 
-Jane looked at her watch twice. Is this:
+نظرت جين إلى ساعتها مرتين. هل هذا:
 
 --- choices ---
-- (x) A fact or an observation?
+- (x) حقيقة أو ملاحظة؟
 
-- ( ) An opinion or evaluation? --- /choices ---
+- ( ) رأي أو تقييم؟ --- /choices ---
 
 --- /question ---
