@@ -1,11 +1,11 @@
-## How to record details of abuse
+## كيفية تسجيل تفاصيل إساءة المعاملة
 
-When you record details of abuse for either your club organiser or external organisations, it is important to ensure you record facts and observations as opposed to evaluations and opinions.
+عندما تقوم بتسجيل تفاصيل الإساءة لمنظم النادي أو المنظمات الخارجية، فمن المهم التأكد من تسجيل الحقائق والملاحظات بدلاً من التقييمات والآراء.
 
-An observation is something you can see, smell, touch, or hear. An evaluation is what you think about what you saw, smelt, touched, or heard.
+الملاحظة هي شيء يمكنك رؤيته أو شمه أو لمسه أو سماعه. التقييم هو ما تعتقده حول ما رأيته أو شممته أو لمسته أو سمعته.
 
 --- save ---
 
 <p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">
-Ensure you're <span style="color: #0faeb0">logged into your Raspberry Pi Foundation account</span> to save your progress, otherwise your completion will not be recorded. Use the <a href="https://my.raspberrypi.org/login">'Log in'</a> link in the navigation menu to log in.
+تأكّد من أنّك <span style="color: #0faeb0">سجّلت دخولك إلى حساب مؤسّسة Raspberry Pi</span> لحفظ تقدّمك، وإلّا فلن يُسجَّل إتمامك. استخدم رابط <a href="https://my.raspberrypi.org/login">"تسجيل الدخول"</a> في قائمة التنقّل لتسجيل الدخول.
 </p>
