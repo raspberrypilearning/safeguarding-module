@@ -19,7 +19,7 @@ steps:
   - 
     title: اختبار قواعد السلوك
     knowledge_quiz:
-      path: quiz1
+      path: اختبار1
       version: 1
       questions: 9
       passing_score: 9
@@ -30,21 +30,21 @@ steps:
   - 
     title: اختبار الجلسات عبر الإنترنت
     knowledge_quiz:
-      path: quiz2
+      path: اختبار2
       version: 1
       questions: 3
       passing_score: 3
   - 
-    title: "What to do if…"
+    title: "ماذا تفعل إذا…"
   - 
     title: كيفية تسجيل تفاصيل إساءة المعاملة
   - 
     title: اختبار الملاحظات والتقييمات
     knowledge_quiz:
-      path: quiz3
+      path: اختبار3
       version: 1
       questions: 6
       passing_score: 6
-    completion: external
+    completion: خارجي
   - 
     title: "هذا تقريبًا كلّ شيء!"
