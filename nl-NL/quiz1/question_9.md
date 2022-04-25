@@ -1,6 +1,6 @@
 --- question ---
 ---
-legenda: Vraag 9 van 9
+legend: Vraag 9 van 9
 ---
 
 Is het een goede of slechte gewoonte om ouders in cc te betrekken bij alle directe e-mailcommunicatie met jongeren?
