@@ -1,6 +1,6 @@
 --- question ---
 ---
-legenda: Vraag 1 van 3
+legend: Vraag 1 van 3
 ---
 
 Hoeveel volwassenen moeten er aanwezig zijn tijdens een online sessie?
