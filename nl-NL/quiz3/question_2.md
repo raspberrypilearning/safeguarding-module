@@ -1,6 +1,6 @@
 --- question ---
 ---
-legenda: Vraag 2 van 6
+legend: Vraag 2 van 6
 ---
 
 John rook naar alcohol. Is dit:
