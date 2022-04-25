@@ -1,6 +1,6 @@
 --- question ---
 ---
-legenda: Vraag 4 van 6
+legend: Vraag 4 van 6
 ---
 
 Het leek alsof Aisha loog. Is dit:
