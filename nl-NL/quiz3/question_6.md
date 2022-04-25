@@ -1,6 +1,6 @@
 --- question ---
 ---
-legenda: Vraag 6 van 6
+legend: Vraag 6 van 6
 ---
 
 Ad verveelde zich. Is dit:
