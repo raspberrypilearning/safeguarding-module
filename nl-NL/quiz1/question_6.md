@@ -1,6 +1,6 @@
 --- question ---
 ---
-legenda: Vraag 6 van 9
+legend: Vraag 6 van 9
 ---
 
 Is het een goede of slechte gewoonte om jongeren alleen mee te nemen op autoritten?
