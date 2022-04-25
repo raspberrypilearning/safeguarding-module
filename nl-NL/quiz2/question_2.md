@@ -1,6 +1,6 @@
 --- question ---
 ---
-legenda: Vraag 2 van 3
+legend: Vraag 2 van 3
 ---
 
 Mag ik webcams gebruiken tijdens een online sessie?
