@@ -1,6 +1,6 @@
 --- question ---
 ---
-legenda: Vraag 8 van 9
+legend: Vraag 8 van 9
 ---
 
 Is het geven van fysieke of verbale straf een voorbeeld van een goede of slechte gewoonte?
