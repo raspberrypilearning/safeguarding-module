@@ -1,6 +1,6 @@
 --- question ---
 ---
-legenda: Vraag 5 van 6
+legend: Vraag 5 van 6
 ---
 
 Jane keek twee keer op haar horloge. Is dit:
