@@ -1,6 +1,6 @@
 --- question ---
 ---
-legenda: Vraag 3 van 6
+legend: Vraag 3 van 6
 ---
 
 Maria schaamde zich. Is dit:
