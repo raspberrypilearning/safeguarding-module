@@ -21,7 +21,7 @@
     </p>
 
 <h3 spaces-before="0">
-  <a href="https://static.raspberrypi.org/files/clubs/CoderDojo_Code_Club_Online_Code_of_Behaviour_A4_DIGITAL.pdf">قواعد سلوك للشباب الذين يحضرون جلسات عبر الإنترنت</a>{:target='_blank'}
+  <a href="https://static.raspberrypi.org/files/clubs/CoderDojo_Code_Club_Online_Code_of_Behaviour_A4_DIGITAL.pdf">مدونة سلوك للشباب الذين يحضرون جلسات عبر الإنترنت</a>{:target='_blank'}
 </h3>
 
 <p spaces-before="0">
@@ -31,7 +31,7 @@
     </p> 
     
     <p spaces-before="0">
-      نوصي بشدة بأن تراقب أنت ومتطوعيك <a href="https://www.gotostage.com/channel/d20e514831f340b3913659639068c724/recording/92bd90b755964f49b87bfd99f9624435/watch?source=CHANNEL">اتصالاتنا المجتمعية حول أدوات تشغيل الجلسات عبر الإنترنت بأمان</a>{:target='_blank'}.
+      نوصي بشدة بأن تشاهد أنت ومتطوعيك <a href="https://www.gotostage.com/channel/d20e514831f340b3913659639068c724/recording/92bd90b755964f49b87bfd99f9624435/watch?source=CHANNEL">جلساتنا المجتمعية حول أدوات ادارة الجلسات عبر الإنترنت بأمان</a>{:target='_blank'}.
     </p>
     
     <p spaces-before="0">
@@ -39,7 +39,7 @@
     </p>
     
     <p spaces-before="0">
-      --- save ---
+      --- حفظ ---
     </p>
 
 <p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">
