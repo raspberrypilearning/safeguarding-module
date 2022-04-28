@@ -4,7 +4,7 @@
 
 الملاحظة هي شيء يمكنك رؤيته أو شمه أو لمسه أو سماعه. التقييم هو ما تعتقده حول ما رأيته أو شممته أو لمسته أو سمعته.
 
---- save ---
+--- حفظ ---
 
 <p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">
 تأكّد من أنّك <span style="color: #0faeb0">سجّلت دخولك إلى حساب مؤسّسة Raspberry Pi</span> لحفظ تقدّمك، وإلّا فلن يُسجَّل إتمامك. استخدم رابط <a href="https://my.raspberrypi.org/login">"تسجيل الدخول"</a> في قائمة التنقّل لتسجيل الدخول.
