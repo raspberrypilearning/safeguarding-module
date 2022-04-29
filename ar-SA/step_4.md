@@ -1,6 +1,6 @@
-## قواعد السلوك
+## مدونة السلوك
 
-يجب أن يكون كل شخص في النادي على دراية بقواعد السلوك وأن يتبع هذه التطلّعات. وثيقة كود السلوك لدينا متاحة على [rpf.io/code-of-behaviour](http://rpf.io/code-of-behaviour){:target='_blank'}
+يجب أن يكون كل شخص في النادي على دراية بقواعد السلوك وأن يتبع هذه التوقعات. مدونة السلوك لدينا متاحة على [rpf.io/code-of-behaviour](http://rpf.io/code-of-behaviour){:target='_blank'}
 
 <embed src="images/Raspberry_Pi_Foundation-safeguarding-code-of-behaviour.pdf" width="790" height="500" 
  type="application/pdf">
@@ -41,7 +41,7 @@
 </p>
 
 <p spaces-before="0">
-  --- save ---
+  --- حفظ ---
 </p>
 
 <p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">
