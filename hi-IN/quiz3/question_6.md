@@ -1,13 +1,13 @@
 --- question ---
 ---
-legend: Question 6 of 6
+legend: 6 का प्रश्न 6
 ---
 
-Ade was bored. Is this:
+एडे ऊब रहा था। क्या यह:
 
 --- choices ---
-- ( ) A fact or an observation?
+- ( ) कोई तथ्य या अवलोकन?
 
-- (x) An opinion or evaluation? --- /choices ---
+- (x) कोई राय या मूल्यांकन? --- /choices ---
 
 --- /question ---
