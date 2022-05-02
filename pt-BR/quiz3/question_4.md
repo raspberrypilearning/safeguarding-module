@@ -1,13 +1,13 @@
 --- question ---
 ---
-legend: Question 4 of 6
+legend: Questão 4 de 6
 ---
 
-Aisha seemed like she was lying. Is this:
+Aisha parecia estar mentindo. Isso é:
 
 --- choices ---
-- ( ) A fact or an observation?
+- ( ) Um fato ou uma observação?
 
-- (x) An opinion or evaluation? --- /choices ---
+- (x) Uma opinião ou avaliação? --- /choices ---
 
 --- /question ---
