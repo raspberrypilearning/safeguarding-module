@@ -1,13 +1,13 @@
 --- question ---
 ---
-legend: Question 5 of 9
+legend: 問5の9
 ---
 
-Is it good practice or poor practice to carry out favouritism with certain young people?
+特定の若者を優遇することは、良い習慣なのか悪い習慣なのか？
 
 --- choices ---
-- ( ) Good practice
+- ( ) 優れた取り組み
 
-- (x) Poor practice --- /choices ---
+- (x) 好ましくない取り組み --- /choices ---
 
 --- /question ---
