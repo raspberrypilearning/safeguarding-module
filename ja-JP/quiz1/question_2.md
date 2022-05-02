@@ -6,8 +6,8 @@
 クラブでの参加者にソーシャルメディアで1対1のメッセージを送ることは、優れた取り組みか、またはそうではないか。
 
 --- choices ---
-- ( ) Good practice
+- ( ) 優れた取り組み
 
-- (x) Poor practice --- /choices ---
+- (x) 好ましくない取り組み --- /choices ---
 
 --- /question ---
