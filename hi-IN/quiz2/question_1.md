@@ -1,16 +1,16 @@
 --- question ---
 ---
-legend: Question 1 of 3
+legend: 3 में से पहला प्रश्न
 ---
 
-How many adults should be present during an online session?
+एक ऑनलाइन सेशन के दौरान कितने वयस्कों को उपस्थित होना चाहिए?
 
 --- choices ---
 
-- ( ) None
-- ( ) One
-- (x) At least two
-- ( ) At least three
+- ( ) कोई भी नहीं
+- ( ) एक
+- (x) कम से कम दो
+- ( ) कम से कम तीन
 
 --- /choices ---
 
