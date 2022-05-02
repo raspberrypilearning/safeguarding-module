@@ -1,13 +1,13 @@
 --- question ---
 ---
-legend: Question 6 of 9
+legend: ಪ್ರಶ್ನೆ 6 ರಲ್ಲಿ 9
 ---
 
-Is it good practice or poor practice to take young people alone on car journeys?
+ಯುವಕರನ್ನು ಕಾರಿನಲ್ಲಿ ಪ್ರಯಾಣಿಸುವಾಗ ಏಕಾಂಗಿಯಾಗಿ ಕರೆದೊಯ್ಯುವುದು ಒಳ್ಳೆಯ ಪದ್ಧತಿಯೇ ಅಥವಾ ಕೆಟ್ಟ ಪದ್ಧತಿಯೇ?
 
 --- choices ---
-- ( ) Good practice
+- () ಒಳ್ಳೆಯ ಪದ್ಧತಿ
 
-- (x) Poor practice --- /choices ---
+- (x) ಕೆಟ್ಟ ಪದ್ಧತಿ --- /choices ---
 
 --- /question ---
