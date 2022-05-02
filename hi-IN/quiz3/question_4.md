@@ -1,13 +1,13 @@
 --- question ---
 ---
-legend: Question 4 of 6
+legend: 4 का प्रश्न 6
 ---
 
-Aisha seemed like she was lying. Is this:
+आयशा को लग रहा था कि वह झूठ बोल रही है। क्या यह:
 
 --- choices ---
-- ( ) A fact or an observation?
+- ( ) कोई तथ्य या अवलोकन?
 
-- (x) An opinion or evaluation? --- /choices ---
+- (x) कोई राय या मूल्यांकन? --- /choices ---
 
 --- /question ---
