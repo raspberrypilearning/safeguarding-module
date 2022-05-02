@@ -1,13 +1,13 @@
 --- question ---
 ---
-legend: Question 8 of 9
+legend: 8 का प्रश्न 9
 ---
 
-Is physical or emotional punishment an example of good practice or poor practice?
+शारीरिक या भावनात्मक दंड अच्छे अभ्यास का उदाहरण है या बुरे अभ्यास का उदाहरण है?
 
 --- choices ---
-- ( ) Good practice
+- ( ) अच्छा अभ्यास
 
-- (x) Poor practice --- /choices ---
+- (x) बुरा अभ्यास --- /choices ---
 
 --- /question ---
