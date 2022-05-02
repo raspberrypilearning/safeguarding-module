@@ -1,51 +1,51 @@
-## What to do if…?
+## काय करावं जर…?
 
-If you have a concern about a young person, or if a young person discloses abuse to you, it is important to be prepared. Your club must have a reporting procedure (this may be linked to the venue you operate from).
+आपल्याला एखाद्या तरुणाविषयी चिंता असेल किंवा कोणती तरुणाने आपल्याशी गैरवर्तणूक विषयक चर्चा केल्यास आपण ह्याविषयी पावले उचलण्यासाठी तयार असणे महत्त्वाचे आहे. आपले क्लबला एक अहवाल प्रक्रिया असणे आवश्यक आहे (हे आपल्या काम करण्याच्या ठिकाणाला जोडून असू शकते.).
 
-![Three young people standing.](images/8-Diverse-Mix-2.png)
+![तीन युवक आहेत.](images/8-Diverse-Mix-2.png)
 
-In this section, there are tips, sample scenarios, and sample reporting procedures for your club. We would recommend that you talk about these with your fellow volunteers.
+या विभागात, टिपा, नमुना परिस्थिती, आपल्या क्लबसाठी नमुना अहवाल प्रक्रिया आहेत. आपण आपल्या सहकारी स्वयंसेवकांशी ह्याविषयी चर्चा करा.
 
-If you have any doubts, you can fill out our [online safeguarding form to get advice and support](https://form.raspberrypi.org/f/safeguarding-concern-form){:target='_blank'}.
+आपण काही शंका असल्यास, आपण पुढील फॉर्म भरू शकता [ऑनलाइन संरक्षण फॉर्म सल्ला आणि समर्थन](https://form.raspberrypi.org/f/safeguarding-concern-form){:target='_blank'}.
 
-### What to do if a young person discloses abuse to you?
+### तरुणांनीचं आपल्याला गैरवर्तणूकीची माहिती दिल्यावर आपण काय करावे?
 
-1. React calmly: a serious reaction may alarm the young person and compound feelings of anxiety and/or guilt.
-1. Listen carefully and attentively, and take the young person seriously.
-1. Reassure the young person that they have taken the right action in talking to you.
-1. Do not make false promises (particularly regarding secrecy).
-1. Explain that if what they tell you is serious, then you will have to tell another person.
-1. Do not ask the young person to repeat the story unnecessarily.
-1. Ask questions only for the purpose of clarification. Be supportive, but do not ask leading questions or seek intimate details beyond those volunteered by the young person.
-1. Check with the young person to ensure that what has been heard and understood by you is accurate.
-1. Do not express any opinions about the alleged abuse or abuser.
+1. शांतपणे प्रतिक्रिया द्या: एक गंभीर प्रतिक्रिया तरुणांच्या चिंता वाढवून त्यांच्या काळजी किंवा स्वतःला दोषी वाटून घेण्याला खत पाणी घालू शकते.
+1. लक्ष देऊन काळजीपूर्वक ऐका आणि तरुणांचे म्हणणे गांभीर्याने घ्या.
+1. तुमच्याशी बोलून ते योग्यच करत माहीत असे त्यांना आवर्जून सांगा.
+1. खोटी वचने देऊ नका (खास करून गोपनीयते बाबतची).
+1. त्यांना समजावून सांगा, गंभीर बाब तुमच्या कानावर आल्यास तुम्हाला ती इतरांना सांगावीच लागेल.
+1. तरुणांना तेच तेच पुन्हा सांगायला लावू नका.
+1. फक्त स्पष्टीकरण उद्देशविषयक प्रश्न विचारा. आश्वासक व्हा, पण तरुणांनी स्वेच्छेने सांगितल्या पलीकडे गोपनीय तपशील विचारू नका, अधिक प्रश्नच भडिमार करू नका.
+1. आपण जे ऐकले आणि समजून घेतले ते योग्य असल्याची त्या व्यक्तीकडून पुन्हा खात्री करा.
+1. मात्र या गुन्ह्याबद्दल किंवा तत्सम आक्षेपार्ह कृत्य करणाऱ्या व्यक्तीबद्दल कोणत्याही प्रकारची प्रतिक्रिया देऊ नये.
 
-### What to do after a young person discloses abuse to you?
+### तरुणांनीं आपल्याला गैरवर्तणूकीची माहिती दिल्यावर आपण काय करावे?
 
-1. Record the conversation.
-1. Sign and date any written records.
-1. Pass the information to the person responsible for child protection at the venue. They will be able to guide you on next steps, which will include writing down what you have heard as accurately as possible.
-1. Let us know the actions you’ve taken by emailing [safeguarding@raspberrypi.org](mailto:safeguarding@raspberrypi.org){:target='_blank'} or filling in the [online safeguarding form](https://form.raspberrypi.org/f/safeguarding-concern-form){:target='_blank'}.
-1. If the young person is at immediate risk, the person responsible for child protection at the venue should contact the police.
-1. Treat all information confidentially, share it only with those who have a right to hear.
-1. If it is not possible to report your concern to the venue, please contact [safeguarding@raspberrypi.org](mailto:safeguarding@raspberrypi.org){:target='_blank'} and a member of the team will advise you what to do.
+1. संभाषण रेकॉर्ड करा.
+1. सर्व लिहित दस्तऐवज तारीख घालून सही करून लिहा.
+1. आयोजित स्थळी बाल सुरक्षा कामासाठी उपलब्ध व्यक्तीला लगेच माहिती द्या. ते आपल्याला पुढील कृतींचे मार्गदर्शन करतील ज्यांत आपण ऐकले / पाहीलेले सविस्तर लिहिणे ह्यांचा समावेश असेल.
+1. आपण केलेले उपाय मेल करून किंवा [safeguarding@raspberrypi.org](mailto:safeguarding@raspberrypi.org){:target='_blank'}हा फॉर्म भरून [ऑनलाईन सुरक्षा फॉर्म](https://form.raspberrypi.org/f/safeguarding-concern-form){:target='_blank'}कळवा.
+1. तरुणांना लगेच धोका असेल तर आयोजित स्थळी माणसांनी बाल सुरक्षा पोलिसांना तात्काळ संपर्क करावा.
+1. सर्व माहिती गोपनीय असून आवश्यक त्यानुसारच इतरत्र सांगितली जाईल.
+1. आयोजित स्थळी तक्रार नोंद शक्य नसल्यास [safeguarding@raspberrypi.org](mailto:safeguarding@raspberrypi.org){:target='_blank'} येथे संपर्क साधा म्हणजे आमचे सदस्य लवकरच आपल्याला संपर्क करतील.
 
-**Remember**: If you are unsure about a disclosure or need support, you can get in touch with the Raspberry Pi Foundation at any time.
+**लक्षात ठेवा**: प्रकटीकरणाविषयी आपण अनिश्चित असाल किंवा अधिक मदत हवी असेल तर Raspberry Pi फाउंडेशनशी कधीही संपर्क साधू शकता.
 
-### What to do if you notice signs of abuse?
+### गैरवर्तूणकीची लक्षणे दिसल्यास आपण काय कराल?
 
-1. Record any signs in detail.
-1. Sign and date any written records.
-1. Pass the information to the person responsible for child protection at the venue. They will be able to guide you on next steps, which will include writing down what you have heard and/or seen as accurately as possible.
-1. If the young person is at immediate risk, the person responsible for child protection at the venue should contact the police.
-1. Let us know the actions you’ve taken by emailing [safeguarding@raspberrypi.org](mailto:safeguarding@raspberrypi.org){:target='_blank'} or filling in the [online safeguarding form](https://form.raspberrypi.org/f/safeguarding-concern-form){:target='_blank'}.
-1. Treat all information confidentially, share it only with those who have a right to hear.
-1. If it is not possible to report your concern to the venue, please contact [safeguarding@raspberrypi.org](mailto:safeguarding@raspberrypi.org){:target='_blank'} and a member of the team will advise you what to do.
+1. सर्व बाबी सविस्तर नोंदवा.
+1. सर्व लिहित दस्तऐवज तारीख घालून सही करून लिहा.
+1. आयोजित स्थळी बाल सुरक्षा कामासाठी उपलब्ध व्यक्तीला लगेच माहिती द्या. ते आपल्याला पुढील कृतींचे मार्गदर्शन करतील ज्यांत आपण ऐकले / पाहिलेले सविस्तर लिहिणे ह्यांचा समावेश असेल.
+1. तरुणांना लगेच धोका असेल तर आयोजित स्थळी माणसांनी बाल सुरक्षा पोलिसांना तात्काळ संपर्क करावा.
+1. आपण केलेले उपाय मेल करून किंवा [safeguarding@raspberrypi.org](mailto:safeguarding@raspberrypi.org){:target='_blank'}हा फॉर्म भरून [ऑनलाईन सुरक्षा फॉर्म](https://form.raspberrypi.org/f/safeguarding-concern-form){:target='_blank'}कळवा.
+1. सर्व माहिती गोपनीय असून आवश्यक त्यानुसारच इतरत्र सांगितली जाईल.
+1. आयोजित स्थळी तक्रार नोंद शक्य नसल्यास [safeguarding@raspberrypi.org](mailto:safeguarding@raspberrypi.org){:target='_blank'} येथे संपर्क साधा म्हणजे आमचे सदस्य लवकरच आपल्याला संपर्क करतील.
 
-**Remember**: If you are unsure about a disclosure or need support, you can get in touch with the Raspberry Pi Foundation at any time.
+**लक्षात ठेवा**: प्रकटीकरणाविषयी आपण अनिश्चित असाल किंवा अधिक मदत हवी असेल तर Raspberry Pi फाउंडेशनशी कधीही संपर्क साधू शकता.
 
 --- save ---
 
 <p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">
-Ensure you're <span style="color: #0faeb0">logged into your Raspberry Pi Foundation account</span> to save your progress, otherwise your completion will not be recorded. Use the <a href="https://my.raspberrypi.org/login">'Log in'</a> link in the navigation menu to log in.
+आपण <span style="color: #0faeb0">आपल्या Raspberry Pi Fफाउंडेशन खात्यात</span>लॉगिन होऊन आपली प्रगती जतन करा नाही तर त्याशिवाय ती जतन केली जाणार नाही. ह्या नेव्हिगेशन मेनूमधील<a href="https://my.raspberrypi.org/login">लिंकवर 'लॉग इन'</a> करा.
 </p>
