@@ -1,13 +1,13 @@
 --- question ---
 ---
-legend: Question 9 of 9
+legend: 問9の9
 ---
 
-Is it good practice or poor practice to cc parents in on all direct email communication to young people?
+若者への直接的な電子メールでのコミュニケーションを行う際、すべてｃｃで親にも知らせることは良い習慣か悪い習慣か？
 
 --- choices ---
-- (x) Good practice
+- (x) 優れた取り組み
 
-- ( ) Poor practice --- /choices ---
+- ( ) 好ましくない取り組み --- /choices ---
 
 --- /question ---
