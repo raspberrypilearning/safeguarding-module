@@ -6,9 +6,9 @@ Safeguarding is the actions taken to promote the welfare of children and protect
 Ensure you're <span style="color: #0faeb0">logged into your Raspberry Pi Foundation account</span> to save your progress, otherwise your completion will not be recorded. Use the <a href="https://my.raspberrypi.org/login">'Log in'</a> link in the navigation menu to log in.
 </p>
 
-![Three young people standing.](images/3-RPF-Kids.png)
+![तीन युवक खड़े हैं।](images/3-RPF-Kids.png)
 
-This learning guide has been created to give all volunteers of the Raspberry Pi Foundation and their programmes (Code Club, CoderDojo, Raspberry Jams, and Astro Pi) the opportunity to learn about best practices in child safeguarding.
+यह लर्निंग गाइड Raspberry Pi फाउंडेशन के सभी स्वयंसेवकों और उनके कार्यक्रमों (Code Club, CoderDojo, Raspberry Jams, और Astro Pi) को बच्चों की सुरक्षा में सर्वोत्तम प्रथाओं के बारे में जानने का मौका देने हेतु बनाई गई है।
 
 Once completed, you will have:
 
