@@ -1,13 +1,13 @@
 --- question ---
 ---
-legend: Question 1 of 6
+legend: प्रश्न 1 पैकी 6
 ---
 
-Rita made no eye contact. Is this:
+रीटाने डोळ्याला डोळे भिडवले नाहीत. हे आहे:
 
 --- choices ---
-- (x) A fact or an observation?
+- (x) सत्य की निरीक्षण?
 
-- ( ) An opinion or evaluation? --- /choices ---
+- (एक्स) एक मत किंवा मूल्यमापन? --- /choices ---
 
 --- /question ---
