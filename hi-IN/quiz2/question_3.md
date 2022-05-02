@@ -1,14 +1,14 @@
 --- question ---
 ---
-legend: Question 3 of 3
+legend: ३ का प्रश्न ३
 ---
 
-Do you need to make sure that every young person has a parent's or guardian's consent before they attend an online session?
+क्या आपको यह सुनिश्चित करने की आवश्यकता है कि ऑनलाइन सेशन में भाग लेने से पहले प्रत्येक युवा के पास माता-पिता या अभिभावक की सहमति हो?
 
 --- choices ---
 
-- ( ) No
-- (x) Yes
+- ( ) नहीं
+- (x) हां
 
 --- /choices ---
 
