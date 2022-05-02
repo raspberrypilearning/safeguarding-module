@@ -1,9 +1,9 @@
 --- question ---
 ---
-legend: Question 1 of 6
+legend: 6 का प्रश्न 1
 ---
 
-Rita made no eye contact. Is this:
+रीता ने आँखों में आँखें डालकर कोई संपर्क नहीं किया। क्या यह:
 
 --- choices ---
 - (x) A fact or an observation?
