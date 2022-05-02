@@ -1,13 +1,13 @@
 --- question ---
 ---
-legend: Question 8 of 9
+凡例: 問8の9
 ---
 
-Is physical or emotional punishment an example of good practice or poor practice?
+体罰や精神的な罰は、良い習慣の例か悪い習慣の例か？
 
 --- choices ---
-- ( ) Good practice
+- ( ) 優れた取り組み
 
-- (x) Poor practice --- /choices ---
+- (x) 好ましくない取り組み --- /choices ---
 
 --- /question ---
