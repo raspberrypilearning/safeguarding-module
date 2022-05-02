@@ -1,46 +1,46 @@
-## Recruitment process
+## ನೇಮಕಾತಿ ಪ್ರಕ್ರಿಯೆ
 
-Typically, it is the club organiser's responsibility to recruit and onboard new volunteers. From time to time, volunteers may be involved in this process to help the club organiser, in particular to help guide the new volunteer in their first session.
+ಸಾಮಾನ್ಯವಾಗಿ, ಹೊಸ ಸ್ವಯಂಸೇವಕರನ್ನು ನೇಮಿಸಿಕೊಳ್ಳುವುದು ಮತ್ತು ಅವರನ್ನು ಆನ್‌ಬೋರ್ಡ್ ಮಾಡುವುದು ಕ್ಲಬ್ ಆಯೋಜಕರ ಜವಾಬ್ದಾರಿಯಾಗಿರುತ್ತದೆ. ಕಾಲಕಾಲಕ್ಕೆ, ಸ್ವಯಂಸೇವಕರು ಕ್ಲಬ್ ಆಯೋಜಕರಿಗೆ ಸಹಾಯ ಮಾಡಲು ಈ ಪ್ರಕ್ರಿಯೆಯಲ್ಲಿ ತೊಡಗಬಹುದು, ವಿಶೇಷವಾಗಿ ಹೊಸ ಸ್ವಯಂಸೇವಕರಿಗೆ ಅವರ ಮೊದಲ ಸೆಷನ್‌ನಲ್ಲಿ ಮಾರ್ಗದರ್ಶನ ನೀಡಲು ಸಹಾಯ ಮಾಡುತ್ತದೆ.
 
-![Three volunteers standing.](images/2-RPF-Volunteers.png)
+![ಮೂವರು ಸ್ವಯಂಸೇವಕರು ನಿಂತಿದ್ದಾರೆ.](images/2-RPF-Volunteers.png)
 
-It is important to recognise that not every volunteer who is interested in helping out at your club may be appropriate or a match.
+ನಿಮ್ಮ ಕ್ಲಬ್ಬಿನಲ್ಲಿ ಸಹಾಯ ಮಾಡಲು ಆಸಕ್ತಿ ಹೊಂದಿರುವ ಪ್ರತಿಯೊಬ್ಬ ಸ್ವಯಂಸೇವಕರೂ ಸೂಕ್ತವಾಗಿಲ್ಲದಿರಬಹುದು ಅಥವಾ ಸರಿಹೊಂದದೇ ಇರಬಹುದು ಎಂಬುದನ್ನು ಗುರುತಿಸುವುದು ಬಹಳ ಮುಖ್ಯವಾಗಿರುತ್ತದೆ.
 
-A recruitment process makes it easier to identify volunteers who are not a fit for the club. Here is an example of a recruitment process.
+ನೇಮಕಾತಿ ಪ್ರಕ್ರಿಯೆಯು ಕ್ಲಬ್‌ಗೆ ಅರ್ಹರಲ್ಲದ ಸ್ವಯಂಸೇವಕರನ್ನು ಗುರುತಿಸುವುದನ್ನು ಸುಲಭಗೊಳಿಸುತ್ತದೆ. ನೇಮಕಾತಿ ಪ್ರಕ್ರಿಯೆಯ ಒಂದು ಉದಾಹರಣೆ ಇಲ್ಲಿದೆ.
 
-### 1. Volunteer description
+### 1. ಸ್ವಯಂಸೇವಕರ ವಿವರಣೆ
 
 
-This is a short description to tell potential volunteers what the role involves and to give a broad overview of your club. This could be a brief description on your website or a club profile of a volunteer's role. It should include:
+ಈ ಪಾತ್ರವು ಏನನ್ನು ಒಳಗೊಂಡಿದೆ ಮತ್ತು ನಿಮ್ಮ ಕ್ಲಬ್‌ನ ವಿಶಾಲ ಅವಲೋಕನವನ್ನು ಸಂಭಾವ್ಯ ಸ್ವಯಂಸೇವಕರಿಗೆ ತಿಳಿಸಲು ಇದೊಂದು ಸಂಕ್ಷಿಪ್ತ ವಿವರಣೆಯಾಗಿದೆ. ಇದು ನಿಮ್ಮ ವೆಬ್‌ಸೈಟ್‌ನಲ್ಲಿನ ಸಂಕ್ಷಿಪ್ತ ವಿವರಣೆಯಾಗಿರಬಹುದು ಅಥವಾ ಒಬ್ಬ ಸ್ವಯಂಸೇವಕರ ಪಾತ್ರದ ಕ್ಲಬ್ ಪ್ರೊಫೈಲ್ ಆಗಿರಬಹುದು. ಇದು ಇವುಗಳನ್ನು ಒಳಗೊಂಡಿರಬೇಕು:
 
-* What happens in a typical session?
-* How often does your club run and for how long?
-* How much time do you require from your volunteers?
+* ಒಂದು ಸಾಮಾನ್ಯವಾದ ಸೆಷನ್‌ನಲ್ಲಿ ಏನಾಗುತ್ತದೆ?
+* ನಿಮ್ಮ ಕ್ಲಬ್ ಎಷ್ಟು ಬಾರಿ ಮತ್ತು ಎಷ್ಟು ಸಮಯದವರೆಗೆ ನಡೆಯುತ್ತದೆ?
+* ನಿಮ್ಮ ಸ್ವಯಂಸೇವಕರಿಂದ ನಿಮಗೆ ಎಷ್ಟು ಸಮಯ ಬೇಕಾಗುತ್ತದೆ?
 
-### 2. Application form
+### 2. ಅರ್ಜಿ ನಮೂನೆ
 
-This can be an online form with a few short questions. You should ask for a referee if possible and any relevant skills that may be useful in your club. Information from the application form, such as contact information, will be useful should this potential volunteer join the club.
+ಇದು ಕೆಲವು ಸಣ್ಣ ಪ್ರಶ್ನೆಗಳನ್ನು ಹೊಂದಿರುವ ಆನ್‌ಲೈನ್‌ ನಮೂನೆಯಾಗಿರಬಹುದು. ಸಾಧ್ಯವಾದರೆ ಒಬ್ಬ ತೀರ್ಪುಗಾರರನ್ನು ಮತ್ತು ನಿಮ್ಮ ಕ್ಲಬ್‌ಗೆ ಉಪಯುಕ್ತವಾಗಬಹುದಾದ ಯಾವುದೇ ಸಂಬಂಧಿತ ಕೌಶಲ್ಯಗಳನ್ನು ಹೊಂದಿರುವಂತೆ ನೀವು ಕೇಳಬೇಕು. ಈ ಸಂಭಾವ್ಯ ಸ್ವಯಂಸೇವಕನು ಕ್ಲಬ್ ಅನ್ನು ಸೇರಿಕೊಳ್ಳುವುದಿದ್ದಲ್ಲಿ, ಸಂಪರ್ಕ ಮಾಹಿತಿಯಂತಹ ಅರ್ಜಿ ನಮೂನೆಯಲ್ಲಿನ ಮಾಹಿತಿಯು ಉಪಯುಕ್ತವಾಗಿರುತ್ತದೆ.
 
-**Note**: If you are in a Code Club or CoderDojo, instead of an application form you should encourage potential volunteers to register through our websites ([codeclub.org](https://codeclub.org){:target='_blank'} and [coderdojo.com](https://coderdojo.com){:target='_blank'}).
+**ಗಮನಿಸಿ**: ನೀವು ಕೋಡ್ ಕ್ಲಬ್ ಅಥವಾ ಕೋಡರ್‌ಡೋಜೋದಲ್ಲಿದ್ದರೆ, ಅರ್ಜಿ ನಮೂನೆಯ ಬದಲು ನೀವು ಸಂಭಾವ್ಯ ಸ್ವಯಂಸೇವಕರನ್ನು ನಮ್ಮ ವೆಬ್‌ಸೈಟ್‌ಗಳಾದ ([codeclub.org](https://codeclub.org){:target='_blank'} ಹಾಗೂ [coderdojo.com](https://coderdojo.com){:target='_blank'}) ಮೂಲಕ ನೋಂದಾಯಿಸಲು ಪ್ರೋತ್ಸಾಹಿಸಬೇಕು.
 
-### 3. Informal meeting or interview
+### 3. ಅನೌಪಚಾರಿಕ ಸಭೆ ಅಥವಾ ಸಂದರ್ಶನ
 
-Invite the person to the club so you can meet with them and they can learn more about the club environment. If your club is running activities online, then you can meet remotely. It should be a casual meeting, but it should give the current club volunteers and the potential volunteer the chance to make a decision about whether they want the potential volunteer to go ahead with volunteering. This will also allow current club volunteers and the potential volunteer to see if they can work together well in the club setting. If you are starting your club for the first time, you should set up an informal meeting with your potential volunteer before your first session.
+ವ್ಯಕ್ತಿಯನ್ನು ಭೇಟಿ ಮಾಡಲು ಮತ್ತು ಅವರು ಕ್ಲಬ್ ಪರಿಸರದ ಬಗ್ಗೆ ಹೆಚ್ಚು ತಿಳಿದುಕೊಳ್ಳಲು ಸಾಧ್ಯವಾಗುವಂತೆ ಅವರನ್ನು ಕ್ಲಬ್‌ಗೆ ಆಹ್ವಾನಿಸಿ. ನಿಮ್ಮ ಕ್ಲಬ್ ಆನ್‌ಲೈನ್‌‌ನಲ್ಲಿ ಚಟುವಟಿಕೆಗಳನ್ನು ನಡೆಸುತ್ತಿದ್ದರೆ, ಆಗ ನೀವು ಅವರನ್ನು ದೂರದಿಂದಲೇ ಭೇಟಿಯಾಗಬಹುದು. ಇದು ಒಂದು ಅನೌಪಚಾರಿಕ ಸಭೆಯಾಗಿರಬೇಕು, ಆದರೆ ಇದು ಕ್ಲಬ್‌ನ ಪ್ರಸ್ತುತ ಸ್ವಯಂಸೇವಕರಿಗೆ ಮತ್ತು ಸಂಭಾವ್ಯ ಸ್ವಯಂಸೇವಕರಿಗೆ ಸಂಭಾವ್ಯ ಸ್ವಯಂಸೇವಕರು ಸ್ವಯಂಸೇವಕರಾಗಿ ಮುಂದುವರಿಯ ಬಯಸುತ್ತಾರೆಯೇ ಎಂಬ ಬಗ್ಗೆ ನಿರ್ಧಾರ ತೆಗೆದುಕೊಳ್ಳುವ ಅವಕಾಶ ನೀಡಬೇಕು. ಪ್ರಸ್ತುತ ಕ್ಲಬ್ ಸ್ವಯಂಸೇವಕರು ಮತ್ತು ಸಂಭಾವ್ಯ ಸ್ವಯಂಸೇವಕರಿಗೆ ಕ್ಲಬ್ ಸೆಟ್ಟಿಂಗ್‌ನಲ್ಲಿ ಅವರು ಒಟ್ಟಿಗೆ ಉತ್ತಮವಾಗಿ ಕೆಲಸ ಮಾಡಬಹುದೇ ಎಂದು ನೋಡಲೂ ಇದು ಅನುವು ಮಾಡಿಕೊಡುತ್ತದೆ. ನೀವು ಮೊದಲ ಬಾರಿಗೆ ನಿಮ್ಮ ಕ್ಲಬ್ ಅನ್ನು ಪ್ರಾರಂಭಿಸುತ್ತಿದ್ದರೆ, ನಿಮ್ಮ ಮೊದಲ ಸೆಷನ್‌ಗೆ ಮೊದಲು ನಿಮ್ಮ ಸಂಭಾವ್ಯ ಸ್ವಯಂಸೇವಕರೊಂದಿಗೆ ನೀವೊಂದು ಅನೌಪಚಾರಿಕ ಸಭೆ ಮಾಡಬೇಕು.
 
-### 4. Background checks (dependent on region)
+### 4. ಹಿನ್ನೆಲೆ ಪರಿಶೀಲನೆಗಳು (ಪ್ರದೇಶದ ಮೇಲೆ ಅವಲಂಬಿತವಾಗಿದೆ)
 
-Background checks are useful for voluntary coding clubs; in some regions a background check is mandatory to work with young people. We understand that in some regions it is more difficult to access background checks or that it may be expensive, so that is why reference checks and utilising the rest of the volunteer recruitment process is important.
+ಸ್ವಯಂಪ್ರೇರಿತ ಕೋಡಿಂಗ್ ಕ್ಲಬ್‌ಗಳಿಗೆ ಹಿನ್ನೆಲೆ ಪರಿಶೀಲನೆಗಳು ಉಪಯುಕ್ತವಾಗಿವೆ; ಕೆಲವು ಪ್ರದೇಶಗಳಲ್ಲಿ ಯುವ ಜನತೆಯೊಂದಿಗೆ ಕೆಲಸ ಮಾಡಲು ಹಿನ್ನೆಲೆ ಪರಿಶೀಲನೆ ಕಡ್ಡಾಯವಾಗಿದೆ. ಕೆಲವು ಪ್ರದೇಶಗಳಲ್ಲಿ ಹಿನ್ನೆಲೆ ಪರಿಶೀಲನೆಗಳನ್ನು ಪರಿಶೀಲಿಸುವುದು ಹೆಚ್ಚು ಕಷ್ಟಕರವಾಗಬಹುದು ಅಥವಾ ಅದು ದುಬಾರಿಯಾಗಿರಬಹುದು ಎಂದು ನಮಗೆ ತಿಳಿದಿದೆ, ಆದ್ದರಿಂದಲೇ ಉಲ್ಲೇಖ ಪರಿಶೀಲನೆಗಳು ಮತ್ತು ಉಳಿದ ಸ್ವಯಂಸೇವಕ ನೇಮಕಾತಿ ಪ್ರಕ್ರಿಯೆಯನ್ನು ಬಳಸುವುದು ಮುಖ್ಯವಾಗಿದೆ.
 
-### 5. Referees (optional)
+### 5. ಉಲ್ಲೇಖದಾರರು (ಐಚ್ಛಿಕ)
 
-It can be really useful to ask for referees and to check those references to determine if a volunteer is suitable to work with young people and/or vulnerable adults.
+ಒಬ್ಬ ಸ್ವಯಂಸೇವಕರು ಯುವ ಜನರು ಮತ್ತು/ಅಥವಾ ದುರ್ಬಲರಾದ ವಯಸ್ಕರೊಂದಿಗೆ ಕೆಲಸ ಮಾಡಲು ಸೂಕ್ತವೇ ಎಂದು ನಿರ್ಧರಿಸಲು ಉಲ್ಲೇಖದಾರರನ್ನು ಕೇಳುವುದು ಮತ್ತು ಆ ಉಲ್ಲೇಖಗಳನ್ನು ಪರಿಶೀಲಿಸುವುದು ನಿಜವಾಗಿಯೂ ಉಪಯುಕ್ತವಾಗಬಹುದು.
 
-If you have your own application form, you could use this as a space to ask for details of referees. If you haven’t collected referees in the application form, you can ask for them after the informal meeting. Referees can be colleagues, teachers, lecturers, or a friend who knows the potential volunteer well. Volunteers can be referred to the club by another existing club volunteer, this person can also act as a referee.
+ನೀವು ನಿಮ್ಮ ಸ್ವಂತ ಅರ್ಜಿ ನಮೂನೆಯನ್ನು ಹೊಂದಿದ್ದರೆ, ನೀವು ಇದನ್ನು ಉಲ್ಲೇಖದಾರರಿಗೆ ವಿವರಗಳನ್ನು ಕೇಳುವ ಸ್ಥಳವಾಗಿ ಬಳಸಬಹುದು. ಅರ್ಜಿ ನಮೂನೆಯಲ್ಲಿ ನೀವು ಉಲ್ಲೇಖದಾರರನ್ನು ಸಂಗ್ರಹಿಸಿರದಿದ್ದರೆ, ಅನೌಪಚಾರಿಕ ಸಭೆಯ ನಂತರ ನೀವು ಅವರನ್ನು ಕೇಳಬಹುದು. ಉಲ್ಲೇಖದಾರರು ಸಹೋದ್ಯೋಗಿಗಳು, ಶಿಕ್ಷಕರು, ಉಪನ್ಯಾಸಕರು, ಅಥವಾ ಸಂಭಾವ್ಯ ಸ್ವಯಂಸೇವಕರನ್ನು ಚೆನ್ನಾಗಿ ಬಲ್ಲ ಸ್ನೇಹಿತರಾಗಿರಬಹುದು. ಅಸ್ತಿತ್ವದಲ್ಲಿರುವ ಇನ್ನೊಂದು ಕ್ಲಬ್‌ನ ಸ್ವಯಂಸೇವಕರಿಂದ ಸ್ವಯಂಸೇವಕರನ್ನು ಕ್ಲಬ್‌ಗೆ ಉಲ್ಲೇಖಿಸಬಹುದು, ಈ ವ್ಯಕ್ತಿಯು ಉಲ್ಲೇಖದಾರರಾಗಿಯೂ ಕಾರ್ಯನಿರ್ವಹಿಸಬಹುದು.
 
-**Tip**: When you check references, it is often best to phone the referee as people may be inclined to give a more honest perspective than in writing.
+**Tip**: ನೀವು ಉಲ್ಲೇಖಗಳನ್ನು ಪರಿಶೀಲಿಸಿದಾಗ, ಜನರು ಬರವಣಿಗೆಗಿಂತ ಹೆಚ್ಚು ದೂರವಾಣಿಯ ಮೂಲಕ ಪ್ರಾಮಾಣಿಕ ದೃಷ್ಟಿಕೋನವನ್ನು ನೀಡಲು ಒಲವು ತೋರುವುದರಿಂದ ಉಲ್ಲೇಖದಾರರಿಗೆ ಫೋನ್ ಮಾಡುವುದು ಒಳ್ಳೆಯದಾಗಿರುತ್ತದೆ.
 
 --- save ---
 
 <p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">
-Ensure you're <span style="color: #0faeb0">logged into your Raspberry Pi Foundation account</span> to save your progress, otherwise your completion will not be recorded. Use the <a href="https://my.raspberrypi.org/login">'Log in'</a> link in the navigation menu to log in.
+ನಿಮ್ಮ ಪ್ರಗತಿಯನ್ನು ಉಳಿಸಲು ನೀವು <span style="color: #0faeb0"> ನಿಮ್ಮ Raspberry Pi ಫೌಂಡೇಶನ್ ಖಾತೆಗೆ ಲಾಗ್ ಇನ್ ಮಾಡಿರುವುದನ್ನು</span> ಖಚಿತಪಡಿಸಿಕೊಳ್ಳಿ, ಇಲ್ಲದಿದ್ದರೆ ನಿಮ್ಮ ಪೂರ್ಣಗೊಳಿಸುವಿಕೆಯನ್ನು ದಾಖಲಿಸಲಾಗುವುದಿಲ್ಲ. ಲಾಗ್ ಇನ್ ಆಗಲು ನ್ಯಾವಿಗೇಶನ್ ಮೆನುನಲ್ಲಿ <a href="https://my.raspberrypi.org/login">'ಲಾಗಿನ್'</a> ಲಿಂಕ್ ಅನ್ನು ಬಳಸಿ.
 </p>
