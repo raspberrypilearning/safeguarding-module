@@ -1,11 +1,11 @@
-## How to record details of abuse
+## 虐待の詳細を記録する方法
 
-When you record details of abuse for either your club organiser or external organisations, it is important to ensure you record facts and observations as opposed to evaluations and opinions.
+クラブ主催者または外部組織のために虐待の詳細を記録する場合、評価や意見ではなく、事実と観察を確実に記録することが重要です。
 
-An observation is something you can see, smell, touch, or hear. An evaluation is what you think about what you saw, smelt, touched, or heard.
+観察とは、見たり、嗅いだり、触ったり、聞いたりすることができることをいう。 評価とは、見たこと、嗅いだこと、触れたこと、聞いたことについて考えることをいう。
 
 --- save ---
 
 <p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">
-Ensure you're <span style="color: #0faeb0">logged into your Raspberry Pi Foundation account</span> to save your progress, otherwise your completion will not be recorded. Use the <a href="https://my.raspberrypi.org/login">'Log in'</a> link in the navigation menu to log in.
+<span style="color: #0faeb0">Raspberry Pi Foundation アカウント</span> にログインしていることを確認して進行状況を保存してください。それ以外の場合、完了情報は記録されません。 ナビゲーションメニューの<a href="https://my.raspberrypi.org/login">「ログイン」</a>リンクからログインしてください。
 </p>
