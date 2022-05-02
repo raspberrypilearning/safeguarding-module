@@ -1,13 +1,13 @@
 --- question ---
 ---
-legend: Question 5 of 6
+legend: ಪ್ರಶ್ನೆ 5 ರಲ್ಲಿ 6
 ---
 
-Jane looked at her watch twice. Is this:
+ಜೇನ್ ಎರಡು ಬಾರಿ ತನ್ನ ವಾಚ್ ನೋಡಿಕೊಂಡಳು. ಇದು:
 
 --- choices ---
-- (x) A fact or an observation?
+- (x) ವಾಸ್ತವವೋ ಅಥವಾ ಅವಲೋಕನವೋ?
 
-- ( ) An opinion or evaluation? --- /choices ---
+- ( ) ಅಭಿಪ್ರಾಯವೋ ಅಥವಾ ಮೌಲ್ಯಮಾಪನವೋ? --- /choices ---
 
 --- /question ---
