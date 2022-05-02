@@ -1,13 +1,13 @@
 --- question ---
 ---
-legend: Question 6 of 6
+legend: 問6の6
 ---
 
-Ade was bored. Is this:
+エイドは退屈でした。 これは:
 
 --- choices ---
-- ( ) A fact or an observation?
+- ( ) 事実又は目撃情報ですか？
 
-- (x) An opinion or evaluation? --- /choices ---
+- (x) 意見又は評価ですか？ --- /choices ---
 
 --- /question ---
