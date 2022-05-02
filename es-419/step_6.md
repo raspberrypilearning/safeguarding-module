@@ -1,66 +1,66 @@
-## Abuse and disclosures
+## Malos tratos y revelaciones
 
-A vast majority of young people take part in our clubs without encountering abuse. However, it is important that volunteers are aware of what to do when they become aware of abuse either through observation or through a young person telling you about abuse (disclosure). Most Raspberry Pi Foundation clubs create an environment in which many young people feel particularly comfortable, which can help encourage disclosures at the club.
+La gran mayoría de los jóvenes participan en nuestros clubes sin sufrir maltratos. Sin embargo, es importante que los voluntarios sepan qué hacer cuando tengan conocimiento de un maltrato, ya sea mediante la observación o a través de un joven que le informe del maltrato (revelación). La mayoría de los clubes de la Fundación Raspberry Pi crean un entorno en el cual muchos jóvenes se sienten especialmente cómodos, lo cual puede ayudar a fomentar las revelaciones en el club.
 
-![Three young people standing.](images/7-Diverse-Mix.png){:target='_blank'}
+![Tres jóvenes están de pie.](images/7-Diverse-Mix.png){:target='_blank'}
 
-Child abuse is generally categorised as neglect, physical abuse, emotional abuse, sexual abuse, or radicalisation. Other aspects to be aware of include peer abuse, organised abuse, and online abuse.
+El maltrato infantil se clasifica generalmente como negligencia, maltrato físico, maltrato emocional, abuso sexual o radicalización. Otros aspectos que hay que tener en cuenta son el maltrato entre iguales, el maltrato organizado y el maltrato en línea.
 
-### Types of abuse: neglect
+### Tipos de maltrato: negligencia
 
-Neglect can be defined in terms of an omission, where a young person suffers significant harm or impairment of development by being deprived of food, clothing, warmth, hygiene, intellectual stimulation, supervision and safety, attachment to and affection from adults, and/or medical care.
+La negligencia puede definirse en términos de omisión, cuando un joven sufre un daño significativo o un deterioro del desarrollo al ser privado de alimentos, ropa, calor, higiene, estimulación intelectual, supervisión y seguridad, apego y afecto de los adultos, y/o atención médica.
 
-[Further resources and definition from the NSPCC (UK)](https://www.nspcc.org.uk/what-is-child-abuse/types-of-abuse/neglect/){:target='_blank'}
+[Recursos adicionales y definición de la NSPCC (Reino Unido)](https://www.nspcc.org.uk/what-is-child-abuse/types-of-abuse/neglect/){:target='_blank'}
 
-### Types of abuse: physical abuse
+### Tipos de maltrato: maltrato físico
 
-Physical abuse of a young person is that which results in actual or potential physical harm from an interaction, or lack of interaction, which is reasonably within the control of a parent or person in a position of responsibility, power, or trust. There may be single or repeated incidents.
+El maltrato físico de un joven es el que resulta en un daño físico real o potencial a partir de una interacción, o falta de interacción, que está razonablemente dentro del control de los padres o de las personas en una posición de responsabilidad, poder o confianza. Pueden ser incidentes únicos o incidentes repetidos.
 
-Physical abuse can involve:
+El maltrato físico puede implicar:
 
-* Severe physical punishment
-* Beating, slapping, hitting, or kicking
-* Pushing, shaking, or throwing
-* Terrorising with threats
+* Maltrato físico severo
+* Golpear, abofetear, pegar o patear
+* Empujar, sacudir o lanzar
+* Aterrorizar con amenazas
 
-[Further resources and definition from the NSPCC (UK)](https://www.nspcc.org.uk/what-is-child-abuse/types-of-abuse/physical-abuse/){:target='_blank'}
+[Recursos adicionales y definición de la NSPCC (Reino Unido)](https://www.nspcc.org.uk/what-is-child-abuse/types-of-abuse/physical-abuse/){:target='_blank'}
 
-### Types of abuse: emotional abuse
+### Tipos de maltrato: maltrato emocional
 
-Emotional abuse is normally to be found in the relationship between a parent, guardian, or caregiver and a young person rather than in a specific event or pattern of events. It occurs when a young person’s needs for affection, approval, consistency, and security are not met. It is rarely manifested in terms of physical symptoms.
+El maltrato emocional se encuentra normalmente en la relación entre el padre/la madre, el tutor o el cuidador y un joven, más que en un acontecimiento o patrón de acontecimientos específico. Se produce cuando no se satisfacen las necesidades de afecto, aprobación, coherencia y seguridad de un joven. Rara vez se manifiesta en términos de síntomas físicos.
 
-For example:
+Por ejemplo:
 
-* Persistent criticism
-* Sarcasm or hostility
-* Emotional unavailability
-* Use of unreasonable or harsh disciplinary measures
+* Crítica persistente
+* Sarcasmo u hostilidad
+* Indisponibilidad emocional
+* Uso de medidas disciplinarias poco razonables o severas
 
-[Further resources and definition from the NSPCC (UK)](https://www.nspcc.org.uk/what-is-child-abuse/types-of-abuse/emotional-abuse/){:target='_blank'}
+[Recursos adicionales y definición de la NSPCC (Reino Unido)](https://www.nspcc.org.uk/what-is-child-abuse/types-of-abuse/emotional-abuse/){:target='_blank'}
 
-### Types of abuse: sexual abuse
+### Tipos de maltrato: abuso sexual
 
-Sexual abuse occurs when a young person is used by another person for their gratification or sexual arousal, or for that of others. This doesn't have to be physical contact and it can happen online. Sometimes the young person won't understand that what's happening to them is abuse. They may not even understand that it's wrong.
+El abuso sexual se produce cuando un joven es utilizado por otra persona para la gratificación o excitación sexual de dicha persona, o para la de otras personas. No tiene por qué ser un contacto físico y puede ocurrir en línea. A veces el joven no entiende que lo que le ocurre es un maltrato. Puede que ni siquiera entienda que eso está mal.
 
-[Further resources and definition from the NSPCC (UK)](https://www.nspcc.org.uk/what-is-child-abuse/types-of-abuse/child-sexual-abuse/)
+[Recursos adicionales y definición de la NSPCC (Reino Unido)](https://www.nspcc.org.uk/what-is-child-abuse/types-of-abuse/child-sexual-abuse/)
 
-### Types of abuse: radicalisation
+### Tipos de maltrato: radicalización
 
-Young people at risk of radicalisation may be victims of other forms of abuse, such as bullying or discrimnation, that make them easy targets for extremists.
+Los jóvenes en riesgo de radicalización pueden ser víctimas de otras formas de maltrato, tales como el acoso o la discriminación, lo que los convierte en objetivos fáciles para los extremistas.
 
-Radicalisation can be difficult to notice, as it is similar to some normal teenage behaviours. Here are some signs that a person or group might be attempting to radicalise a young person:
+La radicalización puede ser difícil de percibir, ya que es similar a algunos comportamientos normales de los adolescentes. Estos son algunos de los signos que indican que una persona o grupo puede estar intentando radicalizar a un joven:
 
-- The young person isolates themselves from family and friends
-- The young person talks as if from a scripted speech
-- The young person is unwilling or unable to discuss their views
-- The young person shows a suddenly disrespectful attitude towards others
-- The young person has increased levels of anger
-- The young person is increasingly secretive, especially around internet use
+- El joven se aísla de su familia y amigos
+- El joven habla como si se tratara de un discurso con un guion
+- El joven no quiere o no puede discutir sus opiniones
+- El joven muestra una actitud repentinamente irrespetuosa hacia los demás
+- El joven presenta niveles crecientes de ira
+- El joven es cada vez más reservado, especialmente en lo que respecta al uso del Internet
 
-[Further resources and definition from the NSPCC (UK)](https://www.nspcc.org.uk/keeping-children-safe/reporting-abuse/dedicated-helplines/protecting-children-from-radicalisation/)
+[Recursos adicionales y definición de la NSPCC (Reino Unido)](https://www.nspcc.org.uk/keeping-children-safe/reporting-abuse/dedicated-helplines/protecting-children-from-radicalisation/)
 
 --- save ---
 
 <p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">
-Ensure you're <span style="color: #0faeb0">logged into your Raspberry Pi Foundation account</span> to save your progress, otherwise your completion will not be recorded. Use the <a href="https://my.raspberrypi.org/login">'Log in'</a> link in the navigation menu to log in.
+Asegúrese de que está <span style="color: #0faeb0">conectado a su cuenta de la Fundación Raspberry Pi</span> para guardar su avance, de lo contrario no se registrará que ha finalizado. Utilice el enlace <a href="https://my.raspberrypi.org/login">'Log in'</a> del menú de navegación para iniciar sesión.
 </p>
