@@ -1,15 +1,15 @@
 --- question ---
 ---
-legend: Question 2 of 3
+legend: प्रश्न 3 पैकी 2
 ---
 
-Is it OK to use webcams during an online session?
+ऑन लाइन सत्र दरम्यान वेबकॅम वापरणे ठीक आहे का?
 
 --- choices ---
 
-- ( ) No
-- ( ) Yes
-- (x) Yes, but make sure everyone knows they are prohibited from recording or taking screenshots of the session
+- ( ) नाही
+- ( ) होय
+- (x) होय, परंतु प्रत्येकाला माहित आहे की त्यांना सत्रामध्ये स्क्रीनशॉट किंवा रेकॉर्ड करण्यास मनाई आहे हे माहित असल्याची खात्री करा
 
 --- /choices ---
 
