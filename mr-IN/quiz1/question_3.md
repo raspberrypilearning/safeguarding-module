@@ -1,13 +1,13 @@
 --- question ---
 ---
-legend: Question 3 of 9
+legend: प्रश्न 3 पैकी 9
 ---
 
-Is it good practice or poor practice to use offensive language in your club?
+तुमच्या क्लबमध्ये आक्षेपार्ह भाषा वापरणे हे चांगल्या की वाईट वर्तनाचे उदाहरण आहे?
 
 --- choices ---
-- ( ) Good practice
+- ( ) चांगले वर्तन
 
-- (x) Poor practice --- /choices ---
+- (x) सुमार वर्तन --- /choices ---
 
 --- /question ---
