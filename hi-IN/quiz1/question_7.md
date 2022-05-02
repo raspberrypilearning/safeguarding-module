@@ -3,11 +3,11 @@
 legend: Question 7 of 9
 ---
 
-Is it good practice or poor practice to take into account young people's views in the decision-making process at your club?
+आपके क्लब में निर्णय लेने की प्रक्रिया में युवा लोगों के विचारो का ध्यान रखना अच्छा अभ्यास है या बुरा अभ्यास है?
 
 --- choices ---
-- (x) Good practice
+- (x) अच्छा अभ्यास है
 
-- ( ) Poor practice --- /choices ---
+- ( ) बुरा अभ्यास --- /choices ---
 
 --- /question ---
