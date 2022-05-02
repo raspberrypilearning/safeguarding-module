@@ -3,11 +3,11 @@
 legend: ಪ್ರಶ್ನೆ 2 ರಲ್ಲಿ 9
 ---
 
-Is it good practice or poor practice to send one-to-one messages on social media to an attendee at a club?
+ಕ್ಲಬ್ಬಿನಲ್ಲಿ ಭಾಗವಹಿಸುವವರೊಬ್ಬರಿಗೆ ಸಾಮಾಜಿಕ ಮಾಧ್ಯಮದಲ್ಲಿ ವೈಯಕ್ತಿಕ ಸಂದೇಶಗಳನ್ನು ಕಳುಹಿಸುವುದು ಒಳ್ಳೆಯ ಪದ್ಧತಿಯೇ ಅಥವಾ ಕೆಟ್ಟ ಪದ್ಧತಿಯೇ?
 
 --- choices ---
-- ( ) Good practice
+- () ಒಳ್ಳೆಯ ಪದ್ಧತಿ
 
-- (x) Poor practice --- /choices ---
+- (x) ಕೆಟ್ಟ ಪದ್ಧತಿ --- /choices ---
 
 --- /question ---
