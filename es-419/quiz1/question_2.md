@@ -1,13 +1,13 @@
 --- question ---
 ---
-legend: Question 2 of 9
+legend: pregunta 2 de 9
 ---
 
-Is it good practice or poor practice to send one-to-one messages on social media to an attendee at a club?
+¿Es una buena o una mala práctica enviar mensajes individuales en las redes sociales a un participante en un club?
 
 --- choices ---
-- ( ) Good practice
+- ( ) Buena práctica
 
-- (x) Poor practice --- /choices ---
+- (x) Pobre práctica --- /choices ---
 
 --- /question ---
