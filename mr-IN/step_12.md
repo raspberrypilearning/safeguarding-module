@@ -1,60 +1,60 @@
-## That’s almost it
+## जवळजवळ झालेच
 
-You’ve completed this short interactive learning guide. Well done!
+तुम्ही ही लहान संवादात्मक शिक्षण मार्गदर्शन पूर्ण केले आहे. छान!
 
-You can now test your knowledge with some scenarios. In each scenario, we want you to consider what you definitely would do, what you may do (depending on the circumstances), and what you would not do.
+तुम्ही आता काही परिस्थिती जन्य उदाहरणासह तुमच्या ज्ञानाची चाचणी घेऊ शकता. प्रत्येक परिस्थितीमध्ये, तुम्ही निश्चितपणे काय कराल, तुम्ही काय करू शकता (परिस्थितीनुसार) आणि तुम्ही काय करणार नाही याचा विचार करावा अशी आमची इच्छा आहे.
 
-### Kim
+### किम
 
-**You notice one of the young people at the club, Kim, who is 12 years old, is making a game which focuses on sadness and isolation, and there are some references to suicide. The lead character in the game is also called Kim.**
+**तुमच्या लक्षात आले की क्लबमधील तरुणांपैकी एक, किम, जो 12 वर्षांचा आहे, एक गेम बनवत आहे जो दु: ख आणि एकांत वास यावर केंद्रित आहे आणि त्यात आत्महत्येचे काही संदर्भ आहेत. गेममधील मुख्य पात्राला किम नावाचे आहे.**
 
 --- hints --- --- hint ---
 
-In this scenario, you should ensure you check on the young person before you make any assumptions. Kim’s parents or guardians should be informed of the game by the most appropriate person, which may be you, but could be another volunteer or teacher from the club. It may also be relevant to tell the young person's parents or guardians about local support in the area if the volunteer knows what these are; often a general practitioner or local doctor is the best place to initially point a parent or guardian to in this scenario. Most importantly, you should talk to your club organiser, or teacher if in a school setting, and ensure that someone from the club checks on Kim in future sessions.
+या परिस्थितीत, तुम्ही कोणती गोष्ट गृहित धरण्यापूर्वी तुम्ही तरुण व्यक्तीची चौकशी केली पाहिजे. किमच्या पालकांना किंवा काळजीवाहूंना सर्वात योग्य व्यक्तीद्वारा गेमबद्दल सूचित केले पाहिजे, जे तुम्ही असू शकता, परंतु क्लबचे दुसरे स्वयंसेवक किंवा शिक्षक असू शकतात. जर स्वयंसेवकाला स्थानिक मदत कोठे मिळेल हे माहित असेल तर तरुण व्यक्तीच्या पालकांना किंवा पालकांना परिसरातील स्थानिक मदतीविषयी सांगणे देखील प्रासंगिक असू शकते; या परिस्थितीत सुरुवातीला पालक किंवा काळजीवाहूंना सूचित करण्यासाठी जनरल प्रॅक्टिशनर किंवा स्थानिक डॉक्टराचे क्लिनिक हे सर्वोत्तम ठिकाण आहे. सर्वात महत्त्वाचे म्हणजे, आपण आपल्या क्लब आयोजनांशी बोलले पाहिजे, किंवा शाळा प्रणालीमध्ये शिक्षक आणि भविष्यातील सत्रांमध्ये किम वर कोणी तरी क्लब चेक कोणी तरी करेल याची खात्री करा.
 
 --- /hint --- --- /hints ---
 
-### Mark
+### علامة
 
-**One of the young people in the club has come to you and told you that Mark, aged 11, is on his laptop and is looking at pictures of people with "no clothes on and doing strange things".**
+**क्लबमधील तरुणांपैकी एकाने तुमच्याकडे येऊन तुम्हाला सांगितले की मार्क, वय 11, त्याच्या लॅपटॉपवर आहे आणि "कपडे नसलेल्या आणि विचित्र गोष्टी करत असलेल्या" लोकांची छायाचित्रे पाहत आहे.**
 
 --- hints --- --- hint ---
 
-The main learning from this scenario is to not overreact or make assumptions, as this could have been something quite innocent or accidental like an advert or pop-up. If the matter can be dealt with immediately, then you (or the club organiser) should speak to Mark without assumptions. Then you (or the club organiser) should speak to both sets of parents (or guardians) separately, mainly to ensure this doesn’t happen again in the club. You should ensure the young person who reported this is OK and knows that you are dealing with the situation. You should make the club organiser aware of the situation and perhaps you may organise an online safety session a few weeks after the incident.
+या परिस्थितीतून मुख्य शिकणे म्हणजे अतिरिक्त प्रतिक्रिया न देणे किंवा गृहित न धरणे, कारण हे जाहिरात किंवा पॉप-अप सारखे काहीतरी निष्पाप किंवा अपघाती असू शकते. प्रकरण ताबडतोब हाताळले जाऊ शकत असल्यास, तुम्ही (किंवा क्लब आयोजकाने) काहीही गृहीत न धरता मार्कशी बोलले पाहिजे. मग आपण (किंवा क्लब आयोजक) दोन्ही बाजूंच्या पालकांशी (किंवा काळजी वाहकांशी) स्वतंत्रपणे बोलले पाहिजे, मुख्यत्वे हे क्लबमध्ये पुन्हा होणार नाही याची खात्री करण्यासाठी. ज्या तरुण व्यक्तीने हे नोंदवले आहे तो ठीक आहे आणि तुम्ही परिस्थितीला सामोरे जात आहात हे तुम्हाला ठाऊक आहे याची तुम्ही खात्री केली पाहिजे. तुम्ही क्लब आयोजनाला परिस्थितीची जाणीव करून दिली पाहिजे आणि कदाचित तुम्ही घटनेच्या काही आठवड्यांनंतर ऑन लाइन सुरक्षा सत्र आयोजित करू शकता.
 
 --- /hint --- --- /hints ---
 
-### Zoe
+### झो
 
-**During an online club session, one of the club members, Zoe, shouts an obscenity at an adult in their home. The adult shouts back. You hear a loud crash, and the club member disappears from your view. You can hear threatening behaviour from the adult and the camera turns off.**
+**ऑन लाइन क्लब सत्रा दरम्यान, क्लब सदस्यांपैकी एक, झो, त्यांच्या घरातील प्रौढ व्यक्तीवर अश्लील प्रकारे ओरडते. प्रौढ पुन्हा माघारी धमकावून प्रत्युत्तर देतो. तुम्हाला मोठा धमाका ऐकू येतो आणि क्लब मेम्बर तुमच्या समोरून एकदम दिसेनासा होतो. आपण एखाद्या प्रौढांकडून धमकावणी सदृश्य ऐकता आणि कॅमेरा अचानक बंद होतो.**
 
 --- hints --- --- hint ---
 
-In this scenario, there is an immediate concern about the welfare of a young person and you have no way of knowing whether the young person is safe. The first thing you need to do is to call the police, who will investigate the incident. The second thing you need to do is call our 24-hour safeguarding number to report what has happened.
+या परिस्थितीत, तरुण व्यक्तीच्या कल्याणाविषयी त्वरित चिंता असेल आणि ती तरुण सुरक्षित आहे की नाही हे जाणून घेण्याचा कोणताही मार्ग तुमच्याकडे नसेल तर. सर्व प्रथम तुम्ही करावी ती गोष्ट म्हणजे पोलिसांना कॉल करावा, जे घटनेची चौकशी करतील. दुसरी गोष्ट म्हणजे काय घडले याची तक्रार करण्यासाठी आमच्या 24-तास सुरक्षा विषयक नंबर वर फोन करा.
 
 --- /hint --- --- /hints ---
 
-### Robert
+### रॉबर्ट
 
-**During an online session, you notice that Robert, one of the club members, posts sexually explicit language and links to pornographic websites in the comments section.**
+**ऑन लाइन सत्रा दरम्यान, तुमच्या लक्षात आले की रॉबर्ट, क्लब सदस्यांपैकी एक, टिप्पण्या विभागात लैंगिक दृष्ट्या सुस्पष्ट भाषा आणि अश्लील वेब साइटच्या लिंक पोस्ट करतो.**
 
 --- hints --- --- hint ---
 
-It’s important to make a record of what Robert has posted, in case this happens again. He may not know the significance of what he has posted, so it’s important that you let his parents or guardians know what happened and provide them with the [parents guide](https://help.coderdojo.com/cdkb/s/article/Parents-guide-to-CoderDojo). Other young people attending the online session may have seen the messages and been affected by them, so it’s important that you contact their parents or guardians as well and let them know what happened and how you intend to follow up.
+हे पुन्हा घडल्यास रॉबर्टने काय पोस्ट केले आहे याची नोंद करणे महत्त्वाचे आहे. त्याने जे पोस्ट केले आहे त्याचे महत्त्व कदाचित त्याला माहित नसेल, त्यामुळे आपण त्याच्या पालकांना किंवा पालकांना काय घडले हे सांगणे आणि त्यांना [पालक मार्गदर्शक](https://help.coderdojo.com/cdkb/s/article/Parents-guide-to-CoderDojo)प्रदान करणे महत्त्वाचे आहे. ऑन लाइन सत्रात सहभागी होणार्‍या इतर तरुणांनी कदाचित संदेश पाहीले असतील आणि त्यांच्यावर परिणाम झाला असेल, म्हणून तुम्ही त्यांच्या पालकांशी किंवा पालकांशीही संपर्क साधणे आणि काय झाले आणि तुमचा पाठपुरावा कसा करायचा आहे हे त्यांना कळवणे महत्त्वाचे आहे.
 
 --- /hint --- --- /hints ---
-### Lisa
+### लिसा
 
-**Lisa, one of the young people in your club, has got in touch through a private message on social media to ask for help with a project.**
+**लिसा, तुमच्या क्लबमधील तरुणांपैकी एक, एका प्रकल्पासाठी मदत मागण्यासाठी सोशल मीडियावर एका खाजगी संदेशा द्वारे संपर्कात आहे.**
 
 --- hints --- --- hint ---
 
-One-to-one messaging with young people is not encouraged for any volunteers, either on social media or through other mediums (including email). There are some situations that you may want to respond to the young person: if it is a long time until the next session or there is a deadline for the project to be entered in a competition and you do not want to disappoint the young person. If you do respond, you should encourage that they email you and cc their parent or guardian (or the club organiser or teacher) into the conversation in future or regarding this query.
+सोशल मीडियावर किंवा इतर माध्यमां द्वारे (ईमेलसह) कोणत्याही स्वयंसेवकांना तरुण लोकां सोबत थेट संदेश पाठवण्यास प्रोत्साहन दिले जात नाही. अशा काही परिस्थिती आहेत ज्यात तुम्ही तरुण व्यक्तीला प्रतिसाद देऊ इच्छित असाल: जर पुढील सत्रापर्यंत बराच वेळ असेल किंवा एखाद्या स्पर्धेत भाग घेण्यासाठी प्रकल्पाची अंतिम मुदत असेल आणि तुम्ही तरुण व्यक्तीला निराश करू इच्छित नाही. तुम्ही प्रतिसाद दिल्यास, त्यांनी तुम्हाला ई मेल पाठवण्यास आणि त्यांचे पालक किंवा काळजी वाहू ह्यांना (किंवा क्लब आयोजक किंवा शिक्षक) भविष्यात होणार्‍या संवादात किंवा या प्रश्नाबाबत संभाषणात सीसी - ई मेल करण्यास प्रोत्साहित केले पाहिजे.
 
 --- /hint --- --- /hints ---
 
 --- save ---
 
 <p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">
-Ensure you're <span style="color: #0faeb0">logged into your Raspberry Pi Foundation account</span> to save your progress, otherwise your completion will not be recorded. Use the <a href="https://my.raspberrypi.org/login">'Log in'</a> link in the navigation menu to log in.
+आपण <span style="color: #0faeb0">आपल्या Raspberry Pi Fफाउंडेशन खात्यात</span>लॉगिन होऊन आपली प्रगती जतन करा नाही तर त्याशिवाय ती जतन केली जाणार नाही. ह्या नेव्हिगेशन मेनूमधील<a href="https://my.raspberrypi.org/login">लिंकवर 'लॉग इन'</a> करा.
 </p>
