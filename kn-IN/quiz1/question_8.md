@@ -1,13 +1,13 @@
 --- question ---
 ---
-legend: Question 8 of 9
+legend: ಪ್ರಶ್ನೆ 8 ರಲ್ಲಿ 9
 ---
 
-Is physical or emotional punishment an example of good practice or poor practice?
+ದೈಹಿಕ ಅಥವಾ ಭಾವನಾತ್ಮಕ ಶಿಕ್ಷೆ ಒಳ್ಳೆಯ ಪದ್ಧತಿಯ ಉದಾಹರಣೆಯಾಗಿದೆಯೇ ಅಥವಾ ಕೆಟ್ಟ ಪದ್ಧತಿಯ ಉದಾಹರಣೆಯಾಗಿದೆಯೇ?
 
 --- choices ---
-- ( ) Good practice
+- () ಒಳ್ಳೆಯ ಪದ್ಧತಿ
 
-- (x) Poor practice --- /choices ---
+- (x) ಕೆಟ್ಟ ಪದ್ಧತಿ --- /choices ---
 
 --- /question ---
