@@ -1,15 +1,15 @@
 --- question ---
 ---
-legend: Question 2 of 3
+legend: ಪ್ರಶ್ನೆ 2 ರಲ್ಲಿ 3
 ---
 
-Is it OK to use webcams during an online session?
+ಆನ್‌ಲೈನ್‌ ಸೆಷನ್‌ನಲ್ಲಿ ವೆಬ್‌ಕ್ಯಾಮ್‌ಗಳನ್ನು ಬಳಸುವುದು ಸರಿಯೇ?
 
 --- choices ---
 
-- ( ) No
-- ( ) Yes
-- (x) Yes, but make sure everyone knows they are prohibited from recording or taking screenshots of the session
+- ( ) ಇಲ್ಲ
+- ( ) ಹೌದು
+- (x) ಹೌದು, ಆದರೆ ಸೆಷನ್‌ನ ಸ್ಕ್ರೀನ್‌ಶಾಟ್‌ಗಳನ್ನು ರೆಕಾರ್ಡ್ ಮಾಡುವುದನ್ನು ಅಥವಾ ತೆಗೆದುಕೊಳ್ಳುವುದನ್ನು ನಿಷೇಧಿಸಲಾಗಿದೆ ಎಂದು ಎಲ್ಲರಿಗೂ ತಿಳಿದಿರುವುದನ್ನು ಖಚಿತಪಡಿಸಿಕೊಳ್ಳಿ
 
 --- /choices ---
 
