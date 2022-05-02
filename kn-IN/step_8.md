@@ -1,1 +1,1 @@
-## Online sessions quiz
+## ಆನ್‌ಲೈನ್ ಸೆಷನ್‌ಗಳ ಕ್ವಿಜ್
