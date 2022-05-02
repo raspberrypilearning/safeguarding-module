@@ -1,66 +1,66 @@
-## Abuse and disclosures
+## 不正使用および情報開示
 
-A vast majority of young people take part in our clubs without encountering abuse. However, it is important that volunteers are aware of what to do when they become aware of abuse either through observation or through a young person telling you about abuse (disclosure). Most Raspberry Pi Foundation clubs create an environment in which many young people feel particularly comfortable, which can help encourage disclosures at the club.
+大多数の若者は、虐待に遭遇することなくクラブに参加しています。 しかし、観察を通じて、あるいは青少年が虐待について申告したこと（情報開示）を通じて、虐待に気づいたときにどうすべきか、ボランティアが認識していることが重要です。 ラズベリーパイ財団のクラブの多くは、多くの若者が特に居心地が良いと感じる環境を作っており、それがクラブでの情報開示を促進する一助となっています。
 
-![Three young people standing.](images/7-Diverse-Mix.png){:target='_blank'}
+![3名の若者が立っている。](images/7-Diverse-Mix.png){:target='_blank'}
 
-Child abuse is generally categorised as neglect, physical abuse, emotional abuse, sexual abuse, or radicalisation. Other aspects to be aware of include peer abuse, organised abuse, and online abuse.
+児童虐待は一般的に、ネグレクト、身体的虐待、精神的虐待、性的虐待、過激化などに分類されます。 その他、仲間内での虐待、組織的な虐待、ネット上での虐待などにも注意が必要です。
 
-### Types of abuse: neglect
+### 虐待のタイプ: ネグレクト
 
-Neglect can be defined in terms of an omission, where a young person suffers significant harm or impairment of development by being deprived of food, clothing, warmth, hygiene, intellectual stimulation, supervision and safety, attachment to and affection from adults, and/or medical care.
+ネグレクトとは、衣食住、衛生、知的刺激、監視と安全、大人からの愛着や愛情、医療ケアなどを奪われることによって、青少年が著しい被害を受けたり、発達を阻害されたりすることであると定義することができます。
 
-[Further resources and definition from the NSPCC (UK)](https://www.nspcc.org.uk/what-is-child-abuse/types-of-abuse/neglect/){:target='_blank'}
+[NSPCC（英国）からのさらなるリソースと定義](https://www.nspcc.org.uk/what-is-child-abuse/types-of-abuse/neglect/){:target='_blank'}
 
-### Types of abuse: physical abuse
+### 虐待のタイプ: 身体的虐待
 
-Physical abuse of a young person is that which results in actual or potential physical harm from an interaction, or lack of interaction, which is reasonably within the control of a parent or person in a position of responsibility, power, or trust. There may be single or repeated incidents.
+青少年の身体的虐待とは、親または責任、権力、信頼の立場にある人の合理的な支配下にある相互作用、または相互作用の欠如から、実際にまたは潜在的に身体的危害が生じるものです。 単発の場合もあれば、繰り返し発生する場合もあります。
 
-Physical abuse can involve:
+身体的虐待には、以下のようなものがあります。
 
-* Severe physical punishment
-* Beating, slapping, hitting, or kicking
-* Pushing, shaking, or throwing
-* Terrorising with threats
+* 厳しい体罰
+* 殴る、叩く、叩く、蹴る
+* 押したり、揺すったり、投げたりすること
+* 脅して恐怖を与える
 
-[Further resources and definition from the NSPCC (UK)](https://www.nspcc.org.uk/what-is-child-abuse/types-of-abuse/physical-abuse/){:target='_blank'}
+[NSPCC（英国）からのさらなるリソースと定義](https://www.nspcc.org.uk/what-is-child-abuse/types-of-abuse/physical-abuse/){:target='_blank'}
 
-### Types of abuse: emotional abuse
+### 虐待の種類：精神的虐待
 
-Emotional abuse is normally to be found in the relationship between a parent, guardian, or caregiver and a young person rather than in a specific event or pattern of events. It occurs when a young person’s needs for affection, approval, consistency, and security are not met. It is rarely manifested in terms of physical symptoms.
+感情的虐待は通常、特定の出来事や出来事のパターンではなく、親、保護者、養育者と青少年の関係の中に見出されるものです。 それは、愛情、承認、一貫性、安心感といった若者の欲求が満たされない場合に発生します。 それは、身体的な症状として現れることはほとんどありません。
 
-For example:
+例えば:
 
-* Persistent criticism
-* Sarcasm or hostility
-* Emotional unavailability
-* Use of unreasonable or harsh disciplinary measures
+* 執拗な批判
+* 皮肉または敵意
+* 感情移入ができない
+* 不合理または過酷な懲戒処分の使用すること
 
-[Further resources and definition from the NSPCC (UK)](https://www.nspcc.org.uk/what-is-child-abuse/types-of-abuse/emotional-abuse/){:target='_blank'}
+[NSPCC（英国）からのさらなるリソースと定義](https://www.nspcc.org.uk/what-is-child-abuse/types-of-abuse/emotional-abuse/){:target='_blank'}
 
-### Types of abuse: sexual abuse
+### 虐待の種類：性的虐待
 
-Sexual abuse occurs when a young person is used by another person for their gratification or sexual arousal, or for that of others. This doesn't have to be physical contact and it can happen online. Sometimes the young person won't understand that what's happening to them is abuse. They may not even understand that it's wrong.
+性的虐待は、青少年が自己満足または性的興奮を得るため、あるいは第三者に対してもしくは第三者によって利用される場合に起こります。 これは物理的な接触である必要はなく、オンラインで起こることです。 若者は、自分に起きていることが虐待であることを理解していない場合があります。 それが間違っていることも理解していないかもしれません。
 
-[Further resources and definition from the NSPCC (UK)](https://www.nspcc.org.uk/what-is-child-abuse/types-of-abuse/child-sexual-abuse/)
+[NSPCC（英国）からの追加資料と定義](https://www.nspcc.org.uk/what-is-child-abuse/types-of-abuse/child-sexual-abuse/)
 
-### Types of abuse: radicalisation
+### 虐待の種類：過激化
 
-Young people at risk of radicalisation may be victims of other forms of abuse, such as bullying or discrimnation, that make them easy targets for extremists.
+過激化のおそれのある若者は、いじめや差別など、過激派の標的になりやすい他の形態の虐待の被害者である可能性があります。
 
-Radicalisation can be difficult to notice, as it is similar to some normal teenage behaviours. Here are some signs that a person or group might be attempting to radicalise a young person:
+過激化は、10代の通常の行動と似ているため、気づきにくい場合があります。 以下では、ある人物やグループが若者を過激化させようとしている可能性を示すいくつかの兆候を紹介しています。
 
-- The young person isolates themselves from family and friends
-- The young person talks as if from a scripted speech
-- The young person is unwilling or unable to discuss their views
-- The young person shows a suddenly disrespectful attitude towards others
-- The young person has increased levels of anger
-- The young person is increasingly secretive, especially around internet use
+- 若者は家族や友人から孤立している
+- 若者は、まるで台本のセリフをいうように話す
+- 若者は自分の意見について話したがらない、または話すことができない
+- 若者は、突然、他人を見下すような態度をとる
+- 若者は怒りのレベルが上がっている
+- 特にインターネットの利用について、秘密主義的な傾向が強くなっている
 
-[Further resources and definition from the NSPCC (UK)](https://www.nspcc.org.uk/keeping-children-safe/reporting-abuse/dedicated-helplines/protecting-children-from-radicalisation/)
+[NSPCC（英国）からの追加資料と定義](https://www.nspcc.org.uk/keeping-children-safe/reporting-abuse/dedicated-helplines/protecting-children-from-radicalisation/)
 
 --- save ---
 
 <p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">
-Ensure you're <span style="color: #0faeb0">logged into your Raspberry Pi Foundation account</span> to save your progress, otherwise your completion will not be recorded. Use the <a href="https://my.raspberrypi.org/login">'Log in'</a> link in the navigation menu to log in.
+<span style="color: #0faeb0">Raspberry Pi Foundation アカウント</span> にログインしていることを確認して進行状況を保存してください。それ以外の場合、完了情報は記録されません。 ナビゲーションメニューの<a href="https://my.raspberrypi.org/login">「ログイン」</a>リンクからログインしてください。
 </p>
