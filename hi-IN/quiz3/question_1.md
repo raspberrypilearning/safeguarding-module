@@ -6,8 +6,8 @@ legend: 6 का प्रश्न 1
 रीता ने आँखों में आँखें डालकर कोई संपर्क नहीं किया। क्या यह:
 
 --- choices ---
-- (x) A fact or an observation?
+- (x) कोई तथ्य या अवलोकन?
 
-- ( ) An opinion or evaluation? --- /choices ---
+- ( ) कोई राय या मूल्यांकन? --- /choices ---
 
 --- /question ---
