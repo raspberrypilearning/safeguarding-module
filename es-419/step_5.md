@@ -1,1 +1,1 @@
-## Code of behaviour quiz
+## Prueba corta del código de conducta
