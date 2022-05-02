@@ -1,13 +1,13 @@
 --- question ---
 ---
-legend: Question 9 of 9
+legend: प्रश्न 9 पैकी 9
 ---
 
-Is it good practice or poor practice to cc parents in on all direct email communication to young people?
+तरुणांना सर्व थेट ई मेल संप्रेषणावर पालकांना सीसी करणे चांगले की वाईट वर्तनाचे उदाहरण आहे?
 
 --- choices ---
-- (x) Good practice
+- (x) चांगले वर्तन
 
-- ( ) Poor practice --- /choices ---
+- () सुमार अभ्यास --- /choices ---
 
 --- /question ---
