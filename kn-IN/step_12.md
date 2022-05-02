@@ -1,60 +1,60 @@
-## That’s almost it
+## ಹೆಚ್ಚೂ ಕಡಿಮೆ ಮುಗಿಯಿತು
 
-You’ve completed this short interactive learning guide. Well done!
+ನೀವು ಈ ಕಿರು ಸಂವಾದಾತ್ಮಕ ಕಲಿಕಾ ಮಾರ್ಗದರ್ಶಿಯನ್ನು ಪೂರ್ಣಗೊಳಿಸಿದ್ದೀರಿ. ಶಭಾಶ್!
 
-You can now test your knowledge with some scenarios. In each scenario, we want you to consider what you definitely would do, what you may do (depending on the circumstances), and what you would not do.
+ನೀವು ಈಗ ಕೆಲವು ಸನ್ನಿವೇಶಗಳೊಂದಿಗೆ ನಿಮ್ಮ ಜ್ಞಾನವನ್ನು ಪರೀಕ್ಷಿಸಬಹುದು. ಪ್ರತಿಯೊಂದು ಸನ್ನಿವೇಶದಲ್ಲೂ, ನೀವು ಖಂಡಿತವಾಗಿಯೂ ಏನು ಮಾಡುತ್ತೀರಿ, ನೀವು ಏನು ಮಾಡಬಹುದು (ಸಂದರ್ಭಗಳನ್ನು ಅವಲಂಬಿಸಿ), ಮತ್ತು ನೀವು ಏನು ಮಾಡುವುದಿಲ್ಲ ಎಂಬುದನ್ನು ನೀವು ಪರಿಗಣಿಸಬೇಕೆಂದು ನಾವು ಬಯಸುತ್ತೇವೆ.
 
-### Kim
+### ಕಿಮ್
 
-**You notice one of the young people at the club, Kim, who is 12 years old, is making a game which focuses on sadness and isolation, and there are some references to suicide. The lead character in the game is also called Kim.**
+**ಕ್ಲಬ್ಬಿನಲ್ಲಿನ ಯುವಜನತೆಯಲ್ಲಿ ಒಬ್ಬರಾದ 12 ವರ್ಷ ವಯಸ್ಸಿನ ಕಿಮ್, ದುಃಖ ಮತ್ತು ಪ್ರತ್ಯೇಕತೆಯ ಬಗೆಗಿನ ಆಟವನ್ನು ಮಾಡುತ್ತಿರುವುದನ್ನು ನೀವು ಗಮನಿಸುತ್ತೀರಿ, ಮತ್ತು ಅದರಲ್ಲಿ ಆತ್ಮಹತ್ಯೆಯ ಬಗ್ಗೆ ಕೆಲವು ಉಲ್ಲೇಖಗಳಿವೆ. ಆಟದಲ್ಲಿನ ಪ್ರಮುಖ ಪಾತ್ರವನ್ನೂ ಕಿಮ್ ಎಂದು ಕರೆಯಲಾಗುತ್ತದೆ.**
 
 --- hints --- --- hint ---
 
-In this scenario, you should ensure you check on the young person before you make any assumptions. Kim’s parents or guardians should be informed of the game by the most appropriate person, which may be you, but could be another volunteer or teacher from the club. It may also be relevant to tell the young person's parents or guardians about local support in the area if the volunteer knows what these are; often a general practitioner or local doctor is the best place to initially point a parent or guardian to in this scenario. Most importantly, you should talk to your club organiser, or teacher if in a school setting, and ensure that someone from the club checks on Kim in future sessions.
+ಈ ಸನ್ನಿವೇಶದಲ್ಲಿ, ನೀವು ಯಾವುದೇ ಊಹೆಗಳನ್ನು ಮಾಡುವ ಮೊದಲು ಯುವಕನನ್ನು ಪರಿಶೀಲಿಸುವುದನ್ನು ಖಚಿತಪಡಿಸಿಕೊಳ್ಳಬೇಕು. ಅತ್ಯಂತ ಸೂಕ್ತವಾದ ವ್ಯಕ್ತಿ ಕಿಮ್‌ನ ಪೋಷಕರು ಅಥವಾ ಪಾಲಕರಿಗೆ ಆಟದ ಬಗ್ಗೆ ತಿಳಿಸಬೇಕು, ಅದು ನೀವಾಗಿರಬಹುದು, ಕ್ಲಬ್ಬಿನ ಇನ್ನೊಬ್ಬ ಸ್ವಯಂಸೇವಕರು ಅಥವಾ ಶಿಕ್ಷಕರಾಗಿರಬಹುದು. ಸ್ವಯಂಸೇವಕರಿಗೆ ತಿಳಿದಿದ್ದರೆ, ಯುವಕನ ಪೋಷಕರು ಅಥವಾ ಪಾಲಕರಿಗೆ ಆ ಪ್ರದೇಶದಲ್ಲಿನ ಸ್ಥಳೀಯ ಬೆಂಬಲದ ಬಗ್ಗೆ ಹೇಳುವುದೂ ಸೂಕ್ತವಾಗಬಹುದಾಗಿದ್ದು; ಸಾಮಾನ್ಯವಾಗಿ ಈ ಸನ್ನಿವೇಶದ ಆರಂಭದಲ್ಲಿ ಪೋಷಕರು ಅಥವಾ ಪಾಲಕರನ್ನು ಸಾಮಾನ್ಯ ವೈದ್ಯರು ಅಥವಾ ಸ್ಥಳೀಯ ವೈದ್ಯರ ಬಳಿ ಕಳಿಸುವುದು ಒಳ್ಳೆಯದಾಗಿರುತ್ತದೆ. ಎಲ್ಲಕ್ಕಿಂತ ಮುಖ್ಯವಾಗಿ, ನೀವು ನಿಮ್ಮ ಕ್ಲಬ್‌ನ ಆಯೋಜಕರು, ಅಥವಾ ಶಾಲೆಯ ವ್ಯವಸ್ಥೆಯಲ್ಲಿ ಇದ್ದರೆ ಶಿಕ್ಷಕರೊಂದಿಗೆ ಮಾತನಾಡಬೇಕು ಮತ್ತು ಕ್ಲಬ್‌ನಿಂದ ಯಾರಾದರೂ ಮುಂದಿನ ಸೆಷನ್‌ಗಳಲ್ಲಿ ಕಿಮ್ ಅನ್ನು ಪರಿಶೀಲಿಸುವುದನ್ನು ಖಚಿತಪಡಿಸಿಕೊಳ್ಳಬೇಕು.
 
 --- /hint --- --- /hints ---
 
-### Mark
+### ಗುರುತು
 
-**One of the young people in the club has come to you and told you that Mark, aged 11, is on his laptop and is looking at pictures of people with "no clothes on and doing strange things".**
+**ಕ್ಲಬ್ಬಿನಲ್ಲಿದ್ದ ಯುವಕನೊಬ್ಬ ನಿಮ್ಮ ಬಳಿ ಬಂದು, 11 ವರ್ಷ ವಯಸ್ಸಿನ ಮಾರ್ಕ್ ತನ್ನ ಲ್ಯಾಪ್‌ಟಾಪ್‌ನಲ್ಲಿ "ಬಟ್ಟೆಗಳಿಲ್ಲದ ಮತ್ತು ವಿಚಿತ್ರವಾದ ಕೆಲಸಗಳನ್ನು ಮಾಡುವ" ಜನರ ಚಿತ್ರಗಳನ್ನು ನೋಡುತ್ತಿದ್ದಾನೆ ಎಂದು ನಿಮಗೆ ತಿಳಿಸಿದ್ದಾನೆ.**
 
 --- hints --- --- hint ---
 
-The main learning from this scenario is to not overreact or make assumptions, as this could have been something quite innocent or accidental like an advert or pop-up. If the matter can be dealt with immediately, then you (or the club organiser) should speak to Mark without assumptions. Then you (or the club organiser) should speak to both sets of parents (or guardians) separately, mainly to ensure this doesn’t happen again in the club. You should ensure the young person who reported this is OK and knows that you are dealing with the situation. You should make the club organiser aware of the situation and perhaps you may organise an online safety session a few weeks after the incident.
+ಈ ಸನ್ನಿವೇಶದಲ್ಲಿ ಮುಖ್ಯ ಕಲಿಕೆಯೆಂದರೆ ಅತಿಯಾಗಿ ಪ್ರತಿಕ್ರಿಯಿಸದಿರುವುದು ಅಥವಾ ಊಹೆಗಳನ್ನು ಮಾಡದಿರುವುದು, ಏಕೆಂದರೆ ಇದು ಜಾಹೀರಾತು ಅಥವಾ ಪಾಪ್-ಅಪ್‌ನಂಥ ಅಮಾಯಕವಾದದ್ದು ಅಥವಾ ಆಕಸ್ಮಿಕವಾಗಿರಬಹುದು. ಈ ವಿಷಯವನ್ನು ತಕ್ಷಣವೇ ನೋಡಿಕೊಳ್ಳಲು ಸಾಧ್ಯವಾದರೆ, ಆಗ ನೀವು (ಅಥವಾ ಕ್ಲಬ್ ಆಯೋಜಕರು) ಯಾವುದೇ ಪೂರ್ವಾಗ್ರಹಗಳಿಲ್ಲದೆ ಮಾರ್ಕ್ ಜೊತೆಗೆ ಮಾತನಾಡಬೇಕು. ನಂತರ ನೀವು (ಅಥವಾ ಕ್ಲಬ್ ಆಯೋಜಕರು) ಮುಖ್ಯವಾಗಿ ಇದು ಮತ್ತೆ ಕ್ಲಬ್‌ನಲ್ಲಿ ನಡೆಯುವುದಿಲ್ಲವೆಂದು ಖಚಿತಪಡಿಸಿಕೊಳ್ಳಲು ಎರಡೂ ಗುಂಪಿನ ಪೋಷಕರೊಂದಿಗೆ (ಅಥವಾ ಪಾಲಕರೊಂದಿಗೆ) ಪ್ರತ್ಯೇಕವಾಗಿ ಮಾತನಾಡಬೇಕು. ಇದನ್ನು ವರದಿ ಮಾಡಿದ ಯುವಕರು ಚೆನ್ನಾಗಿರುವುದನ್ನು ನೀವು ಖಚಿತಪಡಿಸಿಕೊಳ್ಳಬೇಕು ಮತ್ತು ನೀವು ಪರಿಸ್ಥಿತಿಯನ್ನು ನಿಭಾಯಿಸುತ್ತಿದ್ದೀರೆಂದು ಅವರು ತಿಳಿದಿರಬೇಕು. ನೀವು ಕ್ಲಬ್ ಆಯೋಜಕರಿಗೆ ಪರಿಸ್ಥಿತಿಯ ಬಗ್ಗೆ ಅರಿವು ಮೂಡಿಸಬೇಕು ಮತ್ತು ಬಹುಶಃ ಘಟನೆ ನಡೆದ ಕೆಲವು ವಾರಗಳ ನಂತರ ನೀವು ಆನ್‌ಲೈನ್‌ ಸುರಕ್ಷತಾ ಅಧಿವೇಶನವನ್ನೂ ಆಯೋಜಿಸಬಹುದು.
 
 --- /hint --- --- /hints ---
 
-### Zoe
+### ಝೋ
 
-**During an online club session, one of the club members, Zoe, shouts an obscenity at an adult in their home. The adult shouts back. You hear a loud crash, and the club member disappears from your view. You can hear threatening behaviour from the adult and the camera turns off.**
+**ಆನ್‌ಲೈನ್‌ ಕ್ಲಬ್ ಅಧಿವೇಶನದ ಸಮಯದಲ್ಲಿ, ಕ್ಲಬ್ ಸದಸ್ಯರಲ್ಲಿ ಒಬ್ಬರಾದ ಜೋ, ತಮ್ಮ ಮನೆಯಲ್ಲಿದ್ದ ವಯಸ್ಕರಿಗೆ ಅಶ್ಲೀಲವಾಗಿ ಬೈಯ್ಯುತ್ತಾರೆ. ವಯಸ್ಕರು ತಿರುಗಿ ಬೈಯ್ಯುತ್ತಾರೆ. ನಿಮಗೆ ಒಂದು ದೊಡ್ಡ ಶಬ್ದ ಕೇಳುತ್ತದೆ, ಮತ್ತು ಕ್ಲಬ್ ಸದಸ್ಯರು ನಿಮ್ಮ ದೃಷ್ಟಿಯಿಂದ ಮರೆಯಾಗುತ್ತಾರೆ. ನೀವು ವಯಸ್ಕರಿಂದ ಬೆದರಿಕೆಯ ವರ್ತನೆಯನ್ನು ಕೇಳಬಹುದು ಮತ್ತು ಕ್ಯಾಮೆರಾ ಆಫ್ ಆಗುತ್ತದೆ.**
 
 --- hints --- --- hint ---
 
-In this scenario, there is an immediate concern about the welfare of a young person and you have no way of knowing whether the young person is safe. The first thing you need to do is to call the police, who will investigate the incident. The second thing you need to do is call our 24-hour safeguarding number to report what has happened.
+ಈ ಸನ್ನಿವೇಶದಲ್ಲಿ, ಒಬ್ಬ ಯುವಕನ ಯೋಗಕ್ಷೇಮದ ಬಗ್ಗೆ ರಕ್ಷಣಾ ಕಾಳಜಿವಹಿಸಬೇಕಿದ್ದರೂ ಆ ಯುವಕ ಸುರಕ್ಷಿತವಾಗಿದ್ದಾನೆಯೇ ಎಂದು ತಿಳಿಯಲು ನಿಮಗೆ ಯಾವುದೇ ಮಾರ್ಗವಿಲ್ಲ. ನೀವು ಮಾಡಬೇಕಾದ ಮೊದಲ ಕೆಲಸವೆಂದರೆ ಪೊಲೀಸರಿಗೆ ಕರೆ ಮಾಡುವುದಾಗಿದ್ದು, ಅವರು ಘಟನೆಯ ಬಗ್ಗೆ ತನಿಖೆ ನಡೆಸುತ್ತಾರೆ. ನೀವು ಮಾಡಬೇಕಾದ ಎರಡನೇ ಕೆಲಸವೆಂದರೆ ಆಗಿರುವುದನ್ನು ವರದಿ ಮಾಡಲು ನಮ್ಮ 24-ಗಂಟೆಗಳ ಸುರಕ್ಷತಾ ಸಂಖ್ಯೆಗೆ ಕರೆ ಮಾಡುವುದಾಗಿದೆ.
 
 --- /hint --- --- /hints ---
 
-### Robert
+### ರಾಬರ್ಟ್
 
-**During an online session, you notice that Robert, one of the club members, posts sexually explicit language and links to pornographic websites in the comments section.**
+**ಒಂದು ಆನ್‌ಲೈನ್‌ ಸೆಷನ್‌ನಲ್ಲಿ, ಕ್ಲಬ್ ಸದಸ್ಯರಲ್ಲಿ ಒಬ್ಬರಾದ ರಾಬರ್ಟ್, ಕಾಮೆಂಟ್ಸ್ ವಿಭಾಗದಲ್ಲಿ ಲೈಂಗಿಕ ಭಾಷೆಯನ್ನು ಬಳಸುತ್ತಾರೆ ಮತ್ತು ಅಶ್ಲೀಲ ವೆಬ್‌ಸೈಟ್‌ಗಳಿಗೆ ಲಿಂಕ್‌ಗಳನ್ನು ಪೋಸ್ಟ್ ಮಾಡುತ್ತಾರೆಂದು ನೀವು ಗಮನಿಸುತ್ತೀರಿ.**
 
 --- hints --- --- hint ---
 
-It’s important to make a record of what Robert has posted, in case this happens again. He may not know the significance of what he has posted, so it’s important that you let his parents or guardians know what happened and provide them with the [parents guide](https://help.coderdojo.com/cdkb/s/article/Parents-guide-to-CoderDojo). Other young people attending the online session may have seen the messages and been affected by them, so it’s important that you contact their parents or guardians as well and let them know what happened and how you intend to follow up.
+ಇದು ಮತ್ತೆ ನಡೆದರೆ, ರಾಬರ್ಟ್ ಏನು ಪೋಸ್ಟ್ ಮಾಡಿದ್ದಾರೆನ್ನುವುದನ್ನು ದಾಖಲಿಸಿಕೊಳ್ಳುವುದು ಬಹಳ ಮುಖ್ಯವಾಗಿರುತ್ತದೆ. ಅವನು ಪೋಸ್ಟ್ ಮಾಡಿದ ವಿಷಯದ ಮಹತ್ವ ಅವನಿಗೆ ತಿಳಿದಿಲ್ಲದಿರಬಹುದು, ಆದ್ದರಿಂದ ಆಗಿರುವುದನ್ನು ನೀವು ಅವನ ಹೆತ್ತವರಿಗೆ ಅಥವಾ ಪೋಷಕರಿಗೆ ತಿಳಿಸುವುದು ಮತ್ತು ಅವರಿಗೆ [ ಪೋಷಕರ ಮಾರ್ಗದರ್ಶಿ](https://help.coderdojo.com/cdkb/s/article/Parents-guide-to-CoderDojo) ಅನ್ನು ಒದಗಿಸುವುದು ಬಹಳ ಮುಖ್ಯವಾಗಿರುತ್ತದೆ. ಆನ್‌ಲೈನ್‌ ಸೆಷನ್‌ಗೆ ಹಾಜರಾಗುವ ಇತರ ಯುವಕರು ಆ ಸಂದೇಶಗಳನ್ನು ನೋಡಿರಬಹುದು ಮತ್ತು ಅವುಗಳಿಂದ ಪ್ರಭಾವಿತರಾಗಿರಬಹುದು, ಆದ್ದರಿಂದ ನೀವು ಅವರ ಪೋಷಕರು ಅಥವಾ ಪಾಲಕರನ್ನೂ ಸಹ ಸಂಪರ್ಕಿಸಿ ಏನಾಯಿತು ಮತ್ತು ನೀವು ಹೇಗೆ ಅನುಸರಣೆ ಮಾಡಬಯಸುತ್ತೀರೆಂದು ಅವರಿಗೆ ತಿಳಿಸುವುದು ಮುಖ್ಯವಾಗಿರುತ್ತದೆ.
 
 --- /hint --- --- /hints ---
-### Lisa
+### ಲಿಸಾ
 
-**Lisa, one of the young people in your club, has got in touch through a private message on social media to ask for help with a project.**
+**ನಿಮ್ಮ ಕ್ಲಬ್ಬಿನ ಯುವತಿಯರಲ್ಲಿ ಒಬ್ಬರಾದ ಲಿಸಾ, ಒಂದು ಪಾರ್ಜೆಕ್ಟ್‌ಗೆ ಸಹಾಯ ಕೇಳಲು ಸಾಮಾಜಿಕ ಮಾಧ್ಯಮದಲ್ಲಿ ಖಾಸಗಿ ಸಂದೇಶದ ಮೂಲಕ ನಿಮ್ಮನ್ನು ಸಂಪರ್ಕಿಸಿದ್ದಾರೆ.**
 
 --- hints --- --- hint ---
 
-One-to-one messaging with young people is not encouraged for any volunteers, either on social media or through other mediums (including email). There are some situations that you may want to respond to the young person: if it is a long time until the next session or there is a deadline for the project to be entered in a competition and you do not want to disappoint the young person. If you do respond, you should encourage that they email you and cc their parent or guardian (or the club organiser or teacher) into the conversation in future or regarding this query.
+ಯಾವುದೇ ಸ್ವಯಂಸೇವಕರೂ ಸಾಮಾಜಿಕ ಮಾಧ್ಯಮಗಳಲ್ಲಿ ಅಥವಾ ಇತರ ಮಾಧ್ಯಮಗಳ ಮೂಲಕ (ಇಮೇಲ್ ಸೇರಿದಂತೆ) ಯುವಜನರೊಂದಿಗೆ ಮುಖಾಮುಖಿ ಸಂದೇಶಗಳನ್ನು ಹೊಂದುವುದನ್ನು ಪ್ರೋತ್ಸಾಹಿಸಲಾಗುವುದಿಲ್ಲ. ನೀವು ಯುವ ವ್ಯಕ್ತಿಗೆ ಪ್ರತಿಕ್ರಿಯೆ ನೀಡಲು ಬಯಸಬಹುದಾದ ಕೆಲವು ಸಂದರ್ಭಗಳಿವೆ: ಮುಂದಿನ ಸೆಷನ್‌ಗೆ ದೀರ್ಘಕಾಲದ್ದಾಗಿದ್ದಲ್ಲಿ ಅಥವಾ ಒಂದು ಸ್ಪರ್ಧೆಯಲ್ಲಿ ಪ್ರವೇಶಿಸಲು ಪ್ರಾಜೆಕ್ಟ್‌ಗೆ ಡೆಡ್‌ಲೈನ್ ಇದ್ದಲ್ಲಿ ಮತ್ತು ನೀವು ಯುವ ವ್ಯಕ್ತಿಯನ್ನು ನಿರಾಶೆಗೊಳಿಸಲು ಬಯಸದಿದ್ದರೆ. ನೀವು ಪ್ರತಿಕ್ರಿಯಿಸಿದರೆ, ಅವರು ನಿಮಗೆ ಇಮೇಲ್ ಮಾಡುವಂತೆ ಮತ್ತು ಅವರ ಪೋಷಕರು ಅಥವಾ ಪಾಲಕರನ್ನು (ಅಥವಾ ಕ್ಲಬ್ ಆರ್ಗನೈಸರ್ ಅಥವಾ ಶಿಕ್ಷಕರಿಗೆ) ಭವಿಷ್ಯದಲ್ಲಿ ಅಥವಾ ಈ ಪ್ರಶ್ನೆಗೆ ಸಂಬಂಧಿಸಿದಂತೆ ನಡೆಸುವ ಮಾತುಕತೆಯ ಬಗ್ಗೆ ಸಿಸಿ ಮಾಡುವಂತೆ ನೀವು ಪ್ರೋತ್ಸಾಹಿಸಬೇಕು.
 
 --- /hint --- --- /hints ---
 
 --- save ---
 
 <p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">
-Ensure you're <span style="color: #0faeb0">logged into your Raspberry Pi Foundation account</span> to save your progress, otherwise your completion will not be recorded. Use the <a href="https://my.raspberrypi.org/login">'Log in'</a> link in the navigation menu to log in.
+ನಿಮ್ಮ ಪ್ರಗತಿಯನ್ನು ಉಳಿಸಲು ನೀವು <span style="color: #0faeb0"> ನಿಮ್ಮ Raspberry Pi ಫೌಂಡೇಶನ್ ಖಾತೆಗೆ ಲಾಗ್ ಇನ್ ಮಾಡಿರುವುದನ್ನು</span> ಖಚಿತಪಡಿಸಿಕೊಳ್ಳಿ, ಇಲ್ಲದಿದ್ದರೆ ನಿಮ್ಮ ಪೂರ್ಣಗೊಳಿಸುವಿಕೆಯನ್ನು ದಾಖಲಿಸಲಾಗುವುದಿಲ್ಲ. ಲಾಗ್ ಇನ್ ಆಗಲು ನ್ಯಾವಿಗೇಶನ್ ಮೆನುನಲ್ಲಿ <a href="https://my.raspberrypi.org/login">'ಲಾಗಿನ್'</a> ಲಿಂಕ್ ಅನ್ನು ಬಳಸಿ.
 </p>
