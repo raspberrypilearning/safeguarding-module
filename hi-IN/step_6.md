@@ -1,66 +1,66 @@
-## Abuse and disclosures
+## दुरुपयोग और अस्वीकरण
 
-A vast majority of young people take part in our clubs without encountering abuse. However, it is important that volunteers are aware of what to do when they become aware of abuse either through observation or through a young person telling you about abuse (disclosure). Most Raspberry Pi Foundation clubs create an environment in which many young people feel particularly comfortable, which can help encourage disclosures at the club.
+हमारे क्लबों में बड़ी तादाद में युवा लोग बिना किसी दुर्व्यवहार का सामना किए बिना भाग लेते हैं। हालांकि, यह अहम है कि स्वयंसेवक इस बात को जानें कि जब वे अवलोकन से या किसी युवा व्यक्ति की तरफ से आपको दुर्व्यवहार (खुलासा) के बारे में बताते हुए दुर्व्यवहार के बारे में जागरूक हो जाते हैं तो उन्हें क्या करना चाहिए। अधिकांश रास्पबेरी पाई फाउंडेशन क्लब एक ऐसा माहौल बनाते हैं जिसमें कई युवा खासतौर पर राहत महसूस करते हैं, जो क्लब में खुलासे को प्रोत्साहित करने में सहायता कर सकता है।
 
-![Three young people standing.](images/7-Diverse-Mix.png){:target='_blank'}
+![तीन युवक खड़े हैं।](images/7-Diverse-Mix.png){:target='_blank'}
 
-Child abuse is generally categorised as neglect, physical abuse, emotional abuse, sexual abuse, or radicalisation. Other aspects to be aware of include peer abuse, organised abuse, and online abuse.
+बाल शोषण को आम तौर पर उपेक्षा, शारीरिक शोषण, भावनात्मक शोषण, यौन शोषण या कट्टरता के रूप में वर्गीकृत किया जाता है। अन्य पहलुओं के बारे में पता होना चाहिए जिसमें सहकर्मी दुर्व्यवहार, संगठित दुर्व्यवहार और ऑनलाइन दुर्व्यवहार शामिल हैं।
 
-### Types of abuse: neglect
+### दुर्व्यवहार के प्रकार: उपेक्षा
 
-Neglect can be defined in terms of an omission, where a young person suffers significant harm or impairment of development by being deprived of food, clothing, warmth, hygiene, intellectual stimulation, supervision and safety, attachment to and affection from adults, and/or medical care.
+उपेक्षा को एक चूक के तौर पर परिभाषित किया जा सकता है, जहां एक युवा व्यक्ति को भोजन, कपड़े, गर्मी, स्वच्छता, बौद्धिक उत्तेजना, पर्यवेक्षण और सुरक्षा, वयस्कों से लगाव और स्नेह, और/या चिकित्सा देखभाल ना मिलने की वजह से हानि पहुँचती है या विकास नहीं हो पाता है।
 
-[Further resources and definition from the NSPCC (UK)](https://www.nspcc.org.uk/what-is-child-abuse/types-of-abuse/neglect/){:target='_blank'}
+[NSPCC (यूके) के और संसाधन और परिभाषा](https://www.nspcc.org.uk/what-is-child-abuse/types-of-abuse/neglect/){:target='_blank'}
 
-### Types of abuse: physical abuse
+### दुर्व्यवहार के प्रकार: शारीरिक शोषण
 
-Physical abuse of a young person is that which results in actual or potential physical harm from an interaction, or lack of interaction, which is reasonably within the control of a parent or person in a position of responsibility, power, or trust. There may be single or repeated incidents.
+युवा व्यक्ति के प्रति किया गया शारीरिक शोषण वह होता है जिसके परिणाम में बातचीत, या बातचीत की कमी से असल या संभावित शारीरिक क्षति होती है, जिसे उचित रूप से अभिवावक या व्यक्ति उत्तरदायित्व, शक्ति या विश्वास के हालातों में नियंत्रित करते हैं। एक बार या बार-बार होने वाली घटनाएं हो सकती हैं।
 
-Physical abuse can involve:
+शारीरिक शोषण में शामिल हो सकते हैं:
 
-* Severe physical punishment
-* Beating, slapping, hitting, or kicking
-* Pushing, shaking, or throwing
-* Terrorising with threats
+* गंभीर शारीरिक दंड
+* पीटना, थप्पड़ मारना, मारना या लात मारना
+* धक्का देना, झकझोरना या फेंकना
+* धमकियों से डराना
 
-[Further resources and definition from the NSPCC (UK)](https://www.nspcc.org.uk/what-is-child-abuse/types-of-abuse/physical-abuse/){:target='_blank'}
+[NSPCC (यूके) के और संसाधन और परिभाषा](https://www.nspcc.org.uk/what-is-child-abuse/types-of-abuse/physical-abuse/){:target='_blank'}
 
-### Types of abuse: emotional abuse
+### दुर्व्यवहार के प्रकार: भावनात्मक शोषण
 
-Emotional abuse is normally to be found in the relationship between a parent, guardian, or caregiver and a young person rather than in a specific event or pattern of events. It occurs when a young person’s needs for affection, approval, consistency, and security are not met. It is rarely manifested in terms of physical symptoms.
+सामान्यता भावनात्मक शोषण अभिभावक, संरक्षक या देखभाल करने वाले और एक युवा व्यक्ति के बीच संबंधों में देखा जाता है, ना कि किसी विशिष्ट घटना या घटनाओं के तरीके में। यह तब होता है जब एक युवा व्यक्ति की स्नेह, अनुमोदन, निरंतरता और सुरक्षा की जरूरतें पूरी नहीं होती हैं। यह शायद ही कभी शारीरिक लक्षणों के तौर पर दिखाई देते हैं।
 
-For example:
+उदाहरण के लिए:
 
-* Persistent criticism
-* Sarcasm or hostility
-* Emotional unavailability
-* Use of unreasonable or harsh disciplinary measures
+* लगातार आलोचना करना
+* मजाक या दुश्मनी
+* भावनात्मकता की गैर-मौजूदगी
+* अनुचित या कठोर अनुशासनात्मक उपायों का इस्तेमाल
 
-[Further resources and definition from the NSPCC (UK)](https://www.nspcc.org.uk/what-is-child-abuse/types-of-abuse/emotional-abuse/){:target='_blank'}
+[NSPCC (यूके) के और संसाधन और परिभाषा](https://www.nspcc.org.uk/what-is-child-abuse/types-of-abuse/emotional-abuse/){:target='_blank'}
 
-### Types of abuse: sexual abuse
+### दुर्व्यवहार के प्रकार: यौन शोषण
 
-Sexual abuse occurs when a young person is used by another person for their gratification or sexual arousal, or for that of others. This doesn't have to be physical contact and it can happen online. Sometimes the young person won't understand that what's happening to them is abuse. They may not even understand that it's wrong.
+यौन शोषण तब होता है जब एक युवा व्यक्ति का किसी अन्य व्यक्ति की तरफ से अपनी संतुष्टि या यौन उत्तेजना के लिए या दूसरों को इस्तेमाल किया जाता है। यह शारीरिक संपर्क होना जरूरी नहीं है और यह ऑनलाइन हो सकता है। कभी-कभी युवा यह नहीं समझ पाते हैं कि उनके साथ जो हो रहा है वह दुर्व्यवहार है। वे शायद इसे भी न समझें कि यह गलत है।
 
-[Further resources and definition from the NSPCC (UK)](https://www.nspcc.org.uk/what-is-child-abuse/types-of-abuse/child-sexual-abuse/)
+[NSPCC (UK) से आगे के संसाधन और परिभाषा](https://www.nspcc.org.uk/what-is-child-abuse/types-of-abuse/child-sexual-abuse/)
 
-### Types of abuse: radicalisation
+### दुरुपयोग के प्रकार: कट्टरता
 
-Young people at risk of radicalisation may be victims of other forms of abuse, such as bullying or discrimnation, that make them easy targets for extremists.
+कट्टरपंथ के जोखिम में युवा लोग अन्य प्रकार के दुर्व्यवहार के शिकार हो सकते हैं, जैसे कि बदमाशी या भेदभाव, जो उन्हें चरमपंथियों के लिए आसान लक्ष्य बनाते हैं।
 
-Radicalisation can be difficult to notice, as it is similar to some normal teenage behaviours. Here are some signs that a person or group might be attempting to radicalise a young person:
+कट्टरता पर गौर करना मुश्किल हो सकता है, क्योंकि यह कुछ सामान्य किशोर व्यवहारों के जैसी लगती है। यहां कुछ संकेत दिए गए हैं कि जिनसे पता चल सकता ही कि कोई व्यक्ति या समूह किसी युवा व्यक्ति को कट्टरपंथी बनाने की कोशिश कर रहा है:
 
-- The young person isolates themselves from family and friends
-- The young person talks as if from a scripted speech
-- The young person is unwilling or unable to discuss their views
-- The young person shows a suddenly disrespectful attitude towards others
-- The young person has increased levels of anger
-- The young person is increasingly secretive, especially around internet use
+- युवक ने परिवार और दोस्तों से खुद को अलग कर लिया है
+- युवा व्यक्ति ऐसे बात करता है मानो किसी लिखित भाषण को पढ़ रहा हो
+- युवा व्यक्ति अनिच्छुक है या अपने विचारों पर चर्चा करने में असमर्थ है
+- युवा व्यक्ति दूसरों के प्रति अचानक बेइज्जती वाला रवैया दर्शाता है
+- युवा व्यक्ति में गुस्से का स्तर बढ़ गया है
+- युवा व्यक्ति काफी शीघ्रता से चीज़ों को गुप्त रखने लगा है, खासतौर पर इंटरनेट के उपयोग से जुड़ी चीज़ों के बारे में
 
-[Further resources and definition from the NSPCC (UK)](https://www.nspcc.org.uk/keeping-children-safe/reporting-abuse/dedicated-helplines/protecting-children-from-radicalisation/)
+[NSPCC (UK) से आगे के संसाधन और परिभाषा](https://www.nspcc.org.uk/keeping-children-safe/reporting-abuse/dedicated-helplines/protecting-children-from-radicalisation/)
 
 --- save ---
 
 <p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">
-Ensure you're <span style="color: #0faeb0">logged into your Raspberry Pi Foundation account</span> to save your progress, otherwise your completion will not be recorded. Use the <a href="https://my.raspberrypi.org/login">'Log in'</a> link in the navigation menu to log in.
+इस बात को पक्का करें कि आपने अपनी प्रगति को बचाने के लिए <span style="color: #0faeb0">अपने Raspberry Pi फाउंडेशन खाते में लॉग इन किया है</span>, अन्यथा आपका समापन रिकॉर्ड नहीं किया जाएगा। लॉग इन करने के लिए नेविगेशन मेन्यू में <a href="https://my.raspberrypi.org/login">'लॉग इन'</a> लिंक का उपयोग करें।
 </p>
