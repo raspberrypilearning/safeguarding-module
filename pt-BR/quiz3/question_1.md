@@ -1,13 +1,13 @@
 --- question ---
 ---
-legend: Question 1 of 6
+legend: Questão 1 de 6
 ---
 
-Rita made no eye contact. Is this:
+Rita não fez contato visual. Isso é:
 
 --- choices ---
-- (x) A fact or an observation?
+- (x) Um fato ou uma observação?
 
-- ( ) An opinion or evaluation? --- /choices ---
+- ( ) Uma opinião ou avaliação? --- /choices ---
 
 --- /question ---
