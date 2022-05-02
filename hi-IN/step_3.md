@@ -1,48 +1,48 @@
-## Induction of new volunteers
+## नए स्वयंसेवकों को शामिल करना
 
-When you first meet a volunteer, there will be some induction requirements. This includes recognising the desirable characteristics for volunteers; while a volunteer may not have all these traits, they should definitely have at least one.
+जब आप पहली बार किसी स्वयंसेवक से मिलते हैं, तो इंडक्शन से जुडी कुछ ज़रूरतें होंगी। इसमें स्वयंसेवकों के लिए पसंद की जाने वाली विशेषताओं को पहचानना शामिल है; हो सकता है कि एक स्वयंसेवक में ये सभी विशेषताएं ना हों, उनके पास निश्चित रूप से कम से कम एक तो होनी ही चाहिए।
 
-![An adult volunteer.](images/10-Adult.png){:width="400px"}.
-### 1. Training identification
+![एक वयस्क स्वयंसेवक।](images/10-Adult.png){:width="400px"}.
+### 1. प्रशिक्षण पहचान
 
-If your volunteers would like some further training or support, you can direct them to the [free online courses](https://www.futurelearn.com/partners/raspberry-pi){:target='_blank'} that are provided by the Raspberry Pi Foundation.
+यदि आपके स्वयंसेवक कुछ और प्रशिक्षण या सहायता चाहते हैं, तो आप उन्हें [मुफ्त ऑनलाइन पाठ्यक्रम](https://www.futurelearn.com/partners/raspberry-pi){:target= _blank'} पर निर्देशित कर सकते हैं 'जो रास्पबेरी पाई फाउंडेशन द्वारा प्रदान किए जाते हैं।
 
-If you have several volunteers in your club, you could also arrange some sessions between yourselves to share knowledge and try out new programmes and projects together. This will help increase the confidence of your volunteers on what they are covering in the club.
+यदि आपके क्लब में कई स्वयंसेवक हैं, तो आप ज्ञान को साझा करने और नए कार्यक्रमों और परियोजनाओं को एक साथ आजमाने के लिए आपस में कुछ सेशंस की व्यवस्था भी कर सकते हैं। यह आपके स्वयंसेवकों के विश्वास को बढ़ाने में मदद करेगा कि वे क्लब में क्या कवर कर रहे हैं।
 
-### 2. Selection
+### 2. चयन
 
-Does the new volunteer seem like a good fit for your club? Get in touch with them and let them know when your next session is to see if they can attend. If you are just starting your club for the first time, maybe consider having an informal meeting with all your volunteers to create a plan for your first session. If there are any concerns during the recruitment process of the volunteer, you may want to tell them that they are not a good fit. If you are unsure, you can get in touch with the Raspberry Pi Foundation for advice.
+क्या नया स्वयंसेवक आपके क्लब के लिए उपयुक्त लगता है? उनके साथ संपर्क करें और उन्हें बताएं कि आपका अगला सेशन कब है, यह देखने के लिए कि क्या वे भाग ले सकते हैं। यदि आप पहली बार अपना क्लब शुरू कर रहे हैं, तो अपने पहले सेशन की योजना बनाने के लिए अपने सभी स्वयंसेवकों के साथ एक अनौपचारिक बैठक करने पर विचार करें। यदि स्वयंसेवक की नियुक्ति प्रक्रिया के दौरान कोई चिंता है, तो हो सकता है कि आप उन्हें बताना चाहें कि वे उपयुक्त नहीं हैं। यदि आप अनिश्चित हैं, तो आप सलाह के लिए रास्पबेरी पाई फाउंडेशन से संपर्क कर सकते हैं।
 
-### 3. First club buddy
+### 3. पहला क्लब दोस्त
 
-Congratulations! You have successfully recruited a new volunteer for your club. For their first session, remember they will need some help to get started and to get to know the children. If you have several volunteers at your club, try to pair them up with an experienced volunteer. We wouldn’t advise making new volunteers run a session on their first club visit as it may be intimidating to a new joiner. It's a good idea to put volunteers into pairs so they can plan and run the session together and learn from each other.
+बधाई हो! आपने अपने क्लब के लिए सफलतापूर्वक एक नए स्वयंसेवक की नियुक्ति की है। अपने पहले सेशन के लिए, याद रखें कि आरंभ करने और बच्चों को जानने के लिए उन्हें कुछ मदद की आवश्यकता होगी। यदि आपके क्लब में कई स्वयंसेवक हैं, तो उन्हें एक अनुभवी स्वयंसेवक के साथ जोड़ने का प्रयास करें। हम नए स्वयंसेवकों को उनकी पहली क्लब यात्रा पर एक सेशन चलाने की सलाह नहीं देंगे क्योंकि यह एक नए व्यक्ति के लिए डराने वाला हो सकता है। स्वयंसेवकों को जोड़े में रखना एक अच्छा विचार है ताकि वे एक साथ सेशन की योजना बना सकें और उसे चला सकें और एक दूसरे से सीख सकें।
 
-### The right volunteer
+### सही स्वयंसेवक
 
-Think about three characteristics you look for in new volunteers and then click on the hint below to see some of our desirable characteristics.
+उन तीन विशेषताओं के बारे में सोचें जिन्हें आप नए स्वयंसेवकों में देखते हैं और फिर हमारी कुछ वांछनीय विशेषताओं को देखने के लिए नीचे दिए गए संकेत पर क्लिक करें।
 
 --- hints ---
 
 --- hint ---
 
-* Positive
-* Creative
-* Approachable
-* Supportive
-* Committed
-* Collaborative
-* Encouraging
+* सकारात्मक
+* रचनात्मक
+* सुलभ
+* सहायक
+* प्रतिबद्ध
+* सहयोगात्मक
+* उत्साहजनक
 
 --- /hint ---
 
 --- /hints ---
 
-Did your answers match some of our desirable characteristics?
+क्या आपके उत्तर हमारी कुछ वांछनीय विशेषताओं से मेल खाते हैं?
 
-Having volunteers with these traits is desirable to make your club a fun and safe space for all young people.
+अपने क्लब को सभी युवा लोगों के लिए एक मजेदार और सुरक्षित स्थान बनाने के लिए इन लक्षणों वाले स्वयंसेवकों का होना वांछनीय है।
 
 --- save ---
 
 <p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">
-Ensure you're <span style="color: #0faeb0">logged into your Raspberry Pi Foundation account</span> to save your progress, otherwise your completion will not be recorded. Use the <a href="https://my.raspberrypi.org/login">'Log in'</a> link in the navigation menu to log in.
+इस बात को पक्का करें कि आपने अपनी प्रगति को बचाने के लिए <span style="color: #0faeb0">अपने Raspberry Pi फाउंडेशन खाते में लॉग इन किया है</span>, अन्यथा आपका समापन रिकॉर्ड नहीं किया जाएगा। लॉग इन करने के लिए नेविगेशन मेन्यू में <a href="https://my.raspberrypi.org/login">'लॉग इन'</a> लिंक का उपयोग करें।
 </p>
