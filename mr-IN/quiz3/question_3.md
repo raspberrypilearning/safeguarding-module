@@ -1,13 +1,13 @@
 --- question ---
 ---
-legend: Question 3 of 6
+legend: प्रश्न 3 पैकी 6
 ---
 
-Mary was embarrassed. Is this:
+मेरीला लाज वाटली. हे आहे:
 
 --- choices ---
-- ( ) A fact or an observation?
+- () वस्तुस्थिती की निरीक्षण?
 
-- (x) An opinion or evaluation? --- /choices ---
+- (x) एक मत किंवा मूल्यमापन? --- /choices ---
 
 --- /question ---
