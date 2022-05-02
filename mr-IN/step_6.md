@@ -1,66 +1,66 @@
-## Abuse and disclosures
+## गैरवर्तणूक आणि प्रकटीकरण
 
-A vast majority of young people take part in our clubs without encountering abuse. However, it is important that volunteers are aware of what to do when they become aware of abuse either through observation or through a young person telling you about abuse (disclosure). Most Raspberry Pi Foundation clubs create an environment in which many young people feel particularly comfortable, which can help encourage disclosures at the club.
+बहुसंख्य तरुण लोकांना गैर वर्तणुकीचा सामना न करता आमच्या क्लबमध्ये भाग घेतात. तथापि, हे महत्त्वाचे आहे की स्वयंसेवकांनी निरीक्षणाद्वारे जाणल्यास किंवा एखाद्या तरुण व्यक्ती द्वारे तुम्हाला गैरवर्तणूकीबद्दल (प्रकटीकरण) समजल्यास पुढे काय करावे हे त्यांना माहित असणे आवश्यक आहे. बहुतेक Raspberry Pi फाउंडेशन क्लब असे वातावरण तयार करतात ज्यामध्ये अनेक तरुणांना विशेषतः आराम दायक वाटते, जे क्लबमध्ये प्रकटीकरण करण्यास प्रोत्साहित करू शकतात.
 
-![Three young people standing.](images/7-Diverse-Mix.png){:target='_blank'}
+![तीन युवक आहेत.](images/7-Diverse-Mix.png){:target='_blank'}
 
-Child abuse is generally categorised as neglect, physical abuse, emotional abuse, sexual abuse, or radicalisation. Other aspects to be aware of include peer abuse, organised abuse, and online abuse.
+बाल शोषण सामान्यतः दुर्लक्ष, शारीरिक शोषण, भावनिक शोषण, लैंगिक अत्याचार किंवा संघिकरणाच्या रूपता वर्गीकृत केले जाते. इतर पैलूंबद्दल जागरूक असण्यामध्ये समवयस्कांचा गैरवापर, संघटित गैरवर्तणूक आणि ऑन लाइन गैर वर्तणूक यांचा समावेश आहे.
 
-### Types of abuse: neglect
+### गैरवर्तणूकीचे प्रकार: दुर्लक्ष
 
-Neglect can be defined in terms of an omission, where a young person suffers significant harm or impairment of development by being deprived of food, clothing, warmth, hygiene, intellectual stimulation, supervision and safety, attachment to and affection from adults, and/or medical care.
+दुर्लक्ष हे वगळण्याच्या दृष्टीने परिभाषित केले जाऊ शकते, जेथे एखाद्या तरुणाला व्यक्तीला अन्न, वस्त्र, उबदारपणा, स्वच्छता, बौद्धिक उत्तेजन, पर्यवेक्षण आणि सुरक्षितता, बौद्धिक चालना, पर्यवेक्षण आणि सुरक्षेपासून वंचित राहून लक्षणीय हानी किंवा विकासात कमतरता येते. वैद्यकीय सुविधा/प्रौढांप्रती अनावश्यक आसक्ती दिसून येते.
 
-[Further resources and definition from the NSPCC (UK)](https://www.nspcc.org.uk/what-is-child-abuse/types-of-abuse/neglect/){:target='_blank'}
+[NSPCC (युके) तर्फे अतिरिक्त संसाधने आणि व्याख्या](https://www.nspcc.org.uk/what-is-child-abuse/types-of-abuse/neglect/){:target='_blank'}
 
-### Types of abuse: physical abuse
+### गैरवर्तणूकीचे प्रकार: शारीरिक गैर वर्तणूक
 
-Physical abuse of a young person is that which results in actual or potential physical harm from an interaction, or lack of interaction, which is reasonably within the control of a parent or person in a position of responsibility, power, or trust. There may be single or repeated incidents.
+तरुण व्यक्तीशी शारीरिक गैर वर्तणूक म्हणजे अशी कृती, किंवा कृती शिवाय, जी वास्तविक किंवा संभाव्य शारीरिक हानीमध्ये परिणामित होते, जी पालक किंवा जबाबदार पदावर, सामर्थ्य, किंवा विश्वास या स्थानी असलेली व्यक्ती यांच्या नियंत्रणामध्ये वाजवी रित्या आहे. एक किंवा पुनरावृत्ती घटना असू शकतात.
 
-Physical abuse can involve:
+शारीरिक गैरवर्तणूकीमध्ये समावेश असू शकतो:
 
-* Severe physical punishment
-* Beating, slapping, hitting, or kicking
-* Pushing, shaking, or throwing
-* Terrorising with threats
+* गंभीर शारीरिक शिक्षा
+* मारणे, थोबडीत मारणे, बुक्क्या किंवा लाथा
+* ढकलणे, हलवणे किंवा फेकणे
+* धमक्यांना घाबरणे
 
-[Further resources and definition from the NSPCC (UK)](https://www.nspcc.org.uk/what-is-child-abuse/types-of-abuse/physical-abuse/){:target='_blank'}
+[NSPCC (युके) तर्फे अतिरिक्त संसाधने आणि व्याख्या](https://www.nspcc.org.uk/what-is-child-abuse/types-of-abuse/physical-abuse/){:target='_blank'}
 
-### Types of abuse: emotional abuse
+### गैरवर्तणूकीचे प्रकार: भावनिक अत्याचार
 
-Emotional abuse is normally to be found in the relationship between a parent, guardian, or caregiver and a young person rather than in a specific event or pattern of events. It occurs when a young person’s needs for affection, approval, consistency, and security are not met. It is rarely manifested in terms of physical symptoms.
+भावनिक शोषण हे सामान्यतः एखाद्या विशिष्ट घटना किंवा पद्धतीच्या नमुन्यात न होता पालक, सांभाळणारे किंवा काळजीवाहक आणि तरुण व्यक्ती यांच्यातील नातेसंबंधात आढळतात. तरुणांना प्रेम, मान्यता, सातत्य आणि सुरक्षितता हवी वाटते पण ती मिळत नाही तेव्हा हे होते. हे क्वचितच शारीरिक लक्षणे दृष्टीने दिसून येते.
 
-For example:
+उदाहरणार्थ:
 
-* Persistent criticism
-* Sarcasm or hostility
-* Emotional unavailability
-* Use of unreasonable or harsh disciplinary measures
+* सतत टीका करणे
+* विचित्र वर्तन किंवा खुनशीपणा
+* भावनात्मक अनुपलब्धता
+* अयोग्य किंवा कठोर शिस्तीच्या उपायांचा वापर
 
-[Further resources and definition from the NSPCC (UK)](https://www.nspcc.org.uk/what-is-child-abuse/types-of-abuse/emotional-abuse/){:target='_blank'}
+[NSPCC (युके) तर्फे अतिरिक्त संसाधने आणि व्याख्या](https://www.nspcc.org.uk/what-is-child-abuse/types-of-abuse/emotional-abuse/){:target='_blank'}
 
-### Types of abuse: sexual abuse
+### अत्याचाराचे प्रकार: लैंगिक शोषण
 
-Sexual abuse occurs when a young person is used by another person for their gratification or sexual arousal, or for that of others. This doesn't have to be physical contact and it can happen online. Sometimes the young person won't understand that what's happening to them is abuse. They may not even understand that it's wrong.
+लैंगिक शोषण तेव्हा होते जेव्हा एखादी तरुण व्यक्ती दसर्‍या व्यक्तीकडून त्यांच्या समाधानासाठी किंवा लैंगिक उत्तेजनासाठी किंवा इतरांसाठी वापरली जाते. ह्यासाठी प्रत्यक्ष संपर्क नसला तरी हे ऑन लाईन देखील होऊ शकते. काही वेळा तरुण व्यक्तीला हे समजत नाही की त्यांच्या सोबत जे काही होत आहे ते गैरवर्तूणक आहे. कदाचित त्यांना ते चुकीचे आहे हे समजणार नाही.
 
-[Further resources and definition from the NSPCC (UK)](https://www.nspcc.org.uk/what-is-child-abuse/types-of-abuse/child-sexual-abuse/)
+[NSPCC (यूके) तर्फे अधिक संसाधने आणि व्याख्या](https://www.nspcc.org.uk/what-is-child-abuse/types-of-abuse/child-sexual-abuse/)
 
-### Types of abuse: radicalisation
+### गैरवर्तणूकीचे प्रकार: मूलगामी करण किंवा कट्टरपंथीयता
 
-Young people at risk of radicalisation may be victims of other forms of abuse, such as bullying or discrimnation, that make them easy targets for extremists.
+कट्टरपंथीयतेचा धोका असलेले तरुण इतर प्रकारच्या गैरवर्तणूकीचे बळी असू शकतात, जसे की गुंडगिरी किंवा भेदभाव, ज्यामुळे ते अतिरेकी वागणाऱ्यांना भक्ष बनतात.
 
-Radicalisation can be difficult to notice, as it is similar to some normal teenage behaviours. Here are some signs that a person or group might be attempting to radicalise a young person:
+मूलगामीपणा लक्षात घेणे कठीण आहे, कारण ते काही सामान्य किशोरवयीन वर्तणुकीसारखेच असते. एखादी व्यक्ती किंवा गट एखाद्या तरुण व्यक्तीला कट्टरपंथी बनवण्याचा प्रयत्न करत असल्याची काही चिन्हे येथे दिली आहेत:
 
-- The young person isolates themselves from family and friends
-- The young person talks as if from a scripted speech
-- The young person is unwilling or unable to discuss their views
-- The young person shows a suddenly disrespectful attitude towards others
-- The young person has increased levels of anger
-- The young person is increasingly secretive, especially around internet use
+- तरुण स्वतःला परिवार आणि मित्रांपासून वेगळे ठेवतात
+- तरुण जणू लिखित दस्तऐवज वाचल्याप्रमाणे बोलतात
+- तरुण त्यांची मते मांडण्यास असमर्थ आहेत किंवा त्यांना ह्यात स्वारस्य वाटत नाही
+- तरुण अचानक इतरांविषयी अपमानास्पद वागतात
+- तरुणांमध्ये रागाचे प्रमाण वाढते आहे
+- तरुण व्यक्ती अत्यंत गोपनीयता बाळगतात, विशेषतः इंटरनेट वापर विषयक
 
-[Further resources and definition from the NSPCC (UK)](https://www.nspcc.org.uk/keeping-children-safe/reporting-abuse/dedicated-helplines/protecting-children-from-radicalisation/)
+[NSPCC (यूके) तर्फे अधिक संसाधने आणि व्याख्या](https://www.nspcc.org.uk/keeping-children-safe/reporting-abuse/dedicated-helplines/protecting-children-from-radicalisation/)
 
 --- save ---
 
 <p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">
-Ensure you're <span style="color: #0faeb0">logged into your Raspberry Pi Foundation account</span> to save your progress, otherwise your completion will not be recorded. Use the <a href="https://my.raspberrypi.org/login">'Log in'</a> link in the navigation menu to log in.
+आपण <span style="color: #0faeb0">आपल्या Raspberry Pi Fफाउंडेशन खात्यात</span>लॉगिन होऊन आपली प्रगती जतन करा नाही तर त्याशिवाय ती जतन केली जाणार नाही. ह्या नेव्हिगेशन मेनूमधील<a href="https://my.raspberrypi.org/login">लिंकवर 'लॉग इन'</a> करा.
 </p>
