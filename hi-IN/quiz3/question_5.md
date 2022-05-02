@@ -1,13 +1,13 @@
 --- question ---
 ---
-legend: Question 5 of 6
+legend: 5 का प्रश्न 6
 ---
 
-Jane looked at her watch twice. Is this:
+जेन ने अपनी घड़ी को दो बार देखा। क्या यह:
 
 --- choices ---
-- (x) A fact or an observation?
+- (x) कोई तथ्य या अवलोकन?
 
-- ( ) An opinion or evaluation? --- /choices ---
+- ( ) कोई राय या मूल्यांकन? --- /choices ---
 
 --- /question ---
