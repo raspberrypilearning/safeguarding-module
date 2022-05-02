@@ -1,55 +1,55 @@
-## What is child safeguarding?
+## ¿Qué es la salvaguarda infantil?
 
-Safeguarding is the actions taken to promote the welfare of children and protect them from harm.
+La salvaguarda es la acción que se lleva a cabo para promover el bienestar de los niños y para protegerlos de cualquier daño.
 
 <p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">
-Ensure you're <span style="color: #0faeb0">logged into your Raspberry Pi Foundation account</span> to save your progress, otherwise your completion will not be recorded. Use the <a href="https://my.raspberrypi.org/login">'Log in'</a> link in the navigation menu to log in.
+Asegúrese de que está <span style="color: #0faeb0">conectado a su cuenta de la Fundación Raspberry Pi</span> para guardar su avance, de lo contrario no se registrará que ha finalizado. Utilice el enlace <a href="https://my.raspberrypi.org/login">'Log in'</a> del menú de navegación para iniciar sesión.
 </p>
 
-![Three young people standing.](images/3-RPF-Kids.png)
+![Tres jóvenes están de pie.](images/3-RPF-Kids.png)
 
-This learning guide has been created to give all volunteers of the Raspberry Pi Foundation and their programmes (Code Club, CoderDojo, Raspberry Jams, and Astro Pi) the opportunity to learn about best practices in child safeguarding.
+Esta guía de aprendizaje se creó para darles a todos los voluntarios de la Fundación Raspberry Pi y a sus programas (Code Club, CoderDojo, Raspberry Jams y Astro Pi) la oportunidad de aprender acerca de las mejores prácticas en materia de salvaguarda infantil.
 
-Once completed, you will have:
+Una vez haya terminado, tendrá:
 
-* A basic awareness of the key issues in relation to child safeguarding in a coding club
-* An understanding of how to implement international best practices in child safeguarding
+* Conocimiento básico de las asuntos clave en relación con la salvaguarda infantil en un club de programación
+* Comprensión de cómo aplicar las mejores prácticas internacionales en materia de salvaguarda infantil
 
-It will take about 20 minutes to complete this learning guide.
+Completar esta guía de aprendizaje le tomará unos 20 minutos.
 
-### What topics will be covered?
+### ¿Qué temas se tratarán?
 
-There are many ways to ensure your club is a safe space for young people to learn and engage with technology.
+Hay muchas maneras de garantizar que su club sea un espacio seguro para que los jóvenes aprendan y se relacionen con la tecnología.
 
-Below are some of the topics that will be covered:
+A continuación se indican algunos de los temas que se tratarán:
 
-* Background checks
-* Legislation
-* How to recruit volunteers
-* Code of behaviour
-* Types of abuse
-* How to implement processes for reporting abuse
-* Example scenarios in a coding club
-* How to run safe online sessions
+* Verificaciones de antecedentes
+* Legislación
+* Cómo reclutar voluntarios
+* Código de comportamiento
+* Tipos de maltrato
+* Cómo poner en marcha los procesos de notificación de los maltratos
+* Ejemplos de escenarios en un club de programación
+* Cómo ejecutar sesiones en línea seguras
 
-### Why is child safeguarding important?
+### ¿Por qué es importante la salvaguarda infantil?
 
-All programmes run and supported by the Raspberry Pi Foundation should always be a safe space for everyone. By maintaining a safe environment, you are allowing young people to thrive and learn to code completely carefree.
+Todos los programas dirigidos y apoyados por la Fundación Raspberry Pi deben ser siempre un espacio seguro para todos. Al mantener un entorno seguro, está permitiendo que los jóvenes prosperen y aprendan a programar con total despreocupación.
 
-Clubs can have young people in attendance from different schools, backgrounds, and ages. Therefore, it is crucial to make sure this safe space is protected to ensure young people can make new friends and share a common interest.
+Los clubes pueden contar con la asistencia de jóvenes de diferentes escuelas, orígenes y edades. Por lo tanto, es crucial asegurarse de que este espacio seguro esté protegido para garantizar que los jóvenes puedan hacer nuevos amigos y compartir un interés común.
 
-### Legislation
+### Legislación
 
-Each club is responsible for ensuring that they abide with the safeguarding legislation in their area. Some jurisdictions will require that all volunteers who work with young people and/or vulnerable persons have background checks before they commence the voluntary activity. Other jurisdictions may require that you have a child protection policy or safeguarding statement.
+Cada club es responsable de garantizar el cumplimiento de la legislación sobre protección de datos en su zona. Algunas jurisdicciones exigirán que todos los voluntarios que trabajen con jóvenes y/o personas vulnerables se sometan a una comprobación de antecedentes antes de iniciar la actividad de voluntariado. Otras jurisdicciones pueden exigirle una política de salvaguarda infantil o una declaración de salvaguarda.
 
-**Note**: Legislation in the USA can vary from state to state.
+**Nota**: La legislación de Estados Unidos puede variar de un estado a otro.
 
-### Best practices
+### Buenas prácticas
 
-While it is paramount that you follow legislation in your region regarding child safeguarding, all clubs should try to have best practices in place, even where they are not required by legislation. Some of the best practices your club can adopt that will be covered in this module include:
+Si bien es primordial seguir la legislación de su región en materia de salvaguarda infantil, todos los clubes deben tratar de aplicar las mejores prácticas, incluso cuando no lo exija la legislación. Algunas de las mejores prácticas que su club puede adoptar y que se tratarán en este módulo son:
 
-* Volunteer recruitment
-* Code of behaviour
-* Code of behaviour for young people attending online sessions
-* Guide for adults to support young people attending online sessions
-* The reporting process when abuse is disclosed to a volunteer or when a volunteer notices signs of abuse
+* Reclutamiento de voluntarios
+* Código de comportamiento
+* Código de conducta para los jóvenes que asisten a las sesiones en línea
+* Guía para que los adultos apoyen a los jóvenes que asisten a las sesiones en línea
+* El proceso de notificación cuando un voluntario es informado de un maltrato o cuando un voluntario advierte signos de maltrato
