@@ -1,1 +1,1 @@
-## Code of behaviour quiz
+## ನಡವಳಿಕೆಯ ಸಂಹಿತೆಯ ಕ್ವಿಜ್
