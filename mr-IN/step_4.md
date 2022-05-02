@@ -1,6 +1,6 @@
-## Code of behaviour
+## वर्तणूक आचारसंहिता
 
-Every person at the club must be aware of the code of behaviour and follow these expectations. Our code of behaviour document is available at [rpf.io/code-of-behaviour](http://rpf.io/code-of-behaviour){:target='_blank'}
+क्लबच्या सर्व सदस्यांना वर्तन आचारसंहितेविषयी माहिती असावी आणि त्यांनी अपेक्षित वर्तन ठेवावे. आमचे वर्तन आचारसंहितेचे दस्तऐवज येथे उपलब्ध आहेत [rpf.io/code-of-behaviour](http://rpf.io/code-of-behaviour){:target='_blank'}
 
 <embed src="images/Raspberry_Pi_Foundation-safeguarding-code-of-behaviour.pdf" width="790" height="500" 
  type="application/pdf">
@@ -10,34 +10,34 @@ Every person at the club must be aware of the code of behaviour and follow these
     <br>
   </p>
 <h3 spaces-before="0">
-  Breaking the code of behaviour
+  वर्तणूक आचारसंहितेचे उल्लंघन
 </h3>
 
 <p spaces-before="0">
-  If a volunteer in your club behaves inappropriately and/or breaks the code of behaviour, action will have to be taken by the club organiser. If the club organiser breaks the code of behaviour, action will have to be taken by another volunteer.
+  क्लब स्वयंसेवकाने वर्तणूक अनुचित वर्तणूक केल्यास / आचारसंहितेचे उल्लंघन केल्यास, इतर आयोजकाद्वारे कारवाई केली जाईल. क्लब आयोजकाने वर्तणूक आचारसंहितेचे उल्लंघन केल्यास, इतर स्वयंसेवका द्वारे कारवाई केली जाईल.
 </p>
 
 <p spaces-before="0">
-  Actions to take:
+  आवश्यक कारवाई:
 </p>
 
 <ul>
   <li>
-    A verbal warning
+    शा‍ब्दिक चेतावणी
   </li>
   <li>
-    A formal written warning, to which any further indiscretions will lead to suspension from the club or to ending their role as a volunteer of the club
+    कोणत्याही औपचारिक लेखी चेतावणी मिळाल्यास त्यांचे क्लब मधून निलंबन होईल किंवा स्वयंसेवक पदावरून त्यांना काढले जाईल
   </li>
   <li>
-    Suspension of the volunteer from the club
+    क्लबमधून स्वयंसेवकाचे निलंबन
   </li>
   <li>
-    Banning the volunteer from participating in further activities in the club
+    स्वयंसेवकांना पुढील कार्यक्रमांमध्ये सहभागी करणे प्रतिबंधित करणे
   </li>
 </ul>
 
 <p spaces-before="0">
-  If you or your club is unsure of the action to take please, ask for support from the <a href="mailto:safeguarding@raspberrypi.org">Raspberry Pi Foundation</a>.
+  काय कारवाई करावी ह्याविषयी आपल्या क्लबला अनिश्चितता असेल तर आम्हाला संपर्क करा <a href="mailto:safeguarding@raspberrypi.org">Raspberry Pi फाउंडेशन</a>.
 </p>
 
 <p spaces-before="0">
@@ -45,5 +45,5 @@ Every person at the club must be aware of the code of behaviour and follow these
 </p>
 
 <p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">
-Ensure you're <span style="color: #0faeb0">logged into your Raspberry Pi Foundation account</span> to save your progress, otherwise your completion will not be recorded. Use the <a href="https://my.raspberrypi.org/login">'Log in'</a> link in the navigation menu to log in.
+आपण <span style="color: #0faeb0">आपल्या Raspberry Pi Fफाउंडेशन खात्यात</span>लॉगिन होऊन आपली प्रगती जतन करा नाही तर त्याशिवाय ती जतन केली जाणार नाही. ह्या नेव्हिगेशन मेनूमधील<a href="https://my.raspberrypi.org/login">लिंकवर 'लॉग इन'</a> करा.
 </p>
