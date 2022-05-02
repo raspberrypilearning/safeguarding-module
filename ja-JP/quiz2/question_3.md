@@ -1,14 +1,14 @@
 --- question ---
 ---
-legend: Question 3 of 3
+legend: 質問3/3
 ---
 
-Do you need to make sure that every young person has a parent's or guardian's consent before they attend an online session?
+すべての若者がオンラインセッションに参加する前に、親または保護者の同意があることを確認する必要がありますか？
 
 --- choices ---
 
-- ( ) No
-- (x) Yes
+- ( ) いいえ
+- (x) はい
 
 --- /choices ---
 
