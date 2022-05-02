@@ -1,16 +1,16 @@
 --- question ---
 ---
-legend: Question 1 of 3
+legend: ಪ್ರಶ್ನೆ 1 ರಲ್ಲಿ 3
 ---
 
-How many adults should be present during an online session?
+ಆನ್‌ಲೈನ್ ಸೆಷನ್‌ನಲ್ಲಿ ಎಷ್ಟು ವಯಸ್ಕರು ಹಾಜರಿರಬೇಕು?
 
 --- choices ---
 
-- ( ) None
-- ( ) One
-- (x) At least two
-- ( ) At least three
+- ( ) ಯಾರೂ ಇಲ್ಲ
+- ( ) ಒಬ್ಬರು
+- (x) ಕನಿಷ್ಠ ಇಬ್ಬರು
+- ( ) ಕನಿಷ್ಠ ಮೂವರು
 
 --- /choices ---
 
