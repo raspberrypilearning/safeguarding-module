@@ -1,1 +1,1 @@
-## Online sessions quiz
+## Prueba corta de sesiones en línea
