@@ -1,5 +1,5 @@
 ---
-title: Safeguarding module
+title: Módulo de salvaguarda
 hero_image: images/banner.png
 description: Módulo de salvaguarda
 version: 0.1
@@ -9,42 +9,42 @@ volunteers: true
 last_tested: 2022-01-05
 steps:
   - 
-    title: What is child safeguarding?
+    title: O que é proteção à criança?
   - 
-    title: Recruitment process
+    title: Processo de recrutamento
   - 
-    title: Induction of new volunteers
+    title: Indução de novos voluntários
   - 
-    title: Code of behaviour
+    title: Código de comportamento
   - 
-    title: Code of behaviour quiz
+    title: Teste de código de comportamento
     knowledge_quiz:
-      path: quiz1
+      path: questionário1
       version: 1
       questions: 9
       passing_score: 9
   - 
-    title: "Abuse and disclosures"
+    title: "Abusos e divulgações"
   - 
-    title: How to run safe online sessions
+    title: Como executar sessões on-line seguras
   - 
-    title: Online sessions quiz
+    title: Questionário de sessões on-line
     knowledge_quiz:
-      path: quiz2
+      path: questionário2
       version: 1
       questions: 3
       passing_score: 3
   - 
-    title: "What to do if…"
+    title: "O que fazer se…"
   - 
-    title: How to record details of abuse
+    title: Como registrar detalhes de abuso
   - 
-    title: Observations and evaluations quiz
+    title: Questionário de observações e avaliações
     knowledge_quiz:
-      path: quiz3
+      path: questionário3
       version: 1
       questions: 6
       passing_score: 6
-    completion: external
+    completion: externo
   - 
-    title: "That’s almost it!"
+    title: "Estamos quase lá!"
