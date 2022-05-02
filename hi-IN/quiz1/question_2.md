@@ -1,13 +1,13 @@
 --- question ---
 ---
-legend: Question 2 of 9
+legend: 2 का प्रश्न 9
 ---
 
-Is it good practice or poor practice to send one-to-one messages on social media to an attendee at a club?
+किसी क्लब में उपस्थित व्यक्ति को सोशल मीडिया पर निजी तौर संदेश भेजना अच्छा अभ्यास है या बुरा अभ्यास है?
 
 --- choices ---
-- ( ) Good practice
+- ( ) अच्छा अभ्यास
 
-- (x) Poor practice --- /choices ---
+- (x) बुरा अभ्यास --- /choices ---
 
 --- /question ---
