@@ -1,13 +1,13 @@
 --- question ---
 ---
-legend: Question 4 of 9
+legend: प्रश्न 4 पैकी 9
 ---
 
-Is it good practice or poor practice to have a ratio of at least 1:10 adults to young people at your club?
+तुमच्या क्लबमध्ये तरूणांसाठी कमीत कमी 1:10 या प्रमाणात रेडिओ असावा ही एक चांगली की वाईट पद्धत आहे?
 
 --- choices ---
-- (x) Good practice
+- (x) चांगले वर्तन
 
-- ( ) Poor practice --- /choices ---
+- () सुमार अभ्यास --- /choices ---
 
 --- /question ---
