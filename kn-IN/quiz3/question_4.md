@@ -1,13 +1,13 @@
 --- question ---
 ---
-legend: Question 4 of 6
+legend: ಪ್ರಶ್ನೆ 4 ರಲ್ಲಿ 6
 ---
 
-Aisha seemed like she was lying. Is this:
+ಆಯಿಷಾ ಸುಳ್ಳು ಹೇಳುತ್ತಿರುವಂತೆ ಕಾಣುತ್ತಿತ್ತು. ಇದು:
 
 --- choices ---
-- ( ) A fact or an observation?
+- () ವಾಸ್ತವವೋ ಅಥವಾ ಅವಲೋಕನವೋ?
 
-- (x) An opinion or evaluation? --- /choices ---
+- (x) ಅಭಿಪ್ರಾಯವೋ ಅಥವಾ ಮೌಲ್ಯಮಾಪನವೋ? --- /choices ---
 
 --- /question ---
