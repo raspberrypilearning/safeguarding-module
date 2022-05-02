@@ -1,16 +1,16 @@
 --- question ---
 ---
-legend: Question 1 of 3
+legend: प्रश्न 3 पैकी 1
 ---
 
-How many adults should be present during an online session?
+ऑन लाइन सत्रा दरम्यान किती प्रौढांनी उपस्थित राहावे?
 
 --- choices ---
 
-- ( ) None
-- ( ) One
-- (x) At least two
-- ( ) At least three
+- ( ) काहीही नाही
+- ( ) एक
+- (x) कमीत कमी दोन
+- ( ) एकूण किमान तीन
 
 --- /choices ---
 
