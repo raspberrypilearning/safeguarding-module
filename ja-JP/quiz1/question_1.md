@@ -1,13 +1,13 @@
 --- question ---
 ---
-legend: Question 1 of 9
+凡例: 問1の9
 ---
 
-Is it good practice or poor practice to be inclusive of all young people regardless of gender, age, religion, nationality, ethnicity, or creed?
+性別、年齢、宗教、国籍、民族、信条に関係なく、すべての若者を受け入れることは、良い習慣か好ましくない習慣か？
 
 --- choices ---
-- (x) Good practice
+- (x) 優れた取り組み
 
-- ( ) Poor practice --- /choices ---
+- ( ) 好ましくない取り組み --- /choices ---
 
 --- /question ---
