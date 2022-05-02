@@ -1,13 +1,13 @@
 --- question ---
 ---
-legend: Question 3 of 6
+legend: ಪ್ರಶ್ನೆ 3 ರಲ್ಲಿ 6
 ---
 
-Mary was embarrassed. Is this:
+ಮೇರಿಗೆ ಮುಜುಗರವಾಗಿತ್ತು. ಇದು:
 
 --- choices ---
-- ( ) A fact or an observation?
+- () ವಾಸ್ತವವೋ ಅಥವಾ ಅವಲೋಕನವೋ?
 
-- (x) An opinion or evaluation? --- /choices ---
+- (x) ಅಭಿಪ್ರಾಯವೋ ಅಥವಾ ಮೌಲ್ಯಮಾಪನವೋ? --- /choices ---
 
 --- /question ---
