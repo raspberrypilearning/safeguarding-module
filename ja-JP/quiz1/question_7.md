@@ -3,11 +3,11 @@
 legend: Question 7 of 9
 ---
 
-Is it good practice or poor practice to take into account young people's views in the decision-making process at your club?
+クラブで意思決定をするプロセスで若者の意見を考慮することは良い習慣か、好ましくない習慣か？
 
 --- choices ---
-- (x) Good practice
+- (x) 優れた取り組み
 
-- ( ) Poor practice --- /choices ---
+- ( ) 好ましくない取り組み --- /choices ---
 
 --- /question ---
