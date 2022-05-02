@@ -1,60 +1,60 @@
-## That’s almost it
+## もう少しです
 
-You’ve completed this short interactive learning guide. Well done!
+この短い対話型学習ガイドは終了いたしました。 よくできました！
 
-You can now test your knowledge with some scenarios. In each scenario, we want you to consider what you definitely would do, what you may do (depending on the circumstances), and what you would not do.
+いくつかのシナリオを使用して、あなたの知識を試すことができます。 各シナリオで、「絶対にやること」、「（状況によっては）やっても良いこと」、「やってはいけないこと」について考えてほしいのです。
 
-### Kim
+### キム
 
-**You notice one of the young people at the club, Kim, who is 12 years old, is making a game which focuses on sadness and isolation, and there are some references to suicide. The lead character in the game is also called Kim.**
+**クラブメンバーの若者の一人、12歳のキムは、悲しみや孤独に焦点を当てたゲームを作っており、自殺についての言及もあることに注意してください。 ゲームの主人公の名前も「キム」です。**
 
 --- hints --- --- hint ---
 
-In this scenario, you should ensure you check on the young person before you make any assumptions. Kim’s parents or guardians should be informed of the game by the most appropriate person, which may be you, but could be another volunteer or teacher from the club. It may also be relevant to tell the young person's parents or guardians about local support in the area if the volunteer knows what these are; often a general practitioner or local doctor is the best place to initially point a parent or guardian to in this scenario. Most importantly, you should talk to your club organiser, or teacher if in a school setting, and ensure that someone from the club checks on Kim in future sessions.
+このような場合、仮定を立てる前に、必ず若者の様子を確認する必要があります。 キムの両親または保護者は、最も適切な人物（あなた、クラブの他のボランティアまたは教師かもしれません。）によって、ゲームについて説明を受けるべきです。 また、ボランティアが地域の支援について知っている場合は、若者の両親や保護者に伝えることも適切かもしれません。このような場合、一般開業医や地元の医師が、保護者に最初に紹介するのに最適な場所であることが多いです。 最も重要なことは、クラブの主催者、または学校の場合は教員に相談し、クラブの誰かが今後のセッションでキムをチェックするようにすることです。
 
 --- /hint --- --- /hints ---
 
-### Mark
+### マーク
 
-**One of the young people in the club has come to you and told you that Mark, aged 11, is on his laptop and is looking at pictures of people with "no clothes on and doing strange things".**
+**クラブの若者の一人があなたのところにやってきて、11歳のマークがノートパソコンで、「服を着ていない、奇妙なことをしている人の写真を見ている。」と言いました。**
 
 --- hints --- --- hint ---
 
-The main learning from this scenario is to not overreact or make assumptions, as this could have been something quite innocent or accidental like an advert or pop-up. If the matter can be dealt with immediately, then you (or the club organiser) should speak to Mark without assumptions. Then you (or the club organiser) should speak to both sets of parents (or guardians) separately, mainly to ensure this doesn’t happen again in the club. You should ensure the young person who reported this is OK and knows that you are dealing with the situation. You should make the club organiser aware of the situation and perhaps you may organise an online safety session a few weeks after the incident.
+このシナリオから学ぶことは、広告やポップアップのように、まったく罪のない、偶然の出来事だった可能性があるため、過剰な反応や思い込みをしないことです。 すぐに対処できる問題であれば、あなた（またはクラブのオーガナイザー）は思い込みをせずにマークと話すべきです。 その後、あなた（またはクラブの主催者）は、主にクラブでこのようなことが二度と起こらないようにするために、両方の保護者に別々に話をする必要があります。 報告した若者が無事であること、そしてあなたがその状況に対処していることを知っていることを確認する必要があります。 クラブの主催者に状況を知らせ、事件の数週間後にオンラインの安全に関するセッションを開催することもできます。
 
 --- /hint --- --- /hints ---
 
-### Zoe
+### ゾーイ
 
-**During an online club session, one of the club members, Zoe, shouts an obscenity at an adult in their home. The adult shouts back. You hear a loud crash, and the club member disappears from your view. You can hear threatening behaviour from the adult and the camera turns off.**
+**オンラインクラブのセッション中、メンバーの一人であるゾーイが、自宅にいる大人に向かって卑猥な言葉を叫ぶ。 大人が叫び返す。 大きな音がして、クラブのメンバーが視界から消える。 大人の威嚇行動が聞こえ、カメラがオフになる。**
 
 --- hints --- --- hint ---
 
-In this scenario, there is an immediate concern about the welfare of a young person and you have no way of knowing whether the young person is safe. The first thing you need to do is to call the police, who will investigate the incident. The second thing you need to do is call our 24-hour safeguarding number to report what has happened.
+このシナリオでは、若者の福祉に関する喫緊の懸念があり、その青少年が安全かどうかを知る術がありません。 まず、警察に通報し、捜査してもらうことが必要です。 次に、24時間対応のセーフガードの電話番号に電話をし、何が起こったかを報告する必要があります。
 
 --- /hint --- --- /hints ---
 
-### Robert
+### ロバート
 
-**During an online session, you notice that Robert, one of the club members, posts sexually explicit language and links to pornographic websites in the comments section.**
+**オンラインセッションの際、クラブメンバーの一人であるロバートが、コメント欄に性的な表現やポルノサイトへのリンクを書き込んでいることに気づきます。**
 
 --- hints --- --- hint ---
 
-It’s important to make a record of what Robert has posted, in case this happens again. He may not know the significance of what he has posted, so it’s important that you let his parents or guardians know what happened and provide them with the [parents guide](https://help.coderdojo.com/cdkb/s/article/Parents-guide-to-CoderDojo). Other young people attending the online session may have seen the messages and been affected by them, so it’s important that you contact their parents or guardians as well and let them know what happened and how you intend to follow up.
+また同じようなことが起こったときのために、ロバートが投稿した内容を記録しておくことが大切です。 彼は投稿したことの意味を知らないかもしれませんので、ご両親や保護者の方に事情を伝え、保護者ガイド[](https://help.coderdojo.com/cdkb/s/article/Parents-guide-to-CoderDojo)をお渡しすることが重要です。 オンライン・セッションに参加した他の若者もメッセージを見て影響を受けたかもしれないので、彼らの保護者にも連絡し、何が起こったのか、どのようにフォローアップするつもりなのかを伝えることが重要です。
 
 --- /hint --- --- /hints ---
-### Lisa
+### リサ
 
-**Lisa, one of the young people in your club, has got in touch through a private message on social media to ask for help with a project.**
+**クラブのメンバーの一人であるリサが、ソーシャルメディア上のプライベートメッセージを通じて、あるプロジェクトに協力してほしいと連絡してきました。**
 
 --- hints --- --- hint ---
 
-One-to-one messaging with young people is not encouraged for any volunteers, either on social media or through other mediums (including email). There are some situations that you may want to respond to the young person: if it is a long time until the next session or there is a deadline for the project to be entered in a competition and you do not want to disappoint the young person. If you do respond, you should encourage that they email you and cc their parent or guardian (or the club organiser or teacher) into the conversation in future or regarding this query.
+ソーシャルメディアやその他の媒体（電子メールを含む）を通じて、若者と1対1でメッセージのやり取りをすることは、いかなるボランティアにも推奨されません。 次のセッションまで時間がある場合、またはコンペに応募するプロジェクトの締め切りがあり、若者を失望させたくない場合など、若い人に対応したいと思うような状況もあるかもしれません。 もし、返信する場合は、今後、またはこの問い合わせに関して、親または保護者（またはクラブの主催者または教師）を会話に参加させ、あなたにメールを送るよう勧めてください。
 
 --- /hint --- --- /hints ---
 
 --- save ---
 
 <p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">
-Ensure you're <span style="color: #0faeb0">logged into your Raspberry Pi Foundation account</span> to save your progress, otherwise your completion will not be recorded. Use the <a href="https://my.raspberrypi.org/login">'Log in'</a> link in the navigation menu to log in.
+<span style="color: #0faeb0">Raspberry Pi Foundation アカウント</span> にログインしていることを確認して進行状況を保存してください。それ以外の場合、完了情報は記録されません。 ナビゲーションメニューの<a href="https://my.raspberrypi.org/login">「ログイン」</a>リンクからログインしてください。
 </p>
