@@ -1,15 +1,15 @@
 --- question ---
 ---
-legend: Question 2 of 3
+legend: 質問2/3
 ---
 
-Is it OK to use webcams during an online session?
+オンラインセッション中にウェブカメラを使用して構いませんか？
 
 --- choices ---
 
-- ( ) No
-- ( ) Yes
-- (x) Yes, but make sure everyone knows they are prohibited from recording or taking screenshots of the session
+- ( ) いいえ
+- ( ) はい
+- (x) はい、ただし、セッションの録画やスクリーンショットの撮影が禁止されていることを全ての参加者に周知してください。
 
 --- /choices ---
 
