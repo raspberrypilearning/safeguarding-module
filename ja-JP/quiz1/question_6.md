@@ -1,13 +1,13 @@
 --- question ---
 ---
-legend: Question 6 of 9
+legend: 問6の9
 ---
 
-Is it good practice or poor practice to take young people alone on car journeys?
+若者を一人で車に乗せて移動することは、良い習慣か、好ましくない習慣か？
 
 --- choices ---
-- ( ) Good practice
+- ( ) 優れた取り組み
 
-- (x) Poor practice --- /choices ---
+- (x) 好ましくない取り組み --- /choices ---
 
 --- /question ---
