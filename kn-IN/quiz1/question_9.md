@@ -1,13 +1,13 @@
 --- question ---
 ---
-legend: Question 9 of 9
+legend: ಪ್ರಶ್ನೆ 9 ರಲ್ಲಿ 9
 ---
 
-Is it good practice or poor practice to cc parents in on all direct email communication to young people?
+ಯುವಜನರ ಜೊತೆ ನಡೆಸುವ ಎಲ್ಲಾ ನೇರ ಇಮೇಲ್ ಸಂವಹನದಲ್ಲಿ ಪೋಷಕರಿಗೆ ಸಿಸಿ ಮಾಡುವುದು ಒಳ್ಳೆಯ ಪದ್ಧತಿಯೇ ಅಥವಾ ಕೆಟ್ಟ ಪದ್ಧತಿಯೇ?
 
 --- choices ---
-- (x) Good practice
+- (x) ಒಳ್ಳೆಯ ಪದ್ಧತಿ
 
-- ( ) Poor practice --- /choices ---
+- ( ) ಕೆಟ್ಟ ಪದ್ಧತಿ --- /choices ---
 
 --- /question ---
