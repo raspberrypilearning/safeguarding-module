@@ -3,11 +3,11 @@
 legend: ಪ್ರಶ್ನೆ 1 ರಲ್ಲಿ 9
 ---
 
-Is it good practice or poor practice to be inclusive of all young people regardless of gender, age, religion, nationality, ethnicity, or creed?
+ಲಿಂಗ, ವಯಸ್ಸು, ಧರ್ಮ, ರಾಷ್ಟ್ರೀಯತೆ, ಜನಾಂಗ ಅಥವಾ ಜಾತಿಯನ್ನು ಲೆಕ್ಕಿಸದೆ ಎಲ್ಲ ಯುವಜನತೆಯನ್ನು ಸೇರಿಸಿಕೊಳ್ಳುವುದು ಒಳ್ಳೆಯ ಪದ್ದತಿಯೇ ಅಥವಾ ಕೆಟ್ಟ ಪದ್ಧತಿಯೇ?
 
 --- choices ---
-- (x) Good practice
+- (x) ಒಳ್ಳೆಯ ಪದ್ಧತಿ
 
-- ( ) Poor practice --- /choices ---
+- ( ) ಕೆಟ್ಟ ಪದ್ಧತಿ --- /choices ---
 
 --- /question ---
