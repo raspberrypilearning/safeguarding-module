@@ -1,13 +1,13 @@
 --- question ---
 ---
-legend: Question 3 of 9
+legend: 問3の9
 ---
 
-Is it good practice or poor practice to use offensive language in your club?
+クラブで攻撃的な言葉を使うことは、良い習慣か、好ましくない習慣か？
 
 --- choices ---
-- ( ) Good practice
+- ( ) 優れた取り組み
 
-- (x) Poor practice --- /choices ---
+- (x) 好ましくない取り組み --- /choices ---
 
 --- /question ---
