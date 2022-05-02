@@ -1,13 +1,13 @@
 --- question ---
 ---
-legend: Question 9 of 9
+legend: pregunta 9 de 9
 ---
 
-Is it good practice or poor practice to cc parents in on all direct email communication to young people?
+¿Es una buena o una mala práctica enviar copia a los padres de todas las comunicaciones directas por correo electrónico enviadas a los jóvenes?
 
 --- choices ---
-- (x) Good practice
+- (x) Buena práctica
 
-- ( ) Poor practice --- /choices ---
+- ( ) Pobre práctica --- /choices ---
 
 --- /question ---
