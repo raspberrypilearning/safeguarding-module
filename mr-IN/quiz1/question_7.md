@@ -1,13 +1,13 @@
 --- question ---
 ---
-legend: Question 7 of 9
+legend: प्रश्न 7 पैकी 9
 ---
 
-Is it good practice or poor practice to take into account young people's views in the decision-making process at your club?
+तुमच्या क्लबमध्ये निर्णय घेण्याच्या प्रक्रियेत तरुण लोकांचे मत विचारात घेणे हे चांगल्या वर्तनाचे की वाईट वर्तनाचे उदाहरण आहे?
 
 --- choices ---
-- (x) Good practice
+- (x) चांगले वर्तन
 
-- ( ) Poor practice --- /choices ---
+- () सुमार अभ्यास --- /choices ---
 
 --- /question ---
