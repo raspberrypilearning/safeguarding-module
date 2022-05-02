@@ -1,13 +1,13 @@
 --- question ---
 ---
-legend: Question 1 of 6
+legend: ಪ್ರಶ್ನೆ 1 ರಲ್ಲಿ 6
 ---
 
-Rita made no eye contact. Is this:
+ರೀಟಾ ಕಣ್ಣಲ್ಲಿ ಕಣ್ಣಿಟ್ಟು ನೋಡಲಿಲ್ಲ. ಇದು:
 
 --- choices ---
-- (x) A fact or an observation?
+- (x) ವಾಸ್ತವವೋ ಅಥವಾ ಅವಲೋಕನವೋ?
 
-- ( ) An opinion or evaluation? --- /choices ---
+- ( ) ಅಭಿಪ್ರಾಯವೋ ಅಥವಾ ಮೌಲ್ಯಮಾಪನವೋ? --- /choices ---
 
 --- /question ---
