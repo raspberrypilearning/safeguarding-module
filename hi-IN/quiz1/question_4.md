@@ -1,13 +1,13 @@
 --- question ---
 ---
-legend: Question 4 of 9
+legend: 4 का प्रश्न 9
 ---
 
-Is it good practice or poor practice to have a ratio of at least 1:10 adults to young people at your club?
+आपके क्लब में वयस्कों का युवा लोगों का कम से कम 1:10 का अनुपात होना अच्छा अभ्यास है या बुरा अभ्यास है?
 
 --- choices ---
-- (x) Good practice
+- (x) अच्छा अभ्यास है
 
-- ( ) Poor practice --- /choices ---
+- ( ) बुरा अभ्यास --- /choices ---
 
 --- /question ---
