@@ -1,1 +1,1 @@
-## Observations and evaluations quiz
+## ವೀಕ್ಷಣೆಗಳು ಮತ್ತು ಮೌಲ್ಯಮಾಪನಗಳ ಕ್ವಿಜ್‌
