@@ -1,11 +1,11 @@
-## How to record details of abuse
+## Como registrar detalhes de abuso
 
-When you record details of abuse for either your club organiser or external organisations, it is important to ensure you record facts and observations as opposed to evaluations and opinions.
+Quando você registra detalhes de abuso para o organizador do clube ou organizações externas, é importante garantir que você grave fatos e observações em oposição a avaliações e opiniões.
 
-An observation is something you can see, smell, touch, or hear. An evaluation is what you think about what you saw, smelt, touched, or heard.
+Uma observação é algo que você pode ver, cheirar, tocar ou ouvir. Uma avaliação é o que você pensa sobre o que você viu, cheirou, tocou ou ouviu.
 
 --- save ---
 
 <p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">
-Ensure you're <span style="color: #0faeb0">logged into your Raspberry Pi Foundation account</span> to save your progress, otherwise your completion will not be recorded. Use the <a href="https://my.raspberrypi.org/login">'Log in'</a> link in the navigation menu to log in.
+Certifique-se de que você está <span style="color: #0faeb0">logado na sua conta da Fundação Raspberry Pi </span> para salvar o seu progresso, caso contrário a sua conclusão não será gravada. Utilize o link <a href="https://my.raspberrypi.org/login">de Login</a> no menu de navegação para fazer login.
 </p>
