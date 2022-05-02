@@ -1,13 +1,13 @@
 --- question ---
 ---
-legend: Question 2 of 6
+legend: 2 का प्रश्न 6
 ---
 
-John smelt of alcohol. Is this:
+जॉन से शराब की गंध आ रही थी। क्या यह:
 
 --- choices ---
-- (x) A fact or an observation?
+- (x) कोई तथ्य या अवलोकन?
 
-- ( ) An opinion or evaluation? --- /choices ---
+- ( ) कोई राय या मूल्यांकन? --- /choices ---
 
 --- /question ---
