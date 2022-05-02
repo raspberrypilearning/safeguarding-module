@@ -1,13 +1,13 @@
 --- question ---
 ---
-legend: Question 6 of 6
+legend: प्रश्न 6 पैकी 6
 ---
 
-Ade was bored. Is this:
+एड कंटाळलेला होता. हे आहे:
 
 --- choices ---
-- ( ) A fact or an observation?
+- () वस्तुस्थिती की निरीक्षण?
 
-- (x) An opinion or evaluation? --- /choices ---
+- (x) एक मत किंवा मूल्यमापन? --- /choices ---
 
 --- /question ---
