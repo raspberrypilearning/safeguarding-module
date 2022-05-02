@@ -1,13 +1,13 @@
 --- question ---
 ---
-legend: Question 3 of 6
+legend: Questão 3 de 6
 ---
 
-Mary was embarrassed. Is this:
+Mary estava envergonhada. Isso é:
 
 --- choices ---
-- ( ) A fact or an observation?
+- ( ) Um fato ou uma observação?
 
-- (x) An opinion or evaluation? --- /choices ---
+- (x) Uma opinião ou avaliação? --- /choices ---
 
 --- /question ---
