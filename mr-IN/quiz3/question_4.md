@@ -1,13 +1,13 @@
 --- question ---
 ---
-legend: Question 4 of 6
+legend: प्रश्न 4 पैकी 6
 ---
 
-Aisha seemed like she was lying. Is this:
+प्रिया खोटं बोलली असं आएशाला वाटलं. हे आहे:
 
 --- choices ---
-- ( ) A fact or an observation?
+- () वस्तुस्थिती की निरीक्षण?
 
-- (x) An opinion or evaluation? --- /choices ---
+- (x) एक मत किंवा मूल्यमापन? --- /choices ---
 
 --- /question ---
