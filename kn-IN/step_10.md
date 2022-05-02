@@ -1,11 +1,11 @@
-## How to record details of abuse
+## ದೌರ್ಜನ್ಯದ ವಿವರಗಳನ್ನು ದಾಖಲಿಸುವುದು ಹೇಗೆ
 
-When you record details of abuse for either your club organiser or external organisations, it is important to ensure you record facts and observations as opposed to evaluations and opinions.
+ನಿಮ್ಮ ಕ್ಲಬ್ ಆಯೋಜಕರಿಗಾಗಿ ಅಥವಾ ಬಾಹ್ಯ ಸಂಸ್ಥೆಗಳಿಗಾಗಿ ನೀವು ದೌರ್ಜನ್ಯದ ವಿವರಗಳನ್ನು ದಾಖಲಿಸಿದಾಗ, ಮೌಲ್ಯಮಾಪನಗಳು ಮತ್ತು ಅಭಿಪ್ರಾಯಗಳ ಬದಲು ನೀವು ವಾಸ್ತವಾಂಶಗಳು ಮತ್ತು ಅವಲೋಕನಗಳನ್ನು ದಾಖಲಿಸಿಕೊಳ್ಳುವುದನ್ನು ಖಚಿತಪಡಿಸಿಕೊಳ್ಳುವುದು ಮುಖ್ಯವಾಗಿರುತ್ತದೆ.
 
-An observation is something you can see, smell, touch, or hear. An evaluation is what you think about what you saw, smelt, touched, or heard.
+ಅವಲೋಕನ ಎಂದರೆ ನೀವು ನೋಡಬಹುದಾದ, ವಾಸನೆ ತೆಗೆದುಕೊಳ್ಳಬಹುದಾದ, ಸ್ಪರ್ಶಿಸಬಹುದಾದ ಅಥವಾ ಕೇಳಬಹುದಾದ ಒಂದು ವಿಷಯವಾಗಿದೆ. ಮೌಲ್ಯಮಾಪನವೆಂದರೆ ನೀವು ನೋಡಿರುವುದು, ವಾಸನೆ ತೆಗೆದುಕೊಂಡಿರುವುದು, ಸ್ಪರ್ಶಿಸಿರುವುದು, ಅಥವಾ ಕೇಳಿರುವುದರ ಬಗ್ಗೆ ನಿಮಗೆ ಏನನ್ನಿಸುತ್ತದೆ ಎಂದಾಗಿರುತ್ತದೆ.
 
 --- save ---
 
 <p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">
-Ensure you're <span style="color: #0faeb0">logged into your Raspberry Pi Foundation account</span> to save your progress, otherwise your completion will not be recorded. Use the <a href="https://my.raspberrypi.org/login">'Log in'</a> link in the navigation menu to log in.
+ನಿಮ್ಮ ಪ್ರಗತಿಯನ್ನು ಉಳಿಸಲು ನೀವು <span style="color: #0faeb0"> ನಿಮ್ಮ Raspberry Pi ಫೌಂಡೇಶನ್ ಖಾತೆಗೆ ಲಾಗ್ ಇನ್ ಮಾಡಿರುವುದನ್ನು</span> ಖಚಿತಪಡಿಸಿಕೊಳ್ಳಿ, ಇಲ್ಲದಿದ್ದರೆ ನಿಮ್ಮ ಪೂರ್ಣಗೊಳಿಸುವಿಕೆಯನ್ನು ದಾಖಲಿಸಲಾಗುವುದಿಲ್ಲ. ಲಾಗ್ ಇನ್ ಆಗಲು ನ್ಯಾವಿಗೇಶನ್ ಮೆನುನಲ್ಲಿ <a href="https://my.raspberrypi.org/login">'ಲಾಗಿನ್'</a> ಲಿಂಕ್ ಅನ್ನು ಬಳಸಿ.
 </p>
