@@ -1,16 +1,16 @@
 --- question ---
 ---
-legend: Question 1 of 3
+legend: 質問1/3
 ---
 
-How many adults should be present during an online session?
+オンラインセッションに同席すべき成人の人数をお聞かせください。
 
 --- choices ---
 
-- ( ) None
-- ( ) One
-- (x) At least two
-- ( ) At least three
+- ( ) なし
+- ( ) 1
+- (x) 最少2
+- ( ) 最少3
 
 --- /choices ---
 
