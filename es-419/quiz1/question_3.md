@@ -1,13 +1,13 @@
 --- question ---
 ---
-legend: Question 3 of 9
+legend: pregunta 3 de 9
 ---
 
-Is it good practice or poor practice to use offensive language in your club?
+¿Es una buena o una mala práctica utilizar un lenguaje ofensivo en su club?
 
 --- choices ---
-- ( ) Good practice
+- ( ) Buena práctica
 
-- (x) Poor practice --- /choices ---
+- (x) Pobre práctica --- /choices ---
 
 --- /question ---
