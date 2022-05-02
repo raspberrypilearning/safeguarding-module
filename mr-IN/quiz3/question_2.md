@@ -1,13 +1,13 @@
 --- question ---
 ---
-legend: Question 2 of 6
+legend: प्रश्न 2 पैकी 6
 ---
 
-John smelt of alcohol. Is this:
+जॉनच्या अंगाला दारूचा वास येत होता. हे आहे:
 
 --- choices ---
-- (x) A fact or an observation?
+- (x) सत्य की निरीक्षण?
 
-- ( ) An opinion or evaluation? --- /choices ---
+- () एक मत किंवा मूल्यमापन? --- /choices ---
 
 --- /question ---
