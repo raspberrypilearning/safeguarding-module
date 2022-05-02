@@ -1,46 +1,46 @@
-## Recruitment process
+## Processo de recrutamento
 
-Typically, it is the club organiser's responsibility to recruit and onboard new volunteers. From time to time, volunteers may be involved in this process to help the club organiser, in particular to help guide the new volunteer in their first session.
+Normalmente, é responsabilidade do organizador do clube recrutar e integrar novos voluntários. De tempos em tempos, os voluntários podem estar envolvidos nesse processo para ajudar o organizador do clube, em particular para ajudar a orientar o novo voluntário na sua primeira sessão.
 
-![Three volunteers standing.](images/2-RPF-Volunteers.png)
+![Três voluntários em destaque.](images/2-RPF-Volunteers.png)
 
-It is important to recognise that not every volunteer who is interested in helping out at your club may be appropriate or a match.
+É importante reconhecer que nem todos os voluntários interessados em ajudar no seu clube podem ser apropriados ou compatíveis.
 
-A recruitment process makes it easier to identify volunteers who are not a fit for the club. Here is an example of a recruitment process.
+Um processo de recrutamento facilita a identificação de voluntários que não são adequados para o clube. Aqui está um exemplo de um processo de recrutamento.
 
-### 1. Volunteer description
+### 1. Descrição voluntária
 
 
-This is a short description to tell potential volunteers what the role involves and to give a broad overview of your club. This could be a brief description on your website or a club profile of a volunteer's role. It should include:
+Essa é uma breve descrição para dizer aos voluntários em potencial o que o papel envolve e dar uma visão geral ampla do seu clube. Isso pode ser uma breve descrição no seu site ou um perfil de clube do papel de um voluntário. Deve incluir:
 
-* What happens in a typical session?
-* How often does your club run and for how long?
-* How much time do you require from your volunteers?
+* O que acontece em uma sessão típica?
+* Com que frequência o clube funciona e por quanto tempo?
+* Quanto tempo você precisa dos seus voluntários?
 
-### 2. Application form
+### 2. Formulário de inscrição
 
-This can be an online form with a few short questions. You should ask for a referee if possible and any relevant skills that may be useful in your club. Information from the application form, such as contact information, will be useful should this potential volunteer join the club.
+Esse pode ser um formulário on-line com algumas perguntas curtas. Você deve solicitar uma referência, se possível, e quaisquer habilidades relevantes que possam ser úteis no seu clube. Informações do formulário de inscrição, como informações de contato, serão úteis caso esse potencial voluntário se junte ao clube.
 
-**Note**: If you are in a Code Club or CoderDojo, instead of an application form you should encourage potential volunteers to register through our websites ([codeclub.org](https://codeclub.org){:target='_blank'} and [coderdojo.com](https://coderdojo.com){:target='_blank'}).
+**Nota**: Se você estiver em um Code Club ou CoderDojo, em vez de um formulário de inscrição, você deve encorajar os voluntários potenciais a se registrarem nos nossos sites ([codeclub.org](https://codeclub.org){:target='_blank'} e [coderdojo.com](https://coderdojo.com){:target='_blank'}).
 
-### 3. Informal meeting or interview
+### 3. Reunião ou entrevista informal
 
-Invite the person to the club so you can meet with them and they can learn more about the club environment. If your club is running activities online, then you can meet remotely. It should be a casual meeting, but it should give the current club volunteers and the potential volunteer the chance to make a decision about whether they want the potential volunteer to go ahead with volunteering. This will also allow current club volunteers and the potential volunteer to see if they can work together well in the club setting. If you are starting your club for the first time, you should set up an informal meeting with your potential volunteer before your first session.
+Convide a pessoa para o clube para que você possa se encontrar com ela e ela possa saber mais sobre o ambiente do clube. Se o seu clube está executando atividades on-line, então você pode se encontrar remotamente. Deve ser uma reunião casual, mas deve dar aos atuais voluntários do clube e ao potencial voluntário a chance de tomar uma decisão sobre se eles querem que o potencial voluntário vá em frente com o voluntariado. Isso também permitirá que os atuais voluntários do clube e o potencial voluntário vejam se eles podem trabalhar bem juntos no ambiente do clube. Se você está começando o seu clube pela primeira vez, você deve marcar uma reunião informal com o seu potencial voluntário antes de sua primeira sessão.
 
-### 4. Background checks (dependent on region)
+### 4. Verificações de antecedentes (dependendo da região)
 
-Background checks are useful for voluntary coding clubs; in some regions a background check is mandatory to work with young people. We understand that in some regions it is more difficult to access background checks or that it may be expensive, so that is why reference checks and utilising the rest of the volunteer recruitment process is important.
+Verificações de antecedentes são úteis para clubes de codificação voluntários; em algumas regiões, uma verificação de antecedentes é obrigatória para trabalhar com jovens. Entendemos que, em algumas regiões, é mais difícil acessar verificações de antecedentes ou pode ser algo caro, por isso verificações de referência e utilização do resto do processo de recrutamento voluntário são importantes.
 
-### 5. Referees (optional)
+### 5. Referências (opcional)
 
-It can be really useful to ask for referees and to check those references to determine if a volunteer is suitable to work with young people and/or vulnerable adults.
+Pode ser realmente útil pedir referências e verificá-las para determinar se um voluntário é adequado para trabalhar com jovens e/ou adultos vulneráveis.
 
-If you have your own application form, you could use this as a space to ask for details of referees. If you haven’t collected referees in the application form, you can ask for them after the informal meeting. Referees can be colleagues, teachers, lecturers, or a friend who knows the potential volunteer well. Volunteers can be referred to the club by another existing club volunteer, this person can also act as a referee.
+Se você possui o seu próprio formulário de inscrição, você pode utilizar isso como um espaço para solicitar detalhes das referências. Se você não tiver coletado referências no formulário de inscrição, você pode solicitá-las após a reunião informal. As referências podem ser colegas, professores, palestrantes ou um amigo que conhece bem o potencial voluntário. Voluntários podem ser encaminhados ao clube por outro voluntário do clube existente, essa pessoa também pode atuar como referência.
 
-**Tip**: When you check references, it is often best to phone the referee as people may be inclined to give a more honest perspective than in writing.
+**Dica**: Quando você verifica referências, muitas vezes é melhor ligar para a referência, pois as pessoas podem estar inclinadas a oferecer uma perspectiva mais honesta do que por escrito.
 
 --- save ---
 
 <p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">
-Ensure you're <span style="color: #0faeb0">logged into your Raspberry Pi Foundation account</span> to save your progress, otherwise your completion will not be recorded. Use the <a href="https://my.raspberrypi.org/login">'Log in'</a> link in the navigation menu to log in.
+Certifique-se de que você está <span style="color: #0faeb0">logado na sua conta da Fundação Raspberry Pi </span> para salvar o seu progresso, caso contrário a sua conclusão não será gravada. Utilize o link <a href="https://my.raspberrypi.org/login">de Login</a> no menu de navegação para fazer login.
 </p>
