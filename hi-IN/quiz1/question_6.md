@@ -1,13 +1,13 @@
 --- question ---
 ---
-legend: Question 6 of 9
+legend: 6 का प्रश्न 9
 ---
 
-Is it good practice or poor practice to take young people alone on car journeys?
+युवाओं को अकेले कार यात्रा पर ले जाना अच्छा अभ्यास है या बुरा अभ्यास है?
 
 --- choices ---
-- ( ) Good practice
+- ( ) अच्छा अभ्यास
 
-- (x) Poor practice --- /choices ---
+- (x) बुरा अभ्यास --- /choices ---
 
 --- /question ---
