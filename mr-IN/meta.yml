@@ -1,7 +1,7 @@
 ---
-title: Safeguarding module
+title: सुरक्षा मॉड्यूल
 hero_image: images/banner.png
-description: Safeguarding module
+description: सुरक्षा मॉड्यूल
 version: 0.1
 listed: false
 copyedit: false
@@ -9,42 +9,42 @@ volunteers: true
 last_tested: 2022-01-05
 steps:
   - 
-    title: What is child safeguarding?
+    title: बालकांचे रक्षण म्हणजे काय?
   - 
-    title: Recruitment process
+    title: भरती प्रक्रिया
   - 
-    title: Induction of new volunteers
+    title: नवीन स्वयंसेवकांना समाविष्ट करून घेणे
   - 
-    title: Code of behaviour
+    title: वर्तणूक आचारसंहिता
   - 
-    title: Code of behaviour quiz
+    title: वर्तणूक प्रश्नमंजुषा आचारसंहिता
     knowledge_quiz:
-      path: quiz1
-      version: 1
-      questions: 9
-      passing_score: 9
+      path: प्रश्नमंजुषा 1
+      version: 0
+      questions: 0
+      passing_score: 0
   - 
-    title: "Abuse and disclosures"
+    title: "गैरवर्तणूक आणि प्रकटीकरण"
   - 
-    title: How to run safe online sessions
+    title: सुरक्षित ऑन लाइन सत्र कसे चालवावे
   - 
-    title: Online sessions quiz
+    title: ऑन लाइन सत्र प्रश्नमंजुषा
     knowledge_quiz:
-      path: quiz2
-      version: 1
+      path: प्रश्नमंजुषा 2
+      version: 0
       questions: 3
       passing_score: 3
   - 
-    title: "What to do if…"
+    title: "तर काय करावे…"
   - 
-    title: How to record details of abuse
+    title: गैरवर्तणूकीच्या तपशीलाची कशी नोंद करावी
   - 
-    title: Observations and evaluations quiz
+    title: निरीक्षण आणि मूल्यांसमान प्रश्नमंजुषा
     knowledge_quiz:
-      path: quiz3
-      version: 1
-      questions: 6
-      passing_score: 6
-    completion: external
+      path: प्रश्नमंजुषा 3
+      version: 0
+      questions: 0
+      passing_score: 0
+    completion: बाह्य
   - 
-    title: "That’s almost it!"
+    title: "जवळजवळ झालेच!"
