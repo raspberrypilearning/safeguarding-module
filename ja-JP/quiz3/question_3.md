@@ -1,13 +1,13 @@
 --- question ---
 ---
-legend: Question 3 of 6
+legend: 問3の6
 ---
 
-Mary was embarrassed. Is this:
+メアリーは動揺しました。 これは:
 
 --- choices ---
-- ( ) A fact or an observation?
+- ( ) 事実又は目撃情報ですか？
 
-- (x) An opinion or evaluation? --- /choices ---
+- (x) 意見又は評価ですか？ --- /choices ---
 
 --- /question ---
