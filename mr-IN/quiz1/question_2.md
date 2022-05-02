@@ -1,13 +1,13 @@
 --- question ---
 ---
-legend: Question 2 of 9
+legend: प्रश्न 2 पैकी 9
 ---
 
-Is it good practice or poor practice to send one-to-one messages on social media to an attendee at a club?
+क्लबमधील उपस्थितांना सोशल मीडियावर थेट संदेश पाठवणे हे चांगल्या की वाईट वर्तनाचे उदाहरण आहे?
 
 --- choices ---
-- ( ) Good practice
+- ( ) चांगले वर्तन
 
-- (x) Poor practice --- /choices ---
+- (x) सुमार वर्तन --- /choices ---
 
 --- /question ---
