@@ -1,13 +1,13 @@
 --- question ---
 ---
-legend: Question 1 of 9
+legend: प्रश्न 1 पैकी 9
 ---
 
-Is it good practice or poor practice to be inclusive of all young people regardless of gender, age, religion, nationality, ethnicity, or creed?
+लिंग, वय, धर्म, राष्ट्रीयत्व, वांशिक किंवा पंथ याची पर्वा न करता सर्व तरुण लोकांशी समानतेने वागणे हे चांगल्या की वाईट वर्तनाचे उदाहरण आहे?
 
 --- choices ---
-- (x) Good practice
+- (x) चांगले वर्तन
 
-- ( ) Poor practice --- /choices ---
+- () सुमार अभ्यास --- /choices ---
 
 --- /question ---
