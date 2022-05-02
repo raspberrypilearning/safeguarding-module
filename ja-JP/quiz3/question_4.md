@@ -1,13 +1,13 @@
 --- question ---
 ---
-legend: Question 4 of 6
+legend: 問4の6
 ---
 
-Aisha seemed like she was lying. Is this:
+アイシャは嘘をついているように見えました。 これは:
 
 --- choices ---
-- ( ) A fact or an observation?
+- ( ) 事実又は目撃情報ですか？
 
-- (x) An opinion or evaluation? --- /choices ---
+- (x) 意見又は評価ですか？ --- /choices ---
 
 --- /question ---
