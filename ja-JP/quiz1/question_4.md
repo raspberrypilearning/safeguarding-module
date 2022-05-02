@@ -1,13 +1,13 @@
 --- question ---
 ---
-legend: Question 4 of 9
+legend: 問4の9
 ---
 
-Is it good practice or poor practice to have a ratio of at least 1:10 adults to young people at your club?
+クラブで大人と若者の数が少なくとも1対10の比率であることは、良い習慣か、好ましくない習慣か？
 
 --- choices ---
-- (x) Good practice
+- (x) 優れた取り組み
 
-- ( ) Poor practice --- /choices ---
+- ( ) 好ましくない取り組み --- /choices ---
 
 --- /question ---
