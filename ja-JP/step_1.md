@@ -1,55 +1,55 @@
-## What is child safeguarding?
+## チャイルド・セーフガードとは何ですか?
 
-Safeguarding is the actions taken to promote the welfare of children and protect them from harm.
+セーフガードとは、子どもの福祉を促進し、子どもを危険から守るためにとられる行動をいう。
 
 <p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">
-Ensure you're <span style="color: #0faeb0">logged into your Raspberry Pi Foundation account</span> to save your progress, otherwise your completion will not be recorded. Use the <a href="https://my.raspberrypi.org/login">'Log in'</a> link in the navigation menu to log in.
+<span style="color: #0faeb0">Raspberry Pi Foundation アカウント</span> にログインしていることを確認して進行状況を保存してください。それ以外の場合、完了情報は記録されません。 ナビゲーションメニューの<a href="https://my.raspberrypi.org/login">「ログイン」</a>リンクからログインしてください。
 </p>
 
-![Three young people standing.](images/3-RPF-Kids.png)
+![3名の若者が立っている。](images/3-RPF-Kids.png)
 
-This learning guide has been created to give all volunteers of the Raspberry Pi Foundation and their programmes (Code Club, CoderDojo, Raspberry Jams, and Astro Pi) the opportunity to learn about best practices in child safeguarding.
+この学習ガイドは、ラズベリーパイ財団のすべてのボランティアとそのプログラム(コードクラブ) を提供するために作成されました。 CoderDojo、Raspberry Jams、Astro Piは、児童保護のベストプラクティスについて学ぶ機会です。
 
-Once completed, you will have:
+完成後、直ちに:
 
-* A basic awareness of the key issues in relation to child safeguarding in a coding club
-* An understanding of how to implement international best practices in child safeguarding
+* コーディングクラブにおける子どもの安全保護に関連する重要事項の基本的な認識
+* 子どもの保護に関する国際的なベストプラクティスの実施方法に関する理解
 
-It will take about 20 minutes to complete this learning guide.
+このラーニングガイドは約20分で終了します。
 
-### What topics will be covered?
+### どのようなトピックがカバーされますか？
 
-There are many ways to ensure your club is a safe space for young people to learn and engage with technology.
+クラブを、若者がテクノロジーを学び、関わることができる安全な場所にするための方法はたくさんあります。
 
-Below are some of the topics that will be covered:
+以下は、そのトピックの一部です。
 
-* Background checks
-* Legislation
-* How to recruit volunteers
-* Code of behaviour
-* Types of abuse
-* How to implement processes for reporting abuse
-* Example scenarios in a coding club
-* How to run safe online sessions
+* 身元確認
+* 法規制
+* ボランティアの募集方法
+* 行動規範
+* 虐待のタイプ
+* 虐待を報告するためのプロセスの導入方法
+* コーディングクラブでのシナリオの例
+* 安全なオンラインセッションのやり方
 
-### Why is child safeguarding important?
+### なぜ子どもの保護が重要なのか？
 
-All programmes run and supported by the Raspberry Pi Foundation should always be a safe space for everyone. By maintaining a safe environment, you are allowing young people to thrive and learn to code completely carefree.
+ラズベリーパイ財団が運営・支援するすべてのプログラムは、常に誰にとっても安全な空間であるべきです。 安全な環境を維持することで、若者を成長させ、完全に気ままにコーディングを学ばせることができるのです。
 
-Clubs can have young people in attendance from different schools, backgrounds, and ages. Therefore, it is crucial to make sure this safe space is protected to ensure young people can make new friends and share a common interest.
+クラブには、さまざまな学校、背景、年齢の若者が参加することができます。 したがって、若者が新しい友人を作り、共通の関心を持つことができるように、この安全な空間を確実に保護することが極めて重要なのです。
 
-### Legislation
+### 法規制
 
-Each club is responsible for ensuring that they abide with the safeguarding legislation in their area. Some jurisdictions will require that all volunteers who work with young people and/or vulnerable persons have background checks before they commence the voluntary activity. Other jurisdictions may require that you have a child protection policy or safeguarding statement.
+各クラブは、各地域の保護に関する法令を遵守する責任があります。 管轄区域によっては、青少年および弱者、またはそのいずれかと活動するすべてのボランティアが、ボランティア活動を開始する前に身元調査を受けることを要求する場合があります。 その他の管轄区域では、児童保護方針または保護声明書を作成するよう求められる場合があります。
 
-**Note**: Legislation in the USA can vary from state to state.
+**注意事項**。米国の法律は、州によって異なる場合があります。
 
-### Best practices
+### ベストプラクティス
 
-While it is paramount that you follow legislation in your region regarding child safeguarding, all clubs should try to have best practices in place, even where they are not required by legislation. Some of the best practices your club can adopt that will be covered in this module include:
+子どもの保護に関する地域の法律に従うことが最も重要ですが、法律で義務付けられていない場合でも、すべてのクラブはベストプラクティスを実施するよう努力すべきです。 クラブが、このモジュールで取り上げ、採用できるベストプラクティスには、次のようなものがあります。
 
-* Volunteer recruitment
-* Code of behaviour
-* Code of behaviour for young people attending online sessions
-* Guide for adults to support young people attending online sessions
-* The reporting process when abuse is disclosed to a volunteer or when a volunteer notices signs of abuse
+* ボランティア募集
+* 行動規範
+* オンラインセッションに参加する若者のための行動規範
+* オンラインセッションに参加する若者をサポートする大人のためのガイド
+* ボランティアに虐待が申告された場合、あるいはボランティアが虐待の兆候に気づいた場合の報告プロセス
