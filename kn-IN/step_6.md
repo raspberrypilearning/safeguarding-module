@@ -1,66 +1,66 @@
-## Abuse and disclosures
+## ದೌರ್ಜನ್ಯ ಮತ್ತು ಬಹಿರಂಗಪಡಿಸುವಿಕೆಗಳು
 
-A vast majority of young people take part in our clubs without encountering abuse. However, it is important that volunteers are aware of what to do when they become aware of abuse either through observation or through a young person telling you about abuse (disclosure). Most Raspberry Pi Foundation clubs create an environment in which many young people feel particularly comfortable, which can help encourage disclosures at the club.
+ಹೆಚ್ಚಿನ ಯುವ ಜನರು ಯಾವುದೇ ನಿಂದನೆಯನ್ನು ಎದುರಿಸದೆ ನಮ್ಮ ಕ್ಲಬ್‌ಗಳಲ್ಲಿ ಭಾಗವಹಿಸುತ್ತಾರೆ. ಆದಾಗ್ಯೂ, ಸ್ವಯಂಸೇವಕರು ನಿಂದನೆಯನ್ನು ಗಮನಿಸಿದಾಗ ಅಥವಾ ನಿಂದನೆಯ ಬಗ್ಗೆ ನಿಮಗೆ ಯಾರಾದರೂ ಯುವಕರು ತಿಳಿಸಿದಾಗ (ಬಹಿರಂಗಪಡಿಸುವಿಕೆ) ಏನು ಮಾಡಬೇಕೆಂದು ತಿಳಿದಿರುವುದು ಬಹಳ ಮುಖ್ಯವಾಗಿದೆ. ಹೆಚ್ಚಿನ Raspberry Pi ಫೌಂಡೇಶನ್ ಕ್ಲಬ್‌ಗಳು ಅನೇಕ ಯುವಕರಿಗೆ ವಿಶೇಷವಾಗಿ ಆರಾಮದಾಯಕವಾಗಿರುವ ವಾತಾವರಣವನ್ನು ಸೃಷ್ಟಿಸುತ್ತಿದ್ದು, ಇದು ಕ್ಲಬ್‌ನಲ್ಲಿ ಮುಕ್ತವಾಗಿ ಸಂವಾದಗಳನ್ನು ಹೊಂದುವುದನ್ನು ಪ್ರೋತ್ಸಾಹಿಸುತ್ತದೆ.
 
-![Three young people standing.](images/7-Diverse-Mix.png){:target='_blank'}
+![ಮೂವರು ಯುವಕರು ನಿಂತಿದ್ದಾರೆ.](images/7-Diverse-Mix.png){:target='_blank'}
 
-Child abuse is generally categorised as neglect, physical abuse, emotional abuse, sexual abuse, or radicalisation. Other aspects to be aware of include peer abuse, organised abuse, and online abuse.
+ಮಕ್ಕಳ ಮೇಲಿನ ದೌರ್ಜನ್ಯವನ್ನು ಸಾಮಾನ್ಯವಾಗಿ ನಿರ್ಲಕ್ಷ್ಯ, ದೈಹಿಕ ದೌರ್ಜನ್ಯ, ಭಾವನಾತ್ಮಕ ದೌರ್ಜನ್ಯ, ಲೈಂಗಿಕ ಕಿರುಕುಳ ಅಥವಾ ತೀವ್ರವಾದ ಎಂದು ವರ್ಗೀಕರಿಸಲಾಗಿದೆ. ಸಮವಯಸ್ಕರ ದೌರ್ಜನ್ಯ, ಸಂಘಟಿತ ದೌರ್ಜನ್ಯ ಮತ್ತು ಆನ್‌ಲೈನ್‌ ದೌರ್ಜನ್ಯಗಳನ್ನು ಒಳಗೊಂಡಿರುವ ಇತರ ಅಂಶಗಳ ಬಗ್ಗೆ ತಿಳಿದಿರಬೇಕು.
 
-### Types of abuse: neglect
+### ದೌರ್ಜನ್ಯದ ವಿಧಗಳು: ನಿರ್ಲಕ್ಷ್ಯ
 
-Neglect can be defined in terms of an omission, where a young person suffers significant harm or impairment of development by being deprived of food, clothing, warmth, hygiene, intellectual stimulation, supervision and safety, attachment to and affection from adults, and/or medical care.
+ನಿರ್ಲಕ್ಷವನ್ನು ಕೊರತೆ ಎಂದು ವ್ಯಾಖ್ಯಾನಿಸಬಹುದಾಗಿದ್ದು ಇಲ್ಲಿ ಯುವಜನತೆಯು ಆಹಾರ, ಬಟ್ಟೆ, ಬೆಚ್ಚಗಿರುವಿಕೆ, ನೈರ್ಮಲ್ಯ, ಬೌದ್ಧಿಕ ಪ್ರಚೋದನೆ, ಮೇಲ್ವಿಚಾರಣೆ ಮತ್ತು ಸುರಕ್ಷತೆ, ವಯಸ್ಕರೊಂದಿಗಿನ ವ್ಯಾಮೋಹ ಮತ್ತು ವಾತ್ಸಲ್ಯ, ಮತ್ತು/ಅಥವಾ ವೈದ್ಯಕೀಯ ಆರೈಕೆಯಿಂದ ವಂಚಿತನಾಗುವ ಮೂಲಕ ಗಮನಾರ್ಹ ಹಾನಿ ಅಥವಾ ಬೆಳವಣಿಗೆಯ ಕೊರತೆಯನ್ನು ಅನುಭವಿಸುತ್ತಾನೆ.
 
-[Further resources and definition from the NSPCC (UK)](https://www.nspcc.org.uk/what-is-child-abuse/types-of-abuse/neglect/){:target='_blank'}
+[NSPCC ಯಿಂದ ಹೆಚ್ಚಿನ ಸಂಪನ್ಮೂಲಗಳು ಮತ್ತು ವ್ಯಾಖ್ಯಾನಗಳು (UK)](https://www.nspcc.org.uk/what-is-child-abuse/types-of-abuse/neglect/){:target='_blank'}
 
-### Types of abuse: physical abuse
+### ದೌರ್ಜನ್ಯದ ವಿಧಗಳು: ದೈಹಿಕ ಕಿರುಕುಳ
 
-Physical abuse of a young person is that which results in actual or potential physical harm from an interaction, or lack of interaction, which is reasonably within the control of a parent or person in a position of responsibility, power, or trust. There may be single or repeated incidents.
+ಒಬ್ಬ ಯುವ ವ್ಯಕ್ತಿಯ ಮೇಲೆ ದೈಹಿಕ ದೌರ್ಜನ್ಯವೆಂದರೆ ಪೋಷಕರು ಅಥವಾ ಜವಾಬ್ದಾರಿಯುತವಾದ, ಅಧಿಕಾರಯುತವಾದ, ಅಥವಾ ವಿಶ್ವಾಸಾರ್ಹ ಸ್ಥಾನದಲ್ಲಿರುವ ಒಬ್ಬ ವ್ಯಕ್ತಿಯ ಸೂಕ್ತವಾದ ನಿಯಂತ್ರಣದೊಳಗಿರುವ ಜೊತೆಗಿನ ಸಂವಹನ ಅಥವಾ ಅದರ ಕೊರತೆಯಿಂದ ನಿಜವಾದ ಅಥವಾ ಸಂಭಾವ್ಯ ದೈಹಿಕ ಹಾನಿ ಉಂಟಾಗುವುದಾಗಿದೆ. ಇಲ್ಲಿ ಒಂದೇ ಅಥವಾ ಪುನರಾವರ್ತಿತ ಘಟನೆಗಳು ನಡೆಯಬಹುದು.
 
-Physical abuse can involve:
+ಶಾರೀರಿಕ ದೌರ್ಜನ್ಯ ಇವುಗಳನ್ನು ಒಳಗೊಂಡಿರಬಹುದು:
 
-* Severe physical punishment
-* Beating, slapping, hitting, or kicking
-* Pushing, shaking, or throwing
-* Terrorising with threats
+* ಕಠಿಣ ದೈಹಿಕ ಶಿಕ್ಷೆ
+* ಹೊಡೆಯುವುದು, ಕೆನ್ನೆಗೆ ಹೊಡೆಯುವುದು ಅಥವಾ ಒದೆಯುವುದು
+* ತಳ್ಳುವುದು, ಅಲುಗಾಡಿಸುವುದು, ಅಥವಾ ಎಸೆಯುವುದು
+* ಬೆದರಿಕೆಗಳೊಂದಿಗೆ ಹೆದರಿಸುವುದು
 
-[Further resources and definition from the NSPCC (UK)](https://www.nspcc.org.uk/what-is-child-abuse/types-of-abuse/physical-abuse/){:target='_blank'}
+[NSPCC ಯಿಂದ ಹೆಚ್ಚಿನ ಸಂಪನ್ಮೂಲಗಳು ಮತ್ತು ವ್ಯಾಖ್ಯಾನಗಳು (UK)](https://www.nspcc.org.uk/what-is-child-abuse/types-of-abuse/physical-abuse/){:target='_blank'}
 
-### Types of abuse: emotional abuse
+### ದೌರ್ಜನ್ಯದ ವಿಧಗಳು: ಭಾವನಾತ್ಮಕ ದೌರ್ಜನ್ಯ
 
-Emotional abuse is normally to be found in the relationship between a parent, guardian, or caregiver and a young person rather than in a specific event or pattern of events. It occurs when a young person’s needs for affection, approval, consistency, and security are not met. It is rarely manifested in terms of physical symptoms.
+ಭಾವನಾತ್ಮಕ ದೌರ್ಜನ್ಯವು ಸಾಮಾನ್ಯವಾಗಿ ಪೋಷಕರು, ಪಾಲಕರು ಅಥವಾ ಆರೈಕೆದಾರರು ಮತ್ತು ಯುವ ವ್ಯಕ್ತಿಯ ನಡುವಿನ ಸಂಬಂಧದಲ್ಲಿ ಕಂಡುಬರುತ್ತದೆಯೇ ಹೊರತು ನಿರ್ದಿಷ್ಟ ಘಟನೆ ಅಥವಾ ಘಟನೆಗಳ ಮಾದರಿಯಲ್ಲಲ್ಲ. ಒಬ್ಬ ಯುವ ವ್ಯಕ್ತಿಯ ವಾತ್ಸಲ್ಯ, ಅನುಮೋದನೆ, ಸ್ಥಿರತೆ ಮತ್ತು ಭದ್ರತೆಯ ಅಗತ್ಯಗಳನ್ನು ಪೂರೈಸದಿದ್ದಾಗ ಇದು ಸಂಭವಿಸುತ್ತದೆ. ಇದು ಅಪರೂಪವಾಗಿ ದೈಹಿಕ ರೋಗಲಕ್ಷಣಗಳಿಂದ ವ್ಯಕ್ತವಾಗುತ್ತದೆ.
 
-For example:
+ಉದಾಹರಣೆಗೆ:
 
-* Persistent criticism
-* Sarcasm or hostility
-* Emotional unavailability
-* Use of unreasonable or harsh disciplinary measures
+* ನಿರಂತರವಾದ ಟೀಕೆಗಳು
+* ವ್ಯಂಗ್ಯ ಅಥವಾ ಕ್ರೌರ್ಯ
+* ಭಾವನಾತ್ಮಕ ಅಲಭ್ಯತೆ
+* ಅಸಮಂಜಸವಾದ ಅಥವಾ ಕಠಿಣವಾದ ಶಿಸ್ತಿನ ಕ್ರಮಗಳ ಬಳಕೆ
 
-[Further resources and definition from the NSPCC (UK)](https://www.nspcc.org.uk/what-is-child-abuse/types-of-abuse/emotional-abuse/){:target='_blank'}
+[NSPCC ಯಿಂದ ಹೆಚ್ಚಿನ ಸಂಪನ್ಮೂಲಗಳು ಮತ್ತು ವ್ಯಾಖ್ಯಾನಗಳು (UK)](https://www.nspcc.org.uk/what-is-child-abuse/types-of-abuse/emotional-abuse/){:target='_blank'}
 
-### Types of abuse: sexual abuse
+### ದೌರ್ಜನ್ಯದ ವಿಧಗಳು: ಲೈಂಗಿಕ ಕಿರುಕುಳ
 
-Sexual abuse occurs when a young person is used by another person for their gratification or sexual arousal, or for that of others. This doesn't have to be physical contact and it can happen online. Sometimes the young person won't understand that what's happening to them is abuse. They may not even understand that it's wrong.
+ಒಬ್ಬ ಯುವ ವ್ಯಕ್ತಿಯನ್ನು ಇನ್ನೊಬ್ಬ ವ್ಯಕ್ತಿಯು ತನ್ನ ಅಥವಾ ಇತರರ ಸಂತೃಪ್ತಿಗಾಗಿ ಅಥವಾ ಲೈಂಗಿಕ ಪ್ರಚೋದನೆಗಾಗಿ ಬಳಸಿದಾಗ ಲೈಂಗಿಕ ದೌರ್ಜನ್ಯ ಉಂಟಾಗುತ್ತದೆ. ಇದು ದೈಹಿಕ ಸಂಪರ್ಕವಾಗಬೇಕಾಗಿಲ್ಲ ಮತ್ತು ಇದು ಆನ್‌ಲೈನ್‌‌ನಲ್ಲೂ ನಡೆಯಬಹುದು. ಕೆಲವೊಮ್ಮೆ ಯುವ ವ್ಯಕ್ತಿಗೆ ತನ್ನ ಮೇಲೆ ನಡೆಯುತ್ತಿರುವುದು ದೌರ್ಜನ್ಯ ಎಂದು ಅರ್ಥವಾಗುವುದಿಲ್ಲ. ಅದು ತಪ್ಪು ಎಂದೂ ಅವರಿಗೆ ಅರ್ಥವಾಗದಿರಬಹುದು.
 
-[Further resources and definition from the NSPCC (UK)](https://www.nspcc.org.uk/what-is-child-abuse/types-of-abuse/child-sexual-abuse/)
+[NSPCC (UK) ಯಿಂದ ಹೆಚ್ಚಿನ ಸಂಪನ್ಮೂಲಗಳು ಮತ್ತು ವ್ಯಾಖ್ಯಾನ](https://www.nspcc.org.uk/what-is-child-abuse/types-of-abuse/child-sexual-abuse/)
 
-### Types of abuse: radicalisation
+### ದೌರ್ಜನ್ಯದ ವಿಧಗಳು: ತೀವ್ರವಾದ
 
-Young people at risk of radicalisation may be victims of other forms of abuse, such as bullying or discrimnation, that make them easy targets for extremists.
+ತೀವ್ರವಾದದ ಅಪಾಯದಲ್ಲಿರುವ ಯುವ ಜನರು ಬೆದರಿಸುವಿಕೆ ಅಥವಾ ಪಕ್ಷಪಾತಗಳಂಥ ದೌರ್ಜನ್ಯಗಳಿಗೆ ಬಲಿಯಾಗಬಹುದು, ಅದು ಅವರನ್ನು ತೀವ್ರವಾದವುಗಳಿಗೆ ಸುಲಭ ಗುರಿಗಳನ್ನಾಗಿ ಮಾಡುತ್ತದೆ.
 
-Radicalisation can be difficult to notice, as it is similar to some normal teenage behaviours. Here are some signs that a person or group might be attempting to radicalise a young person:
+ತೀವ್ರವಾದವನ್ನು ಗಮನಿಸುವುದು ಕಷ್ಟವಾಗಬಹುದು, ಏಕೆಂದರೆ ಇದು ಕೆಲವು ಸಾಮಾನ್ಯ ಹದಿಹರೆಯದ ನಡವಳಿಕೆಗಳನ್ನು ಹೋಲುತ್ತದೆ. ಒಬ್ಬ ವ್ಯಕ್ತಿ ಅಥವಾ ಗುಂಪು ಒಬ್ಬ ಯುವಕನನ್ನು ತೀವ್ರವಾದಕ್ಕೆ ಒಳಪಡಿಸಲು ಪ್ರಯತ್ನಿಸುವ ಕೆಲವು ಚಿಹ್ನೆಗಳು ಇಲ್ಲಿವೆ:
 
-- The young person isolates themselves from family and friends
-- The young person talks as if from a scripted speech
-- The young person is unwilling or unable to discuss their views
-- The young person shows a suddenly disrespectful attitude towards others
-- The young person has increased levels of anger
-- The young person is increasingly secretive, especially around internet use
+- ಈ ಯುವ ವ್ಯಕ್ತಿಯು ಕುಟುಂಬ ಮತ್ತು ಸ್ನೇಹಿತರಿಂದ ತಮ್ಮನ್ನು ಪ್ರತ್ಯೇಕಿಸಿಕೊಳ್ಳುತ್ತಾರೆ
+- ಯುವ ವ್ಯಕ್ತಿಯು ಯಾರೋ ಬರೆದಿರುವ ಭಾಷಣವನ್ನು ಓದುವಂತೆ ಮಾತನಾಡುತ್ತಾನೆ
+- ಯುವ ವ್ಯಕ್ತಿಗೆ ತನ್ನ ಅಭಿಪ್ರಾಯಗಳನ್ನು ಚರ್ಚಿಸಲು ಇಷ್ಟವಿರುವುದಿಲ್ಲ ಅಥವಾ ಅವರು ಹಾಗೆ ಮಾಡಲು ಅಸಮರ್ಥರಾಗಿರುತ್ತಾರೆ
+- ಯುವ ವ್ಯಕ್ತಿಯು ಇತರರ ಬಗ್ಗೆ ಇದ್ದಕ್ಕಿದ್ದಂತೆ ಅಗೌರವದ ಧೋರಣೆಯನ್ನು ತೋರಿಸುತ್ತಾನೆ
+- ಯುವ ವ್ಯಕ್ತಿಯ ಕೋಪದ ಮಟ್ಟ ಹೆಚ್ಚುತ್ತದೆ
+- ಯುವ ವ್ಯಕ್ತಿಯು ಹೆಚ್ಚು ರಹಸ್ಯಮಯವಾಗಿದ್ದಾನೆ, ವಿಶೇಷವಾಗಿ ಇಂಟರ್ನೆಟ್ ಬಳಕೆಗೆ ಸಂಬಂಧಿಸಿದಂತೆ
 
-[Further resources and definition from the NSPCC (UK)](https://www.nspcc.org.uk/keeping-children-safe/reporting-abuse/dedicated-helplines/protecting-children-from-radicalisation/)
+[NSPCC (UK) ಯಿಂದ ಹೆಚ್ಚಿನ ಸಂಪನ್ಮೂಲಗಳು ಮತ್ತು ವ್ಯಾಖ್ಯಾನ](https://www.nspcc.org.uk/keeping-children-safe/reporting-abuse/dedicated-helplines/protecting-children-from-radicalisation/)
 
 --- save ---
 
 <p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">
-Ensure you're <span style="color: #0faeb0">logged into your Raspberry Pi Foundation account</span> to save your progress, otherwise your completion will not be recorded. Use the <a href="https://my.raspberrypi.org/login">'Log in'</a> link in the navigation menu to log in.
+ನಿಮ್ಮ ಪ್ರಗತಿಯನ್ನು ಉಳಿಸಲು ನೀವು <span style="color: #0faeb0"> ನಿಮ್ಮ Raspberry Pi ಫೌಂಡೇಶನ್ ಖಾತೆಗೆ ಲಾಗ್ ಇನ್ ಮಾಡಿರುವುದನ್ನು</span> ಖಚಿತಪಡಿಸಿಕೊಳ್ಳಿ, ಇಲ್ಲದಿದ್ದರೆ ನಿಮ್ಮ ಪೂರ್ಣಗೊಳಿಸುವಿಕೆಯನ್ನು ದಾಖಲಿಸಲಾಗುವುದಿಲ್ಲ. ಲಾಗ್ ಇನ್ ಆಗಲು ನ್ಯಾವಿಗೇಶನ್ ಮೆನುನಲ್ಲಿ <a href="https://my.raspberrypi.org/login">'ಲಾಗಿನ್'</a> ಲಿಂಕ್ ಅನ್ನು ಬಳಸಿ.
 </p>
