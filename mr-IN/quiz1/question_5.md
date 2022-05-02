@@ -1,13 +1,13 @@
 --- question ---
 ---
-legend: Question 5 of 9
+legend: प्रश्न 5 पैकी 9
 ---
 
-Is it good practice or poor practice to carry out favouritism with certain young people?
+विशिष्ट तरुण लोकां सोबत पक्षपात करणे ही चांगली की वाईट प्रथा आहे?
 
 --- choices ---
-- ( ) Good practice
+- ( ) चांगले वर्तन
 
-- (x) Poor practice --- /choices ---
+- (x) सुमार वर्तन --- /choices ---
 
 --- /question ---
