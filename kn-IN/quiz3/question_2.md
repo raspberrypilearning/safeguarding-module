@@ -1,13 +1,13 @@
 --- question ---
 ---
-legend: Question 2 of 6
+legend: ಪ್ರಶ್ನೆ 2 ರಲ್ಲಿ 6
 ---
 
-John smelt of alcohol. Is this:
+ಜಾನ್‌ನಿಂದ ಆಲ್ಕೊಹಾಲ್ ವಾಸನೆ ಬರುತ್ತಿತ್ತು. ಇದು:
 
 --- choices ---
-- (x) A fact or an observation?
+- (x) ವಾಸ್ತವವೋ ಅಥವಾ ಅವಲೋಕನವೋ?
 
-- ( ) An opinion or evaluation? --- /choices ---
+- ( ) ಅಭಿಪ್ರಾಯವೋ ಅಥವಾ ಮೌಲ್ಯಮಾಪನವೋ? --- /choices ---
 
 --- /question ---
