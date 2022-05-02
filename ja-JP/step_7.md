@@ -1,17 +1,17 @@
-## How to run safe online sessions
+## 安全なオンラインセッションのやり方
 
-You may wish to run online sessions for young people at your club who cannot meet in person. We encourage you to do this and have developed resources to help you, including guidelines to make sure your online sessions are as safe as possible.
+直接会うことができないクラブの若者のために、オンライン・セッションを実施するのもよいでしょう。 オンラインセッションを可能な限り安全に行うためのガイドラインなど、お客様を支援するためのリソースも用意しています。
 
-Read through these guides and answer the following three questions in the next step.
+これらのガイドに目を通し、次のステップで次の3つの質問に答えてください。
 
-### [Framework to help you assess how to run your club safely](https://static.raspberrypi.org/files/clubs/Code_Club_and_CoderDojo_CV_Framework.pdf){:target='_blank'}
+### [安全にクラブを運営する方法を評価するためのフレームワーク](https://static.raspberrypi.org/files/clubs/Code_Club_and_CoderDojo_CV_Framework.pdf){:target='_blank'}
 
 <embed src="https://static.raspberrypi.org/files/clubs/Code_Club_and_CoderDojo_CV_Framework.pdf" width="790" height="500" 
  type="application/pdf">
   </p>
 
 <h3 spaces-before="0">
-  <a href="https://static.raspberrypi.org/files/clubs/Code_Club_and_CoderDojo_Parent_Guide_Supporting_Online_Coding_Session.pdf">Adult guide to support young people attending online sessions</a>{:target='_blank'}
+  <a href="https://static.raspberrypi.org/files/clubs/Code_Club_and_CoderDojo_Parent_Guide_Supporting_Online_Coding_Session.pdf">オンラインセッションに参加する若者をサポートする大人のためのガイド</a>{:target='_blank'}
 </h3>
 
 <p spaces-before="0">
@@ -21,7 +21,7 @@ Read through these guides and answer the following three questions in the next s
     </p>
 
 <h3 spaces-before="0">
-  <a href="https://static.raspberrypi.org/files/clubs/CoderDojo_Code_Club_Online_Code_of_Behaviour_A4_DIGITAL.pdf">Code of behaviour for young people attending online sessions</a>{:target='_blank'}
+  <a href="https://static.raspberrypi.org/files/clubs/CoderDojo_Code_Club_Online_Code_of_Behaviour_A4_DIGITAL.pdf">オンラインセッションに参加する若者のための行動規範</a>{:target='_blank'}。
 </h3>
 
 <p spaces-before="0">
@@ -31,11 +31,11 @@ Read through these guides and answer the following three questions in the next s
     </p> 
     
     <p spaces-before="0">
-      We strongly recommend that you and your volunteers watch our <a href="https://www.gotostage.com/channel/d20e514831f340b3913659639068c724/recording/92bd90b755964f49b87bfd99f9624435/watch?source=CHANNEL">community call about tools for running online sessions safely</a>{:target='_blank'}.
+      あなたやあなたのボランティアは、オンライン セッションを安全に実行するためのツールに関する <a href="https://www.gotostage.com/channel/d20e514831f340b3913659639068c724/recording/92bd90b755964f49b87bfd99f9624435/watch?source=CHANNEL">community call</a>{:target='_blank'} を見ることを強くお勧めします。
     </p>
     
     <p spaces-before="0">
-      You can <a href="https://rpf.io/p/en/safeguarding-module-go">download all of these resources here</a>{:target='_blank'}.
+      これらのリソースはすべてここ<a href="https://rpf.io/p/en/safeguarding-module-go"></a>{:target='_blank'}からダウンロードできます。
     </p>
     
     <p spaces-before="0">
@@ -43,5 +43,5 @@ Read through these guides and answer the following three questions in the next s
     </p>
 
 <p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">
-Ensure you're <span style="color: #0faeb0">logged into your Raspberry Pi Foundation account</span> to save your progress, otherwise your completion will not be recorded. Use the <a href="https://my.raspberrypi.org/login">'Log in'</a> link in the navigation menu to log in.
+<span style="color: #0faeb0">Raspberry Pi Foundation アカウント</span> にログインしていることを確認して進行状況を保存してください。それ以外の場合、完了情報は記録されません。 ナビゲーションメニューの<a href="https://my.raspberrypi.org/login">「ログイン」</a>リンクからログインしてください。
 </p>
