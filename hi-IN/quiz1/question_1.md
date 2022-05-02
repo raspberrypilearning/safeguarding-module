@@ -1,13 +1,13 @@
 --- question ---
 ---
-legend: Question 1 of 9
+legend: 1 का प्रश्न 9
 ---
 
-Is it good practice or poor practice to be inclusive of all young people regardless of gender, age, religion, nationality, ethnicity, or creed?
+लिंग, आयु, धर्म, राष्ट्रीयता, जातीयता या पंथ की परवाह किए बिना सभी युवाओं को शामिल करना अच्छा अभ्यास है या बुरा अभ्यास है?
 
 --- choices ---
-- (x) Good practice
+- (x) अच्छा अभ्यास है
 
-- ( ) Poor practice --- /choices ---
+- ( ) बुरा अभ्यास --- /choices ---
 
 --- /question ---
