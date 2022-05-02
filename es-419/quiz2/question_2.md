@@ -1,15 +1,15 @@
 --- question ---
 ---
-legend: Question 2 of 3
+legend: Pregunta 2 de 3
 ---
 
-Is it OK to use webcams during an online session?
+¿Es correcto utilizar las cámaras web durante una sesión en línea?
 
 --- choices ---
 
 - ( ) No
-- ( ) Yes
-- (x) Yes, but make sure everyone knows they are prohibited from recording or taking screenshots of the session
+- ( ) Sí
+- (x) Sí, pero asegúrese de que todos sepan que está prohibido grabar o hacer capturas de pantalla de la sesión
 
 --- /choices ---
 
