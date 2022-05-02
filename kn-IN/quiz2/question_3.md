@@ -1,14 +1,14 @@
 --- question ---
 ---
-legend: Question 3 of 3
+legend: ಪ್ರಶ್ನೆ 3 ರಲ್ಲಿ 3
 ---
 
-Do you need to make sure that every young person has a parent's or guardian's consent before they attend an online session?
+ಪ್ರತಿಯೊಬ್ಬ ಯುವಕರೂ ಆನ್‌ಲೈನ್‌ ಸೆಷನ್‌ಗೆ ಹಾಜರಾಗುವ ಮೊದಲು ಪೋಷಕರ ಅಥವಾ ಪಾಲಕರ ಸಮ್ಮತಿಯನ್ನು ಹೊಂದಿದ್ದಾರೆಂದು ನೀವು ಖಚಿತಪಡಿಸಿಕೊಳ್ಳಬೇಕೇ?
 
 --- choices ---
 
-- ( ) No
-- (x) Yes
+- ( ) ಇಲ್ಲ
+- (x) ಹೌದು
 
 --- /choices ---
 
