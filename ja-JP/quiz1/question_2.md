@@ -1,9 +1,9 @@
 --- question ---
 ---
-legend: Question 2 of 9
+凡例: 問2の9
 ---
 
-Is it good practice or poor practice to send one-to-one messages on social media to an attendee at a club?
+クラブでの参加者にソーシャルメディアで1対1のメッセージを送ることは、優れた取り組みか、またはそうではないか。
 
 --- choices ---
 - ( ) Good practice
