@@ -1,7 +1,7 @@
 ---
-title: Safeguarding module
+title: सुरक्षा मॉड्यूल
 hero_image: images/banner.png
-description: Safeguarding module
+description: सुरक्षा मॉड्यूल
 version: 0.1
 listed: false
 copyedit: false
@@ -9,39 +9,39 @@ volunteers: true
 last_tested: 2022-01-05
 steps:
   - 
-    title: What is child safeguarding?
+    title: बच्चे की सुरक्षा क्या है?
   - 
-    title: Recruitment process
+    title: नियुक्ति प्रक्रिया
   - 
-    title: Induction of new volunteers
+    title: नए स्वयंसेवकों को शामिल करना
   - 
-    title: Code of behaviour
+    title: बर्ताव का संकेत
   - 
-    title: Code of behaviour quiz
+    title: आचार संहिता क्विज
     knowledge_quiz:
-      path: quiz1
+      path: क्विज 1
       version: 1
       questions: 9
       passing_score: 9
   - 
-    title: "Abuse and disclosures"
+    title: "दुरुपयोग और अस्वीकरण"
   - 
-    title: How to run safe online sessions
+    title: सुरक्षित ऑनलाइन सेशंस कैसे चलाएं
   - 
-    title: Online sessions quiz
+    title: ऑनलाइन सेशन क्विज
     knowledge_quiz:
-      path: quiz2
+      path: क्विज 2
       version: 1
       questions: 3
       passing_score: 3
   - 
-    title: "What to do if…"
+    title: "क्या करें अगर…"
   - 
-    title: How to record details of abuse
+    title: दुरुपयोग का विवरण किस तरह से रिकॉर्ड करें
   - 
-    title: Observations and evaluations quiz
+    title: अवलोकन और मूल्यांकन क्विज
     knowledge_quiz:
-      path: quiz3
+      path: क्विज 3
       version: 1
       questions: 6
       passing_score: 6
