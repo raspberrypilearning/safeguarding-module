@@ -1,13 +1,13 @@
 --- question ---
 ---
-legend: Question 6 of 6
+legend: ಪ್ರಶ್ನೆ 6 ರಲ್ಲಿ 6
 ---
 
-Ade was bored. Is this:
+ಅಡೆ ಎಂಬುವವರಿಗೆ ಬೇಸರ ಬರುತ್ತಿತ್ತು. ಇದು:
 
 --- choices ---
-- ( ) A fact or an observation?
+- () ವಾಸ್ತವವೋ ಅಥವಾ ಅವಲೋಕನವೋ?
 
-- (x) An opinion or evaluation? --- /choices ---
+- (x) ಅಭಿಪ್ರಾಯವೋ ಅಥವಾ ಮೌಲ್ಯಮಾಪನವೋ? --- /choices ---
 
 --- /question ---
