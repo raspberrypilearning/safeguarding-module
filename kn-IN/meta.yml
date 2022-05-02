@@ -1,7 +1,7 @@
 ---
-title: Safeguarding module
+title: ಸುರಕ್ಷೆಯ ಮಾಡ್ಯೂಲ್
 hero_image: images/banner.png
-description: Safeguarding module
+description: ಸುರಕ್ಷೆಯ ಮಾಡ್ಯೂಲ್
 version: 0.1
 listed: false
 copyedit: false
@@ -9,42 +9,42 @@ volunteers: true
 last_tested: 2022-01-05
 steps:
   - 
-    title: What is child safeguarding?
+    title: ಮಕ್ಕಳ ರಕ್ಷಣೆ ಎಂದರೇನು?
   - 
-    title: Recruitment process
+    title: ನೇಮಕಾತಿ ಪ್ರಕ್ರಿಯೆ
   - 
-    title: Induction of new volunteers
+    title: ಹೊಸ ಸ್ವಯಂಸೇವಕರ ಸೇರ್ಪಡೆ
   - 
-    title: Code of behaviour
+    title: ನಡವಳಿಕೆಯ ಸಂಹಿತೆ
   - 
-    title: Code of behaviour quiz
+    title: ನಡವಳಿಕೆಯ ಸಂಹಿತೆಯ ಕ್ವಿಜ್
     knowledge_quiz:
-      path: quiz1
+      path: ಕ್ವಿಜ್1
       version: 1
       questions: 9
       passing_score: 9
   - 
-    title: "Abuse and disclosures"
+    title: "ದೌರ್ಜನ್ಯ ಮತ್ತು ಬಹಿರಂಗಪಡಿಸುವಿಕೆಗಳು"
   - 
-    title: How to run safe online sessions
+    title: ಸುರಕ್ಷಿತ ಆನ್‌ಲೈನ್ ಸೆಷನ್‌ಗಳನ್ನು ನಡೆಸುವುದು ಹೇಗೆ
   - 
-    title: Online sessions quiz
+    title: ಆನ್‌ಲೈನ್ ಸೆಷನ್‌ಗಳ ಕ್ವಿಜ್
     knowledge_quiz:
-      path: quiz2
+      path: ಕ್ವಿಜ್2
       version: 1
       questions: 3
       passing_score: 3
   - 
-    title: "What to do if…"
+    title: "ಹೀಗಿದ್ದಲ್ಲಿ ಏನು ಮಾಡಬೇಕು…"
   - 
-    title: How to record details of abuse
+    title: ದೌರ್ಜನ್ಯದ ವಿವರಗಳನ್ನು ದಾಖಲಿಸುವುದು ಹೇಗೆ
   - 
-    title: Observations and evaluations quiz
+    title: ವೀಕ್ಷಣೆಗಳು ಮತ್ತು ಮೌಲ್ಯಮಾಪನಗಳ ಕ್ವಿಜ್‌
     knowledge_quiz:
-      path: quiz3
+      path: ಕ್ವಿಜ್3
       version: 1
       questions: 6
       passing_score: 6
-    completion: external
+    completion: ಬಾಹ್ಯ
   - 
-    title: "That’s almost it!"
+    title: "ಹೆಚ್ಚೂ ಕಡಿಮೆ ಮುಗಿಯಿತು!"
