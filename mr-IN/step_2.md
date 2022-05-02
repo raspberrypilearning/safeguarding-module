@@ -1,46 +1,46 @@
-## Recruitment process
+## भरती प्रक्रिया
 
-Typically, it is the club organiser's responsibility to recruit and onboard new volunteers. From time to time, volunteers may be involved in this process to help the club organiser, in particular to help guide the new volunteer in their first session.
+सामान्यतः, नवीन स्वयंसेवकांची भरती करणे आणि त्यात सहभागी होणे ही क्लबच्या आयोजकाची जबाबदारी असते. वेळोवेळी, स्वयंसेवक क्लब आयोजकांना मदत करण्यासाठी या प्रक्रियेत सहभागी होऊ शकतात, विशेषतः नवीन स्वयंसेवकांना त्यांच्या पहिल्या सत्रामध्ये मार्गदर्शन करण्यात मदत करण्यासाठी.
 
-![Three volunteers standing.](images/2-RPF-Volunteers.png)
+![तीन स्वयंसेवक आहेत.](images/2-RPF-Volunteers.png)
 
-It is important to recognise that not every volunteer who is interested in helping out at your club may be appropriate or a match.
+हे ओळखणे महत्त्वाचे आहे की आपल्या क्लबमध्ये मदत करण्यात स्वारस्य असलेला प्रत्येक स्वयंसेवक योग्य असू शकत नाही.
 
-A recruitment process makes it easier to identify volunteers who are not a fit for the club. Here is an example of a recruitment process.
+भरती प्रक्रिया आपल्या क्लबसाठी योग्य नसलेल्या स्वयंसेवकांना ओळखणे सोपे करते. येथे एक भरती प्रक्रिया विषयक एक उदाहरण आहे.
 
-### 1. Volunteer description
+### १. स्वयंसेवक वर्णन
 
 
-This is a short description to tell potential volunteers what the role involves and to give a broad overview of your club. This could be a brief description on your website or a club profile of a volunteer's role. It should include:
+संभाव्य स्वयंसेवकांना या भूमिकेत काय समाविष्ट आहे हे सांगण्यासाठी आणि आपल्या क्लबचे विस्तृत विहंगावलोकन देण्यासाठी हे एक लहान वर्णन आहे. हे तुमच्या वेबसाइटवरील संक्षिप्त वर्णन किंवा स्वयंसेवकाच्या भूमिकेचे क्लब प्रोफाइल असू शकते. हे समाविष्ट पाहिजे:
 
-* What happens in a typical session?
-* How often does your club run and for how long?
-* How much time do you require from your volunteers?
+* सामान्यपणे ठराविक सत्रामध्ये काय होते?
+* तुमचा क्लब किती वेळा आणि किती काळ चालतो?
+* तुम्हाला तुमच्या स्वयंसेवकांकडून किती वेळ हवा आहे?
 
-### 2. Application form
+### 2. अर्जाचा फॉर्म
 
-This can be an online form with a few short questions. You should ask for a referee if possible and any relevant skills that may be useful in your club. Information from the application form, such as contact information, will be useful should this potential volunteer join the club.
+काही लहान प्रश्नांसह हा ऑन लाइन फॉर्म असू शकतो. तुम्ही शक्य असल्यास रेफरी विषयी आणि तुमच्या क्लबमध्ये उपयुक्त ठरू शकतील अशी कोणतीही संबंधित कौशल्ये विचारली पाहिजेत. या संभाव्य स्वयंसेवकाने क्लबमध्ये सामील झाल्यास अर्जामधील माहिती, जसे की संपर्क माहिती ही त्यांना क्लबमध्ये सामील होण्यास उपयुक्त ठरेल.
 
-**Note**: If you are in a Code Club or CoderDojo, instead of an application form you should encourage potential volunteers to register through our websites ([codeclub.org](https://codeclub.org){:target='_blank'} and [coderdojo.com](https://coderdojo.com){:target='_blank'}).
+**टीप**: कर आपण कोड क्लब किंवा CoderDojo मध्ये असाल तर, अर्जापेक्षा आपल्या वेबसाइट्वरुनच स्वयंसेवकांना नावनोंदणी करण्यास सांगा. ([codeclub.org](https://codeclub.org){:target='_blank'} and [coderdojo.com](https://coderdojo.com){:target='_blank'}).
 
-### 3. Informal meeting or interview
+### 3. अनौपचारिक बैठक किंवा मुलाखत
 
-Invite the person to the club so you can meet with them and they can learn more about the club environment. If your club is running activities online, then you can meet remotely. It should be a casual meeting, but it should give the current club volunteers and the potential volunteer the chance to make a decision about whether they want the potential volunteer to go ahead with volunteering. This will also allow current club volunteers and the potential volunteer to see if they can work together well in the club setting. If you are starting your club for the first time, you should set up an informal meeting with your potential volunteer before your first session.
+त्या व्यक्तीला क्लबमध्ये आमंत्रित करा जेणेकरुन तुम्ही त्यांना भेटू शकाल आणि ते क्लबच्या वातावरणाबद्दल अधिक जाणून घेऊ शकतील. तुमचा क्लब ऑन लाइन उपक्रम चालवत असल्यास, तुम्ही दूरस्थपणे भेटू शकता. ही एक अनौपचारिक बैठक असली पाहिजे, परंतु यामुळे सध्याच्या क्लब स्वयंसेवकांना आणि संभाव्य स्वयंसेवकांना स्वयंसेवकाने पुढे जायचे आहे की नाही याबद्दल निर्णय घेण्याची संधी दिली पाहिजे. हे सध्याच्या क्लब स्वयंसेवकांना आणि संभाव्य स्वयंसेवकांना ते क्लब सेटिंगमध्ये एकत्र काम करू शकतात की नाही हे पाहण्याची अनुमती देईल. तुम्ही तुमचा क्लब पहिल्यांदाच सुरू करत असल्यास, तुम्ही तुमच्या पहिल्या सत्रापूर्वी तुमच्या संभाव्य स्वयंसेवका सोबत अनौपचारिक बैठक करावी.
 
-### 4. Background checks (dependent on region)
+### 4. पार्श्वभूमी तपासणी (प्रदेशावर अवलंबून)
 
-Background checks are useful for voluntary coding clubs; in some regions a background check is mandatory to work with young people. We understand that in some regions it is more difficult to access background checks or that it may be expensive, so that is why reference checks and utilising the rest of the volunteer recruitment process is important.
+पार्श्वभूमी तपासण्या स्वयंसेवी कोडिंग क्लबसाठी उपयुक्त आहेत; काही प्रदेशांमध्ये तरुणा सोबत काम करण्यासाठी पार्श्वभूमी तपासणे अनिवार्य आहे. आम्ही समजतो की काही प्रदेशांमध्ये पार्श्वभूमी तपासण्यांमध्ये प्रवेश करणे अधिक कठीण आहे किंवा ते महाग असू शकते, म्हणूनच संदर्भ तपासणी आणि उर्वरित स्वयंसेवक भरती प्रक्रियेचा वापर करणे महत्त्वाचे आहे.
 
-### 5. Referees (optional)
+### 5. पंच (पर्यायी)
 
-It can be really useful to ask for referees and to check those references to determine if a volunteer is suitable to work with young people and/or vulnerable adults.
+स्वयंसेवक तरुण लोक आणि/किंवा असुरक्षित प्रौढा सोबत काम करण्यासाठी योग्य आहे की नाही हे निर्धारित करण्यासाठी पंचांना विचारणे आणि ते संदर्भ तपासणे खरोखर उपयुक्त ठरू शकते.
 
-If you have your own application form, you could use this as a space to ask for details of referees. If you haven’t collected referees in the application form, you can ask for them after the informal meeting. Referees can be colleagues, teachers, lecturers, or a friend who knows the potential volunteer well. Volunteers can be referred to the club by another existing club volunteer, this person can also act as a referee.
+तुमच्याकडे तुमचा स्वत: चा अर्ज असल्यास, तुम्ही याचा वापर पंचाचा तपशील विचारण्यासाठी जागा म्हणून करू शकता. तुम्ही अर्जामध्ये पंचांची माहिती गोळा केली नसल्यास, तुम्ही अनौपचारिक बैठकीनंतर त्यांना विचारू शकता. पंच हे सहकारी, शिक्षक, व्याख्याते किंवा संभाव्य स्वयंसेवकाला चांगले ओळखणारे मित्र असू शकतात. स्वयंसेवकांना दुसर्‍या विद्यमान क्लब स्वयंसेवका द्वारे क्लबमध्ये संदर्भित केले जाऊ शकते, ही व्यक्ती पंच म्हणून देखील काम करू शकते.
 
-**Tip**: When you check references, it is often best to phone the referee as people may be inclined to give a more honest perspective than in writing.
+**Tip**: तुम्ही संदर्भ तपासता, तेव्हा पंचाला फोन करणे चांगले असते कारण लोक लेखीपेक्षा अधिक प्रामाणिक दृष्टीकोन देण्यास इच्छुक असू शकतात.
 
 --- save ---
 
 <p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">
-Ensure you're <span style="color: #0faeb0">logged into your Raspberry Pi Foundation account</span> to save your progress, otherwise your completion will not be recorded. Use the <a href="https://my.raspberrypi.org/login">'Log in'</a> link in the navigation menu to log in.
+आपण <span style="color: #0faeb0">आपल्या Raspberry Pi Fफाउंडेशन खात्यात</span>लॉगिन होऊन आपली प्रगती जतन करा नाही तर त्याशिवाय ती जतन केली जाणार नाही. ह्या नेव्हिगेशन मेनूमधील<a href="https://my.raspberrypi.org/login">लिंकवर 'लॉग इन'</a> करा.
 </p>
