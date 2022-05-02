@@ -1,46 +1,46 @@
-## Recruitment process
+## 採用の流れ
 
-Typically, it is the club organiser's responsibility to recruit and onboard new volunteers. From time to time, volunteers may be involved in this process to help the club organiser, in particular to help guide the new volunteer in their first session.
+通常、新しいボランティアを募集し、加入させるのは、クラブの主催者の責任です。 時折、クラブ主催者をサポートするためにボランティアがこのプロセスに参加することがあります。特に、新しいボランティアが最初のセッションで指導するサポートをする場合があります。
 
-![Three volunteers standing.](images/2-RPF-Volunteers.png)
+![３名のボランティアが立っている。](images/2-RPF-Volunteers.png)
 
-It is important to recognise that not every volunteer who is interested in helping out at your club may be appropriate or a match.
+クラブでの支援に関心を持つすべてのボランティアが適切であったり、マッチングするわけではないことを認識することが重要です。
 
-A recruitment process makes it easier to identify volunteers who are not a fit for the club. Here is an example of a recruitment process.
+採用プロセスは、クラブにふさわしくないボランティアを特定するのを容易にします。 ここでは、採用活動の一例をご紹介します。
 
-### 1. Volunteer description
+### 1. ボランティアの内容
 
 
-This is a short description to tell potential volunteers what the role involves and to give a broad overview of your club. This could be a brief description on your website or a club profile of a volunteer's role. It should include:
+これは、ボランティア候補者に役割の内容を伝え、クラブの概要を広く知ってもらうための簡単な説明文です。 これは、ウェブサイトに掲載する簡単な説明や、ボランティアの役割に関するクラブのプロフィールなどです。 以下を含みます。
 
-* What happens in a typical session?
-* How often does your club run and for how long?
-* How much time do you require from your volunteers?
+* 典型的なセッションでは何が起こっているのですか？
+* クラブはどれくらいの頻度で、どれくらいの期間運営されているのですか？
+* ボランティアにはどれくらいの時間が必要ですか？
 
-### 2. Application form
+### 2. 申込書
 
-This can be an online form with a few short questions. You should ask for a referee if possible and any relevant skills that may be useful in your club. Information from the application form, such as contact information, will be useful should this potential volunteer join the club.
+これは、何問かの短い質問からなるオンラインフォームでも構いません。 可能であれば審判員を要求し、クラブで役立つ関連スキルがあれば教えてもらうとよいでしょう。 連絡先など、応募用紙に記載された情報は、このボランティア候補者がクラブに入会した際に役立つものです。
 
-**Note**: If you are in a Code Club or CoderDojo, instead of an application form you should encourage potential volunteers to register through our websites ([codeclub.org](https://codeclub.org){:target='_blank'} and [coderdojo.com](https://coderdojo.com){:target='_blank'}).
+**注**：Code ClubまたはCoderDojoに参加している場合は、申し込みフォームではなく、潜在的なボランティアに当社のWebサイト（[codeclub.org](https://codeclub.org){：target='_blank'}および [](https://coderdojo.com)：target ='_ blank'}）。
 
-### 3. Informal meeting or interview
+### 3. 非公式の会議または面接
 
-Invite the person to the club so you can meet with them and they can learn more about the club environment. If your club is running activities online, then you can meet remotely. It should be a casual meeting, but it should give the current club volunteers and the potential volunteer the chance to make a decision about whether they want the potential volunteer to go ahead with volunteering. This will also allow current club volunteers and the potential volunteer to see if they can work together well in the club setting. If you are starting your club for the first time, you should set up an informal meeting with your potential volunteer before your first session.
+その人をクラブに招待し、面会して、その人がクラブの環境についてもっと知ることができるようにしてください。 クラブがオンラインで活動を展開しているのであれば、遠隔地でのミーティングも可能です。 それはカジュアルな会合であるべきですが、現在のクラブ・ボランティアとボランティア候補者が、ボランティア候補者にボランティア活動を進めてほしいかどうかを判断する機会を提供する必要があります。 また、現在のクラブボランティアとボランティア候補者が、クラブという場でうまく協力できるかどうかを確認することもできます。 初めてクラブを始める場合、最初のセッションの前に、ボランティア候補者との非公式のミーティングを設定するとよいでしょう。
 
-### 4. Background checks (dependent on region)
+### 4. 身元確認（地域により異なる）
 
-Background checks are useful for voluntary coding clubs; in some regions a background check is mandatory to work with young people. We understand that in some regions it is more difficult to access background checks or that it may be expensive, so that is why reference checks and utilising the rest of the volunteer recruitment process is important.
+身元調査は、任意のコーディング・クラブに有効です。地域によっては、青少年と活動するために身元調査が義務付けられています。 地域によっては、身元調査を受けるのが難しい、あるいは費用がかかるということも理解しています。そのため、身元調査やその他のボランティア募集のプロセスを活用することが重要なのです。
 
-### 5. Referees (optional)
+### 5. 審判員（オプション）
 
-It can be really useful to ask for referees and to check those references to determine if a volunteer is suitable to work with young people and/or vulnerable adults.
+ボランティアが若者や弱い立場の人と働くのに適しているかどうかを判断するために、推薦人を依頼し、その推薦人を確認することは非常に有効な手段です。
 
-If you have your own application form, you could use this as a space to ask for details of referees. If you haven’t collected referees in the application form, you can ask for them after the informal meeting. Referees can be colleagues, teachers, lecturers, or a friend who knows the potential volunteer well. Volunteers can be referred to the club by another existing club volunteer, this person can also act as a referee.
+独自の応募用紙がある場合は、査読者の詳細を尋ねるスペースとして利用することも可能です。 応募フォームで審判員を集めていない場合は、内定者懇談会後に審判員をお願いすることもできます。 推薦者は、同僚、教師、講師、またはボランティア候補者をよく知っている友人でもかまいません。 ボランティアは、既存のクラブボランティアから紹介を受け、その人がレフリーとして活動することも可能です。
 
-**Tip**: When you check references, it is often best to phone the referee as people may be inclined to give a more honest perspective than in writing.
+**ヒント**: 推薦状をチェックするときは、推薦者に電話をするのがベストです。なぜなら、推薦者は書面よりも正直な意見を述べる傾向があるからです。
 
 --- save ---
 
 <p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">
-Ensure you're <span style="color: #0faeb0">logged into your Raspberry Pi Foundation account</span> to save your progress, otherwise your completion will not be recorded. Use the <a href="https://my.raspberrypi.org/login">'Log in'</a> link in the navigation menu to log in.
+<span style="color: #0faeb0">Raspberry Pi Foundation アカウント</span> にログインしていることを確認して進行状況を保存してください。それ以外の場合、完了情報は記録されません。 ナビゲーションメニューの<a href="https://my.raspberrypi.org/login">「ログイン」</a>リンクからログインしてください。
 </p>
