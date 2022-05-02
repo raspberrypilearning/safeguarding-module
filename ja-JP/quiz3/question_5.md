@@ -1,13 +1,13 @@
 --- question ---
 ---
-legend: Question 5 of 6
+legend: 問5の6
 ---
 
-Jane looked at her watch twice. Is this:
+ジェーンは時計を二度見ました。 これは:
 
 --- choices ---
-- (x) A fact or an observation?
+- (x) 事実又は目撃情報ですか?
 
-- ( ) An opinion or evaluation? --- /choices ---
+- ( ) 意見又は評価ですか? --- /choices ---
 
 --- /question ---
