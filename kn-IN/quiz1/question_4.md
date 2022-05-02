@@ -1,13 +1,13 @@
 --- question ---
 ---
-legend: Question 4 of 9
+legend: ಪ್ರಶ್ನೆ 4 ರಲ್ಲಿ 9
 ---
 
-Is it good practice or poor practice to have a ratio of at least 1:10 adults to young people at your club?
+ನಿಮ್ಮ ಕ್ಲಬ್ಬಿನಲ್ಲಿ ಯುವಕರಿಗೆ ವಯಸ್ಕರ ಅನುಪಾತವನ್ನು ಕನಿಷ್ಠ 1:10 ಇಟ್ಟುಕೊಂಡಿರುವುದು ಒಳ್ಳೆಯ ಪದ್ಧತಿಯೇ ಅಥವಾ ಕೆಟ್ಟ ಪದ್ಧತಿಯೇ?
 
 --- choices ---
-- (x) Good practice
+- (x) ಒಳ್ಳೆಯ ಪದ್ಧತಿ
 
-- ( ) Poor practice --- /choices ---
+- ( ) ಕೆಟ್ಟ ಪದ್ಧತಿ --- /choices ---
 
 --- /question ---
