@@ -1,13 +1,13 @@
 --- question ---
 ---
-legend: Question 7 of 9
+legend: pregunta 7 de 9
 ---
 
-Is it good practice or poor practice to take into account young people's views in the decision-making process at your club?
+¿Es una buena o una mala práctica tener en cuenta las opiniones de los jóvenes en el proceso de toma de decisiones de su club?
 
 --- choices ---
-- (x) Good practice
+- (x) Buena práctica
 
-- ( ) Poor practice --- /choices ---
+- ( ) Pobre práctica --- /choices ---
 
 --- /question ---
