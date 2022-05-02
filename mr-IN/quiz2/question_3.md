@@ -1,14 +1,14 @@
 --- question ---
 ---
-legend: Question 3 of 3
+legend: प्रश्न 3 पैकी 3
 ---
 
-Do you need to make sure that every young person has a parent's or guardian's consent before they attend an online session?
+प्रत्येक तरुण विद्यार्थी ऑन लाइन सत्राला उपस्थित राहण्यापूर्वी सत्रासाठी त्याच्या पालकांची किंवा पालकांची संमती असल्याची खात्री करणे आवश्यक आहे का?
 
 --- choices ---
 
-- ( ) No
-- (x) Yes
+- ( ) नाही
+- (x) होय
 
 --- /choices ---
 
