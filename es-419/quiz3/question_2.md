@@ -1,13 +1,13 @@
 --- question ---
 ---
-legend: Question 2 of 6
+legend: pregunta 2 de 6
 ---
 
-John smelt of alcohol. Is this:
+John olía a alcohol. Es esto:
 
 --- choices ---
-- (x) A fact or an observation?
+- (x) ¿Es un hecho o una observación?
 
-- ( ) An opinion or evaluation? --- /choices ---
+- ( ) ¿Es una opinión o una evaluación? --- /choices ---
 
 --- /question ---
