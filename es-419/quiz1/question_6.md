@@ -1,13 +1,13 @@
 --- question ---
 ---
-legend: Question 6 of 9
+legend: pregunta 6 de 9
 ---
 
-Is it good practice or poor practice to take young people alone on car journeys?
+¿Es una buena o una mala práctica llevar a los jóvenes solos en los traslados en auto?
 
 --- choices ---
-- ( ) Good practice
+- ( ) Buena práctica
 
-- (x) Poor practice --- /choices ---
+- (x) Pobre práctica --- /choices ---
 
 --- /question ---
