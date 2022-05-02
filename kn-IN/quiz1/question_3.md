@@ -3,11 +3,11 @@
 legend: ಪ್ರಶ್ನೆ 3 ರಲ್ಲಿ 9
 ---
 
-Is it good practice or poor practice to use offensive language in your club?
+ನಿಮ್ಮ ಕ್ಲಬ್‌ನಲ್ಲಿ ಕೆಟ್ಟ ಭಾಷೆಯನ್ನು ಬಳಸುವುದು ಒಳ್ಳೆಯ ಪದ್ಧತಿಯೇ ಅಥವಾ ಕೆಟ್ಟ ಪದ್ಧತಿಯೇ?
 
 --- choices ---
-- ( ) Good practice
+- () ಒಳ್ಳೆಯ ಪದ್ಧತಿ
 
-- (x) Poor practice --- /choices ---
+- (x) ಕೆಟ್ಟ ಪದ್ಧತಿ --- /choices ---
 
 --- /question ---
