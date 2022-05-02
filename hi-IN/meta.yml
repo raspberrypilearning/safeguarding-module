@@ -45,6 +45,6 @@ steps:
       version: 1
       questions: 6
       passing_score: 6
-    completion: external
+    completion: बाहरी
   - 
-    title: "That’s almost it!"
+    title: "यह लगभग यही है!"
