@@ -1,55 +1,55 @@
-## What is child safeguarding?
+## बच्चे की सुरक्षा क्या है?
 
-Safeguarding is the actions taken to promote the welfare of children and protect them from harm.
+सुरक्षा बच्चों के कल्याण को बढ़ावा देने और उन्हें नुकसान से बचाने के लिए की जाने वाली कार्रवाई है।
 
 <p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">
-Ensure you're <span style="color: #0faeb0">logged into your Raspberry Pi Foundation account</span> to save your progress, otherwise your completion will not be recorded. Use the <a href="https://my.raspberrypi.org/login">'Log in'</a> link in the navigation menu to log in.
+इस बात को पक्का करें कि आपने अपनी प्रगति को बचाने के लिए <span style="color: #0faeb0">अपने Raspberry Pi फाउंडेशन खाते में लॉग इन किया है</span>, अन्यथा आपका समापन रिकॉर्ड नहीं किया जाएगा। लॉग इन करने के लिए नेविगेशन मेन्यू में <a href="https://my.raspberrypi.org/login">'लॉग इन'</a> लिंक का उपयोग करें।
 </p>
 
 ![तीन युवक खड़े हैं।](images/3-RPF-Kids.png)
 
 यह लर्निंग गाइड Raspberry Pi फाउंडेशन के सभी स्वयंसेवकों और उनके कार्यक्रमों (Code Club, CoderDojo, Raspberry Jams, और Astro Pi) को बच्चों की सुरक्षा में सर्वोत्तम प्रथाओं के बारे में जानने का मौका देने हेतु बनाई गई है।
 
-Once completed, you will have:
+एक बार पूरा हो जाने पर, आपके पास होगा:
 
-* A basic awareness of the key issues in relation to child safeguarding in a coding club
-* An understanding of how to implement international best practices in child safeguarding
+* किसी कोडिंग क्लब में बाल सुरक्षा के संबंध में अहम समस्याओं के बारे में बुनियादी जागरूकता
+* बाल सुरक्षा में अंतरराष्ट्रीय सर्वोत्तम तरीकों कैसे लागू किया जाए, इसकी समझ
 
-It will take about 20 minutes to complete this learning guide.
+इस लर्निंग गाइड को पूरा करने में लगभग 20 मिनट का समय लगेगा।
 
-### What topics will be covered?
+### किन विषयों को कवर किया जाएगा?
 
-There are many ways to ensure your club is a safe space for young people to learn and engage with technology.
+इस बात को पक्का करने के कई तरीके हैं कि आपका क्लब युवाओं के लिए सीखने और तकनीक से जुड़ने हेतु एक सुरक्षित स्थान है।
 
-Below are some of the topics that will be covered:
+नीचे कुछ विषय दिए गए हैं जिन्हें कवर किया जाएगा:
 
-* Background checks
-* Legislation
-* How to recruit volunteers
-* Code of behaviour
-* Types of abuse
-* How to implement processes for reporting abuse
-* Example scenarios in a coding club
-* How to run safe online sessions
+* पृष्ठभूमि की जांच - पड़ताल
+* विधि निर्माण
+* स्वयंसेवकों की नियुक्ति किस तरह करें
+* बर्ताव का संकेत
+* दुरुपयोग के प्रकार
+* दुरुपयोग की रिपोर्ट करने के लिए प्रक्रियाओं को किस तरह से कार्यान्वित करें
+* कोडिंग क्लब में उदाहरण परिदृश्य
+* सुरक्षित ऑनलाइन सेशंस कैसे चलाएं
 
-### Why is child safeguarding important?
+### बच्चों की सुरक्षा क्यों जरूरी है?
 
-All programmes run and supported by the Raspberry Pi Foundation should always be a safe space for everyone. By maintaining a safe environment, you are allowing young people to thrive and learn to code completely carefree.
+Raspberry Pi फाउंडेशन के माध्यम से संचालित और समर्थित सभी कार्यक्रम हमेशा सभी के लिए एक सुरक्षित जगह होनी चाहिए। एक सुरक्षित माहौल का निर्माण करके, आप युवाओं को आगे बढ़ने और पूरी तरह से निश्चिंत होकर कोड सीखने का अवसर देते हैं।
 
-Clubs can have young people in attendance from different schools, backgrounds, and ages. Therefore, it is crucial to make sure this safe space is protected to ensure young people can make new friends and share a common interest.
+क्लबों में अलग-अलग स्कूलों, पृष्ठभूमि और उम्र के युवा मौजूद हो सकते हैं। इसलिए, इस बात को पक्का करना ज़रूरी है कि इस सुरक्षित स्थान का बचाव किया गया है ताकि यह आश्वस्त हुआ जा सके कि युवा नए दोस्त बना सकते हैं और एक जैसी रुचियों को शेयर कर सकते हैं।
 
-### Legislation
+### विधि निर्माण
 
-Each club is responsible for ensuring that they abide with the safeguarding legislation in their area. Some jurisdictions will require that all volunteers who work with young people and/or vulnerable persons have background checks before they commence the voluntary activity. Other jurisdictions may require that you have a child protection policy or safeguarding statement.
+प्रत्येक क्लब इस बात को पक्का के लिए जिम्मेदार है कि वे अपने क्षेत्र में सुरक्षा कानून का पालन करें। कुछ क्षेत्राधिकारों के लिए यह ज़रूरी होगा कि युवा लोगों और/या अतिसंवेदनशील लोगों के साथ काम करने वाले सभी स्वयंसेवकों की स्वैच्छिक गतिविधि शुरू करने से पहले उनकी पृष्ठभूमि को जांच लें। अन्य न्यायालयों आपके पास बाल संरक्षण नीति या सुरक्षा कथन को ज़रूरी कर सकते हैं।
 
-**Note**: Legislation in the USA can vary from state to state.
+**नोट**: संयुक्त राज्य अमेरिका में कानून हर राज्य में अलग-अलग हो सकते हैं।
 
-### Best practices
+### सर्वोत्तम प्रथाएं और अंतर्दृष्टि
 
-While it is paramount that you follow legislation in your region regarding child safeguarding, all clubs should try to have best practices in place, even where they are not required by legislation. Some of the best practices your club can adopt that will be covered in this module include:
+हालांकि यह सबसे अहम है कि आप अपने क्षेत्र के बाल सुरक्षा से संबद्ध कानूनों को मानें, सभी क्लबों को सबसे बेहतरीन को लागू करने का प्रयास करना चाहिए, भले ही कानूनी तौर पर उनकी ज़रूरत ना हो। आपके क्लब की तरफ से अपनाए जा सकने वाली कुछ बेहतरीन तरीकों को इस मॉड्यूल में शामिल किया जाएगा:
 
-* Volunteer recruitment
-* Code of behaviour
-* Code of behaviour for young people attending online sessions
-* Guide for adults to support young people attending online sessions
-* The reporting process when abuse is disclosed to a volunteer or when a volunteer notices signs of abuse
+* स्वंयसेवकों की नियुक्ति
+* बर्ताव का संकेत
+* ऑनलाइन सेशंस में भाग लेने वाले युवाओं के लिए आचार संहिता
+* ऑनलाइन सेशंस में भाग लेने वाले युवाओं का समर्थन करने के लिए वयस्कों हेतु मार्गदर्शिका
+* रिपोर्टिंग प्रक्रिया तब होती है जब किसी स्वयंसेवक के प्रति दुर्व्यवहार का खुलासा जाता है या जब कोई स्वयंसेवक दुर्व्यवहार के संकेतों को देखता है
