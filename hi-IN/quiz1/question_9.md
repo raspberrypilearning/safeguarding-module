@@ -1,13 +1,13 @@
 --- question ---
 ---
-legend: Question 9 of 9
+legend: 9 का प्रश्न 9
 ---
 
-Is it good practice or poor practice to cc parents in on all direct email communication to young people?
+यह अच्छा अभ्यास है या बुरा कि युवा लोगों को सभी सीधे ईमेल से बातचीत करने पर अभिवावकों को cc में रखना चाहिए?
 
 --- choices ---
-- (x) Good practice
+- (x) अच्छा अभ्यास है
 
-- ( ) Poor practice --- /choices ---
+- ( ) बुरा अभ्यास --- /choices ---
 
 --- /question ---
