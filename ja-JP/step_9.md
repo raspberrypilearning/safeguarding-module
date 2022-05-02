@@ -1,51 +1,51 @@
-## What to do if…?
+## もしも... の時は？
 
-If you have a concern about a young person, or if a young person discloses abuse to you, it is important to be prepared. Your club must have a reporting procedure (this may be linked to the venue you operate from).
+青少年について懸念がある場合、あるいは青少年から虐待を申告された場合に備えることが重要です。 クラブには報告手順が必要です（これは、運営する会場と連動している場合があります）。
 
-![Three young people standing.](images/8-Diverse-Mix-2.png)
+![3名の若者が立っている。](images/8-Diverse-Mix-2.png)
 
-In this section, there are tips, sample scenarios, and sample reporting procedures for your club. We would recommend that you talk about these with your fellow volunteers.
+このセクションでは、クラブのためのヒント、シナリオの例、報告手順の例が紹介されています。 ボランティア仲間の内部で話し合っておくことをお勧めします。
 
-If you have any doubts, you can fill out our [online safeguarding form to get advice and support](https://form.raspberrypi.org/f/safeguarding-concern-form){:target='_blank'}.
+疑問がある場合は、[オンラインのセーフガードフォームに記入し、アドバイスやサポートを受けることができます](https://form.raspberrypi.org/f/safeguarding-concern-form){:target='_blank'}。
 
-### What to do if a young person discloses abuse to you?
+### 青少年があなたに虐待を申告した場合、どうしたらよいか。
 
-1. React calmly: a serious reaction may alarm the young person and compound feelings of anxiety and/or guilt.
-1. Listen carefully and attentively, and take the young person seriously.
-1. Reassure the young person that they have taken the right action in talking to you.
-1. Do not make false promises (particularly regarding secrecy).
-1. Explain that if what they tell you is serious, then you will have to tell another person.
-1. Do not ask the young person to repeat the story unnecessarily.
-1. Ask questions only for the purpose of clarification. Be supportive, but do not ask leading questions or seek intimate details beyond those volunteered by the young person.
-1. Check with the young person to ensure that what has been heard and understood by you is accurate.
-1. Do not express any opinions about the alleged abuse or abuser.
+1. 冷静に対応する：深刻な反応は、若者を不安にさせ、不安や罪悪感を増幅させる可能性があります。
+1. 注意深く耳を傾け、若い人と真剣に向き合うこと。
+1. 若者があなたに相談したことは正しい行動であったと安心させること。
+1. 虚偽の約束（特に秘密保持）をしないこと。
+1. もし、その話が深刻なものであれば、他の人に話す必要があることを説明すること。
+1. 青少年にむやみに話を繰り返すように求めないこと。
+1. 質問は明確にするためにのみ行うこと。 支援を行いながら、誘導的な質問をしたり、若者が自発的に話した以上の親密な内容を聞き出したりしないようにすること。
+1. 聴取し、理解したことが正確かどうか若者に確認すること。
+1. 虐待の疑いや虐待の加害者について、いかなる意見も述べないこと。
 
-### What to do after a young person discloses abuse to you?
+### 若者が虐待を公表した後、どうすればよいか。
 
-1. Record the conversation.
-1. Sign and date any written records.
-1. Pass the information to the person responsible for child protection at the venue. They will be able to guide you on next steps, which will include writing down what you have heard as accurately as possible.
-1. Let us know the actions you’ve taken by emailing [safeguarding@raspberrypi.org](mailto:safeguarding@raspberrypi.org){:target='_blank'} or filling in the [online safeguarding form](https://form.raspberrypi.org/f/safeguarding-concern-form){:target='_blank'}.
-1. If the young person is at immediate risk, the person responsible for child protection at the venue should contact the police.
-1. Treat all information confidentially, share it only with those who have a right to hear.
-1. If it is not possible to report your concern to the venue, please contact [safeguarding@raspberrypi.org](mailto:safeguarding@raspberrypi.org){:target='_blank'} and a member of the team will advise you what to do.
+1. 会話を録音すること。
+1. 文書による記録には、署名と日付を記入すること。
+1. 会場の児童保護責任者に情報を伝達すること。 彼らは次のステップについて説明してくれます。そのとき、あなたが聞いたことをできるだけ正確に書き留めることが必要になります。
+1. あなたがとった行動を電子メール[safeguarding@raspberrypi.org](mailto:safeguarding@raspberrypi.org){:target='_blank'} または [オンラインセーフガードフォーム](https://form.raspberrypi.org/f/safeguarding-concern-form){:target='_blank'}に入力のうえご連絡ください。
+1. 青少年が急迫の危険にさらされている場合、会場の児童保護責任者が警察に連絡すること
+1. すべての情報を機密扱いにし、情報共有する権利のある者にのみ情報提供すること
+1. 会場に報告できない場合は、[safeguarding@raspberrypi.org](mailto:safeguarding@raspberrypi.org){:target='_blank'} にご連絡いただければ、担当者がどうすればよいかをアドバイスいたします。
 
-**Remember**: If you are unsure about a disclosure or need support, you can get in touch with the Raspberry Pi Foundation at any time.
+**Remember**: 情報開示について不明な点がある場合やサポートが必要な場合は、いつでもラズベリーパイ財団に連絡することができます。
 
-### What to do if you notice signs of abuse?
+### 虐待の兆候に気づいたらどうすべきか？
 
-1. Record any signs in detail.
-1. Sign and date any written records.
-1. Pass the information to the person responsible for child protection at the venue. They will be able to guide you on next steps, which will include writing down what you have heard and/or seen as accurately as possible.
-1. If the young person is at immediate risk, the person responsible for child protection at the venue should contact the police.
-1. Let us know the actions you’ve taken by emailing [safeguarding@raspberrypi.org](mailto:safeguarding@raspberrypi.org){:target='_blank'} or filling in the [online safeguarding form](https://form.raspberrypi.org/f/safeguarding-concern-form){:target='_blank'}.
-1. Treat all information confidentially, share it only with those who have a right to hear.
-1. If it is not possible to report your concern to the venue, please contact [safeguarding@raspberrypi.org](mailto:safeguarding@raspberrypi.org){:target='_blank'} and a member of the team will advise you what to do.
+1. 兆候があれば、詳細に記録すること。
+1. 文書による記録には、署名と日付を記入すること。
+1. 会場の児童保護責任者に情報を伝達すること。 また、彼らは見聞したことをできるだけ正確に書き留めるなど次のステップを指導することができます。
+1. 青少年が急迫の危険にさらされている場合、会場の児童保護責任者が警察に連絡すること
+1. あなたがとった行動を電子メール[safeguarding@raspberrypi.org](mailto:safeguarding@raspberrypi.org){:target='_blank'} または [オンラインセーフガードフォーム](https://form.raspberrypi.org/f/safeguarding-concern-form){:target='_blank'}に入力のうえご連絡ください。
+1. すべての情報を機密扱いにし、情報共有する権利のある者にのみ情報提供すること
+1. 会場に報告できない場合は、[safeguarding@raspberrypi.org](mailto:safeguarding@raspberrypi.org){:target='_blank'} にご連絡いただければ、担当者がどうすればよいかをアドバイスいたします。
 
-**Remember**: If you are unsure about a disclosure or need support, you can get in touch with the Raspberry Pi Foundation at any time.
+**Remember**: 情報開示について不明な点がある場合やサポートが必要な場合は、いつでもラズベリーパイ財団に連絡することができます。
 
 --- save ---
 
 <p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">
-Ensure you're <span style="color: #0faeb0">logged into your Raspberry Pi Foundation account</span> to save your progress, otherwise your completion will not be recorded. Use the <a href="https://my.raspberrypi.org/login">'Log in'</a> link in the navigation menu to log in.
+<span style="color: #0faeb0">Raspberry Pi Foundation アカウント</span> にログインしていることを確認して進行状況を保存してください。それ以外の場合、完了情報は記録されません。 ナビゲーションメニューの<a href="https://my.raspberrypi.org/login">「ログイン」</a>リンクからログインしてください。
 </p>
