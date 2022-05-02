@@ -1,13 +1,13 @@
 --- question ---
 ---
-legend: Question 7 of 9
+legend: ಪ್ರಶ್ನೆ 7 ರಲ್ಲಿ 9
 ---
 
-Is it good practice or poor practice to take into account young people's views in the decision-making process at your club?
+ನಿಮ್ಮ ಕ್ಲಬ್ಬಿನ ನಿರ್ಧಾರ ತೆಗೆದುಕೊಳ್ಳುವ ಪ್ರಕ್ರಿಯೆಯಲ್ಲಿ ಯುವಜನರ ಅಭಿಪ್ರಾಯಗಳನ್ನು ಗಣನೆಗೆ ತೆಗೆದುಕೊಳ್ಳುವುದು ಒಳ್ಳೆಯ ಪದ್ಧತಿಯೇ ಅಥವಾ ಕೆಟ್ಟ ಪದ್ಧತಿಯೇ?
 
 --- choices ---
-- (x) Good practice
+- (x) ಒಳ್ಳೆಯ ಪದ್ಧತಿ
 
-- ( ) Poor practice --- /choices ---
+- ( ) ಕೆಟ್ಟ ಪದ್ಧತಿ --- /choices ---
 
 --- /question ---
