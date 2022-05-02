@@ -1,6 +1,6 @@
-## Code of behaviour
+## 行動規範
 
-Every person at the club must be aware of the code of behaviour and follow these expectations. Our code of behaviour document is available at [rpf.io/code-of-behaviour](http://rpf.io/code-of-behaviour){:target='_blank'}
+クラブの会員は全て、行動規範を認識し、これを遵守しなければなりません。 私たちの行動規範の文書は、[rpf.io/code-of-behaviour](http://rpf.io/code-of-behaviour){:target='_blank'} から入手可能です。
 
 <embed src="images/Raspberry_Pi_Foundation-safeguarding-code-of-behaviour.pdf" width="790" height="500" 
  type="application/pdf">
@@ -10,34 +10,34 @@ Every person at the club must be aware of the code of behaviour and follow these
     <br>
   </p>
 <h3 spaces-before="0">
-  Breaking the code of behaviour
+  行動規範に違反する
 </h3>
 
 <p spaces-before="0">
-  If a volunteer in your club behaves inappropriately and/or breaks the code of behaviour, action will have to be taken by the club organiser. If the club organiser breaks the code of behaviour, action will have to be taken by another volunteer.
+  クラブのボランティアが不適切な行動を取ったり、行動規範を破ったりした場合は、クラブ主催者が措置を講じなければなりません。 クラブ主催者が行動規範に違反した場合、他のボランティアが行動しなければなりません。
 </p>
 
 <p spaces-before="0">
-  Actions to take:
+  とるべき行動:
 </p>
 
 <ul>
   <li>
-    A verbal warning
+    口頭による注意
   </li>
   <li>
-    A formal written warning, to which any further indiscretions will lead to suspension from the club or to ending their role as a volunteer of the club
+    これ以上の軽率な行動は、クラブからの出場停止、またはクラブのボランティアとしての役割の終了につながるという書面による正式な警告
   </li>
   <li>
-    Suspension of the volunteer from the club
+    クラブからのボランティア活動の停止
   </li>
   <li>
-    Banning the volunteer from participating in further activities in the club
+    当該ボランティアが、今後クラブでの活動に参加することを禁止すること。
   </li>
 </ul>
 
 <p spaces-before="0">
-  If you or your club is unsure of the action to take please, ask for support from the <a href="mailto:safeguarding@raspberrypi.org">Raspberry Pi Foundation</a>.
+  もし、あなたやあなたのクラブが取るべき行動がわからない場合は、<a href="mailto:safeguarding@raspberrypi.org">Raspberry Pi Foundation</a>に支援を求めてください。
 </p>
 
 <p spaces-before="0">
@@ -45,5 +45,5 @@ Every person at the club must be aware of the code of behaviour and follow these
 </p>
 
 <p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">
-Ensure you're <span style="color: #0faeb0">logged into your Raspberry Pi Foundation account</span> to save your progress, otherwise your completion will not be recorded. Use the <a href="https://my.raspberrypi.org/login">'Log in'</a> link in the navigation menu to log in.
+<span style="color: #0faeb0">Raspberry Pi Foundation アカウント</span> にログインしていることを確認して進行状況を保存してください。それ以外の場合、完了情報は記録されません。 ナビゲーションメニューの<a href="https://my.raspberrypi.org/login">「ログイン」</a>リンクからログインしてください。
 </p>
