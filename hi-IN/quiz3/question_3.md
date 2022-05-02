@@ -1,13 +1,13 @@
 --- question ---
 ---
-legend: Question 3 of 6
+legend: 3 का प्रश्न 6
 ---
 
-Mary was embarrassed. Is this:
+मैरी शर्मिंदा थी। क्या यह:
 
 --- choices ---
-- ( ) A fact or an observation?
+- ( ) कोई तथ्य या अवलोकन?
 
-- (x) An opinion or evaluation? --- /choices ---
+- (x) कोई राय या मूल्यांकन? --- /choices ---
 
 --- /question ---
