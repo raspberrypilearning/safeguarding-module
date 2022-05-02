@@ -1,13 +1,13 @@
 --- question ---
 ---
-legend: Question 8 of 9
+legend: प्रश्न 8 पैकी 9
 ---
 
-Is physical or emotional punishment an example of good practice or poor practice?
+शारीरिक किंवा भावनिक शिक्षा हे चांगल्या वर्तनाचे उदाहरण आहे की वाईट वर्तनाचे उदाहरण आहे?
 
 --- choices ---
-- ( ) Good practice
+- ( ) चांगले वर्तन
 
-- (x) Poor practice --- /choices ---
+- (x) सुमार वर्तन --- /choices ---
 
 --- /question ---
