@@ -1,1 +1,1 @@
-## Code of behaviour quiz
+## 行動規範テスト
