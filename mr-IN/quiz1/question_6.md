@@ -1,13 +1,13 @@
 --- question ---
 ---
-legend: Question 6 of 9
+legend: प्रश्न 6 पैकी 9
 ---
 
-Is it good practice or poor practice to take young people alone on car journeys?
+तरुणांना कार प्रवासात एकटे घेऊन जाणे हे चांगल्या वर्तनाचे की वाईट वर्तनाचे उदाहरण आहे?
 
 --- choices ---
-- ( ) Good practice
+- ( ) चांगले वर्तन
 
-- (x) Poor practice --- /choices ---
+- (x) सुमार वर्तन --- /choices ---
 
 --- /question ---
