@@ -1,13 +1,13 @@
 --- question ---
 ---
-legend: Question 3 of 9
+legend: 3 का प्रश्न 9
 ---
 
-Is it good practice or poor practice to use offensive language in your club?
+आपके क्लब में आपत्तिजनक भाषा का उपयोग अच्छा अभ्यास है या बुरा अभ्यास है?
 
 --- choices ---
-- ( ) Good practice
+- ( ) अच्छा अभ्यास
 
-- (x) Poor practice --- /choices ---
+- (x) बुरा अभ्यास --- /choices ---
 
 --- /question ---
