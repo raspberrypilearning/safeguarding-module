@@ -21,7 +21,7 @@ Se trata de una breve descripción para indicarles a los posibles voluntarios qu
 
 Puede tratarse de un formulario en línea con algunas preguntas breves. De ser posible, debe pedir referencias y cualquier habilidad relevante que pueda ser útil para su club. La información del formulario de solicitud, tal como los datos de contacto, será útil en caso de que este posible voluntario se incorpore al club.
 
-**Nota**: Si está en un Code Club o Coder Dojo, en lugar de llenar un formulario de solicitud debe animar a los posibles voluntarios a registrarse a través de nuestros sitios web ([codeclub.org](https://codeclub.org){:target='_blank'} y [coderdojo.com](https://coderdojo.com){:target='_blank'}).
+**Nota**: Si está en un Code Club o CoderDojo, en lugar de llenar un formulario de solicitud debe animar a los posibles voluntarios a registrarse a través de nuestros sitios web ([codeclub.org](https://codeclub.org){:target='_blank'} y [coderdojo.com](https://coderdojo.com){:target='_blank'}).
 
 ### 3. Reunión o entrevista informal
 
