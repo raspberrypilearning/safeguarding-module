@@ -1,9 +1,9 @@
---- question ---
+--- cwestiwn ---
 ---
-legend: Question 1 of 6
+legend: Cwestiwn 1 o 6
 ---
 
-Rita made no eye contact. Is this:
+Ni wnaeth Rita unrhyw gyswllt llygad. Ydy hyn:
 
 --- choices ---
 - (x) A fact or an observation?
