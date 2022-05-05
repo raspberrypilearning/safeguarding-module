@@ -1,13 +1,13 @@
---- question ---
+--- cwestiwn ---
 ---
-legend: Question 6 of 9
+legend: Cwestiwn 6 o 9
 ---
 
-Is it good practice or poor practice to take young people alone on car journeys?
+Ydy gwneud taith car ar eich pen eich hun gyda phobl ifanc yn ymarfer da ynteu'n ymarfer gwael?
 
---- choices ---
-- ( ) Good practice
+--- dewisiadau ---
+- ( ) Ymarfer da
 
-- (x) Poor practice --- /choices ---
+- (x) Ymarfer gwael --- /dewisiadau ---
 
---- /question ---
+--- /cwestiwn ---
