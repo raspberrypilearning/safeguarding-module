@@ -41,10 +41,10 @@ steps:
   - 
     title: Cwis arsylwi a gwerthuso
     knowledge_quiz:
-      path: quiz3
+      path: cwis3
       version: 1
       questions: 6
       passing_score: 6
-    completion: external
+    completion: allanol
   - 
-    title: "That’s almost it!"
+    title: "Bron â gorffen!"
