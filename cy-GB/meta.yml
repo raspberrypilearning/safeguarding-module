@@ -1,7 +1,7 @@
 ---
-title: Safeguarding module
+title: Modiwl diogelu
 hero_image: images/banner.png
-description: Safeguarding module
+description: Modiwl diogelu
 version: 0.1
 listed: false
 copyedit: false
@@ -9,37 +9,37 @@ volunteers: true
 last_tested: 2022-01-05
 steps:
   - 
-    title: What is child safeguarding?
+    title: Beth yw diogelu plant?
   - 
-    title: Recruitment process
+    title: Y broses recriwtio
   - 
-    title: Induction of new volunteers
+    title: Cynefino gwirfoddolwyr newydd
   - 
-    title: Code of behaviour
+    title: Cod ymddygiad
   - 
-    title: Code of behaviour quiz
+    title: Cwis cod ymddygiad
     knowledge_quiz:
-      path: quiz1
+      path: cwis1
       version: 1
       questions: 9
       passing_score: 9
   - 
-    title: "Abuse and disclosures"
+    title: "Cam-drin a datgelu"
   - 
-    title: How to run safe online sessions
+    title: Sut mae rhedeg sesiynau ar-lein yn ddiogel
   - 
-    title: Online sessions quiz
+    title: Cwis sesiynau ar-lein
     knowledge_quiz:
-      path: quiz2
+      path: cwis2
       version: 1
       questions: 3
       passing_score: 3
   - 
-    title: "What to do if…"
+    title: "Beth i'w wneud os…"
   - 
-    title: How to record details of abuse
+    title: Sut mae cofnodi manylion camdriniaeth
   - 
-    title: Observations and evaluations quiz
+    title: Cwis arsylwi a gwerthuso
     knowledge_quiz:
       path: quiz3
       version: 1
