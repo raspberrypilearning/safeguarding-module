@@ -1,11 +1,11 @@
-## How to record details of abuse
+## Sut mae cofnodi manylion camdriniaeth
 
-When you record details of abuse for either your club organiser or external organisations, it is important to ensure you record facts and observations as opposed to evaluations and opinions.
+Pan fyddwch chi'n cofnodi manylion camdriniaeth naill ai i drefnydd eich clwb neu i sefydliadau allanol, mae'n bwysig gwneud yn siŵr eich bod yn cofnodi ffeithiau ac arsylwadau, yn hytrach na gwerthusiadau a barn.
 
-An observation is something you can see, smell, touch, or hear. An evaluation is what you think about what you saw, smelt, touched, or heard.
+Mae arsylwad yn rhywbeth gallwch chi ei weld, ei arogli, ei gyffwrdd neu ei glywed. Ystyr gwerthusiad ydy beth rydych chi'n ei feddwl am yr hyn roeddech chi wedi'i weld, ei arogli, ei gyffwrdd neu ei glywed.
 
---- save ---
+--- cadw ---
 
 <p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">
-Ensure you're <span style="color: #0faeb0">logged into your Raspberry Pi Foundation account</span> to save your progress, otherwise your completion will not be recorded. Use the <a href="https://my.raspberrypi.org/login">'Log in'</a> link in the navigation menu to log in.
+Gwnewch yn siŵr eich bod wedi <span style="color: #0faeb0">mewngofnodi i'ch cyfrif Raspberry Pi Foundation</span> i gadw eich cynnydd, neu ni fydd cofnod eich bod wedi cwblhau. Defnyddiwch y ddolen <a href="https://my.raspberrypi.org/login">'Log in'</a> yn y ddewislen llywio i fewngofnodi.
 </p>
