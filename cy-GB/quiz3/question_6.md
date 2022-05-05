@@ -1,13 +1,13 @@
---- question ---
+--- cwestiwn ---
 ---
-legend: Question 6 of 6
+legend: Cwestiwn 6 o 6
 ---
 
-Ade was bored. Is this:
+Roedd Ade wedi diflasu. Ydy hyn:
 
---- choices ---
-- ( ) A fact or an observation?
+--- dewisiadau ---
+- ( ) Yn ffaith neu'n arsylwad?
 
-- (x) An opinion or evaluation? --- /choices ---
+- (x) Yn farn neu'n werthusiad? --- /dewisiadau ---
 
---- /question ---
+--- /cwestiwn ---
