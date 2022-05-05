@@ -1,17 +1,17 @@
---- question ---
+--- cwestiwn ---
 ---
-legend: Question 1 of 3
+legend: Cwestiwn 1 o 3
 ---
 
-How many adults should be present during an online session?
+Sawl oedolyn dylai fod yn bresennol yn ystod sesiwn ar-lein?
 
---- choices ---
+--- dewisiadau ---
 
-- ( ) None
-- ( ) One
-- (x) At least two
-- ( ) At least three
+- ( ) Dim un
+- ( ) Un
+- (x) Dau o leiaf
+- ( ) Tri o leiaf
 
---- /choices ---
+--- /dewisiadau ---
 
---- /question ---
+--- /cwestiwn ---
