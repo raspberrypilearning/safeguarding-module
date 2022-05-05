@@ -1,8 +1,8 @@
-## That’s almost it
+## Bron â gorffen!
 
-You’ve completed this short interactive learning guide. Well done!
+Rydych chi wedi cwblhau'r canllaw dysgu rhyngweithiol byr hwn. Da iawn!
 
-You can now test your knowledge with some scenarios. In each scenario, we want you to consider what you definitely would do, what you may do (depending on the circumstances), and what you would not do.
+Nawr fe allwch chi brofi eich gwybodaeth gydag ambell sefyllfa. Ym mhob sefyllfa, rydyn ni am i chi ystyried beth fyddech chi'n sicr yn ei wneud, beth fyddech chi'n ei wneud o bosib (yn dibynnu ar yr amgylchiadau), a beth na fyddech chi'n ei wneud.
 
 ### Kim
 
