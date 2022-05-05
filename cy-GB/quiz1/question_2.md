@@ -1,13 +1,13 @@
---- question ---
+--- cwestiwn ---
 ---
-legend: Question 2 of 9
+legend: Cwestiwn 2 o 9
 ---
 
-Is it good practice or poor practice to send one-to-one messages on social media to an attendee at a club?
+Ydy anfon negeseuon un-i-un ar gyfryngau cymdeithasol i rywun sy'n cymryd rhan yn y clwb yn ymarfer da ynteu'n ymarfer gwael?
 
---- choices ---
-- ( ) Good practice
+--- dewisiadau ---
+- ( ) Ymarfer da
 
-- (x) Poor practice --- /choices ---
+- (x) Ymarfer gwael --- /dewisiadau ---
 
---- /question ---
+--- /cwestiwn ---
