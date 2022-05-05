@@ -1,16 +1,16 @@
---- question ---
+--- cwestiwn ---
 ---
-legend: Question 2 of 3
+legend: Cwestiwn 2 o 3
 ---
 
-Is it OK to use webcams during an online session?
+Ydy hi'n dderbyniol defnyddio gwe-gamerâu yn ystod sesiwn ar-lein?
 
---- choices ---
+--- dewisiadau ---
 
-- ( ) No
-- ( ) Yes
-- (x) Yes, but make sure everyone knows they are prohibited from recording or taking screenshots of the session
+- ( ) Nac ydy
+- ( ) Ydy
+- (x) Ydy, ond rhaid gwneud yn siŵr bod pawb yn gwybod nad oes ganddyn nhw hawl i recordio na chymryd sgrinluniau o'r sesiwn
 
---- /choices ---
+--- /dewisiadau ---
 
---- /question ---
+--- /cwestiwn ---
