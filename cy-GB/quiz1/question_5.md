@@ -1,13 +1,13 @@
---- question ---
+--- cwestiwn ---
 ---
-legend: Question 5 of 9
+legend: Cwestiwn 5 o 9
 ---
 
-Is it good practice or poor practice to carry out favouritism with certain young people?
+Ydy rhoi ffafriaeth i rai pobl ifanc yn ymarfer da ynteu'n ymarfer gwael?
 
---- choices ---
-- ( ) Good practice
+--- dewisiadau ---
+- ( ) Ymarfer da
 
-- (x) Poor practice --- /choices ---
+- (x) Ymarfer gwael --- /dewisiadau ---
 
---- /question ---
+--- /cwestiwn ---
