@@ -1,13 +1,13 @@
---- question ---
+--- cwestiwn ---
 ---
-legend: Question 8 of 9
+legend: Cwestiwn 8 o 9
 ---
 
-Is physical or emotional punishment an example of good practice or poor practice?
+Ydy cosbi corfforol neu emosiynol yn enghraifft o ymarfer da ynteu ymarfer gwael?
 
---- choices ---
-- ( ) Good practice
+--- dewisiadau ---
+- ( ) Ymarfer da
 
-- (x) Poor practice --- /choices ---
+- (x) Ymarfer gwael --- /dewisiadau ---
 
---- /question ---
+--- /cwestiwn ---
