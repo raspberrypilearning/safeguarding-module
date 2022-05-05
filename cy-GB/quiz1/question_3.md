@@ -1,13 +1,13 @@
---- question ---
+--- cwestiwn ---
 ---
-legend: Question 3 of 9
+legend: Cwestiwn 3 o 9
 ---
 
-Is it good practice or poor practice to use offensive language in your club?
+Ydy defnyddio iaith sarhaus yn eich clwb yn ymarfer da ynteu'n ymarfer gwael?
 
---- choices ---
-- ( ) Good practice
+--- dewisiadau ---
+- ( ) Ymarfer da
 
-- (x) Poor practice --- /choices ---
+- (x) Ymarfer gwael --- /dewisiadau ---
 
---- /question ---
+--- /cwestiwn ---
