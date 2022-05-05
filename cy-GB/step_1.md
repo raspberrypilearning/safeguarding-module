@@ -3,53 +3,53 @@
 Diogelu ydy'r camau sy'n cael eu cymryd i hybu lles plant a'u gwarchod rhag niwed.
 
 <p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">
-Gwnewch yn siŵr eich bod wedi <span style="color: #0faeb0">mewngofnodi i'ch cyfrif Raspberry Pi Foundation</span> i gadw eich cynnydd, neu ni fydd cofnod eich bod wedi cwblhau. Use the <a href="https://my.raspberrypi.org/login">'Log in'</a> link in the navigation menu to log in.
+Gwnewch yn siŵr eich bod wedi <span style="color: #0faeb0">mewngofnodi i'ch cyfrif Raspberry Pi Foundation</span> i gadw eich cynnydd, neu ni fydd cofnod eich bod wedi cwblhau. Defnyddiwch y ddolen <a href="https://my.raspberrypi.org/login">'Log in'</a> yn y ddewislen llywio i fewngofnodi.
 </p>
 
-![Three young people standing.](images/3-RPF-Kids.png)
+![Tri o bobl ifanc yn sefyll.](images/3-RPF-Kids.png)
 
-This learning guide has been created to give all volunteers of the Raspberry Pi Foundation and their programmes (Code Club, CoderDojo, Raspberry Jams, and Astro Pi) the opportunity to learn about best practices in child safeguarding.
+Mae'r canllaw dysgu hwn wedi cael ei greu i roi cyfle i holl wirfoddolwyr y Raspberry Pi Foundation a'i raglenni (Code Club, CoderDojo, Raspberry Jams ac Astro Pi) ddysgu am yr arferion diogelu plant gorau.
 
-Once completed, you will have:
+Ar ôl ei gwblhau, bydd gennych chi'r canlynol:
 
-* A basic awareness of the key issues in relation to child safeguarding in a coding club
-* An understanding of how to implement international best practices in child safeguarding
+* Ymwybyddiaeth sylfaenol o'r prif faterion mewn cysylltiad â diogelu plant mewn clwb codio
+* Dealltwriaeth o sut mae defnyddio'r arferion diogelu plant gorau ar lefel ryngwladol
 
-It will take about 20 minutes to complete this learning guide.
+Bydd hi'n cymryd tua 20 munud i gwblhau'r canllaw dysgu hwn.
 
-### What topics will be covered?
+### Pa bynciau fydd yn cael sylw?
 
-There are many ways to ensure your club is a safe space for young people to learn and engage with technology.
+Mae llawer o ffyrdd o wneud yn siŵr bod eich clwb yn fan diogel i bobl ifanc ddysgu am dechnoleg a'i defnyddio.
 
-Below are some of the topics that will be covered:
+Dyma rai o'r pynciau a fydd yn cael sylw:
 
-* Background checks
-* Legislation
-* How to recruit volunteers
-* Code of behaviour
-* Types of abuse
-* How to implement processes for reporting abuse
-* Example scenarios in a coding club
-* How to run safe online sessions
+* Archwiliadau cefndir
+* Deddfwriaeth
+* Sut mae recriwtio gwirfoddolwyr
+* Cod ymddygiad
+* Mathau o gam-drin
+* Sut mae gweithredu prosesau ar gyfer rhoi gwybod am gam-drin
+* Sefyllfaoedd enghreifftiol mewn clwb codio
+* Sut mae rhedeg sesiynau ar-lein yn ddiogel
 
-### Why is child safeguarding important?
+### Pam mae diogelu plant yn bwysig?
 
-All programmes run and supported by the Raspberry Pi Foundation should always be a safe space for everyone. By maintaining a safe environment, you are allowing young people to thrive and learn to code completely carefree.
+Fe ddylai pob rhaglen sy'n cael ei rhedeg a'i chefnogi gan y Raspberry Pi Foundation fod yn lle diogel i bawb. Drwy gynnal amgylchedd diogel, rydych chi'n caniatáu i bobl ifanc ffynnu a dysgu codio yn gwbl ddibryder.
 
-Clubs can have young people in attendance from different schools, backgrounds, and ages. Therefore, it is crucial to make sure this safe space is protected to ensure young people can make new friends and share a common interest.
+Mae'n bosib i bobl ifanc o wahanol ysgolion, cefndiroedd ac oedran fod yn bresennol mewn clybiau. Felly mae'n hollbwysig sicrhau bod y man diogel hwn yn cael ei ddiogelu i wneud yn siŵr bod pobl ifanc yn gallu gwneud ffrindiau newydd a rhannu diddordeb cyffredin.
 
-### Legislation
+### Deddfwriaeth
 
-Each club is responsible for ensuring that they abide with the safeguarding legislation in their area. Some jurisdictions will require that all volunteers who work with young people and/or vulnerable persons have background checks before they commence the voluntary activity. Other jurisdictions may require that you have a child protection policy or safeguarding statement.
+Mae pob clwb yn gyfrifol am wneud yn siŵr ei fod yn cadw at y ddeddfwriaeth diogelu yn ei ardal. Bydd rhai awdurdodaethau'n mynnu bod yr holl wirfoddolwyr sy'n gweithio gyda phobl ifanc a/neu bobl agored i niwed yn destun archwiliadau cefndir cyn dechrau gwirfoddoli. Efallai y bydd awdurdodaethau eraill yn mynnu bod gennych chi bolisi diogelu plant neu ddatganiad diogelu ar waith.
 
-**Note**: Legislation in the USA can vary from state to state.
+**Sylwch**: Mae deddfwriaeth yn Unol Daleithiau America yn gallu amrywio o dalaith i dalaith.
 
-### Best practices
+### Arferion gorau
 
-While it is paramount that you follow legislation in your region regarding child safeguarding, all clubs should try to have best practices in place, even where they are not required by legislation. Some of the best practices your club can adopt that will be covered in this module include:
+Er ei bod yn hanfodol dilyn y ddeddfwriaeth yn eich rhanbarth mewn cysylltiad â diogelu plant, fe ddylai pob clwb fynd ati i ddefnyddio'r arferion gorau, hyd yn oed os nad ydyn nhw'n ofynnol mewn deddfwriaeth. Dyma rai o'r arferion gorau gall eich clwb eu mabwysiadu a fydd yn cael sylw yn y modiwl hwn:
 
-* Volunteer recruitment
-* Code of behaviour
-* Code of behaviour for young people attending online sessions
-* Guide for adults to support young people attending online sessions
-* The reporting process when abuse is disclosed to a volunteer or when a volunteer notices signs of abuse
+* Recriwtio gwirfoddolwyr
+* Cod ymddygiad
+* Cod ymddygiad i bobl ifanc sy'n cymryd rhan mewn sesiynau ar-lein
+* Canllaw i oedolion ar gefnogi pobl ifanc sy'n cymryd rhan mewn sesiynau ar-lein
+* Y broses rhoi gwybod pan fydd camdriniaeth yn cael ei datgelu i wirfoddolwr neu pan fydd gwirfoddolwr yn sylwi ar arwyddion o gamdriniaeth
