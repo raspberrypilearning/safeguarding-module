@@ -1,13 +1,13 @@
---- question ---
+--- cwestiwn ---
 ---
-legend: Question 9 of 9
+legend: Cwestiwn 9 o 9
 ---
 
-Is it good practice or poor practice to cc parents in on all direct email communication to young people?
+Ydy copïo rhieni i mewn ym mhob e-bost uniongyrchol i bobl ifanc yn ymarfer da ynteu'n ymarfer gwael?
 
---- choices ---
-- (x) Good practice
+--- dewisiadau ---
+- (x) Ymarfer da
 
-- ( ) Poor practice --- /choices ---
+- ( ) Ymarfer gwael --- /dewisiadau ---
 
---- /question ---
+--- /cwestiwn ---
