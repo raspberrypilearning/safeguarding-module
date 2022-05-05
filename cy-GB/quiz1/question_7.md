@@ -3,11 +3,11 @@
 legend: Question 7 of 9
 ---
 
-Is it good practice or poor practice to take into account young people's views in the decision-making process at your club?
+Ydy ystyried safbwyntiau pobl ifanc fel rhan o broses gwneud penderfyniadau eich clwb yn ymarfer da ynteu'n ymarfer gwael?
 
---- choices ---
-- (x) Good practice
+--- dewisiadau ---
+- (x) Ymarfer da
 
-- ( ) Poor practice --- /choices ---
+- ( ) Ymarfer gwael --- /dewisiadau ---
 
---- /question ---
+--- /cwestiwn ---
