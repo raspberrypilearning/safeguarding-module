@@ -6,26 +6,26 @@ Typically, it is the club organiser's responsibility to recruit and onboard new 
 
 It is important to recognise that not every volunteer who is interested in helping out at your club may be appropriate or a match.
 
-A recruitment process makes it easier to identify volunteers who are not a fit for the club. Here is an example of a recruitment process.
+A recruitment process makes it easier to identify volunteers who are not a fit for the club. Dyma enghraifft o broses recriwtio.
 
-### 1. Volunteer description
+### 1. Disgrifiad i wirfoddolwyr
 
 
-This is a short description to tell potential volunteers what the role involves and to give a broad overview of your club. This could be a brief description on your website or a club profile of a volunteer's role. It should include:
+Dyma ddisgrifiad byr i roi gwybod i ddarpar wirfoddolwyr beth mae'r rôl yn ei gynnwys ac i ddarparu trosolwg cyffredinol o'ch clwb. Fe allai hwn fod yn ddisgrifiad byr ar eich gwefan neu broffil clwb o rôl gwirfoddolwr. Fe ddylai gynnwys y canlynol:
 
-* What happens in a typical session?
-* How often does your club run and for how long?
-* How much time do you require from your volunteers?
+* Beth sy'n digwydd mewn sesiwn arferol
+* Pa mor aml mae eich clwb yn rhedeg ac am ba hyd
+* Am faint o amser rydych chi'n gofyn gan eich gwirfoddolwyr
 
-### 2. Application form
+### 2. Ffurflen gais
 
-This can be an online form with a few short questions. You should ask for a referee if possible and any relevant skills that may be useful in your club. Information from the application form, such as contact information, will be useful should this potential volunteer join the club.
+Fe allai hon fod yn ffurflen ar-lein gyda rhywfaint o gwestiynau byr. Fe ddylech chi ofyn am ganolwr os oes modd ac am unrhyw sgiliau perthnasol a allai fod yn ddefnyddiol i'ch clwb. Bydd gwybodaeth o'r ffurflen gais, fel manylion cyswllt, yn ddefnyddiol pe bai'r darpar wirfoddolwr yn ymuno â'r clwb.
 
-**Note**: If you are in a Code Club or CoderDojo, instead of an application form you should encourage potential volunteers to register through our websites ([codeclub.org](https://codeclub.org){:target='_blank'} and [coderdojo.com](https://coderdojo.com){:target='_blank'}).
+**Sylwch**: Os ydych chi mewn Code Club neu CoderDojo, yn hytrach na ffurflen gais fe ddylech chi annog darpar wirfoddolwyr i gofrestru drwy ein gwefannau ([codeclub.org](https://codeclub.org){:target='_blank'} a [coderdojo.com](https://coderdojo.com){:target='_blank'}).
 
-### 3. Informal meeting or interview
+### 3. Cyfarfod neu gyfweliad anffurfiol
 
-Invite the person to the club so you can meet with them and they can learn more about the club environment. If your club is running activities online, then you can meet remotely. It should be a casual meeting, but it should give the current club volunteers and the potential volunteer the chance to make a decision about whether they want the potential volunteer to go ahead with volunteering. This will also allow current club volunteers and the potential volunteer to see if they can work together well in the club setting. If you are starting your club for the first time, you should set up an informal meeting with your potential volunteer before your first session.
+Fe ddylech chi wahodd y person i'r clwb er mwyn gallu ei gyfarfod, a bydd yn gallu dysgu mwy am amgylchedd y clwb. Os ydy eich clwb yn rhedeg gweithgareddau ar-lein, fe allwch chi gyfarfod o bell. It should be a casual meeting, but it should give the current club volunteers and the potential volunteer the chance to make a decision about whether they want the potential volunteer to go ahead with volunteering. This will also allow current club volunteers and the potential volunteer to see if they can work together well in the club setting. If you are starting your club for the first time, you should set up an informal meeting with your potential volunteer before your first session.
 
 ### 4. Background checks (dependent on region)
 
