@@ -1,13 +1,13 @@
---- question ---
+--- cwestiwn ---
 ---
-legend: Question 3 of 6
+legend: Cwestiwn 3 o 6
 ---
 
-Mary was embarrassed. Is this:
+Roedd Mary'n teimlo'n chwithig. Ydy hyn:
 
---- choices ---
-- ( ) A fact or an observation?
+--- dewisiadau ---
+- ( ) Yn ffaith neu'n arsylwad?
 
-- (x) An opinion or evaluation? --- /choices ---
+- (x) Yn farn neu'n werthusiad? --- /dewisiadau ---
 
---- /question ---
+--- /cwestiwn ---
