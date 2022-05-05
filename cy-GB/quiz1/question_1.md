@@ -1,13 +1,13 @@
---- question ---
+--- cwestiwn ---
 ---
-legend: Question 1 of 9
+legend: Cwestiwn 1 o 9
 ---
 
-Is it good practice or poor practice to be inclusive of all young people regardless of gender, age, religion, nationality, ethnicity, or creed?
+Ydy cynnwys yr holl bobl ifanc dim ots beth yw eu rhywedd, oedran, cenedligrwydd, ethnigrwydd neu gred yn ymarfer da ynteu'n ymarfer gwael?
 
---- choices ---
-- (x) Good practice
+--- dewisiadau ---
+- (x) Ymarfer da
 
-- ( ) Poor practice --- /choices ---
+- ( ) Ymarfer gwael --- /dewisiadau ---
 
---- /question ---
+--- /cwestiwn ---
