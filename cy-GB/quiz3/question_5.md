@@ -1,13 +1,13 @@
---- question ---
+--- cwestiwn ---
 ---
-legend: Question 5 of 6
+legend: Cwestiwn 5 o 6
 ---
 
-Jane looked at her watch twice. Is this:
+Edrychodd Jane ar ei horiawr ddwywaith. Ydy hyn:
 
---- choices ---
-- (x) A fact or an observation?
+--- dewisiadau ---
+- (x) Yn ffaith neu'n arsylwad?
 
-- ( ) An opinion or evaluation? --- /choices ---
+- ( ) Yn farn neu'n werthusiad? --- /dewisiadau ---
 
---- /question ---
+--- /cwestiwn ---
