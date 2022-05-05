@@ -1,6 +1,6 @@
---- question ---
+--- cwestiwn ---
 ---
-legend: Question 7 of 9
+legend: Cwestiwn 7 o 9
 ---
 
 Ydy ystyried safbwyntiau pobl ifanc fel rhan o broses gwneud penderfyniadau eich clwb yn ymarfer da ynteu'n ymarfer gwael?
