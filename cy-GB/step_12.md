@@ -6,11 +6,11 @@ Nawr fe allwch chi brofi eich gwybodaeth gydag ambell sefyllfa. Ym mhob sefyllfa
 
 ### Kim
 
-**You notice one of the young people at the club, Kim, who is 12 years old, is making a game which focuses on sadness and isolation, and there are some references to suicide. The lead character in the game is also called Kim.**
+**Rydych chi'n sylwi bod un o'r bobl ifanc yn y clwb, Kim, sy'n 12 oed, yn creu gêm sy'n canolbwyntio ar dristwch a bod yn ynysig, ac mae rhai cyfeiriadau at hunanladdiad. Kim ydy enw prif gymeriad y gêm hefyd.**
 
---- hints --- --- hint ---
+--- awgrymiadau --- --- awgrym ---
 
-In this scenario, you should ensure you check on the young person before you make any assumptions. Kim’s parents or guardians should be informed of the game by the most appropriate person, which may be you, but could be another volunteer or teacher from the club. It may also be relevant to tell the young person's parents or guardians about local support in the area if the volunteer knows what these are; often a general practitioner or local doctor is the best place to initially point a parent or guardian to in this scenario. Most importantly, you should talk to your club organiser, or teacher if in a school setting, and ensure that someone from the club checks on Kim in future sessions.
+Yn y sefyllfa hon, fe ddylech chi wneud yn siŵr eich bod yn cael gair â'r person ifanc cyn tybio unrhyw beth. Fe ddylai rhieni neu warcheidwaid Kim gael gwybod am y gêm gan y person mwyaf priodol – chi efallai, neu wirfoddolwr neu athro arall yn y clwb. It may also be relevant to tell the young person's parents or guardians about local support in the area if the volunteer knows what these are; often a general practitioner or local doctor is the best place to initially point a parent or guardian to in this scenario. Most importantly, you should talk to your club organiser, or teacher if in a school setting, and ensure that someone from the club checks on Kim in future sessions.
 
 --- /hint --- --- /hints ---
 
