@@ -1,13 +1,13 @@
---- question ---
+--- cwestiwn ---
 ---
-legend: Question 4 of 9
+legend: Cwestiwn 4 o 9
 ---
 
-Is it good practice or poor practice to have a ratio of at least 1:10 adults to young people at your club?
+Ydy cael cymhareb o 1:10 oedolyn i bobl ifanc o leiaf yn eich clwb yn ymarfer da ynteu'n ymarfer gwael?
 
---- choices ---
-- (x) Good practice
+--- dewisiadau ---
+- (x) Ymarfer da
 
-- ( ) Poor practice --- /choices ---
+- ( ) Ymarfer gwael --- /dewisiadau ---
 
---- /question ---
+--- /cwestiwn ---
