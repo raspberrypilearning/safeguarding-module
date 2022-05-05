@@ -1,13 +1,13 @@
---- question ---
+--- cwestiwn ---
 ---
-legend: Question 2 of 6
+legend: Cwestiwn 2 o 6
 ---
 
-John smelt of alcohol. Is this:
+Roedd arogl alcohol ar John. Ydy hyn:
 
---- choices ---
-- (x) A fact or an observation?
+--- dewisiadau ---
+- (x) Yn ffaith neu'n arsylwad?
 
-- ( ) An opinion or evaluation? --- /choices ---
+- ( ) Yn farn neu'n werthusiad? --- /dewisiadau ---
 
---- /question ---
+--- /cwestiwn ---
