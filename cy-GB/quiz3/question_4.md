@@ -1,13 +1,13 @@
---- question ---
+--- cwestiwn ---
 ---
-legend: Question 4 of 6
+legend: Cwestiwn 4 o 6
 ---
 
-Aisha seemed like she was lying. Is this:
+Roedd hi'n ymddangos bod Aisha'n dweud celwydd. Ydy hyn:
 
---- choices ---
-- ( ) A fact or an observation?
+--- dewisiadau ---
+- ( ) Yn ffaith neu'n arsylwad?
 
-- (x) An opinion or evaluation? --- /choices ---
+- (x) Yn farn neu'n werthusiad? --- /dewisiadau ---
 
---- /question ---
+--- /cwestiwn ---
