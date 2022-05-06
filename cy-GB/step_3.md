@@ -15,27 +15,27 @@ Ydy hi'n ymddangos bod y gwirfoddolwr newydd yn gweddu'n dda i'ch clwb? Cysylltw
 
 ### 3. Cyfaill clwb cyntaf
 
-Llongyfarchiadau! Rydych chi wedi llwyddo i recriwtio gwirfoddolwr newydd i'ch clwb. Ar gyfer ei sesiwn gyntaf, cofiwch bydd angen ychydig o help arno i ddechrau arni ac i ddod i adnabod y plant. Os oes gennych chi nifer o wirfoddolwyr yn eich clwb, trefnwch ei fod yn bâr gyda gwirfoddolwr profiadol. Fydden ni ddim yn argymell eich bod yn gofyn i wirfoddolwyr newydd redeg sesiwn ar ei ymweliad cyntaf â'r clwb, oherwydd fe allai hynny fod yn frawychus i rywun newydd. It's a good idea to put volunteers into pairs so they can plan and run the session together and learn from each other.
+Llongyfarchiadau! Rydych chi wedi llwyddo i recriwtio gwirfoddolwr newydd i'ch clwb. Ar gyfer ei sesiwn gyntaf, cofiwch bydd angen ychydig o help arno i ddechrau arni ac i ddod i adnabod y plant. Os oes gennych chi nifer o wirfoddolwyr yn eich clwb, trefnwch ei fod yn bâr gyda gwirfoddolwr profiadol. Fydden ni ddim yn argymell eich bod yn gofyn i wirfoddolwyr newydd redeg sesiwn ar ei ymweliad cyntaf â'r clwb, oherwydd fe allai hynny fod yn frawychus i rywun newydd. Mae'n syniad da trefnu eich gwirfoddolwyr yn barau er mwyn iddyn nhw allu cynllunio a rhedeg y sesiwn gyda'i gilydd, a dysgu gan y naill a'r llall.
 
-### The right volunteer
+### Y gwirfoddolwr cywir
 
-Think about three characteristics you look for in new volunteers and then click on the hint below to see some of our desirable characteristics.
+Meddyliwch am dair nodwedd hoffech chi eu gweld mewn gwirfoddolwyr newydd, yna clicio'r awgrym isod i weld rhai o'n nodweddion dymunol ni.
 
---- hints ---
+--- awgrymiadau ---
 
---- hint ---
+--- awgrym ---
 
-* Positive
-* Creative
-* Approachable
-* Supportive
-* Committed
-* Collaborative
-* Encouraging
+* Cadarnhaol
+* Creadigol
+* Agos-atoch
+* Cefnogol
+* Ymroddgar
+* Cydweithredol
+* Llawn anogaeth
 
---- /hint ---
+--- /awgrym ---
 
---- /hints ---
+--- /awgrymiadau ---
 
 Did your answers match some of our desirable characteristics?
 
