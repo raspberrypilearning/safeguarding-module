@@ -1,17 +1,17 @@
-## How to run safe online sessions
+## Sut mae rhedeg sesiynau ar-lein yn ddiogel
 
-You may wish to run online sessions for young people at your club who cannot meet in person. We encourage you to do this and have developed resources to help you, including guidelines to make sure your online sessions are as safe as possible.
+Efallai byddwch yn dymuno rhedeg sesiynau ar-lein i bobl ifanc yn eich clwb sy'n methu cyfarfod wyneb yn wyneb. Rydyn ni'n eich annog i wneud hyn ac rydyn ni wedi datblygu adnoddau i'ch helpu chi, gan gynnwys canllawiau i wneud yn siŵr bod eich sesiynau ar-lein mor ddiogel â phosib.
 
-Read through these guides and answer the following three questions in the next step.
+Darllenwch y canllawiau hyn ac ateb y tri chwestiwn canlynol yn y cam nesaf.
 
-### [Framework to help you assess how to run your club safely](https://static.raspberrypi.org/files/clubs/Code_Club_and_CoderDojo_CV_Framework.pdf){:target='_blank'}
+### [Fframwaith i'ch helpu i asesu sut mae rhedeg eich clwb yn ddiogel](https://static.raspberrypi.org/files/clubs/Code_Club_and_CoderDojo_CV_Framework.pdf){:target='_blank'}
 
 <embed src="https://static.raspberrypi.org/files/clubs/Code_Club_and_CoderDojo_CV_Framework.pdf" width="790" height="500" 
  type="application/pdf">
   </p>
 
 <h3 spaces-before="0">
-  <a href="https://static.raspberrypi.org/files/clubs/Code_Club_and_CoderDojo_Parent_Guide_Supporting_Online_Coding_Session.pdf">Adult guide to support young people attending online sessions</a>{:target='_blank'}
+  <a href="https://static.raspberrypi.org/files/clubs/Code_Club_and_CoderDojo_Parent_Guide_Supporting_Online_Coding_Session.pdf">Canllaw i oedolion i gefnogi pobl ifanc sy'n cymryd rhan mewn sesiynau ar-lein</a>{:target='_blank'}
 </h3>
 
 <p spaces-before="0">
@@ -21,7 +21,7 @@ Read through these guides and answer the following three questions in the next s
     </p>
 
 <h3 spaces-before="0">
-  <a href="https://static.raspberrypi.org/files/clubs/CoderDojo_Code_Club_Online_Code_of_Behaviour_A4_DIGITAL.pdf">Code of behaviour for young people attending online sessions</a>{:target='_blank'}
+  <a href="https://static.raspberrypi.org/files/clubs/CoderDojo_Code_Club_Online_Code_of_Behaviour_A4_DIGITAL.pdf">Cod ymddygiad i bobl ifanc sy'n cymryd rhan mewn sesiynau ar-lein</a>{:target='_blank'}
 </h3>
 
 <p spaces-before="0">
@@ -31,17 +31,17 @@ Read through these guides and answer the following three questions in the next s
     </p> 
     
     <p spaces-before="0">
-      We strongly recommend that you and your volunteers watch our <a href="https://www.gotostage.com/channel/d20e514831f340b3913659639068c724/recording/92bd90b755964f49b87bfd99f9624435/watch?source=CHANNEL">community call about tools for running online sessions safely</a>{:target='_blank'}.
+      Rydyn ni'n argymell yn gryf eich bod chi a'ch gwirfoddolwyr yn gwylio ein <a href="https://www.gotostage.com/channel/d20e514831f340b3913659639068c724/recording/92bd90b755964f49b87bfd99f9624435/watch?source=CHANNEL">galwad gymunedol ynghylch adnoddau i redeg sesiynau ar-lein yn ddiogel</a>{:target='_blank'}.
     </p>
     
     <p spaces-before="0">
-      You can <a href="https://rpf.io/p/en/safeguarding-module-go">download all of these resources here</a>{:target='_blank'}.
+      Fe allwch chi <a href="https://rpf.io/p/en/safeguarding-module-go">lwytho'r holl adnoddau i lawr yma</a>{:target='_blank'}.
     </p>
     
     <p spaces-before="0">
-      --- save ---
+      --- cadw ---
     </p>
 
 <p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">
-Ensure you're <span style="color: #0faeb0">logged into your Raspberry Pi Foundation account</span> to save your progress, otherwise your completion will not be recorded. Use the <a href="https://my.raspberrypi.org/login">'Log in'</a> link in the navigation menu to log in.
+Gwnewch yn siŵr eich bod wedi <span style="color: #0faeb0">mewngofnodi i'ch cyfrif Raspberry Pi Foundation</span> i gadw eich cynnydd, neu ni fydd cofnod eich bod wedi cwblhau. Defnyddiwch y ddolen <a href="https://my.raspberrypi.org/login">'Mewngofnodi'</a> yn y ddewislen llywio i fewngofnodi.
 </p>
