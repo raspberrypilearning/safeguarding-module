@@ -1,21 +1,21 @@
-## Induction of new volunteers
+## Cynefino gwirfoddolwyr newydd
 
-When you first meet a volunteer, there will be some induction requirements. This includes recognising the desirable characteristics for volunteers; while a volunteer may not have all these traits, they should definitely have at least one.
+Bydd rhai gofynion cynefino pan fyddwch chi'n cyfarfod gwirfoddolwr am y tro cyntaf. Mae hyn yn cynnwys adnabod nodweddion dymunol gwirfoddolwyr; er na fydd gan wirfoddolwr yr holl nodweddion hyn efallai, fe ddylai fod ganddo un o leiaf.
 
-![An adult volunteer.](images/10-Adult.png){:width="400px"}.
-### 1. Training identification
+![Gwirfoddolwr sy'n oedolyn.](images/10-Adult.png){:width="400px"}.
+### 1. Nodi hyfforddiant
 
-If your volunteers would like some further training or support, you can direct them to the [free online courses](https://www.futurelearn.com/partners/raspberry-pi){:target='_blank'} that are provided by the Raspberry Pi Foundation.
+Os hoffai eich gwirfoddolwyr hyfforddiant neu gymorth pellach, fe allwch chi eu cyfeirio at y [cyrsiau ar-lein am ddim](https://www.futurelearn.com/partners/raspberry-pi){:target='_blank'} sy'n cael eu darparu gan y Raspberry Pi Foundation.
 
-If you have several volunteers in your club, you could also arrange some sessions between yourselves to share knowledge and try out new programmes and projects together. This will help increase the confidence of your volunteers on what they are covering in the club.
+Os oes gennych chi nifer o wirfoddolwyr yn eich clwb, fe allech chi hefyd drefnu rhywfaint o sesiynau ymysg eich gilydd i rannu gwybodaeth ac i roi cynnig ar raglenni a phrosiectau newydd gyda'ch gilydd. Bydd hyn yn helpu i fagu hyder eich gwirfoddolwyr o ran yr hyn sy'n cael sylw ganddyn nhw yn y clwb.
 
-### 2. Selection
+### 2. Dewis
 
-Does the new volunteer seem like a good fit for your club? Get in touch with them and let them know when your next session is to see if they can attend. If you are just starting your club for the first time, maybe consider having an informal meeting with all your volunteers to create a plan for your first session. If there are any concerns during the recruitment process of the volunteer, you may want to tell them that they are not a good fit. If you are unsure, you can get in touch with the Raspberry Pi Foundation for advice.
+Ydy hi'n ymddangos bod y gwirfoddolwr newydd yn gweddu'n dda i'ch clwb? Cysylltwch â'r gwirfoddolwr a rhoi gwybod iddo pryd mae eich sesiwn nesaf i weld a yw'n gallu bod yn bresennol. Os ydych chi'n dechrau eich clwb am y tro cyntaf, efallai byddai'n syniad da cael cyfarfod anffurfiol â'ch holl wirfoddolwyr i greu cynllun ar gyfer eich sesiwn gyntaf. Os oes unrhyw bryderon yn codi yn ystod y broses o recriwtio'r gwirfoddolwr, efallai byddwch chi'n dymuno dweud wrtho nad yw'n addas. Os ydych chi'n ansicr, fe allwch chi gysylltu â'r Raspberry Pi Foundation am gyngor.
 
-### 3. First club buddy
+### 3. Cyfaill clwb cyntaf
 
-Congratulations! You have successfully recruited a new volunteer for your club. For their first session, remember they will need some help to get started and to get to know the children. If you have several volunteers at your club, try to pair them up with an experienced volunteer. We wouldn’t advise making new volunteers run a session on their first club visit as it may be intimidating to a new joiner. It's a good idea to put volunteers into pairs so they can plan and run the session together and learn from each other.
+Llongyfarchiadau! Rydych chi wedi llwyddo i recriwtio gwirfoddolwr newydd i'ch clwb. Ar gyfer ei sesiwn gyntaf, cofiwch bydd angen ychydig o help arno i ddechrau arni ac i ddod i adnabod y plant. Os oes gennych chi nifer o wirfoddolwyr yn eich clwb, trefnwch ei fod yn bâr gyda gwirfoddolwr profiadol. Fydden ni ddim yn argymell eich bod yn gofyn i wirfoddolwyr newydd redeg sesiwn ar ei ymweliad cyntaf â'r clwb, oherwydd fe allai hynny fod yn frawychus i rywun newydd. It's a good idea to put volunteers into pairs so they can plan and run the session together and learn from each other.
 
 ### The right volunteer
 
