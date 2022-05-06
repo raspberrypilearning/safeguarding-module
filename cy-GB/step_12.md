@@ -10,51 +10,51 @@ Nawr fe allwch chi brofi eich gwybodaeth gydag ambell sefyllfa. Ym mhob sefyllfa
 
 --- awgrymiadau --- --- awgrym ---
 
-Yn y sefyllfa hon, fe ddylech chi wneud yn siŵr eich bod yn cael gair â'r person ifanc cyn tybio unrhyw beth. Fe ddylai rhieni neu warcheidwaid Kim gael gwybod am y gêm gan y person mwyaf priodol – chi efallai, neu wirfoddolwr neu athro arall yn y clwb. It may also be relevant to tell the young person's parents or guardians about local support in the area if the volunteer knows what these are; often a general practitioner or local doctor is the best place to initially point a parent or guardian to in this scenario. Most importantly, you should talk to your club organiser, or teacher if in a school setting, and ensure that someone from the club checks on Kim in future sessions.
+Yn y sefyllfa hon, fe ddylech chi wneud yn siŵr eich bod yn cael gair â'r person ifanc cyn tybio unrhyw beth. Fe ddylai rhieni neu warcheidwaid Kim gael gwybod am y gêm gan y person mwyaf priodol – chi efallai, neu wirfoddolwr neu athro arall yn y clwb. Efallai y bydd hi hefyd yn berthnasol rhoi gwybod i rieni neu warcheidwaid y person ifanc am ffynonellau cymorth yn yr ardal leol os ydy'r gwirfoddolwr yn gwybod amdanyn nhw; yn aml, ymarferydd cyffredinol neu feddyg lleol ydy'r bobl orau i gyfeirio rhiant neu warcheidwad atyn nhw yn y lle cyntaf yn y sefyllfa hon. Yn bwysicaf oll, fe ddylech chi siarad â threfnydd eich clwb neu athro mewn ysgol, a gwneud yn siŵr bod rhywun o'r clwb yn cadw llygad ar Kim mewn sesiynau yn y dyfodol.
 
---- /hint --- --- /hints ---
+--- /awgrym --- --- /awgrymiadau ---
 
 ### Mark
 
-**One of the young people in the club has come to you and told you that Mark, aged 11, is on his laptop and is looking at pictures of people with "no clothes on and doing strange things".**
+**Mae un o'r bobl ifanc yn y clwb wedi dod atoch chi a dweud bod Mark, sy'n 11 oed, ar ei liniadur ac yn edrych ar luniau o bobl "heb ddillad ymlaen ac yn gwneud pethau rhyfedd".**
 
---- hints --- --- hint ---
+--- awgrymiadau --- --- awgrym ---
 
-The main learning from this scenario is to not overreact or make assumptions, as this could have been something quite innocent or accidental like an advert or pop-up. If the matter can be dealt with immediately, then you (or the club organiser) should speak to Mark without assumptions. Then you (or the club organiser) should speak to both sets of parents (or guardians) separately, mainly to ensure this doesn’t happen again in the club. You should ensure the young person who reported this is OK and knows that you are dealing with the situation. You should make the club organiser aware of the situation and perhaps you may organise an online safety session a few weeks after the incident.
+Y prif beth i'w ddysgu o'r sefyllfa hon ydy peidio â gorymateb neu dybio, oherwydd fe allai hyn fod yn rhywbeth digon diniwed, neu'n ddamweiniol fel hysbyseb neu ffenestr naid. Os oes modd delio â'r mater ar unwaith, fe ddylech chi (neu drefnydd y clwb) siarad â Mark heb dybio unrhyw beth. Wedyn fe ddylech chi (neu drefnydd y clwb) siarad â'r ddwy set o rieni (neu warcheidwaid) ar wahân, yn bennaf i wneud yn siŵr nad yw hyn yn digwydd eto yn y clwb. Fe ddylech chi wneud yn siŵr bod y person ifanc sydd wedi rhoi gwybod am hyn yn iawn ac yn gwybod eich bod yn delio â'r sefyllfa. Fe ddylech chi roi gwybod i drefnydd y clwb am y sefyllfa ac efallai byddai'n syniad da trefnu sesiwn diogelwch ar-lein ychydig o wythnosau ar ôl y digwyddiad.
 
---- /hint --- --- /hints ---
+--- /awgrym --- --- /awgrymiadau ---
 
 ### Zoe
 
-**During an online club session, one of the club members, Zoe, shouts an obscenity at an adult in their home. The adult shouts back. You hear a loud crash, and the club member disappears from your view. You can hear threatening behaviour from the adult and the camera turns off.**
+**Yn ystod sesiwn clwb ar-lein, mae Zoe, un o aelodau'r clwb, yn gweiddi geiriau anweddus ar oedolyn yn ei chartref. Mae'r oedolyn yn gweiddi yn ôl. Rydych chi'n clywed clec uchel ac mae'r aelod o'r clwb yn diflannu o'r golwg. Rydych chi'n gallu clywed ymddygiad bygythiol gan yr oedolyn ac mae'r camera'n diffodd.**
 
---- hints --- --- hint ---
+--- awgrymiadau --- --- awgrym ---
 
-In this scenario, there is an immediate concern about the welfare of a young person and you have no way of knowing whether the young person is safe. The first thing you need to do is to call the police, who will investigate the incident. The second thing you need to do is call our 24-hour safeguarding number to report what has happened.
+Yn y sefyllfa hon, mae pryder uniongyrchol ynglŷn â lles person ifanc a does gennych chi ddim ffordd o wybod a ydy'r person ifanc yn ddiogel ai peidio. Y peth cyntaf mae angen i chi ei wneud ydy ffonio'r heddlu, a fydd yn ymchwilio i'r digwyddiad. Yr ail beth mae angen i chi ei wneud ydy ffonio ein rhif diogelu 24 awr i ddweud beth sydd wedi digwydd.
 
---- /hint --- --- /hints ---
+--- /awgrym --- --- /awgrymiadau ---
 
 ### Robert
 
-**During an online session, you notice that Robert, one of the club members, posts sexually explicit language and links to pornographic websites in the comments section.**
+**Yn ystod sesiwn ar-lein, rydych chi'n sylwi bod Robert, un o aelodau'r clwb, yn postio iaith rywiol amlwg a dolenni i wefannau pornograffig yn yr adran sylwadau.**
 
---- hints --- --- hint ---
+--- awgrymiadau --- --- awgrym ---
 
-It’s important to make a record of what Robert has posted, in case this happens again. He may not know the significance of what he has posted, so it’s important that you let his parents or guardians know what happened and provide them with the [parents guide](https://help.coderdojo.com/cdkb/s/article/Parents-guide-to-CoderDojo). Other young people attending the online session may have seen the messages and been affected by them, so it’s important that you contact their parents or guardians as well and let them know what happened and how you intend to follow up.
+Mae'n bwysig cofnodi beth mae Robert wedi'i bostio rhag ofn bod hyn yn digwydd eto. Efallai na fydd yn deall arwyddocâd yr hyn mae wedi'i bostio, felly mae'n bwysig eich bod yn rhoi gwybod i'w rieni neu warchediwaid beth sydd wedi digwydd, a rhoi'r [canllaw i rieni](https://help.coderdojo.com/cdkb/s/article/Parents-guide-to-CoderDojo) iddyn nhw. Mae'n bosib bydd pobl ifanc eraill sy'n rhan o'r sesiwn ar-lein wedi gweld y negeseuon a'u bod wedi effeithio arnyn nhw, felly mae'n bwysig cysylltu â'u rhieni neu warcheidwaid hwythau i roi gwybod iddyn nhw beth sydd wedi digwydd, a sut rydych chi'n bwriadu bwrw ymlaen.
 
---- /hint --- --- /hints ---
+--- /awgrym --- --- /awgrymiadau ---
 ### Lisa
 
-**Lisa, one of the young people in your club, has got in touch through a private message on social media to ask for help with a project.**
+**Mae Lisa, un o'r bobl ifanc yn eich clwb, wedi cysylltu â chi drwy neges breifat ar gyfrwng cymdeithasol i ofyn am help gyda phrosiect.**
 
---- hints --- --- hint ---
+--- awgrymiadau --- --- awgrym ---
 
-One-to-one messaging with young people is not encouraged for any volunteers, either on social media or through other mediums (including email). There are some situations that you may want to respond to the young person: if it is a long time until the next session or there is a deadline for the project to be entered in a competition and you do not want to disappoint the young person. If you do respond, you should encourage that they email you and cc their parent or guardian (or the club organiser or teacher) into the conversation in future or regarding this query.
+Nid yw cyfnewid negeseuon un-i-un â phobl ifanc yn cael ei annog i unrhyw wirfoddolwr, naill ai ar gyfryngau cymdeithasol neu gyfryngau eraill (gan gynnwys e-bost). Mae rhai sefyllfaoedd lle byddwch chi'n dymuno ateb y person ifanc o bosib: os oes amser hir nes y sesiwn nesaf neu fod dyddiad cau ar gyfer cyflwyno prosiect i gystadleuaeth ac nad ydych chi am siomi'r person ifanc. Os ydych chi'n ateb, fe ddylech chi eu hannog i'ch e-bostio a chopïo ei riant neu warcheidwad (neu drefnydd y clwb neu athro) i mewn i'r sgwrs yn y dyfodol neu ynghylch yr ymholiad hwn.
 
---- /hint --- --- /hints ---
+--- /awgrym --- --- /awgrymiadau ---
 
---- save ---
+--- cadw ---
 
 <p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">
-Ensure you're <span style="color: #0faeb0">logged into your Raspberry Pi Foundation account</span> to save your progress, otherwise your completion will not be recorded. Use the <a href="https://my.raspberrypi.org/login">'Log in'</a> link in the navigation menu to log in.
+Gwnewch yn siŵr eich bod wedi <span style="color: #0faeb0">mewngofnodi i'ch cyfrif Raspberry Pi Foundation</span> i gadw eich cynnydd, neu ni fydd cofnod eich bod wedi cwblhau. Defnyddiwch y ddolen <a href="https://my.raspberrypi.org/login">'Mewngofnodi'</a> yn y ddewislen llywio i fewngofnodi.
 </p>
