@@ -53,14 +53,14 @@ Mae'n gallu bod yn anodd sylwi ar radicaleiddio, gan ei fod yn debyg i rai ymddy
 - Mae'r person ifanc yn cadw ar wahân o'i deulu a'i ffrindiau
 - Mae'r person ifanc yn siarad fel ei fod yn darllen sgript
 - Dydy'r person ifanc ddim yn fodlon neu ddim yn gallu trafod ei safbwyntiau
-- The young person shows a suddenly disrespectful attitude towards others
-- The young person has increased levels of anger
-- The young person is increasingly secretive, especially around internet use
+- Mae gan y person ifanc agwedd amharchus tuag at bobl eraill yn sydyn iawn
+- Mae'r person ifanc yn fwy blin
+- Mae'r person ifanc yn fwy a mwy cyfrinachol, yn enwedig o ran ei ddefnydd o'r rhyngrwyd
 
-[Further resources and definition from the NSPCC (UK)](https://www.nspcc.org.uk/keeping-children-safe/reporting-abuse/dedicated-helplines/protecting-children-from-radicalisation/)
+[Mwy o adnoddau a diffiniad gan yr NSPCC (DU)](https://www.nspcc.org.uk/keeping-children-safe/reporting-abuse/dedicated-helplines/protecting-children-from-radicalisation/)
 
---- save ---
+--- cadw ---
 
 <p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">
-Ensure you're <span style="color: #0faeb0">logged into your Raspberry Pi Foundation account</span> to save your progress, otherwise your completion will not be recorded. Use the <a href="https://my.raspberrypi.org/login">'Log in'</a> link in the navigation menu to log in.
+Gwnewch yn siŵr eich bod wedi <span style="color: #0faeb0">mewngofnodi i'ch cyfrif Raspberry Pi Foundation</span> i gadw eich cynnydd, neu ni fydd cofnod eich bod wedi cwblhau. Defnyddiwch y ddolen <a href="https://my.raspberrypi.org/login">'Mewngofnodi'</a> yn y ddewislen llywio i fewngofnodi.
 </p>
