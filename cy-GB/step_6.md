@@ -1,58 +1,58 @@
-## Abuse and disclosures
+## Cam-drin a datgelu
 
-A vast majority of young people take part in our clubs without encountering abuse. However, it is important that volunteers are aware of what to do when they become aware of abuse either through observation or through a young person telling you about abuse (disclosure). Most Raspberry Pi Foundation clubs create an environment in which many young people feel particularly comfortable, which can help encourage disclosures at the club.
+Mae mwyafrif helaeth y bobl ifanc yn cymryd rhan yn ein clybiau heb ddod ar draws camdriniaeth. Ond mae'n bwysig bod gwirfoddolwyr yn gwybod beth i'w wneud pan fyddan nhw'n dod i wybod am gamdriniaeth naill ai drwy arsylwi neu drwy berson ifanc yn rhoi gwybod iddyn nhw am gamdriniaeth (datgelu). Mae'r rhan fwyaf o glybiau'r Raspberry Pi Foundation yn creu amgylchedd lle mae llawer o bobl ifanc yn teimlo'n arbennig o ddibryder, sy'n gallu helpu i hybu datgeliadau yn y clwb.
 
-![Three young people standing.](images/7-Diverse-Mix.png){:target='_blank'}
+![Tri o bobl ifanc yn sefyll.](images/7-Diverse-Mix.png){:target='_blank'}
 
-Child abuse is generally categorised as neglect, physical abuse, emotional abuse, sexual abuse, or radicalisation. Other aspects to be aware of include peer abuse, organised abuse, and online abuse.
+Ar y cyfan, mae cam-drin plant yn cael ei gategoreiddio fel esgeulustod, cam-drin corfforol, cam-drin emosiynol, cam-drin rhywiol, neu radicaleiddio. Ymysg yr agweddau eraill i fod yn ymwybodol ohonyn nhw mae cam-drin gan gyfoedion, cam-drin wedi'i drefnu, a cham-drin ar-lein.
 
-### Types of abuse: neglect
+### Mathau o gam-drin: esgeulustod
 
-Neglect can be defined in terms of an omission, where a young person suffers significant harm or impairment of development by being deprived of food, clothing, warmth, hygiene, intellectual stimulation, supervision and safety, attachment to and affection from adults, and/or medical care.
+Gellir diffinio esgeulustod yn nhermau diffyg, lle mae person ifanc yn dioddef niwed sylweddol neu amhariad ar ei ddatblygiad drwy gael ei amddifadu o fwyd, dillad, cynhesrwydd, hylendid, ysgogiad i'r meddwl, goruchwyliaeth a diogelwch, ymlyniad wrth oedolion a hoffter ganddyn nhw, a/neu ofal meddygol.
 
-[Further resources and definition from the NSPCC (UK)](https://www.nspcc.org.uk/what-is-child-abuse/types-of-abuse/neglect/){:target='_blank'}
+[Mwy o adnoddau a diffiniad gan yr NSPCC (DU)](https://www.nspcc.org.uk/what-is-child-abuse/types-of-abuse/neglect/){:target='_blank'}
 
-### Types of abuse: physical abuse
+### Mathau o gam-drin: cam-drin corfforol
 
-Physical abuse of a young person is that which results in actual or potential physical harm from an interaction, or lack of interaction, which is reasonably within the control of a parent or person in a position of responsibility, power, or trust. There may be single or repeated incidents.
+Ystyr cam-drin person ifanc yn gorfforol ydy camdriniaeth sy'n arwain at niwed corfforol gwirioneddol neu bosib yn dilyn rhyngweithiad, neu ddiffyg rhyngweithiad, sy'n rhesymol dan reolaeth rhiant neu berson mewn sefyllfa o gyfrifoldeb, pŵer neu ymddiriedaeth. Fe allai fod yn un digwyddiad neu'n ddigwyddiadau niferus.
 
-Physical abuse can involve:
+Mae cam-drin corfforol yn gallu cynnwys:
 
-* Severe physical punishment
-* Beating, slapping, hitting, or kicking
-* Pushing, shaking, or throwing
-* Terrorising with threats
+* Cosb gorfforol ddifrifol
+* Curo, slapio, taro neu gicio
+* Gwthio, ysgwyd neu daflu
+* Dychryn drwy fygythiadau
 
-[Further resources and definition from the NSPCC (UK)](https://www.nspcc.org.uk/what-is-child-abuse/types-of-abuse/physical-abuse/){:target='_blank'}
+[Mwy o adnoddau a diffiniad gan yr NSPCC (DU)](https://www.nspcc.org.uk/what-is-child-abuse/types-of-abuse/physical-abuse/){:target='_blank'}
 
-### Types of abuse: emotional abuse
+### Mathau o gam-drin: cam-drin emosiynol
 
-Emotional abuse is normally to be found in the relationship between a parent, guardian, or caregiver and a young person rather than in a specific event or pattern of events. It occurs when a young person’s needs for affection, approval, consistency, and security are not met. It is rarely manifested in terms of physical symptoms.
+Fel arfer mae cam-drin emosiynol yn digwydd yn y berthynas rhwng rhiant, gwarcheidwad neu sawl sy'n rhoi gofal a pherson ifanc, yn hytrach na mewn digwyddiad penodol neu batrwm o ddigwyddiadau. Mae'n digwydd pan na fydd anghenion person ifanc am hoffter, cymeradwyaeth, cysondeb a diogelwch yn cael eu bodloni. Anaml mae'n dod i'r amlwg drwy symptomau corfforol.
 
-For example:
+Er enghraifft:
 
-* Persistent criticism
-* Sarcasm or hostility
-* Emotional unavailability
-* Use of unreasonable or harsh disciplinary measures
+* Beirniadaeth barhaus
+* Coegni neu elyniaeth
+* Ddim ar gael yn emosiynol
+* Defnyddio camau disgyblu afresymol neu galed
 
-[Further resources and definition from the NSPCC (UK)](https://www.nspcc.org.uk/what-is-child-abuse/types-of-abuse/emotional-abuse/){:target='_blank'}
+[Mwy o adnoddau a diffiniad gan yr NSPCC (DU)](https://www.nspcc.org.uk/what-is-child-abuse/types-of-abuse/emotional-abuse/){:target='_blank'}
 
-### Types of abuse: sexual abuse
+### Mathau o gam-drin: cam-drin rhywiol
 
-Sexual abuse occurs when a young person is used by another person for their gratification or sexual arousal, or for that of others. This doesn't have to be physical contact and it can happen online. Sometimes the young person won't understand that what's happening to them is abuse. They may not even understand that it's wrong.
+Mae cam-drin rhywiol yn digwydd pan fydd person ifanc yn cael ei ddefnyddio gan berson arall ar gyfer ei bleser neu gyffroad rhywiol ei hun neu bobl eraill. Does dim rhaid iddo fod yn gyswllt corfforol ac mae'n gallu digwydd ar-lein. Weithiau fydd y person ifanc ddim yn deall ei fod yn cael ei gam-drin. Efallai na fydd yn sylweddoli ei fod yn anghywir hyd yn oed.
 
-[Further resources and definition from the NSPCC (UK)](https://www.nspcc.org.uk/what-is-child-abuse/types-of-abuse/child-sexual-abuse/)
+[Mwy o adnoddau a diffiniad gan yr NSPCC (DU)](https://www.nspcc.org.uk/what-is-child-abuse/types-of-abuse/child-sexual-abuse/)
 
-### Types of abuse: radicalisation
+### Mathau o gam-drin: radicaleiddio
 
-Young people at risk of radicalisation may be victims of other forms of abuse, such as bullying or discrimnation, that make them easy targets for extremists.
+Fe allai pobl ifanc sydd mewn perygl o radicaleiddio fod yn ddioddefwyr mathau eraill o gam-drin, fel bwlio neu wahaniaethu, sy'n eu gwneud yn dargedau hawdd i eithafwyr.
 
-Radicalisation can be difficult to notice, as it is similar to some normal teenage behaviours. Here are some signs that a person or group might be attempting to radicalise a young person:
+Mae'n gallu bod yn anodd sylwi ar radicaleiddio, gan ei fod yn debyg i rai ymddygiadau arferol ymysg pobl ifanc. Dyma rai arwyddion y gallai person neu grŵp fod yn ceisio radicaleiddio person ifanc:
 
-- The young person isolates themselves from family and friends
-- The young person talks as if from a scripted speech
-- The young person is unwilling or unable to discuss their views
+- Mae'r person ifanc yn cadw ar wahân o'i deulu a'i ffrindiau
+- Mae'r person ifanc yn siarad fel ei fod yn darllen sgript
+- Dydy'r person ifanc ddim yn fodlon neu ddim yn gallu trafod ei safbwyntiau
 - The young person shows a suddenly disrespectful attitude towards others
 - The young person has increased levels of anger
 - The young person is increasingly secretive, especially around internet use
