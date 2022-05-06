@@ -6,7 +6,7 @@ Fel rheol, cyfrifoldeb trefnydd y clwb ydy recriwtio a chynefino gwirfoddolwyr n
 
 Mae'n bwysig cydnabod efallai na fydd pob gwirfoddolwr sydd â diddordeb cynnig help llaw yn eich clwb yn briodol neu'n addas.
 
-A recruitment process makes it easier to identify volunteers who are not a fit for the club. Dyma enghraifft o broses recriwtio.
+Mae proses recriwtio yn ei gwneud hi'n haws nodi gwirfoddolwyr nad ydyn nhw'n addas i'r clwb. Dyma enghraifft o broses recriwtio.
 
 ### 1. Disgrifiad i wirfoddolwyr
 
@@ -25,22 +25,22 @@ Fe allai hon fod yn ffurflen ar-lein gyda rhywfaint o gwestiynau byr. Fe ddylech
 
 ### 3. Cyfarfod neu gyfweliad anffurfiol
 
-Fe ddylech chi wahodd y person i'r clwb er mwyn gallu ei gyfarfod, a bydd yn gallu dysgu mwy am amgylchedd y clwb. Os ydy eich clwb yn rhedeg gweithgareddau ar-lein, fe allwch chi gyfarfod o bell. It should be a casual meeting, but it should give the current club volunteers and the potential volunteer the chance to make a decision about whether they want the potential volunteer to go ahead with volunteering. This will also allow current club volunteers and the potential volunteer to see if they can work together well in the club setting. If you are starting your club for the first time, you should set up an informal meeting with your potential volunteer before your first session.
+Fe ddylech chi wahodd y person i'r clwb er mwyn gallu ei gyfarfod, a bydd yn gallu dysgu mwy am amgylchedd y clwb. Os ydy eich clwb yn rhedeg gweithgareddau ar-lein, fe allwch chi gyfarfod o bell. Fe ddylai fod yn gyfarfod hamddenol ond dylai roi cyfle i wirfoddolwyr presennol y clwb a'r darpar wirfoddolwr benderfynu a ydyn nhw'n dymuno bod y darpar wirfoddolwr yn bwrw ymlaen â'r gwaith gwirfoddoli. Bydd hyn hefyd yn rhoi cyfle i wirfoddolwyr presennol y clwb a'r darpar wirfoddolwr weld a ydyn nhw'n gallu cydweithio'n dda yn yr amgylchedd clwb. Os ydych chi'n dechrau eich clwb am y tro cyntaf, fe ddylech chi drefnu cyfarfod anffurfiol â'ch darpar wirfoddolwr cyn eich sesiwn gyntaf.
 
-### 4. Background checks (dependent on region)
+### 4. Archwiliadau cefndir (dibynnol ar y rhanbarth)
 
-Background checks are useful for voluntary coding clubs; in some regions a background check is mandatory to work with young people. We understand that in some regions it is more difficult to access background checks or that it may be expensive, so that is why reference checks and utilising the rest of the volunteer recruitment process is important.
+Mae archwiliadau cefndir yn ddefnyddiol i glybiau codio gwirfoddol; mewn rhai rhanbarthau mae'n rhaid cael archwiliad cefndir i weithio gyda phobl ifanc. Rydyn ni'n deall ei bod yn anoddach cael gafael ar archwiliadau cefndir mewn rhai rhanbarthau, neu fod hynny'n ddrud, a dyna pam mae archwiliadau canolwr a defnyddio gweddill y broses recriwtio gwirfoddolwyr yn bwysig.
 
-### 5. Referees (optional)
+### 5. Canolwyr (dewisol)
 
-It can be really useful to ask for referees and to check those references to determine if a volunteer is suitable to work with young people and/or vulnerable adults.
+Mae'n gallu bod yn hynod ddefnyddiol gofyn am ganolwyr a'u harchwilio i bennu a ydy gwirfoddolwr yn addas i weithio gyda phobl ifanc a/neu oedolion agored i niwed.
 
-If you have your own application form, you could use this as a space to ask for details of referees. If you haven’t collected referees in the application form, you can ask for them after the informal meeting. Referees can be colleagues, teachers, lecturers, or a friend who knows the potential volunteer well. Volunteers can be referred to the club by another existing club volunteer, this person can also act as a referee.
+Os oes gennych chi eich ffurflen gais eich hun, fe allech chi ei defnyddio i ofyn am fanylion canolwyr. Os nad ydych chi wedi gofyn am ganolwyr ar y ffurflen gais, fe allwch chi ofyn amdanyn nhw ar ôl y cyfarfod anffurfiol. Mae canolwyr yn gallu bod yn gyd-weithwyr, yn athrawon neu'n ddarlithwyr, neu'n ffrind sy'n adnabod y darpar wirfoddolwr yn dda. Gall un o wirfoddolwyr presennol y clwb gyfeirio gwirfoddolwyr at y clwb, a bod yn ganolwr hefyd.
 
-**Tip**: When you check references, it is often best to phone the referee as people may be inclined to give a more honest perspective than in writing.
+**Cyngor**: Pan fyddwch chi'n archwilio canolwyr, mae'n well ffonio'r canolwr yn aml, oherwydd efallai bydd pobl yn fwy tueddol o roi safbwynt mwy onest nag y bydden nhw'n ysgrifenedig.
 
---- save ---
+--- cadw ---
 
 <p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">
-Ensure you're <span style="color: #0faeb0">logged into your Raspberry Pi Foundation account</span> to save your progress, otherwise your completion will not be recorded. Use the <a href="https://my.raspberrypi.org/login">'Log in'</a> link in the navigation menu to log in.
+Gwnewch yn siŵr eich bod wedi <span style="color: #0faeb0">mewngofnodi i'ch cyfrif Raspberry Pi Foundation</span> i gadw eich cynnydd, neu ni fydd cofnod eich bod wedi cwblhau. Defnyddiwch y ddolen <a href="https://my.raspberrypi.org/login">'Mewngofnodi'</a> yn y ddewislen llywio i fewngofnodi.
 </p>
