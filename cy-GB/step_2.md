@@ -1,10 +1,10 @@
-## Recruitment process
+## Y broses recriwtio
 
-Typically, it is the club organiser's responsibility to recruit and onboard new volunteers. From time to time, volunteers may be involved in this process to help the club organiser, in particular to help guide the new volunteer in their first session.
+Fel rheol, cyfrifoldeb trefnydd y clwb ydy recriwtio a chynefino gwirfoddolwyr newydd. O bryd i'w gilydd, mae'n bosib bydd gwirfoddolwyr yn rhan o'r broses hon i helpu trefnydd y clwb, yn benodol i helpu i roi'r gwirfoddolwr newydd ar ben ffordd yn ei sesiwn gyntaf.
 
-![Three volunteers standing.](images/2-RPF-Volunteers.png)
+![Tri gwirfoddolwr yn sefyll.](images/2-RPF-Volunteers.png)
 
-It is important to recognise that not every volunteer who is interested in helping out at your club may be appropriate or a match.
+Mae'n bwysig cydnabod efallai na fydd pob gwirfoddolwr sydd â diddordeb cynnig help llaw yn eich clwb yn briodol neu'n addas.
 
 A recruitment process makes it easier to identify volunteers who are not a fit for the club. Dyma enghraifft o broses recriwtio.
 
