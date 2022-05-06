@@ -37,12 +37,12 @@ Meddyliwch am dair nodwedd hoffech chi eu gweld mewn gwirfoddolwyr newydd, yna c
 
 --- /awgrymiadau ---
 
-Did your answers match some of our desirable characteristics?
+Oedd eich atebion yn debyg i rai o'n nodweddion dymunol ni?
 
-Having volunteers with these traits is desirable to make your club a fun and safe space for all young people.
+Mae'n ddymunol cael gwirfoddolwyr â'r nodweddion hyn er mwyn gwneud eich clwb yn lle diogel a llawn hwyl i'r holl bobl ifanc.
 
---- save ---
+--- cadw ---
 
 <p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">
-Ensure you're <span style="color: #0faeb0">logged into your Raspberry Pi Foundation account</span> to save your progress, otherwise your completion will not be recorded. Use the <a href="https://my.raspberrypi.org/login">'Log in'</a> link in the navigation menu to log in.
+Gwnewch yn siŵr eich bod wedi <span style="color: #0faeb0">mewngofnodi i'ch cyfrif Raspberry Pi Foundation</span> i gadw eich cynnydd, neu ni fydd cofnod eich bod wedi cwblhau. Defnyddiwch y ddolen <a href="https://my.raspberrypi.org/login">'Mewngofnodi'</a> yn y ddewislen llywio i fewngofnodi.
 </p>
