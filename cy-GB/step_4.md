@@ -1,6 +1,6 @@
-## Code of behaviour
+## Cod ymddygiad
 
-Every person at the club must be aware of the code of behaviour and follow these expectations. Our code of behaviour document is available at [rpf.io/code-of-behaviour](http://rpf.io/code-of-behaviour){:target='_blank'}
+Rhaid i bawb yn y clwb fod yn ymwybodol o'r cod ymddygiad a dilyn y disgwyliadau hyn. Mae ein dogfen cod ymddygiad ar gael yn [rpf.io/code-of-behaviour](http://rpf.io/code-of-behaviour){:target='_blank'}
 
 <embed src="images/Raspberry_Pi_Foundation-safeguarding-code-of-behaviour.pdf" width="790" height="500" 
  type="application/pdf">
@@ -10,40 +10,40 @@ Every person at the club must be aware of the code of behaviour and follow these
     <br>
   </p>
 <h3 spaces-before="0">
-  Breaking the code of behaviour
+  Torri'r cod ymddygiad
 </h3>
 
 <p spaces-before="0">
-  If a volunteer in your club behaves inappropriately and/or breaks the code of behaviour, action will have to be taken by the club organiser. If the club organiser breaks the code of behaviour, action will have to be taken by another volunteer.
+  Os bydd gwirfoddolwr yn eich clwb yn ymddwyn yn amhriodol a/neu'n torri'r cod ymddygiad, bydd rhaid i drefnydd y clwb gymryd camau. Os bydd trefnydd y clwb yn torri'r cod ymddygiad, bydd rhaid i wirfoddolwr arall gymryd camau.
 </p>
 
 <p spaces-before="0">
-  Actions to take:
+  Camau i'w cymryd:
 </p>
 
 <ul>
   <li>
-    A verbal warning
+    Rhybudd ar lafar
   </li>
   <li>
-    A formal written warning, to which any further indiscretions will lead to suspension from the club or to ending their role as a volunteer of the club
+    Rhybudd ysgrifenedig ffurfiol. Bydd unrhyw achos o dorri wedi hynny yn arwain at waharddiad o'r clwb neu at ddod â rôl gwirfoddoli i ben
   </li>
   <li>
-    Suspension of the volunteer from the club
+    Gwahardd gwirfoddolwr o'r clwb
   </li>
   <li>
-    Banning the volunteer from participating in further activities in the club
+    Atal y gwirfoddolwr rhag cymryd rhan mewn gweithgareddau yn y clwb
   </li>
 </ul>
 
 <p spaces-before="0">
-  If you or your club is unsure of the action to take please, ask for support from the <a href="mailto:safeguarding@raspberrypi.org">Raspberry Pi Foundation</a>.
+  Os ydych chi neu eich clwb yn ansicr pa gamau i'w cymryd, gofynnwch am gymorth gan y <a href="mailto:safeguarding@raspberrypi.org">Raspberry Pi Foundation</a>.
 </p>
 
 <p spaces-before="0">
-  --- save ---
+  --- cadw ---
 </p>
 
 <p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">
-Ensure you're <span style="color: #0faeb0">logged into your Raspberry Pi Foundation account</span> to save your progress, otherwise your completion will not be recorded. Use the <a href="https://my.raspberrypi.org/login">'Log in'</a> link in the navigation menu to log in.
+Gwnewch yn siŵr eich bod wedi <span style="color: #0faeb0">mewngofnodi i'ch cyfrif Raspberry Pi Foundation</span> i gadw eich cynnydd, neu ni fydd cofnod eich bod wedi cwblhau. Defnyddiwch y ddolen <a href="https://my.raspberrypi.org/login">'Mewngofnodi'</a> yn y ddewislen llywio i fewngofnodi.
 </p>
