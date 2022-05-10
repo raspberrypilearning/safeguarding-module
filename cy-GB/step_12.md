@@ -40,7 +40,7 @@ Yn y sefyllfa hon, mae pryder uniongyrchol ynglŷn â lles person ifanc a does g
 
 --- awgrymiadau --- --- awgrym ---
 
-Mae'n bwysig cofnodi beth mae Robert wedi'i bostio rhag ofn bod hyn yn digwydd eto. Efallai na fydd yn deall arwyddocâd yr hyn mae wedi'i bostio, felly mae'n bwysig eich bod yn rhoi gwybod i'w rieni neu warchediwaid beth sydd wedi digwydd, a rhoi'r [canllaw i rieni](https://help.coderdojo.com/cdkb/s/article/Parents-guide-to-CoderDojo) iddyn nhw. Mae'n bosib bydd pobl ifanc eraill sy'n rhan o'r sesiwn ar-lein wedi gweld y negeseuon a'u bod wedi effeithio arnyn nhw, felly mae'n bwysig cysylltu â'u rhieni neu warcheidwaid hwythau i roi gwybod iddyn nhw beth sydd wedi digwydd, a sut rydych chi'n bwriadu bwrw ymlaen.
+Mae'n bwysig cofnodi beth mae Robert wedi'i bostio rhag ofn bod hyn yn digwydd eto. Efallai na fydd yn deall arwyddocâd yr hyn mae wedi'i bostio, felly mae'n bwysig eich bod yn rhoi gwybod i'w rieni neu warcheidwaid beth sydd wedi digwydd, a rhoi'r [canllaw i rieni](https://help.coderdojo.com/cdkb/s/article/Parents-guide-to-CoderDojo) iddyn nhw. Mae'n bosib bydd pobl ifanc eraill sy'n rhan o'r sesiwn ar-lein wedi gweld y negeseuon a'u bod wedi effeithio arnyn nhw, felly mae'n bwysig cysylltu â'u rhieni neu warcheidwaid hwythau i roi gwybod iddyn nhw beth sydd wedi digwydd, a sut rydych chi'n bwriadu bwrw ymlaen.
 
 --- /awgrym --- --- /awgrymiadau ---
 ### Lisa
