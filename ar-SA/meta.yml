@@ -14,7 +14,7 @@ steps:
 - title: قواعد السلوك
 - title: اختبار قواعد السلوك
   knowledge_quiz:
-    path: اختبار1
+    path: quiz1
     version: 1
     questions: 9
     passing_score: 9
@@ -22,7 +22,7 @@ steps:
 - title: كيفية إجراء جلسات آمنة عبر الإنترنت
 - title: اختبار الجلسات عبر الإنترنت
   knowledge_quiz:
-    path: اختبار2
+    path: quiz2
     version: 1
     questions: 3
     passing_score: 3
@@ -30,7 +30,7 @@ steps:
 - title: كيفية تسجيل تفاصيل إساءة المعاملة
 - title: اختبار الملاحظات والتقييمات
   knowledge_quiz:
-    path: اختبار3
+    path: quiz3
     version: 1
     questions: 6
     passing_score: 6
