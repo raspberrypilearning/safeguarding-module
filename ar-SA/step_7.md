@@ -8,7 +8,6 @@
 
 <embed src="images/Code_Club_and_CoderDojo_CV_Framework.pdf" width="790" height="500" 
  type="application/pdf">
-  </p>
 
 <h3 spaces-before="0">
   <a href="images/Code_Club_and_CoderDojo_Parent_Guide_Supporting_Online_Coding_Session.pdf">دليل الكبار لدعم الشباب الذين يحضرون الجلسات عبر الإنترنت</a>{:target='_blank'}
