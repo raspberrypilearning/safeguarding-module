@@ -1,0 +1,38 @@
+---
+title: Gids ter bescherming van deelnemers
+hero_image: images/banner.png
+description: Gids ter bescherming van deelnemers
+version: 0.1
+listed: false
+copyedit: false
+volunteers: true
+last_tested: 2022-01-05
+steps:
+  - title: Hoe zorgen we voor een veilige omgeving voor kinderen?
+  - title: Wervingsproces
+  - title: Introductie van nieuwe vrijwilligers
+  - title: Gedragscode
+  - title: Gedragscode quiz
+    knowledge_quiz:
+      path: quiz1
+      version: 1
+      questions: 9
+      passing_score: 9
+  - title: "Het signaleren en melden van misbruik"
+  - title: Veilige online sessies uitvoeren
+  - title: Online sessies quiz
+    knowledge_quiz:
+      path: quiz2
+      version: 1
+      questions: 3
+      passing_score: 3
+  - title: "Wat te doen als…"
+  - title: Gegevens van misbruik vastleggen
+  - title: Observaties en evaluaties quiz
+    knowledge_quiz:
+      path: quiz3
+      version: 1
+      questions: 6
+      passing_score: 6
+    completion: external
+  - title: "Je bent bijna klaar!"

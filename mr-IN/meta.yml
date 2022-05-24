@@ -1,0 +1,38 @@
+---
+title: सुरक्षा मॉड्यूल
+hero_image: images/banner.png
+description: सुरक्षा मॉड्यूल
+version: 0.1
+listed: false
+copyedit: false
+volunteers: true
+last_tested: 2022-01-05
+steps:
+  - title: बालकांचे रक्षण म्हणजे काय?
+  - title: भरती प्रक्रिया
+  - title: नवीन स्वयंसेवकांना समाविष्ट करून घेणे
+  - title: वर्तणूक आचारसंहिता
+  - title: वर्तणूक प्रश्नमंजुषा आचारसंहिता
+    knowledge_quiz:
+      path: quiz1
+      version: 0
+      questions: 0
+      passing_score: 0
+  - title: "गैरवर्तणूक आणि प्रकटीकरण"
+  - title: सुरक्षित ऑन लाइन सत्र कसे चालवावे
+  - title: ऑन लाइन सत्र प्रश्नमंजुषा
+    knowledge_quiz:
+      path: quiz2
+      version: 0
+      questions: 3
+      passing_score: 3
+  - title: "तर काय करावे…"
+  - title: गैरवर्तणूकीच्या तपशीलाची कशी नोंद करावी
+  - title: निरीक्षण आणि मूल्यांसमान प्रश्नमंजुषा
+    knowledge_quiz:
+      path: quiz3
+      version: 0
+      questions: 0
+      passing_score: 0
+    completion: external
+  - title: "जवळजवळ झालेच!"
