@@ -4,7 +4,7 @@
 
 اقرأ هذه الأدلة وأجب عن الأسئلة الثلاثة التالية في الخطوة التالية.
 
-### [إطار لمساعدتك في تقييم كيفية إدارة ناديك بأمان](images/clubs/Code_Club_and_CoderDojo_CV_Framework.pdf){:target='_blank'}
+### [إطار لمساعدتك في تقييم كيفية إدارة ناديك بأمان](images/Code_Club_and_CoderDojo_CV_Framework.pdf){:target='_blank'}
 
 <embed src="images/Code_Club_and_CoderDojo_CV_Framework.pdf" width="790" height="500" 
  type="application/pdf">
