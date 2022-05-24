@@ -21,7 +21,7 @@
 
 これは、何問かの短い質問からなるオンラインフォームでも構いません。 可能であれば審判員を要求し、クラブで役立つ関連スキルがあれば教えてもらうとよいでしょう。 連絡先など、応募用紙に記載された情報は、このボランティア候補者がクラブに入会した際に役立つものです。
 
-**注**：Code ClubまたはCoderDojoに参加している場合は、申し込みフォームではなく、潜在的なボランティアに当社のWebサイト（[codeclub.org](https://codeclub.org){：target='_blank'}および [](https://coderdojo.com)：target ='_ blank'}）。
+**注**：Code ClubまたはCoderDojoに参加している場合は、申し込みフォームではなく、潜在的なボランティアに当社のWebサイト（[codeclub.org](https://codeclub.org){target='_blank'} および [coderdojo.com](https://coderdojo.com){target='_blank'}）。
 
 ### 3. 非公式の会議または面接
 
