@@ -25,7 +25,7 @@
 1. संभाषण रेकॉर्ड करा.
 1. सर्व लिहित दस्तऐवज तारीख घालून सही करून लिहा.
 1. आयोजित स्थळी बाल सुरक्षा कामासाठी उपलब्ध व्यक्तीला लगेच माहिती द्या. ते आपल्याला पुढील कृतींचे मार्गदर्शन करतील ज्यांत आपण ऐकले / पाहीलेले सविस्तर लिहिणे ह्यांचा समावेश असेल.
-1. आपण केलेले उपाय मेल करून किंवा [safeguarding@raspberrypi.org](mailto:safeguarding@raspberrypi.org){:target='_blank'}हा फॉर्म भरून [ऑनलाईन सुरक्षा फॉर्म](https://form.raspberrypi.org/f/safeguarding-concern-form){:target='_blank'}कळवा.
+1. आपण केलेले उपाय मेल करून किंवा [safeguarding@raspberrypi.org](mailto:safeguarding@raspberrypi.org){:target='_blank'} हा फॉर्म भरून [ऑनलाईन सुरक्षा फॉर्म](https://form.raspberrypi.org/f/safeguarding-concern-form){:target='_blank'} कळवा.
 1. तरुणांना लगेच धोका असेल तर आयोजित स्थळी माणसांनी बाल सुरक्षा पोलिसांना तात्काळ संपर्क करावा.
 1. सर्व माहिती गोपनीय असून आवश्यक त्यानुसारच इतरत्र सांगितली जाईल.
 1. आयोजित स्थळी तक्रार नोंद शक्य नसल्यास [safeguarding@raspberrypi.org](mailto:safeguarding@raspberrypi.org){:target='_blank'} येथे संपर्क साधा म्हणजे आमचे सदस्य लवकरच आपल्याला संपर्क करतील.
@@ -38,7 +38,7 @@
 1. सर्व लिहित दस्तऐवज तारीख घालून सही करून लिहा.
 1. आयोजित स्थळी बाल सुरक्षा कामासाठी उपलब्ध व्यक्तीला लगेच माहिती द्या. ते आपल्याला पुढील कृतींचे मार्गदर्शन करतील ज्यांत आपण ऐकले / पाहिलेले सविस्तर लिहिणे ह्यांचा समावेश असेल.
 1. तरुणांना लगेच धोका असेल तर आयोजित स्थळी माणसांनी बाल सुरक्षा पोलिसांना तात्काळ संपर्क करावा.
-1. आपण केलेले उपाय मेल करून किंवा [safeguarding@raspberrypi.org](mailto:safeguarding@raspberrypi.org){:target='_blank'}हा फॉर्म भरून [ऑनलाईन सुरक्षा फॉर्म](https://form.raspberrypi.org/f/safeguarding-concern-form){:target='_blank'}कळवा.
+1. आपण केलेले उपाय मेल करून किंवा [safeguarding@raspberrypi.org](mailto:safeguarding@raspberrypi.org){:target='_blank'} हा फॉर्म भरून [ऑनलाईन सुरक्षा फॉर्म](https://form.raspberrypi.org/f/safeguarding-concern-form){:target='_blank'} कळवा.
 1. सर्व माहिती गोपनीय असून आवश्यक त्यानुसारच इतरत्र सांगितली जाईल.
 1. आयोजित स्थळी तक्रार नोंद शक्य नसल्यास [safeguarding@raspberrypi.org](mailto:safeguarding@raspberrypi.org){:target='_blank'} येथे संपर्क साधा म्हणजे आमचे सदस्य लवकरच आपल्याला संपर्क करतील.
 
@@ -47,5 +47,5 @@
 --- save ---
 
 <p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">
-आपण <span style="color: #0faeb0">आपल्या Raspberry Pi Fफाउंडेशन खात्यात</span>लॉगिन होऊन आपली प्रगती जतन करा नाही तर त्याशिवाय ती जतन केली जाणार नाही. ह्या नेव्हिगेशन मेनूमधील<a href="https://my.raspberrypi.org/login">लिंकवर 'लॉग इन'</a> करा.
+आपण <span style="color: #0faeb0">आपल्या Raspberry Pi Fफाउंडेशन खात्यात</span> लॉगिन होऊन आपली प्रगती जतन करा नाही तर त्याशिवाय ती जतन केली जाणार नाही. ह्या नेव्हिगेशन मेनूमधील <a href="https://my.raspberrypi.org/login">लिंकवर 'लॉग इन'</a> करा.
 </p>
