@@ -15,15 +15,15 @@ steps:
   - title: वर्तणूक प्रश्नमंजुषा आचारसंहिता
     knowledge_quiz:
       path: quiz1
-      version: 0
-      questions: 0
-      passing_score: 0
+      version: 1
+      questions: 9
+      passing_score: 9
   - title: "गैरवर्तणूक आणि प्रकटीकरण"
   - title: सुरक्षित ऑन लाइन सत्र कसे चालवावे
   - title: ऑन लाइन सत्र प्रश्नमंजुषा
     knowledge_quiz:
       path: quiz2
-      version: 0
+      version: 1
       questions: 3
       passing_score: 3
   - title: "तर काय करावे…"
@@ -31,8 +31,8 @@ steps:
   - title: निरीक्षण आणि मूल्यांसमान प्रश्नमंजुषा
     knowledge_quiz:
       path: quiz3
-      version: 0
-      questions: 0
-      passing_score: 0
+      version: 1
+      questions: 6
+      passing_score: 6
     completion: external
   - title: "जवळजवळ झालेच!"
