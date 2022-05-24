@@ -11,22 +11,22 @@
   </p>
 
 <h3 spaces-before="0">
-  <a href="images/clubs/Code_Club_and_CoderDojo_Parent_Guide_Supporting_Online_Coding_Session.pdf">دليل الكبار لدعم الشباب الذين يحضرون الجلسات عبر الإنترنت</a>{:target='_blank'}
+  <a href="images/Code_Club_and_CoderDojo_Parent_Guide_Supporting_Online_Coding_Session.pdf">دليل الكبار لدعم الشباب الذين يحضرون الجلسات عبر الإنترنت</a>{:target='_blank'}
 </h3>
 
 <p spaces-before="0">
 
-<embed src="images/clubs/Code_Club_and_CoderDojo_Parent_Guide_Supporting_Online_Coding_Session.pdf" width="790" height="1000" 
+<embed src="images/Code_Club_and_CoderDojo_Parent_Guide_Supporting_Online_Coding_Session.pdf" width="790" height="1000" 
  type="application/pdf">
 </p>
 
 <h3 spaces-before="0">
-  <a href="images/clubs/CoderDojo_Code_Club_Online_Code_of_Behaviour_A4_DIGITAL.pdf">مدونة سلوك للشباب الذين يحضرون جلسات عبر الإنترنت</a>{:target='_blank'}
+  <a href="images/CoderDojo_Code_Club_Online_Code_of_Behaviour_A4_DIGITAL.pdf">مدونة سلوك للشباب الذين يحضرون جلسات عبر الإنترنت</a>{:target='_blank'}
 </h3>
 
 <p spaces-before="0">
 
-<embed src="images/clubs/CoderDojo_Code_Club_Online_Code_of_Behaviour_A4_DIGITAL.pdf" width="790" height="1000" 
+<embed src="images/CoderDojo_Code_Club_Online_Code_of_Behaviour_A4_DIGITAL.pdf" width="790" height="1000" 
  type="application/pdf">
 </p> 
 
