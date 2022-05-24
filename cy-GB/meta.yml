@@ -1,0 +1,38 @@
+---
+title: Modiwl diogelu
+hero_image: images/banner.png
+description: Modiwl diogelu
+version: 0.1
+listed: false
+copyedit: false
+volunteers: true
+last_tested: 2022-01-05
+steps:
+  - title: Beth ydy diogelu plant?
+  - title: Y broses recriwtio
+  - title: Cynefino gwirfoddolwyr newydd
+  - title: Cod ymddygiad
+  - title: Cwis cod ymddygiad
+    knowledge_quiz:
+      path: quiz1
+      version: 1
+      questions: 9
+      passing_score: 9
+  - title: "Cam-drin a datgelu"
+  - title: Sut mae rhedeg sesiynau ar-lein yn ddiogel
+  - title: Cwis sesiynau ar-lein
+    knowledge_quiz:
+      path: quiz2
+      version: 1
+      questions: 3
+      passing_score: 3
+  - title: "Beth i'w wneud os…"
+  - title: Sut mae cofnodi manylion camdriniaeth
+  - title: Cwis arsylwi a gwerthuso
+    knowledge_quiz:
+      path: quiz3
+      version: 1
+      questions: 6
+      passing_score: 6
+    completion: external
+  - title: "Bron â gorffen!"

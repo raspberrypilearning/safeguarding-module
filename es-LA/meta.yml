@@ -1,0 +1,38 @@
+---
+title: Módulo de salvaguarda
+hero_image: images/banner.png
+description: Módulo de salvaguarda
+version: 0.1
+listed: false
+copyedit: false
+volunteers: true
+last_tested: 2022-01-05
+steps:
+  - title: '¿Qué es la salvaguarda infantil?'
+  - title: Proceso de contratación
+  - title: Iniciación de nuevos voluntarios
+  - title: Código de comportamiento
+  - title: Prueba corta del código de conducta
+    knowledge_quiz:
+      path: quiz1
+      version: 1
+      questions: 9
+      passing_score: 9
+  - title: "Malos tratos y revelaciones"
+  - title: Cómo llevar a cabo sesiones seguras en línea
+  - title: Prueba corta de sesiones en línea
+    knowledge_quiz:
+      path: quiz2
+      version: 1
+      questions: 3
+      passing_score: 3
+  - title: "Qué debe hacer si…"
+  - title: Cómo registrar los detalles del maltrato
+  - title: Prueba corta de observaciones y evaluaciones
+    knowledge_quiz:
+      path: quiz3
+      version: 1
+      questions: 6
+      passing_score: 6
+    completion: external
+  - title: "¡Ya casi estamos listos!"

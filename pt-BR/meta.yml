@@ -1,0 +1,38 @@
+---
+title: Módulo de salvaguarda
+hero_image: images/banner.png
+description: Módulo de salvaguarda
+version: 0.1
+listed: false
+copyedit: false
+volunteers: true
+last_tested: 2022-01-05
+steps:
+  - title: O que é proteção à criança?
+  - title: Processo de recrutamento
+  - title: Indução de novos voluntários
+  - title: Código de comportamento
+  - title: Teste de código de comportamento
+    knowledge_quiz:
+      path: quiz1
+      version: 1
+      questions: 9
+      passing_score: 9
+  - title: "Abusos e divulgações"
+  - title: Como executar sessões on-line seguras
+  - title: Questionário de sessões on-line
+    knowledge_quiz:
+      path: quiz2
+      version: 1
+      questions: 3
+      passing_score: 3
+  - title: "O que fazer se…"
+  - title: Como registrar detalhes de abuso
+  - title: Questionário de observações e avaliações
+    knowledge_quiz:
+      path: quiz3
+      version: 1
+      questions: 6
+      passing_score: 6
+    completion: external
+  - title: "Estamos quase lá!"
