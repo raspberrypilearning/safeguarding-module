@@ -18,7 +18,7 @@ steps:
     version: 1
     questions: 9
     passing_score: 9
-- title: "الإساءة والإفصاحات"
+- title: الإساءة والإفصاحات
 - title: كيفية إجراء جلسات آمنة عبر الإنترنت
 - title: اختبار الجلسات عبر الإنترنت
   knowledge_quiz:
@@ -26,7 +26,7 @@ steps:
     version: 1
     questions: 3
     passing_score: 3
-- title: "ماذا تفعل إذا…"
+- title: ماذا تفعل إذا…
 - title: كيفية تسجيل تفاصيل إساءة المعاملة
 - title: اختبار الملاحظات والتقييمات
   knowledge_quiz:
@@ -34,5 +34,4 @@ steps:
     version: 1
     questions: 6
     passing_score: 6
-  completion: خارجي
-- title: "هذا تقريبًا كلّ شيء!"
+- title: هذا تقريبًا كلّ شيء!

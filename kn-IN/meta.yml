@@ -8,31 +8,30 @@ copyedit: false
 volunteers: true
 last_tested: 2022-01-05
 steps:
-  - title: ಮಕ್ಕಳ ರಕ್ಷಣೆ ಎಂದರೇನು?
-  - title: ನೇಮಕಾತಿ ಪ್ರಕ್ರಿಯೆ
-  - title: ಹೊಸ ಸ್ವಯಂಸೇವಕರ ಸೇರ್ಪಡೆ
-  - title: ನಡವಳಿಕೆಯ ಸಂಹಿತೆ
-  - title: ನಡವಳಿಕೆಯ ಸಂಹಿತೆಯ ಕ್ವಿಜ್
-    knowledge_quiz:
-      path: quiz1
-      version: 1
-      questions: 9
-      passing_score: 9
-  - title: "ದೌರ್ಜನ್ಯ ಮತ್ತು ಬಹಿರಂಗಪಡಿಸುವಿಕೆಗಳು"
-  - title: ಸುರಕ್ಷಿತ ಆನ್‌ಲೈನ್ ಸೆಷನ್‌ಗಳನ್ನು ನಡೆಸುವುದು ಹೇಗೆ
-  - title: ಆನ್‌ಲೈನ್ ಸೆಷನ್‌ಗಳ ಕ್ವಿಜ್
-    knowledge_quiz:
-      path: quiz2
-      version: 1
-      questions: 3
-      passing_score: 3
-  - title: "ಹೀಗಿದ್ದಲ್ಲಿ ಏನು ಮಾಡಬೇಕು…"
-  - title: ದೌರ್ಜನ್ಯದ ವಿವರಗಳನ್ನು ದಾಖಲಿಸುವುದು ಹೇಗೆ
-  - title: ವೀಕ್ಷಣೆಗಳು ಮತ್ತು ಮೌಲ್ಯಮಾಪನಗಳ ಕ್ವಿಜ್‌
-    knowledge_quiz:
-      path: quiz3
-      version: 1
-      questions: 6
-      passing_score: 6
-    completion: external
-  - title: "ಹೆಚ್ಚೂ ಕಡಿಮೆ ಮುಗಿಯಿತು!"
+- title: ಮಕ್ಕಳ ರಕ್ಷಣೆ ಎಂದರೇನು?
+- title: ನೇಮಕಾತಿ ಪ್ರಕ್ರಿಯೆ
+- title: ಹೊಸ ಸ್ವಯಂಸೇವಕರ ಸೇರ್ಪಡೆ
+- title: ನಡವಳಿಕೆಯ ಸಂಹಿತೆ
+- title: ನಡವಳಿಕೆಯ ಸಂಹಿತೆಯ ಕ್ವಿಜ್
+  knowledge_quiz:
+    path: quiz1
+    version: 1
+    questions: 9
+    passing_score: 9
+- title: ದೌರ್ಜನ್ಯ ಮತ್ತು ಬಹಿರಂಗಪಡಿಸುವಿಕೆಗಳು
+- title: ಸುರಕ್ಷಿತ ಆನ್‌ಲೈನ್ ಸೆಷನ್‌ಗಳನ್ನು ನಡೆಸುವುದು ಹೇಗೆ
+- title: ಆನ್‌ಲೈನ್ ಸೆಷನ್‌ಗಳ ಕ್ವಿಜ್
+  knowledge_quiz:
+    path: quiz2
+    version: 1
+    questions: 3
+    passing_score: 3
+- title: ಹೀಗಿದ್ದಲ್ಲಿ ಏನು ಮಾಡಬೇಕು…
+- title: ದೌರ್ಜನ್ಯದ ವಿವರಗಳನ್ನು ದಾಖಲಿಸುವುದು ಹೇಗೆ
+- title: ವೀಕ್ಷಣೆಗಳು ಮತ್ತು ಮೌಲ್ಯಮಾಪನಗಳ ಕ್ವಿಜ್‌
+  knowledge_quiz:
+    path: quiz3
+    version: 1
+    questions: 6
+    passing_score: 6
+- title: ಹೆಚ್ಚೂ ಕಡಿಮೆ ಮುಗಿಯಿತು!

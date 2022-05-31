@@ -8,31 +8,30 @@ copyedit: false
 volunteers: true
 last_tested: 2022-01-05
 steps:
-  - title: チャイルド・セーフガードとは何ですか?
-  - title: 採用の流れ
-  - title: 新規ボランティアの受け入れ
-  - title: 行動規範
-  - title: 行動規範テスト
-    knowledge_quiz:
-      path: quiz1
-      version: 1
-      questions: 9
-      passing_score: 9
-  - title: "不正使用および情報開示"
-  - title: 安全なオンラインセッションのやり方
-  - title: オンラインセッションテスト
-    knowledge_quiz:
-      path: quiz2
-      version: 1
-      questions: 3
-      passing_score: 3
-  - title: "もしもの時のために"
-  - title: 虐待の詳細を記録する方法
-  - title: 観察・評価テスト
-    knowledge_quiz:
-      path: quiz3
-      version: 1
-      questions: 6
-      passing_score: 6
-    completion: external
-  - title: "もう少しです!"
+- title: チャイルド・セーフガードとは何ですか?
+- title: 採用の流れ
+- title: 新規ボランティアの受け入れ
+- title: 行動規範
+- title: 行動規範テスト
+  knowledge_quiz:
+    path: quiz1
+    version: 1
+    questions: 9
+    passing_score: 9
+- title: 不正使用および情報開示
+- title: 安全なオンラインセッションのやり方
+- title: オンラインセッションテスト
+  knowledge_quiz:
+    path: quiz2
+    version: 1
+    questions: 3
+    passing_score: 3
+- title: もしもの時のために
+- title: 虐待の詳細を記録する方法
+- title: 観察・評価テスト
+  knowledge_quiz:
+    path: quiz3
+    version: 1
+    questions: 6
+    passing_score: 6
+- title: もう少しです!
