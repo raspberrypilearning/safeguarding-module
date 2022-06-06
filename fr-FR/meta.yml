@@ -8,31 +8,30 @@ copyedit: false
 volunteers: true
 last_tested: 2022-01-05
 steps:
-  - title: Qu'est-ce que la protection des enfants ?
-  - title: Processus de recrutement
-  - title: Accueil des nouveaux bénévoles
-  - title: Code de conduite
-  - title: Quiz sur le code de conduite
-    knowledge_quiz:
-      path: quiz1
-      version: 1
-      questions: 9
-      passing_score: 9
-  - title: "Abus et dénonciations"
-  - title: Comment organiser des sessions en ligne en toute sécurité
-  - title: Quiz sur les sessions en ligne
-    knowledge_quiz:
-      path: quiz2
-      version: 1
-      questions: 3
-      passing_score: 3
-  - title: "Que faire si…"
-  - title: Comment enregistrer les détails de l'abus
-  - title: Quiz d'observations et d'évaluations
-    knowledge_quiz:
-      path: quiz3
-      version: 1
-      questions: 6
-      passing_score: 6
-    completion: external
-  - title: "C'est presque terminé !"
+- title: Qu'est-ce que la protection des enfants ?
+- title: Processus de recrutement
+- title: Accueil des nouveaux bénévoles
+- title: Code de conduite
+- title: Quiz sur le code de conduite
+  knowledge_quiz:
+    path: quiz1
+    version: 1
+    questions: 9
+    passing_score: 9
+- title: Abus et dénonciations
+- title: Comment organiser des sessions en ligne en toute sécurité
+- title: Quiz sur les sessions en ligne
+  knowledge_quiz:
+    path: quiz2
+    version: 1
+    questions: 3
+    passing_score: 3
+- title: Que faire si…
+- title: Comment enregistrer les détails de l'abus
+- title: Quiz d'observations et d'évaluations
+  knowledge_quiz:
+    path: quiz3
+    version: 1
+    questions: 6
+    passing_score: 6
+- title: C'est presque terminé !
