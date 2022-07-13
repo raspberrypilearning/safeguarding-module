@@ -67,5 +67,4 @@ One-to-one messaging with young people is not encouraged for any volunteers, eit
 --- save ---
 
 <p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">
-Ensure you're <span style="color: #0faeb0">logged into your Raspberry Pi Foundation account</span> to save your progress, otherwise your completion will not be recorded. Use the <a href="https://my.raspberrypi.org/login">'Log in'</a> link in the navigation menu to log in.
-</p>
+Ensure you're <span style="color: #0faeb0">logged into your Raspberry Pi Foundation account</span> to save your progress, otherwise your completion will not be recorded. Use the <a href="/login">'Log in'</a> link in the navigation menu to log in and ensure that you follow the "What's next?" link below to complete the module.</p>
