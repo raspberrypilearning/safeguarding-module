@@ -42,5 +42,5 @@ Os oes gennych chi eich ffurflen gais eich hun, fe allech chi ei defnyddio i ofy
 --- save ---
 
 <p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">
-Gwnewch yn siŵr eich bod wedi <span style="color: #0faeb0">mewngofnodi i'ch cyfrif Raspberry Pi Foundation</span> i gadw eich cynnydd, neu ni fydd cofnod eich bod wedi cwblhau. Defnyddiwch y ddolen <a href="https://my.raspberrypi.org/login">'Mewngofnodi'</a> yn y ddewislen llywio i fewngofnodi.
+Gwnewch yn siŵr eich bod wedi <span style="color: #0faeb0">mewngofnodi i'ch cyfrif Raspberry Pi Foundation</span> i gadw eich cynnydd, neu ni fydd cofnod eich bod wedi cwblhau. Defnyddiwch y ddolen 'Mewngofnodi' yn y ddewislen llywio i fewngofnodi.
 </p>

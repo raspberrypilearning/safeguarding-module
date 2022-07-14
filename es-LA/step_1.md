@@ -3,7 +3,7 @@
 La salvaguarda es la acción que se lleva a cabo para promover el bienestar de los niños y para protegerlos de cualquier daño.
 
 <p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">
-Asegúrese de que está <span style="color: #0faeb0">conectado a su cuenta de la Fundación Raspberry Pi</span> para guardar su avance, de lo contrario no se registrará que ha finalizado. Utilice el enlace <a href="https://my.raspberrypi.org/login">'Log in'</a> del menú de navegación para iniciar sesión.
+Asegúrese de que está <span style="color: #0faeb0">conectado a su cuenta de la Fundación Raspberry Pi</span> para guardar su avance, de lo contrario no se registrará que ha finalizado. Utilice el enlace 'Log in' del menú de navegación para iniciar sesión.
 </p>
 
 ![Tres jóvenes están de pie.](images/3-RPF-Kids.png)

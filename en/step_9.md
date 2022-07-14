@@ -28,7 +28,7 @@ If you have any doubts, you can fill out our [online safeguarding form to get ad
 1. Let us know the actions you’ve taken by emailing [safeguarding@raspberrypi.org](mailto:safeguarding@raspberrypi.org){:target='_blank'} or filling in the [online safeguarding form](https://form.raspberrypi.org/f/safeguarding-concern-form){:target='_blank'}.
 1. If the young person is at immediate risk, the person responsible for child protection at the venue should contact the police. 
 1. Treat all information confidentially, share it only with those who have a right to hear.
-1. If it is not possible to report your concern to the venue, please contact safeguarding@raspberrypi.org(mailto:safeguarding@raspberrypi.org){:target='_blank'} and a member of the team will advise you what to do.
+1. If it is not possible to report your concern to the venue, please contact [safeguarding@raspberrypi.org](mailto:safeguarding@raspberrypi.org){:target='_blank'} and a member of the team will advise you what to do.
 
 **Remember**: If you are unsure about a disclosure or need support, you can get in touch with the Raspberry Pi Foundation at any time.
 
@@ -47,5 +47,5 @@ If you have any doubts, you can fill out our [online safeguarding form to get ad
 --- save ---
 
 <p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">
-Ensure you're <span style="color: #0faeb0">logged into your Raspberry Pi Foundation account</span> to save your progress, otherwise your completion will not be recorded. Use the <a href="https://my.raspberrypi.org/login">'Log in'</a> link in the navigation menu to log in.
+Ensure you're <span style="color: #0faeb0">logged into your Raspberry Pi Foundation account</span> to save your progress, otherwise your completion will not be recorded. Use the 'Log in' link in the navigation menu to log in.
 </p>
