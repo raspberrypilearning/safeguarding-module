@@ -4,12 +4,14 @@ hero_image: images/banner.png
 description: Safeguarding module
 version: 0.1
 listed: false
-copyedit: false
+copyedit: true
 volunteers: true
 last_tested: 2022-01-05
 steps:
 - title: What is child safeguarding?
 - title: Recruitment process
+  completion:
+  - engaged
 - title: Induction of new volunteers
 - title: Code of behaviour
 - title: Code of behaviour quiz
@@ -34,4 +36,8 @@ steps:
     version: 1
     questions: 6
     passing_score: 6
+  completion:
+  - internal
 - title: That’s almost it!
+  completion:
+  - external
