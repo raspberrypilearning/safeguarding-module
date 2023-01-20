@@ -10,6 +10,8 @@ last_tested: 2022-01-05
 steps:
 - title: Hoe zorgen we voor een veilige omgeving voor kinderen?
 - title: Wervingsproces
+  completion:
+  - engaged
 - title: Introductie van nieuwe vrijwilligers
 - title: Gedragscode
 - title: Gedragscode quiz
@@ -34,4 +36,8 @@ steps:
     version: 1
     questions: 6
     passing_score: 6
+  completion:
+  - internal
 - title: Je bent bijna klaar!
+  completion:
+  - external
