@@ -10,6 +10,8 @@ last_tested: 2022-01-05
 steps:
 - title: ಮಕ್ಕಳ ರಕ್ಷಣೆ ಎಂದರೇನು?
 - title: ನೇಮಕಾತಿ ಪ್ರಕ್ರಿಯೆ
+  completion:
+  - engaged
 - title: ಹೊಸ ಸ್ವಯಂಸೇವಕರ ಸೇರ್ಪಡೆ
 - title: ನಡವಳಿಕೆಯ ಸಂಹಿತೆ
 - title: ನಡವಳಿಕೆಯ ಸಂಹಿತೆಯ ಕ್ವಿಜ್
@@ -34,4 +36,8 @@ steps:
     version: 1
     questions: 6
     passing_score: 6
+  completion:
+  - internal
 - title: ಹೆಚ್ಚೂ ಕಡಿಮೆ ಮುಗಿಯಿತು!
+  completion:
+  - external

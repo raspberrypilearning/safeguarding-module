@@ -10,6 +10,8 @@ last_tested: 2022-01-05
 steps:
 - title: Qu'est-ce que la protection des enfants ?
 - title: Processus de recrutement
+  completion:
+  - engaged
 - title: Accueil des nouveaux bénévoles
 - title: Code de conduite
 - title: Quiz sur le code de conduite
@@ -34,4 +36,8 @@ steps:
     version: 1
     questions: 6
     passing_score: 6
+  completion:
+  - internal
 - title: C'est presque terminé !
+  completion:
+  - external

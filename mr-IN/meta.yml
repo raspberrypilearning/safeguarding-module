@@ -10,6 +10,8 @@ last_tested: 2022-01-05
 steps:
 - title: बालकांचे रक्षण म्हणजे काय?
 - title: भरती प्रक्रिया
+  completion:
+  - engaged
 - title: नवीन स्वयंसेवकांना समाविष्ट करून घेणे
 - title: वर्तणूक आचारसंहिता
 - title: वर्तणूक प्रश्नमंजुषा आचारसंहिता
@@ -34,4 +36,8 @@ steps:
     version: 1
     questions: 6
     passing_score: 6
+  completion:
+  - internal
 - title: जवळजवळ झालेच!
+  completion:
+  - external
