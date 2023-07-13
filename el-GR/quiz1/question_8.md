@@ -1,13 +1,13 @@
 --- question ---
 ---
-legend: Question 8 of 9
+legend: Ερώτηση 8 από 9
 ---
 
-Is physical or emotional punishment an example of good practice or poor practice?
+Είναι η σωματική ή συναισθηματική τιμωρία παράδειγμα καλής πρακτικής ή κακής πρακτικής;
 
 --- choices ---
-- ( ) Good practice
+- ( ) Καλή πρακτική
 
-- (x) Poor practice --- /choices ---
+- (x) Κακή πρακτική --- /choices ---
 
 --- /question ---
