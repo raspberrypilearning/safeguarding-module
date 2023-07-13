@@ -1,13 +1,13 @@
 --- question ---
 ---
-legend: Question 6 of 6
+legend: Ερώτηση 6 από 6
 ---
 
-Ade was bored. Is this:
+Η Άντα βαρέθηκε. Είναι αυτό:
 
 --- choices ---
-- ( ) A fact or an observation?
+- ( ) Ένα γεγονός ή μια παρατήρηση;
 
-- (x) An opinion or evaluation? --- /choices ---
+- (x) Μια γνώμη ή μια αξιολόγηση; --- /choices ---
 
 --- /question ---
