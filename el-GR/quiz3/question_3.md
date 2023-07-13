@@ -1,13 +1,13 @@
 --- question ---
 ---
-legend: Question 3 of 6
+legend: Ερώτηση 3 από 6
 ---
 
-Mary was embarrassed. Is this:
+Η Μαίρη ντρεπόταν. Είναι αυτό:
 
 --- choices ---
-- ( ) A fact or an observation?
+- ( ) Ένα γεγονός ή μια παρατήρηση;
 
-- (x) An opinion or evaluation? --- /choices ---
+- (x) Μια γνώμη ή μια αξιολόγηση; --- /choices ---
 
 --- /question ---
