@@ -4,7 +4,7 @@ hero_image: images/banner.png
 description: セーフガードモジュール
 version: 0.1
 listed: false
-copyedit: false
+copyedit: true
 volunteers: true
 last_tested: 2022-01-05
 steps:
@@ -12,6 +12,8 @@ steps:
     title: チャイルド・セーフガードとは何ですか?
   - 
     title: 採用の流れ
+    completion:
+      - engaged
   - 
     title: 新規ボランティアの受け入れ
   - 
@@ -24,7 +26,7 @@ steps:
       questions: 9
       passing_score: 9
   - 
-    title: "不正使用および情報開示"
+    title: 不正使用および情報開示
   - 
     title: 安全なオンラインセッションのやり方
   - 
@@ -35,7 +37,7 @@ steps:
       questions: 3
       passing_score: 3
   - 
-    title: "もしもの時のために"
+    title: もしもの時のために
   - 
     title: 虐待の詳細を記録する方法
   - 
@@ -45,6 +47,9 @@ steps:
       version: 1
       questions: 6
       passing_score: 6
-    completion: 外部
+    completion:
+      - internal
   - 
-    title: "もう少しです!"
+    title: もう少しです!
+    completion:
+      - external
