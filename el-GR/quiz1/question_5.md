@@ -1,13 +1,13 @@
 --- question ---
 ---
-legend: Question 5 of 9
+legend: Ερώτηση 5 από 9
 ---
 
-Is it good practice or poor practice to carry out favouritism with certain young people?
+Είναι καλή πρακτική ή κακή πρακτική το να δείχνουμε ευνοϊκή διαχείριση απέναντι σε ορισμένους νέους;
 
 --- choices ---
-- ( ) Good practice
+- ( ) Καλή πρακτική
 
-- (x) Poor practice --- /choices ---
+- (x) Κακή πρακτική --- /choices ---
 
 --- /question ---
