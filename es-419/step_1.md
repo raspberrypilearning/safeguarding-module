@@ -1,19 +1,19 @@
-## ¿Qué es la salvaguarda infantil?
+## ¿Qué es la protección al menor?
 
-La salvaguarda es la acción que se lleva a cabo para promover el bienestar de los niños y para protegerlos de cualquier daño.
+La protección al menor es la acción que se lleva a cabo para promover el bienestar de los niños y para protegerlos de cualquier daño.
 
 <p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">
-Asegúrese de que está <span style="color: #0faeb0">conectado a su cuenta de la Fundación Raspberry Pi</span> para guardar su avance, de lo contrario no se registrará que ha finalizado. Utilice el enlace <a href="https://my.raspberrypi.org/login">'Log in'</a> del menú de navegación para iniciar sesión.
+Asegúrese de que ha <span style="color: #0faeb0">iniciado sesión con su cuenta de la Fundación Raspberry Pi</span> para guardar su avance, de lo contrario no se registrará su finalización. Use el enlace 'Iniciar sesión' en el menú de navegación para iniciar sesión.
 </p>
 
 ![Tres jóvenes están de pie.](images/3-RPF-Kids.png)
 
-Esta guía de aprendizaje se creó para darles a todos los voluntarios de la Fundación Raspberry Pi y a sus programas (Code Club, CoderDojo, Raspberry Jams y Astro Pi) la oportunidad de aprender acerca de las mejores prácticas en materia de salvaguarda infantil.
+Esta guía de aprendizaje se creó para darles a todos los voluntarios de la Fundación Raspberry Pi y sus programas (Code Club, CoderDojo, Raspberry Jams y Astro Pi) la oportunidad de aprender acerca de las mejores prácticas en materia de protección al menor.
 
-Una vez haya terminado, tendrá:
+Una vez que haya terminado, tendrá:
 
-* Conocimiento básico de las asuntos clave en relación con la salvaguarda infantil en un club de programación
-* Comprensión de cómo aplicar las mejores prácticas internacionales en materia de salvaguarda infantil
+* Conocimiento básico de los asuntos clave en relación con la protección al menor en un club de programación
+* Una comprensión de cómo aplicar las mejores prácticas internacionales en materia de protección al menor
 
 Completar esta guía de aprendizaje le tomará unos 20 minutos.
 
@@ -23,18 +23,18 @@ Hay muchas maneras de garantizar que su club sea un espacio seguro para que los 
 
 A continuación se indican algunos de los temas que se tratarán:
 
-* Verificaciones de antecedentes
+* Verificación de antecedentes
 * Legislación
 * Cómo reclutar voluntarios
-* Código de comportamiento
-* Tipos de maltrato
-* Cómo poner en marcha los procesos de notificación de los maltratos
-* Ejemplos de escenarios en un club de programación
-* Cómo ejecutar sesiones en línea seguras
+* Código de conducta
+* Tipos de abuso
+* Cómo implementar procesos para reportar abusos
+* Escenarios de ejemplo en un club de programación
+* Cómo llevar a cabo sesiones seguras en línea
 
-### ¿Por qué es importante la salvaguarda infantil?
+### ¿Por qué es importante la protección al menor?
 
-Todos los programas dirigidos y apoyados por la Fundación Raspberry Pi deben ser siempre un espacio seguro para todos. Al mantener un entorno seguro, está permitiendo que los jóvenes prosperen y aprendan a programar con total despreocupación.
+Todos los programas dirigidos y apoyados por la Fundación Raspberry Pi deben ser siempre un espacio seguro para todos. Al mantener un entorno seguro, usted está permitiendo que los jóvenes prosperen y aprendan a programar sin preocupaciones.
 
 Los clubes pueden contar con la asistencia de jóvenes de diferentes escuelas, orígenes y edades. Por lo tanto, es crucial asegurarse de que este espacio seguro esté protegido para garantizar que los jóvenes puedan hacer nuevos amigos y compartir un interés común.
 
