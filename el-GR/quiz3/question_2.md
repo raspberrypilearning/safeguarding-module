@@ -1,13 +1,13 @@
 --- question ---
 ---
-legend: Question 2 of 6
+legend: Ερώτηση 2 από 6
 ---
 
-John smelt of alcohol. Is this:
+Ο Τζον μύρισε αλκοόλ. Είναι αυτό:
 
 --- choices ---
-- (x) A fact or an observation?
+- (x) Ένα γεγονός ή μια παρατήρηση;
 
-- ( ) An opinion or evaluation? --- /choices ---
+- ( ) Μια γνώμη ή μια αξιολόγηση; --- /choices ---
 
 --- /question ---
