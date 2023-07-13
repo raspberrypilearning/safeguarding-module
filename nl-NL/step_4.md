@@ -26,7 +26,7 @@ Elke persoon in de club moet op de hoogte zijn van de gedragscode en deze naleve
     Een mondelinge waarschuwing
   </li>
   <li>
-    Een formele schriftelijke waarschuwing, waarbij elke verdere overtreding zal leiden tot schorsing uit de club of tot beëindiging van hun rol als vrijwilliger van de club
+    Een formele schriftelijke waarschuwing, waarbij elke volgende overtreding zal leiden tot schorsing uit de club of tot beëindiging van hun rol als vrijwilliger van de club
   </li>
   <li>
     Schorsing van de vrijwilliger van de club
@@ -45,5 +45,5 @@ Elke persoon in de club moet op de hoogte zijn van de gedragscode en deze naleve
 </p>
 
 <p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">
-Zorg ervoor dat je <span style="color: #0faeb0">bent ingelogd op je Raspberry Pi Foundation account</span> om je voortgang op te slaan, anders word je eindresultaat niet geregistreerd. Gebruik de <a href="https://my.raspberrypi.org/login">'Inloggen'</a> link in het navigatiemenu om in te loggen.
+Zorg ervoor dat je <span style="color: #0faeb0">bent ingelogd op je Raspberry Pi Foundation account</span> om je voortgang op te slaan, anders word je eindresultaat niet geregistreerd. Use the 'Log in' link in the navigation menu to log in.
 </p>
