@@ -1,11 +1,11 @@
-## How to record details of abuse
+## Πώς να καταγράψετε λεπτομέρειες κακοποίησης
 
-When you record details of abuse for either your club organiser or external organisations, it is important to ensure you record facts and observations as opposed to evaluations and opinions.
+Όταν καταγράφετε λεπτομέρειες κακοποίησης είτε για τον διοργανωτή της λέσχης σας είτε για εξωτερικούς οργανισμούς, είναι σημαντικό να διασφαλίζετε ότι καταγράφετε γεγονότα και παρατηρήσεις σε αντίθεση με αξιολογήσεις και απόψεις.
 
-An observation is something you can see, smell, touch, or hear. An evaluation is what you think about what you saw, smelt, touched, or heard.
+Η παρατήρηση είναι κάτι που μπορείτε να δείτε, να μυρίσετε, να αγγίξετε ή να ακούσετε. Μια αξιολόγηση είναι αυτό που σκέφτεστε γι' αυτό που είδατε, μυρίσατε, άγγιξατε ή ακούσατε.
 
 --- save ---
 
 <p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">
-Ensure you're <span style="color: #0faeb0">logged into your Raspberry Pi Foundation account</span> to save your progress, otherwise your completion will not be recorded. Use the <a href="https://my.raspberrypi.org/login">'Log in'</a> link in the navigation menu to log in.
+Βεβαιωθείτε ότι είστε <span style="color: #0faeb0">συνδεδεμένοι στον λογαριασμό σας στο Raspberry Pi Foundation</span> για να αποθηκεύσετε την πρόοδό σας, διαφορετικά η ολοκλήρωσή σας δεν θα καταγραφεί. Χρησιμοποιήστε το σύνδεσμο «Σύνδεση» στο μενού πλοήγησης για να συνδεθείτε.
 </p>
