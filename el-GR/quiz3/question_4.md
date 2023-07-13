@@ -1,13 +1,13 @@
 --- question ---
 ---
-legend: Question 4 of 6
+legend: Ερώτηση 4 από 6
 ---
 
-Aisha seemed like she was lying. Is this:
+Η Αΐσα φαινόταν σαν να έλεγε ψέματα. Είναι αυτό:
 
 --- choices ---
-- ( ) A fact or an observation?
+- ( ) Ένα γεγονός ή μια παρατήρηση;
 
-- (x) An opinion or evaluation? --- /choices ---
+- (x) Μια γνώμη ή μια αξιολόγηση; --- /choices ---
 
 --- /question ---
