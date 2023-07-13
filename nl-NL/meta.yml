@@ -4,7 +4,7 @@ hero_image: images/banner.png
 description: Gids ter bescherming van deelnemers
 version: 0.1
 listed: false
-copyedit: false
+copyedit: true
 volunteers: true
 last_tested: 2022-01-05
 steps:
@@ -12,6 +12,8 @@ steps:
     title: Hoe zorgen we voor een veilige omgeving voor kinderen?
   - 
     title: Wervingsproces
+    completion:
+      - engaged
   - 
     title: Introductie van nieuwe vrijwilligers
   - 
@@ -24,7 +26,7 @@ steps:
       questions: 9
       passing_score: 9
   - 
-    title: "Het signaleren en melden van misbruik"
+    title: Het signaleren en melden van misbruik
   - 
     title: Veilige online sessies uitvoeren
   - 
@@ -35,7 +37,7 @@ steps:
       questions: 3
       passing_score: 3
   - 
-    title: "Wat te doen als…"
+    title: Wat te doen als…
   - 
     title: Gegevens van misbruik vastleggen
   - 
@@ -45,6 +47,9 @@ steps:
       version: 1
       questions: 6
       passing_score: 6
-    completion: extern
+    completion:
+      - internal
   - 
-    title: "Je bent bijna klaar!"
+    title: Je bent bijna klaar!
+    completion:
+      - external
