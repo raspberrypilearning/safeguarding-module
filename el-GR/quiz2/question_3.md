@@ -1,14 +1,14 @@
 --- question ---
 ---
-legend: Question 3 of 3
+legend: Ερώτηση 3 από 3
 ---
 
-Do you need to make sure that every young person has a parent's or guardian's consent before they attend an online session?
+Χρειάζεται να βεβαιωθείτε ότι κάθε νέος έχει τη συγκατάθεση ενός γονέα ή κηδεμόνα πριν παρακολουθήσει μια διαδικτυακή συνεδρία;
 
 --- choices ---
 
-- ( ) No
-- (x) Yes
+- ( ) Όχι
+- (x) Ναι
 
 --- /choices ---
 
