@@ -44,5 +44,5 @@ Ter voluntários com essas características é desejável para fazer do seu club
 --- save ---
 
 <p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">
-Certifique-se de que você está <span style="color: #0faeb0">logado na sua conta da Fundação Raspberry Pi </span> para salvar o seu progresso, caso contrário a sua conclusão não será gravada. Utilize o link <a href="https://my.raspberrypi.org/login">de Login</a> no menu de navegação para fazer login.
+Certifique-se de que você está <span style="color: #0faeb0">logado na sua conta da Fundação Raspberry Pi </span> para salvar o seu progresso, caso contrário a sua conclusão não será gravada. Use the 'Log in' link in the navigation menu to log in.
 </p>
