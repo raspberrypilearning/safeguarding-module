@@ -4,7 +4,7 @@ hero_image: images/banner.png
 description: وحدة الحماية
 version: 0.1
 listed: false
-copyedit: false
+copyedit: true
 volunteers: true
 last_tested: 2022-01-05
 steps:
@@ -12,6 +12,8 @@ steps:
     title: ما هي حماية الطفل؟
   - 
     title: عمليّة التوظيف
+    completion:
+      - engaged
   - 
     title: تعريف المتطوعين الجدد
   - 
@@ -24,7 +26,7 @@ steps:
       questions: 9
       passing_score: 9
   - 
-    title: "الإساءة والإفصاحات"
+    title: الإساءة والإفصاحات
   - 
     title: كيفية إجراء جلسات آمنة عبر الإنترنت
   - 
@@ -35,7 +37,7 @@ steps:
       questions: 3
       passing_score: 3
   - 
-    title: "ماذا تفعل إذا…"
+    title: ماذا تفعل إذا…
   - 
     title: كيفية تسجيل تفاصيل إساءة المعاملة
   - 
@@ -45,6 +47,9 @@ steps:
       version: 1
       questions: 6
       passing_score: 6
-    completion: خارجي
+    completion:
+      - internal
   - 
-    title: "هذا تقريبًا كلّ شيء!"
+    title: هذا تقريبًا كلّ شيء!
+    completion:
+      - external
