@@ -1,6 +1,6 @@
-## Code of behaviour
+## Κώδικας συμπεριφοράς
 
-Every person at the club must be aware of the code of behaviour and follow these expectations. Our code of behaviour document is available at [rpf.io/code-of-behaviour](http://rpf.io/code-of-behaviour){:target='_blank'}
+Κάθε άτομο στη λέσχη πρέπει να γνωρίζει τον κώδικα συμπεριφοράς και να ακολουθεί τις οδηγίες του. Το έγγραφο μας για τον κώδικα συμπεριφοράς είναι διαθέσιμο στη διεύθυνση [rpf.io/code-of-behaviour](http://rpf.io/code-of-behaviour){:target='_blank'}
 
 <embed src="images/Raspberry_Pi_Foundation-safeguarding-code-of-behaviour.pdf" width="790" height="500" 
  type="application/pdf">
@@ -10,34 +10,34 @@ Every person at the club must be aware of the code of behaviour and follow these
     <br>
   </p>
 <h3 spaces-before="0">
-  Breaking the code of behaviour
+  Σπάζοντας τον κώδικα συμπεριφοράς
 </h3>
 
 <p spaces-before="0">
-  If a volunteer in your club behaves inappropriately and/or breaks the code of behaviour, action will have to be taken by the club organiser. If the club organiser breaks the code of behaviour, action will have to be taken by another volunteer.
+  Εάν ένας εθελοντής στη λέσχη σας συμπεριφέρεται ανάρμοστα ή/και παραβιάζει τον κώδικα συμπεριφοράς, θα πρέπει να ληφθούν μέτρα από τον διοργανωτή της λέσχης. Εάν ο διοργανωτής της λέσχης παραβεί τον κώδικα συμπεριφοράς, θα πρέπει να ληφθούν μέτρα από κάποιον άλλον εθελοντή.
 </p>
 
 <p spaces-before="0">
-  Actions to take:
+  Ενέργειες που πρέπει να γίνουν:
 </p>
 
 <ul>
   <li>
-    A verbal warning
+    Προφορική προειδοποίηση
   </li>
   <li>
-    A formal written warning, to which any further indiscretions will lead to suspension from the club or to ending their role as a volunteer of the club
+    Επίσημη γραπτή προειδοποίηση, στην οποία τυχόν περαιτέρω αδιαφορίες θα οδηγήσουν σε αποκλεισμό από τη λέσχη ή στον τερματισμό του ρόλου τους ως εθελοντές της λέσχης
   </li>
   <li>
-    Suspension of the volunteer from the club
+    Αποβολή του εθελοντή από τη λέσχη
   </li>
   <li>
-    Banning the volunteer from participating in further activities in the club
+    Απαγόρευση συμμετοχής του εθελοντή σε περαιτέρω δραστηριότητες στη λέσχη
   </li>
 </ul>
 
 <p spaces-before="0">
-  If you or your club is unsure of the action to take please, ask for support from the <a href="mailto:safeguarding@raspberrypi.org">Raspberry Pi Foundation</a>.
+  Εάν εσείς ή η λέσχη σας δεν είστε σίγουροι για τη δράση που πρέπει να κάνετε, ζητήστε υποστήριξη από το <a href="mailto:safeguarding@raspberrypi.org">Raspberry Pi Foundation</a>.
 </p>
 
 <p spaces-before="0">
@@ -45,5 +45,5 @@ Every person at the club must be aware of the code of behaviour and follow these
 </p>
 
 <p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">
-Ensure you're <span style="color: #0faeb0">logged into your Raspberry Pi Foundation account</span> to save your progress, otherwise your completion will not be recorded. Use the <a href="https://my.raspberrypi.org/login">'Log in'</a> link in the navigation menu to log in.
+Βεβαιωθείτε ότι είστε <span style="color: #0faeb0">συνδεδεμένοι στον λογαριασμό σας στο Raspberry Pi Foundation</span> για να αποθηκεύσετε την πρόοδό σας, διαφορετικά η ολοκλήρωσή σας δεν θα καταγραφεί. Χρησιμοποιήστε το σύνδεσμο «Σύνδεση» στο μενού πλοήγησης για να συνδεθείτε.
 </p>
