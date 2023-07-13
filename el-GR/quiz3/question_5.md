@@ -1,13 +1,13 @@
 --- question ---
 ---
-legend: Question 5 of 6
+legend: Ερώτηση 5 από 6
 ---
 
-Jane looked at her watch twice. Is this:
+Η Τζέιν κοίταξε το ρολόι της δύο φορές. Είναι αυτό:
 
 --- choices ---
-- (x) A fact or an observation?
+- (x) Ένα γεγονός ή μια παρατήρηση;
 
-- ( ) An opinion or evaluation? --- /choices ---
+- ( ) Μια γνώμη ή μια αξιολόγηση; --- /choices ---
 
 --- /question ---
