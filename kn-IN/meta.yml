@@ -4,7 +4,7 @@ hero_image: images/banner.png
 description: ಸುರಕ್ಷೆಯ ಮಾಡ್ಯೂಲ್
 version: 0.1
 listed: false
-copyedit: false
+copyedit: true
 volunteers: true
 last_tested: 2022-01-05
 steps:
@@ -12,6 +12,8 @@ steps:
     title: ಮಕ್ಕಳ ರಕ್ಷಣೆ ಎಂದರೇನು?
   - 
     title: ನೇಮಕಾತಿ ಪ್ರಕ್ರಿಯೆ
+    completion:
+      - engaged
   - 
     title: ಹೊಸ ಸ್ವಯಂಸೇವಕರ ಸೇರ್ಪಡೆ
   - 
@@ -24,7 +26,7 @@ steps:
       questions: 9
       passing_score: 9
   - 
-    title: "ದೌರ್ಜನ್ಯ ಮತ್ತು ಬಹಿರಂಗಪಡಿಸುವಿಕೆಗಳು"
+    title: ದೌರ್ಜನ್ಯ ಮತ್ತು ಬಹಿರಂಗಪಡಿಸುವಿಕೆಗಳು
   - 
     title: ಸುರಕ್ಷಿತ ಆನ್‌ಲೈನ್ ಸೆಷನ್‌ಗಳನ್ನು ನಡೆಸುವುದು ಹೇಗೆ
   - 
@@ -35,7 +37,7 @@ steps:
       questions: 3
       passing_score: 3
   - 
-    title: "ಹೀಗಿದ್ದಲ್ಲಿ ಏನು ಮಾಡಬೇಕು…"
+    title: ಹೀಗಿದ್ದಲ್ಲಿ ಏನು ಮಾಡಬೇಕು…
   - 
     title: ದೌರ್ಜನ್ಯದ ವಿವರಗಳನ್ನು ದಾಖಲಿಸುವುದು ಹೇಗೆ
   - 
@@ -45,6 +47,9 @@ steps:
       version: 1
       questions: 6
       passing_score: 6
-    completion: ಬಾಹ್ಯ
+    completion:
+      - internal
   - 
-    title: "ಹೆಚ್ಚೂ ಕಡಿಮೆ ಮುಗಿಯಿತು!"
+    title: ಹೆಚ್ಚೂ ಕಡಿಮೆ ಮುಗಿಯಿತು!
+    completion:
+      - external
