@@ -1,50 +1,55 @@
 ---
-title: Safeguarding module
+title: Εκπαιδευτική Ενότητα Προστασίας των Παιδιών
 hero_image: images/banner.png
-description: Safeguarding module
+description: Εκπαιδευτική Ενότητα Προστασίας των Παιδιών
 version: 0.1
 listed: false
-copyedit: false
+copyedit: true
 volunteers: true
 last_tested: 2022-01-05
 steps:
   - 
-    title: What is child safeguarding?
+    title: Τι είναι η προστασία των παιδιών;
   - 
-    title: Recruitment process
+    title: Αφίσες προσέγγισης νέων εθελοντών/τριών
+    completion:
+      - εμπλέκεται
   - 
-    title: Induction of new volunteers
+    title: Εισαγωγή νέων εθελοντών/τριών
   - 
-    title: Code of behaviour
+    title: Κώδικας συμπεριφοράς
   - 
-    title: Code of behaviour quiz
+    title: Κουίζ κώδικα συμπεριφοράς
     knowledge_quiz:
-      path: quiz1
+      path: κουίζ1
       version: 1
       questions: 9
       passing_score: 9
   - 
-    title: "Abuse and disclosures"
+    title: Κακοποίηση και αποκαλύψεις
   - 
-    title: How to run safe online sessions
+    title: Πώς να εκτελείτε ασφαλείς διαδικτυακές συνεδρίες
   - 
-    title: Online sessions quiz
+    title: Κουίζ διαδικτυακών συνεδριών
     knowledge_quiz:
-      path: quiz2
+      path: κουίζ2
       version: 1
       questions: 3
       passing_score: 3
   - 
-    title: "What to do if…"
+    title: Τι να κάνετε εάν…
   - 
-    title: How to record details of abuse
+    title: Πώς να καταγράψετε λεπτομέρειες κακοποίησης
   - 
-    title: Observations and evaluations quiz
+    title: Κουίζ παρατηρήσεων και αξιολογήσεων
     knowledge_quiz:
-      path: quiz3
+      path: κουίζ 3
       version: 1
       questions: 6
       passing_score: 6
-    completion: external
+    completion:
+      - εσωτερικό
   - 
-    title: "That’s almost it!"
+    title: Σχεδόν ολοκληρώσαμε!
+    completion:
+      - εξωτερικό
