@@ -1,0 +1,55 @@
+---
+title: Safeguarding module
+hero_image: images / banner.png
+description: Safeguarding module
+version: 0.1
+listed: false
+copyedit: true
+volunteers: true
+last_tested: 2022-01-05
+steps:
+  - 
+    title: What is child safeguarding?
+  - 
+    title: Recruitment process
+    completion:
+      - engaged
+  - 
+    title: Induction of new volunteers
+  - 
+    title: Code of behaviour
+  - 
+    title: Code of behaviour quiz
+    knowledge_quiz:
+      path: quiz1
+      version: 1
+      questions: 9
+      passing_score: 9
+  - 
+    title: Abuse and disclosures
+  - 
+    title: How to run safe online sessions
+  - 
+    title: Online sessions quiz
+    knowledge_quiz:
+      path: quiz2
+      version: 1
+      questions: 3
+      passing_score: 3
+  - 
+    title: What to do if…
+  - 
+    title: How to record details of abuse
+  - 
+    title: Observations and evaluations quiz
+    knowledge_quiz:
+      path: quiz3
+      version: 1
+      questions: 6
+      passing_score: 6
+    completion:
+      - internal
+  - 
+    title: That’s almost it!
+    completion:
+      - external
