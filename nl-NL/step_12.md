@@ -40,7 +40,7 @@ In dit scenario is er een onmiddellijke bezorgdheid over het welzijn van een jon
 
 --- hints --- --- hint ---
 
-Het is belangrijk om vast te leggen wat Robert heeft gepost, voor het geval dit opnieuw gebeurt. Hij weet misschien niet de betekenis van wat hij heeft gepost, dus het is belangrijk dat je zijn ouders of voogden laat weten wat er is gebeurd en hen de [gids voor ouders](https://help.coderdojo.com/cdkb/s/article/Parents-guide-to-CoderDojo)geeft. Andere jongeren die de online sessie bijwonen, hebben de berichten misschien gezien en zijn erdoor geraakt, dus het is belangrijk dat je ook contact opneemt met hun ouders of voogden en hen laat weten wat er is gebeurd en hoe je van plan bent te reageren.
+Het is belangrijk om vast te leggen wat Robert heeft gepost, voor het geval dit opnieuw gebeurt. Hij weet misschien niet de betekenis van wat hij heeft gepost, dus het is belangrijk dat je zijn ouders of voogden laat weten wat er is gebeurd en hen de [gids voor ouders](https://help.coderdojo.com/cdkb/s/article/Parents-guide-to-CoderDojo) geeft. Andere jongeren die de online sessie bijwonen, hebben de berichten misschien gezien en zijn erdoor geraakt, dus het is belangrijk dat je ook contact opneemt met hun ouders of voogden en hen laat weten wat er is gebeurd en hoe je van plan bent te reageren.
 
 --- /hint --- --- /hints ---
 ### Lisa
@@ -56,5 +56,5 @@ Eén-op-één berichten tussen vrijwilligers en jongeren worden niet aangemoedig
 --- save ---
 
 <p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">
-Zorg ervoor dat je <span style="color: #0faeb0">bent ingelogd op je Raspberry Pi Foundation account</span> om je voortgang op te slaan, anders word je eindresultaat niet geregistreerd. Gebruik de <a href="https://my.raspberrypi.org/login">'Inloggen'</a> link in het navigatiemenu om in te loggen.
+Zorg ervoor dat je <span style="color: #0faeb0">bent ingelogd op je Raspberry Pi Foundation account</span> om je voortgang op te slaan, anders word je eindresultaat niet geregistreerd. Use the 'Log in' link in the navigation menu to log in.
 </p>
