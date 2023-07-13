@@ -1,13 +1,13 @@
 --- question ---
 ---
-legend: Question 6 of 9
+legend: Ερώτηση 6 από 9
 ---
 
-Is it good practice or poor practice to take young people alone on car journeys?
+Είναι καλή πρακτική ή κακή πρακτική να παίρνετε νέους μόνους σε ταξίδια με αυτοκίνητο;
 
 --- choices ---
-- ( ) Good practice
+- ( ) Καλή πρακτική
 
-- (x) Poor practice --- /choices ---
+- (x) Κακή πρακτική --- /choices ---
 
 --- /question ---
