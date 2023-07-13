@@ -1,15 +1,15 @@
 --- question ---
 ---
-legend: Question 2 of 3
+legend: Ερώτηση 2 από 3
 ---
 
-Is it OK to use webcams during an online session?
+Επιτρέπεται η χρήση webcams κατά τη διάρκεια μιας διαδικτυακής συνεδρίας;
 
 --- choices ---
 
-- ( ) No
-- ( ) Yes
-- (x) Yes, but make sure everyone knows they are prohibited from recording or taking screenshots of the session
+- ( ) Όχι
+- ( ) Ναι
+- (x) Ναι, αλλά βεβαιωθείτε ότι όλοι γνωρίζουν ότι απαγορεύεται η καταγραφή ή η λήψη στιγμιότυπων οθόνης της συνεδρίας
 
 --- /choices ---
 
