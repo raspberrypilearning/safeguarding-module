@@ -1,60 +1,60 @@
-## That’s almost it
+## Σχεδόν ολοκληρώσαμε
 
-You’ve completed this short interactive learning guide. Well done!
+Ολοκληρώσατε αυτόν τον σύντομο διαδραστικό οδηγό εκμάθησης. Μπράβο!
 
-You can now test your knowledge with some scenarios. In each scenario, we want you to consider what you definitely would do, what you may do (depending on the circumstances), and what you would not do.
+Τώρα μπορείτε να δοκιμάσετε τις γνώσεις σας με κάποια σενάρια. Σε κάθε σενάριο, θέλουμε να σκεφτείτε τι θα κάνατε σίγουρα, τι μπορείτε να κάνετε (ανάλογα με τις περιστάσεις) και τι δεν θα κάνατε.
 
-### Kim
+### Κιμ
 
-**You notice one of the young people at the club, Kim, who is 12 years old, is making a game which focuses on sadness and isolation, and there are some references to suicide. The lead character in the game is also called Kim.**
+**Παρατηρείτε ότι ένας από τους νέους στη λέσχη, ο Κιμ, ο οποίος είναι 12 ετών, κάνει ένα παιχνίδι που εστιάζει στη θλίψη και την απομόνωση, και υπάρχουν κάποιες αναφορές στην αυτοκτονία. Ο πρωταγωνιστής του παιχνιδιού ονομάζεται επίσης Κιμ.**
 
 --- hints --- --- hint ---
 
-In this scenario, you should ensure you check on the young person before you make any assumptions. Kim’s parents or guardians should be informed of the game by the most appropriate person, which may be you, but could be another volunteer or teacher from the club. It may also be relevant to tell the young person's parents or guardians about local support in the area if the volunteer knows what these are; often a general practitioner or local doctor is the best place to initially point a parent or guardian to in this scenario. Most importantly, you should talk to your club organiser, or teacher if in a school setting, and ensure that someone from the club checks on Kim in future sessions.
+Σε αυτό το σενάριο, θα πρέπει να βεβαιωθείτε ότι ελέγχετε τον νεαρό πριν κάνετε οποιεσδήποτε υποθέσεις. Οι γονείς ή οι κηδεμόνες του Κιμ θα πρέπει να ενημερώνονται για το παιχνίδι από το πιο κατάλληλο άτομο, που μπορεί να είστε εσείς, αλλά θα μπορούσε να είναι ένας άλλος εθελοντής ή δάσκαλος από τη λέσχη. Μπορεί επίσης να είναι σημαντικό να ενημερώσετε τους γονείς ή τους κηδεμόνες του νεαρού σχετικά με την τοπική υποστήριξη στην περιοχή, εάν ο εθελοντής γνωρίζει που μπορούν να απευθυνθούν. Συχνά ένας γενικός ιατρός ή ένας τοπικός γιατρός είναι ο πιο κατάλληλος για να υποδείξετε αρχικά σε έναν γονέα ή κηδεμόνα σε αυτό το σενάριο. Το πιο σημαντικό, θα πρέπει να μιλήσετε με τον διοργανωτή της λέσχης σας ή με τον δάσκαλό εάν βρίσκεστε σε σχολικό περιβάλλον και να βεβαιωθείτε ότι κάποιος από τη λέσχη θα ελέγχει τον Κιμ σε μελλοντικές συνεδρίες.
 
 --- /hint --- --- /hints ---
 
-### Mark
+### Μαρκ
 
-**One of the young people in the club has come to you and told you that Mark, aged 11, is on his laptop and is looking at pictures of people with "no clothes on and doing strange things".**
+**Ένας από τους νέους της λέσχης έχει έρθει σε εσάς και σας είπε ότι ο Μαρκ, 11 ετών, βρίσκεται στο φορητό υπολογιστή του και κοιτάζει φωτογραφίες ανθρώπων που «δεν φοράνε ρούχα και κάνουν περίεργα πράγματα».**
 
 --- hints --- --- hint ---
 
-The main learning from this scenario is to not overreact or make assumptions, as this could have been something quite innocent or accidental like an advert or pop-up. If the matter can be dealt with immediately, then you (or the club organiser) should speak to Mark without assumptions. Then you (or the club organiser) should speak to both sets of parents (or guardians) separately, mainly to ensure this doesn’t happen again in the club. You should ensure the young person who reported this is OK and knows that you are dealing with the situation. You should make the club organiser aware of the situation and perhaps you may organise an online safety session a few weeks after the incident.
+Το κύριο μάθημα από αυτό το σενάριο είναι να μην αντιδράτε υπερβολικά ή να μην κάνετε υποθέσεις, καθώς αυτό θα μπορούσε να ήταν κάτι εντελώς αθώο ή τυχαίο, όπως μια διαφήμιση ή ένα αναδυόμενο παράθυρο. Εάν το θέμα μπορεί να αντιμετωπιστεί αμέσως, τότε εσείς (ή ο διοργανωτής του κλαμπ) θα πρέπει να μιλήσετε με τον Μαρκ χωρίς υποθέσεις. Στη συνέχεια, εσείς (ή ο διοργανωτής της λέσχης) θα πρέπει να μιλήσετε με τους γονείς (ή κηδεμόνες) και των δύο παιδιών χωριστά, κυρίως για να διασφαλίσετε ότι αυτό δεν θα συμβεί ξανά στη λέσχη. Θα πρέπει να βεβαιωθείτε ότι ο νεαρός που το ανέφερε είναι εντάξει και ξέρει ότι αντιμετωπίζετε την κατάσταση. Θα πρέπει να ενημερώσετε τον διοργανωτή της λέσχης για την κατάσταση και ίσως μπορείτε να οργανώσετε μια διαδικτυακή συνεδρία ασφάλειας λίγες εβδομάδες μετά το συμβάν.
 
 --- /hint --- --- /hints ---
 
-### Zoe
+### Ζωή
 
-**During an online club session, one of the club members, Zoe, shouts an obscenity at an adult in their home. The adult shouts back. You hear a loud crash, and the club member disappears from your view. You can hear threatening behaviour from the adult and the camera turns off.**
+**Κατά τη διάρκεια μιας διαδικτυακής συνεδρίας της λέσχης, ένα από τα μέλη της λέσχης, η Ζωή, φωνάζει με άσχημο τρόπο σε έναν ενήλικα στο σπίτι τους. Ο ενήλικας φωνάζει κι αυτός. Ακούτε ένα δυνατό σπάσιμο και το μέλος της λέσχης εξαφανίζεται από την οπτική σας γωνία. Μπορείτε να ακούσετε απειλητική συμπεριφορά από τον ενήλικα και η κάμερα σβήνει.**
 
 --- hints --- --- hint ---
 
-In this scenario, there is an immediate concern about the welfare of a young person and you have no way of knowing whether the young person is safe. The first thing you need to do is to call the police, who will investigate the incident. The second thing you need to do is call our 24-hour safeguarding number to report what has happened.
+Σε αυτό το σενάριο, υπάρχει άμεση ανησυχία για την κατάσταση στην οποία βρίσκεται το κορίτσι και δεν έχετε τρόπο να ξέρετε εάν είναι ασφαλής. Το πρώτο πράγμα που πρέπει να κάνετε είναι να καλέσετε την αστυνομία, η οποία θα διερευνήσει το περιστατικό. Το δεύτερο πράγμα που πρέπει να κάνετε είναι να καλέσετε τον 24ωρο αριθμό μας για την προστασία των παιδιών για να αναφέρετε τι έχει συμβεί.
 
 --- /hint --- --- /hints ---
 
-### Robert
+### Ρόμπερτ
 
-**During an online session, you notice that Robert, one of the club members, posts sexually explicit language and links to pornographic websites in the comments section.**
+**Κατά τη διάρκεια μιας διαδικτυακής συνεδρίας, παρατηρείτε ότι ο Ρόμπερτ, ένα από τα μέλη της λέσχης, χρησιμοποιεί σεξουαλική γλώσσα και δημοσιεύει συνδέσμους προς πορνογραφικούς ιστότοπους στην ενότητα σχολίων.**
 
 --- hints --- --- hint ---
 
-It’s important to make a record of what Robert has posted, in case this happens again. He may not know the significance of what he has posted, so it’s important that you let his parents or guardians know what happened and provide them with the [parents guide](https://help.coderdojo.com/cdkb/s/article/Parents-guide-to-CoderDojo). Other young people attending the online session may have seen the messages and been affected by them, so it’s important that you contact their parents or guardians as well and let them know what happened and how you intend to follow up.
+Είναι σημαντικό να καταγράψετε όσα έχει δημοσιεύσει ο Ρόμπερτ, σε περίπτωση που αυτό συμβεί ξανά. Μπορεί να μην γνωρίζει τη σημασία αυτών που έχει δημοσιεύσει, επομένως είναι σημαντικό να ενημερώσετε τους γονείς ή τους κηδεμόνες του για το τι συνέβη και να τους παρέχετε τον [οδηγό γονέων](https://help.coderdojo.com/cdkb/s/article/Parents-guide-to-CoderDojo). Άλλοι νέοι που παρακολουθούν τη διαδικτυακή συνεδρία μπορεί να έχουν δει τα μηνύματα και να έχουν επηρεαστεί από αυτά, επομένως είναι σημαντικό να επικοινωνήσετε με τους γονείς ή τους κηδεμόνες τους επίσης και να τους ενημερώσετε για το τι συνέβη και πώς σκοπεύετε να συνεχίσετε.
 
 --- /hint --- --- /hints ---
-### Lisa
+### Λίζα
 
-**Lisa, one of the young people in your club, has got in touch through a private message on social media to ask for help with a project.**
+**Η Λίζα, ένα νεαρό κορίτσι της λέσχης σας, ήρθε σε επαφή μαζί σας μέσω ενός προσωπικού μηνύματος στα μέσα κοινωνικής δικτύωσης για να ζητήσει βοήθεια για ένα έργο.**
 
 --- hints --- --- hint ---
 
-One-to-one messaging with young people is not encouraged for any volunteers, either on social media or through other mediums (including email). There are some situations that you may want to respond to the young person: if it is a long time until the next session or there is a deadline for the project to be entered in a competition and you do not want to disappoint the young person. If you do respond, you should encourage that they email you and cc their parent or guardian (or the club organiser or teacher) into the conversation in future or regarding this query.
+Η ανταλλαγή προσωπικών μηνυμάτων των νέων ατόμων με τους εθελοντές πρέπει να αποφεύγεται, είτε μέσα από τα μέσα κοινωνικής δικτύωσης είτε μέσω άλλων μέσων (συμπεριλαμβανομένου του email). Υπάρχουν ορισμένες περιπτώσεις στις οποίες μπορεί να θέλετε να απαντήσετε στο νεαρό άτομο: εάν μεσολαβεί πολύς χρόνος μέχρι την επόμενη συνεδρία ή υπάρχει προθεσμία για τη συμμετοχή του έργου σε διαγωνισμό και δεν θέλετε να τον/την απογοητεύσετε. Εάν απαντήσετε, θα πρέπει να ενθαρρύνετε να σας στείλουν μήνυμα ηλεκτρονικού ταχυδρομείου και να το κοινοποιήσουν στον γονέα ή τον κηδεμόνα τους (ή τον διοργανωτή του κλαμπ ή τον δάσκαλο) στην εξέλιξη της συζήτησης στο μέλλον ή σχετικά με αυτό το ερώτημα.
 
 --- /hint --- --- /hints ---
 
 --- save ---
 
 <p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">
-Ensure you're <span style="color: #0faeb0">logged into your Raspberry Pi Foundation account</span> to save your progress, otherwise your completion will not be recorded. Use the <a href="https://my.raspberrypi.org/login">'Log in'</a> link in the navigation menu to log in.
+Βεβαιωθείτε ότι είστε <span style="color: #0faeb0">συνδεδεμένοι στον λογαριασμό σας στο Raspberry Pi Foundation</span> για να αποθηκεύσετε την πρόοδό σας, διαφορετικά η ολοκλήρωσή σας δεν θα καταγραφεί. Χρησιμοποιήστε το σύνδεσμο «Σύνδεση» στο μενού πλοήγησης για να συνδεθείτε.
 </p>
