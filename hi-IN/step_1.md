@@ -3,7 +3,7 @@
 सुरक्षा बच्चों के कल्याण को बढ़ावा देने और उन्हें नुकसान से बचाने के लिए की जाने वाली कार्रवाई है।
 
 <p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">
-इस बात को पक्का करें कि आपने अपनी प्रगति को बचाने के लिए <span style="color: #0faeb0">अपने Raspberry Pi फाउंडेशन खाते में लॉग इन किया है</span>, अन्यथा आपका समापन रिकॉर्ड नहीं किया जाएगा। लॉग इन करने के लिए नेविगेशन मेन्यू में <a href="https://my.raspberrypi.org/login">'लॉग इन'</a> लिंक का उपयोग करें।
+इस बात को पक्का करें कि आपने अपनी प्रगति को बचाने के लिए <span style="color: #0faeb0">अपने Raspberry Pi फाउंडेशन खाते में लॉग इन किया है</span>, अन्यथा आपका समापन रिकॉर्ड नहीं किया जाएगा। Use the 'Log in' link in the navigation menu to log in.
 </p>
 
 ![तीन युवक खड़े हैं।](images/3-RPF-Kids.png)
