@@ -1,13 +1,13 @@
 --- question ---
 ---
-legend: Question 9 of 9
+legend: Ερώτηση 9 από 9
 ---
 
-Is it good practice or poor practice to cc parents in on all direct email communication to young people?
+Είναι καλή πρακτική ή κακή πρακτική να κοινοποιείτε στους γονείς όλη την απευθείας επικοινωνία μέσω email με τους νέους;
 
 --- choices ---
-- (x) Good practice
+- (x) Καλή πρακτική
 
-- ( ) Poor practice --- /choices ---
+- ( ) Κακή πρακτική --- /choices ---
 
 --- /question ---
