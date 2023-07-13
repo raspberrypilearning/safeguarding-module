@@ -1,13 +1,13 @@
 --- question ---
 ---
-legend: Question 4 of 9
+legend: Ερώτηση 4 από 9
 ---
 
-Is it good practice or poor practice to have a ratio of at least 1:10 adults to young people at your club?
+Είναι καλή πρακτική ή κακή πρακτική να έχετε μια αναλογία τουλάχιστον 1:10 ενηλίκων προς νέους στη λέσχη σας;
 
 --- choices ---
-- (x) Good practice
+- (x) Καλή πρακτική
 
-- ( ) Poor practice --- /choices ---
+- ( ) Κακή πρακτική --- /choices ---
 
 --- /question ---
