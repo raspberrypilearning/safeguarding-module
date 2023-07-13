@@ -4,7 +4,7 @@ hero_image: images/banner.png
 description: Module de protection
 version: 0.1
 listed: false
-copyedit: false
+copyedit: true
 volunteers: true
 last_tested: 2022-01-05
 steps:
@@ -12,6 +12,8 @@ steps:
     title: Qu'est-ce que la protection des enfants ?
   - 
     title: Processus de recrutement
+    completion:
+      - engagé
   - 
     title: Accueil des nouveaux bénévoles
   - 
@@ -24,7 +26,7 @@ steps:
       questions: 9
       passing_score: 9
   - 
-    title: "Abus et dénonciations"
+    title: Abus et dénonciations
   - 
     title: Comment organiser des sessions en ligne en toute sécurité
   - 
@@ -35,7 +37,7 @@ steps:
       questions: 3
       passing_score: 3
   - 
-    title: "Que faire si…"
+    title: Que faire si…
   - 
     title: Comment enregistrer les détails de l'abus
   - 
@@ -45,6 +47,9 @@ steps:
       version: 1
       questions: 6
       passing_score: 6
-    completion: external
+    completion:
+      - interne
   - 
-    title: "C'est presque terminé !"
+    title: C'est presque terminé !
+    completion:
+      - externe
