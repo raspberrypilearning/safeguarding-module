@@ -4,7 +4,7 @@ hero_image: images/banner.png
 description: सुरक्षा मॉड्यूल
 version: 0.1
 listed: false
-copyedit: false
+copyedit: true
 volunteers: true
 last_tested: 2022-01-05
 steps:
@@ -12,6 +12,8 @@ steps:
     title: बच्चे की सुरक्षा क्या है?
   - 
     title: नियुक्ति प्रक्रिया
+    completion:
+      - engaged
   - 
     title: नए स्वयंसेवकों को शामिल करना
   - 
@@ -24,7 +26,7 @@ steps:
       questions: 9
       passing_score: 9
   - 
-    title: "दुरुपयोग और अस्वीकरण"
+    title: दुरुपयोग और अस्वीकरण
   - 
     title: सुरक्षित ऑनलाइन सेशंस कैसे चलाएं
   - 
@@ -35,7 +37,7 @@ steps:
       questions: 3
       passing_score: 3
   - 
-    title: "क्या करें अगर…"
+    title: क्या करें अगर…
   - 
     title: दुरुपयोग का विवरण किस तरह से रिकॉर्ड करें
   - 
@@ -45,6 +47,9 @@ steps:
       version: 1
       questions: 6
       passing_score: 6
-    completion: बाहरी
+    completion:
+      - internal
   - 
-    title: "यह लगभग यही है!"
+    title: यह लगभग यही है!
+    completion:
+      - external
