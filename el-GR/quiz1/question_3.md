@@ -1,13 +1,13 @@
 --- question ---
 ---
-legend: Question 3 of 9
+legend: Ερώτηση 3 από 9
 ---
 
-Is it good practice or poor practice to use offensive language in your club?
+Είναι καλή πρακτική ή κακή πρακτική η χρήση προσβλητικής γλώσσας στη λέσχη σας;
 
 --- choices ---
-- ( ) Good practice
+- ( ) Καλή πρακτική
 
-- (x) Poor practice --- /choices ---
+- (x) Κακή πρακτική --- /choices ---
 
 --- /question ---
