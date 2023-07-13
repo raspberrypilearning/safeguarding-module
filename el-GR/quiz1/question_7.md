@@ -1,13 +1,13 @@
 --- question ---
 ---
-legend: Question 7 of 9
+legend: Ερώτηση 7 από 9
 ---
 
-Is it good practice or poor practice to take into account young people's views in the decision-making process at your club?
+Είναι καλή πρακτική ή κακή πρακτική να λαμβάνετε υπόψη τις απόψεις των νέων στη διαδικασία λήψης αποφάσεων στη λέσχη σας;
 
 --- choices ---
-- (x) Good practice
+- (x) Καλή πρακτική
 
-- ( ) Poor practice --- /choices ---
+- ( ) Κακή πρακτική --- /choices ---
 
 --- /question ---
