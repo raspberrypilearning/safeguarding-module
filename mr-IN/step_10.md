@@ -7,5 +7,5 @@
 --- save ---
 
 <p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">
-आपण <span style="color: #0faeb0">आपल्या Raspberry Pi Fफाउंडेशन खात्यात</span>लॉगिन होऊन आपली प्रगती जतन करा नाही तर त्याशिवाय ती जतन केली जाणार नाही. ह्या नेव्हिगेशन मेनूमधील<a href="https://my.raspberrypi.org/login">लिंकवर 'लॉग इन'</a> करा.
+आपण <span style="color: #0faeb0">आपल्या Raspberry Pi Fफाउंडेशन खात्यात</span>लॉगिन होऊन आपली प्रगती जतन करा नाही तर त्याशिवाय ती जतन केली जाणार नाही. Use the 'Log in' link in the navigation menu to log in.
 </p>
