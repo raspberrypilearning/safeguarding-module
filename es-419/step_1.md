@@ -36,7 +36,7 @@ A continuación se indican algunos de los temas que se tratarán:
 
 Todos los programas dirigidos y apoyados por la Fundación Raspberry Pi deben ser siempre un espacio seguro para todos. Al mantener un entorno seguro, usted está permitiendo que los jóvenes prosperen y aprendan a programar sin preocupaciones.
 
-Los clubes pueden contar con la asistencia de jóvenes de diferentes escuelas, orígenes y edades. Por lo tanto, es crucial asegurarse de que este espacio seguro esté protegido para garantizar que los jóvenes puedan hacer nuevos amigos y compartir un interés común.
+Los clubes pueden contar con la participación de jóvenes de diferentes escuelas, orígenes y edades. Por lo tanto, es crucial asegurarse de que este espacio seguro está protegido para garantizar que los jóvenes puedan hacer nuevos amigos y compartir un interés común.
 
 ### Legislación
 
