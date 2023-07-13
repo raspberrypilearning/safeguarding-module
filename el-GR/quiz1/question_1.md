@@ -1,13 +1,13 @@
 --- question ---
 ---
-legend: Question 1 of 9
+legend: Ερώτηση 1 από 9
 ---
 
-Is it good practice or poor practice to be inclusive of all young people regardless of gender, age, religion, nationality, ethnicity, or creed?
+Είναι καλή πρακτική ή κακή πρακτική να συμπεριλαμβάνονται όλοι οι νέοι ανεξαρτήτως φύλου, ηλικίας, θρησκείας, εθνικότητας, εθνότητας ή πίστης;
 
 --- choices ---
-- (x) Good practice
+- (x) Καλή πρακτική
 
-- ( ) Poor practice --- /choices ---
+- ( ) Κακή πρακτική --- /choices ---
 
 --- /question ---
