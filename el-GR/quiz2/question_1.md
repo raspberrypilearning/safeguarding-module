@@ -1,16 +1,16 @@
 --- question ---
 ---
-legend: Question 1 of 3
+legend: Ερώτηση 1 από 3
 ---
 
-How many adults should be present during an online session?
+Πόσοι ενήλικες πρέπει να είναι παρόντες κατά τη διάρκεια μιας διαδικτυακής συνεδρίας;
 
 --- choices ---
 
-- ( ) None
-- ( ) One
-- (x) At least two
-- ( ) At least three
+- ( ) Κανένας
+- ( ) Ενας
+- (x) Τουλάχιστον δύο
+- ( ) Τουλάχιστον τρεις
 
 --- /choices ---
 
