@@ -1,55 +1,55 @@
-## What is child safeguarding?
+## Τι είναι η προστασία των παιδιών;
 
-Safeguarding is the actions taken to promote the welfare of children and protect them from harm.
+Προστασία των παιδιών είναι οι ενέργειες που λαμβάνονται ώστε τα παιδιά να ευημερούν και να προστατεύονται από βλάβες.
 
 <p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">
-Ensure you're <span style="color: #0faeb0">logged into your Raspberry Pi Foundation account</span> to save your progress, otherwise your completion will not be recorded. Use the <a href="https://my.raspberrypi.org/login">'Log in'</a> link in the navigation menu to log in.
+Βεβαιωθείτε ότι είστε <span style="color: #0faeb0">συνδεδεμένοι στον λογαριασμό σας στο Raspberry Pi Foundation</span> για να αποθηκεύσετε την πρόοδό σας, διαφορετικά η ολοκλήρωσή σας δεν θα καταγραφεί. Χρησιμοποιήστε το σύνδεσμο «Σύνδεση» στο μενού πλοήγησης για να συνδεθείτε.
 </p>
 
-![Three young people standing.](images/3-RPF-Kids.png)
+![Τρεις νέοι είναι όρθιοι.](images/3-RPF-Kids.png)
 
-This learning guide has been created to give all volunteers of the Raspberry Pi Foundation and their programmes (Code Club, CoderDojo, Raspberry Jams, and Astro Pi) the opportunity to learn about best practices in child safeguarding.
+Αυτός ο οδηγός εκμάθησης δημιουργήθηκε για να δώσει σε όλους τους εθελοντές του Ιδρύματος Raspberry Pi και των προγραμμάτων τους (Code Club, CoderDojo, Raspberry Jams και Astro Pi) την ευκαιρία να μάθουν για τις βέλτιστες πρακτικές στην προστασία των παιδιών.
 
-Once completed, you will have:
+Μόλις τον ολοκληρώσετε, θα έχετε:
 
-* A basic awareness of the key issues in relation to child safeguarding in a coding club
-* An understanding of how to implement international best practices in child safeguarding
+* Βασική επίγνωση των κύριων θεμάτων σε σχέση με την προστασία των παιδιών σε μια λέσχη προγραμματισμού
+* Κατανόηση του τρόπου εφαρμογής διεθνών βέλτιστων πρακτικών για την προστασία των παιδιών
 
-It will take about 20 minutes to complete this learning guide.
+Θα χρειαστούν περίπου 20 λεπτά για να ολοκληρωθεί αυτός ο οδηγός εκμάθησης.
 
-### What topics will be covered?
+### Ποια θέματα θα καλυφθούν;
 
-There are many ways to ensure your club is a safe space for young people to learn and engage with technology.
+Υπάρχουν πολλοί τρόποι για να διασφαλίσετε ότι η λέσχη σας είναι ένας ασφαλής χώρος για τους/τις νέους/ες να μάθουν και να ασχοληθούν με την τεχνολογία.
 
-Below are some of the topics that will be covered:
+Παρακάτω είναι μερικά από τα θέματα που θα καλυφθούν:
 
-* Background checks
-* Legislation
-* How to recruit volunteers
-* Code of behaviour
-* Types of abuse
-* How to implement processes for reporting abuse
-* Example scenarios in a coding club
-* How to run safe online sessions
+* Έλεγχοι ιστορικού
+* Νομοθεσία
+* Πώς να στρατολογήσετε εθελοντές/τριες
+* Κώδικας συμπεριφοράς
+* Τύποι κακοποίησης
+* Πώς να εφαρμόσετε διαδικασίες για την αναφορά κακοποίησης
+* Παραδείγματα σεναρίων σε μια λέσχη προγραμματισμού
+* Πώς να πραγματοποιείτε ασφαλείς διαδικτυακές συνεδρίες
 
-### Why is child safeguarding important?
+### Γιατί είναι σημαντική η προστασία των παιδιών;
 
-All programmes run and supported by the Raspberry Pi Foundation should always be a safe space for everyone. By maintaining a safe environment, you are allowing young people to thrive and learn to code completely carefree.
+Όλα τα προγράμματα που εκτελούνται και υποστηρίζονται από το Raspberry Pi Foundation πρέπει να εμπνέουν ασφάλεια για όλους. Διατηρώντας ένα ασφαλές περιβάλλον, επιτρέπετε στους νέους να αναπτυχθούν και να μάθουν προγραμματισμό εντελώς ξένοιαστα.
 
-Clubs can have young people in attendance from different schools, backgrounds, and ages. Therefore, it is crucial to make sure this safe space is protected to ensure young people can make new friends and share a common interest.
+Οι λέσχες μπορούν να έχουν νέους ανθρώπους που συμμετέχουν από διαφορετικά σχολεία, υπόβαθρα και ηλικίες. Ως εκ τούτου, είναι σημαντικό να διασφαλίσουμε ότι αυτός ο ασφαλής χώρος προστατεύεται για να διασφαλιστεί ότι οι νέοι/νέες μπορούν να κάνουν νέους/ες φίλους/ες και να μοιράζονται κοινά ενδιαφέροντα.
 
-### Legislation
+### Νομοθεσία
 
-Each club is responsible for ensuring that they abide with the safeguarding legislation in their area. Some jurisdictions will require that all volunteers who work with young people and/or vulnerable persons have background checks before they commence the voluntary activity. Other jurisdictions may require that you have a child protection policy or safeguarding statement.
+Κάθε λέσχη είναι υπεύθυνη να διασφαλίσει ότι συμμορφώνεται με τη νομοθεσία προστασίας της περιοχής της. Σε ορισμένες περιοχές θα απαιτηθεί από όλους τους εθελοντές που εργάζονται με νέους και/ή ευάλωτα άτομα να υποβάλλονται σε έλεγχο ιστορικού πριν ξεκινήσουν την εθελοντική δραστηριότητα. Σε άλλες περιοχές ενδέχεται να απαιτείται να έχετε μια πολιτική προστασίας των παιδιών ή μια δήλωση προστασίας.
 
-**Note**: Legislation in the USA can vary from state to state.
+**Σημείωση**: Η νομοθεσία στις ΗΠΑ μπορεί να διαφέρει από πολιτεία σε πολιτεία.
 
-### Best practices
+### Βέλτιστες πρακτικές
 
-While it is paramount that you follow legislation in your region regarding child safeguarding, all clubs should try to have best practices in place, even where they are not required by legislation. Some of the best practices your club can adopt that will be covered in this module include:
+Αν και είναι υψίστης σημασίας να ακολουθείτε τη νομοθεσία της περιοχής σας σχετικά με την προστασία των παιδιών, όλες οι λέσχες θα πρέπει να προσπαθήσουν να εφαρμόζουν βέλτιστες πρακτικές, ακόμη και όταν δεν απαιτούνται από τη νομοθεσία. Μερικές από τις βέλτιστες πρακτικές που μπορεί να υιοθετήσει η λέσχη σας και θα καλυφθούν σε αυτήν την ενότητα περιλαμβάνουν:
 
-* Volunteer recruitment
-* Code of behaviour
-* Code of behaviour for young people attending online sessions
-* Guide for adults to support young people attending online sessions
-* The reporting process when abuse is disclosed to a volunteer or when a volunteer notices signs of abuse
+* Προσέγγιση Εθελοντών/τριών
+* Κώδικας συμπεριφοράς
+* Κώδικας συμπεριφοράς για παιδιά που παρακολουθούν διαδικτυακές συνεδρίες
+* Οδηγός για ενήλικες για την υποστήριξη παιδιών που παρακολουθούν διαδικτυακές συνεδρίες
+* Η διαδικασία αναφοράς όταν αποκαλύπτεται η κακοποίηση σε έναν εθελοντή ή όταν ένας εθελοντής παρατηρεί σημάδια κακοποίησης
