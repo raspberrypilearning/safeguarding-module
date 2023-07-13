@@ -42,5 +42,5 @@
 --- save ---
 
 <p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">
-ನಿಮ್ಮ ಪ್ರಗತಿಯನ್ನು ಉಳಿಸಲು ನೀವು <span style="color: #0faeb0"> ನಿಮ್ಮ Raspberry Pi ಫೌಂಡೇಶನ್ ಖಾತೆಗೆ ಲಾಗ್ ಇನ್ ಮಾಡಿರುವುದನ್ನು</span> ಖಚಿತಪಡಿಸಿಕೊಳ್ಳಿ, ಇಲ್ಲದಿದ್ದರೆ ನಿಮ್ಮ ಪೂರ್ಣಗೊಳಿಸುವಿಕೆಯನ್ನು ದಾಖಲಿಸಲಾಗುವುದಿಲ್ಲ. ಲಾಗ್ ಇನ್ ಆಗಲು ನ್ಯಾವಿಗೇಶನ್ ಮೆನುನಲ್ಲಿ <a href="https://my.raspberrypi.org/login">'ಲಾಗಿನ್'</a> ಲಿಂಕ್ ಅನ್ನು ಬಳಸಿ.
+ನಿಮ್ಮ ಪ್ರಗತಿಯನ್ನು ಉಳಿಸಲು ನೀವು <span style="color: #0faeb0"> ನಿಮ್ಮ Raspberry Pi ಫೌಂಡೇಶನ್ ಖಾತೆಗೆ ಲಾಗ್ ಇನ್ ಮಾಡಿರುವುದನ್ನು</span> ಖಚಿತಪಡಿಸಿಕೊಳ್ಳಿ, ಇಲ್ಲದಿದ್ದರೆ ನಿಮ್ಮ ಪೂರ್ಣಗೊಳಿಸುವಿಕೆಯನ್ನು ದಾಖಲಿಸಲಾಗುವುದಿಲ್ಲ. Use the 'Log in' link in the navigation menu to log in.
 </p>
