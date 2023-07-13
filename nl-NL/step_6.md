@@ -8,7 +8,7 @@ Kindermishandeling wordt over het algemeen gecategoriseerd als verwaarlozing, li
 
 ### Soorten misbruik: verwaarlozing
 
-Verwaarlozing kan worden gedefinieerd in termen van een omissie, waarbij een jongere aanzienlijke schade lijdt of in zijn ontwikkeling belemmerd wordt doordat hij wordt beroofd van voedsel, kleding, warmte, hygiëne, intellectuele stimulatie, toezicht en veiligheid, gehechtheid aan en genegenheid van volwassenen, en/of medische zorg.
+Verwaarlozing kan worden gedefinieerd in termen van een omissie, waarbij een jongere aanzienlijke schade lijdt of in zijn ontwikkeling belemmerd wordt doordat hij wordt beroofd van voedsel, kleding, warmte, hygiëne, intellectuele stimulatie, toezicht en veiligheid, gehechtheid aan en genegenheid van volwassenen en/of medische zorg.
 
 [Verdere bronnen en definitie van de NSPCC (VK)](https://www.nspcc.org.uk/what-is-child-abuse/types-of-abuse/neglect/){:target='_blank'}
 
@@ -51,7 +51,7 @@ Jongeren die het risico lopen te radicaliseren, kunnen het slachtoffer zijn van 
 Radicalisering kan moeilijk op te merken zijn, omdat het vergelijkbaar is met normaal tienergedrag. Hier zijn enkele tekenen dat een persoon of groep een jongere zou kunnen radicaliseren:
 
 - De jongere isoleert zich van familie en vrienden
-- De jongere praat alsof uit een geschreven toespraak
+- Het praten van de jongere klinkt als een geschreven toespraak
 - De jongere is niet bereid of niet in staat om over zijn of haar mening te praten
 - De jongere vertoont een plotseling respectloze houding ten opzichte van anderen
 - De jongere heeft een verhoogde mate van woede
@@ -62,5 +62,5 @@ Radicalisering kan moeilijk op te merken zijn, omdat het vergelijkbaar is met no
 --- save ---
 
 <p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">
-Zorg ervoor dat je <span style="color: #0faeb0">bent ingelogd op je Raspberry Pi Foundation account</span> om je voortgang op te slaan, anders word je eindresultaat niet geregistreerd. Gebruik de <a href="https://my.raspberrypi.org/login">'Inloggen'</a> link in het navigatiemenu om in te loggen.
+Zorg ervoor dat je <span style="color: #0faeb0">bent ingelogd op je Raspberry Pi Foundation account</span> om je voortgang op te slaan, anders word je eindresultaat niet geregistreerd. Use the 'Log in' link in the navigation menu to log in.
 </p>
