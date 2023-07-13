@@ -4,7 +4,7 @@ hero_image: images/banner.png
 description: Modiwl diogelu
 version: 0.1
 listed: false
-copyedit: false
+copyedit: true
 volunteers: true
 last_tested: 2022-01-05
 steps:
@@ -12,6 +12,8 @@ steps:
     title: Beth ydy diogelu plant?
   - 
     title: Y broses recriwtio
+    completion:
+      - engaged
   - 
     title: Cynefino gwirfoddolwyr newydd
   - 
@@ -24,7 +26,7 @@ steps:
       questions: 9
       passing_score: 9
   - 
-    title: "Cam-drin a datgelu"
+    title: Cam-drin a datgelu
   - 
     title: Sut mae rhedeg sesiynau ar-lein yn ddiogel
   - 
@@ -35,7 +37,7 @@ steps:
       questions: 3
       passing_score: 3
   - 
-    title: "Beth i'w wneud os…"
+    title: Beth i'w wneud os…
   - 
     title: Sut mae cofnodi manylion camdriniaeth
   - 
@@ -45,6 +47,9 @@ steps:
       version: 1
       questions: 6
       passing_score: 6
-    completion: allanol
+    completion:
+      - internal
   - 
-    title: "Bron â gorffen!"
+    title: Bron â gorffen!
+    completion:
+      - external
