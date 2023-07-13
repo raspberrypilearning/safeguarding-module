@@ -1,13 +1,13 @@
 --- question ---
 ---
-legend: Question 2 of 9
+legend: Ερώτηση 2 από 9
 ---
 
-Is it good practice or poor practice to send one-to-one messages on social media to an attendee at a club?
+Είναι καλή πρακτική ή κακή πρακτική να στέλνετε μηνύματα ένας προς έναν στα μέσα κοινωνικής δικτύωσης σε έναν συμμετέχοντα μιας λέσχης;
 
 --- choices ---
-- ( ) Good practice
+- ( ) Καλή πρακτική
 
-- (x) Poor practice --- /choices ---
+- (x) Κακή πρακτική --- /choices ---
 
 --- /question ---
