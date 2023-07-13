@@ -1,13 +1,13 @@
 --- question ---
 ---
-legend: Question 1 of 6
+legend: Ερώτηση 1 από 6
 ---
 
-Rita made no eye contact. Is this:
+Η Ρίτα δεν είχε οπτική επαφή. Είναι αυτό:
 
 --- choices ---
-- (x) A fact or an observation?
+- (x) Ένα γεγονός ή μια παρατήρηση;
 
-- ( ) An opinion or evaluation? --- /choices ---
+- ( ) Μια γνώμη ή μια αξιολόγηση; --- /choices ---
 
 --- /question ---
