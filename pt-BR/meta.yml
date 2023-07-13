@@ -4,7 +4,7 @@ hero_image: images/banner.png
 description: Módulo de salvaguarda
 version: 0.1
 listed: false
-copyedit: false
+copyedit: true
 volunteers: true
 last_tested: 2022-01-05
 steps:
@@ -12,6 +12,8 @@ steps:
     title: O que é proteção à criança?
   - 
     title: Processo de recrutamento
+    completion:
+      - engaged
   - 
     title: Indução de novos voluntários
   - 
@@ -24,7 +26,7 @@ steps:
       questions: 9
       passing_score: 9
   - 
-    title: "Abusos e divulgações"
+    title: Abusos e divulgações
   - 
     title: Como executar sessões on-line seguras
   - 
@@ -35,7 +37,7 @@ steps:
       questions: 3
       passing_score: 3
   - 
-    title: "O que fazer se…"
+    title: O que fazer se…
   - 
     title: Como registrar detalhes de abuso
   - 
@@ -45,6 +47,9 @@ steps:
       version: 1
       questions: 6
       passing_score: 6
-    completion: externo
+    completion:
+      - internal
   - 
-    title: "Estamos quase lá!"
+    title: Estamos quase lá!
+    completion:
+      - external
