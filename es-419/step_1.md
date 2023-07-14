@@ -40,16 +40,16 @@ Los clubes pueden contar con la participación de jóvenes de diferentes escuela
 
 ### Legislación
 
-Cada club es responsable de garantizar el cumplimiento de la legislación sobre protección de datos en su zona. Algunas jurisdicciones exigirán que todos los voluntarios que trabajen con jóvenes y/o personas vulnerables se sometan a una comprobación de antecedentes antes de iniciar la actividad de voluntariado. Otras jurisdicciones pueden exigirle una política de salvaguarda infantil o una declaración de salvaguarda.
+Cada club es responsable de garantizar el cumplimiento de la legislación de su zona sobre protección al menor. Algunas jurisdicciones exigirán que todos los voluntarios que trabajen con jóvenes y/o personas vulnerables se sometan a una comprobación de antecedentes antes de iniciar el voluntariado. Otras jurisdicciones pueden exigirle una política de protección al menor o una declaración de protección.
 
-**Nota**: La legislación de Estados Unidos puede variar de un estado a otro.
+**Nota**: La legislación en Estados Unidos puede variar de un estado a otro.
 
 ### Buenas prácticas
 
-Si bien es primordial seguir la legislación de su región en materia de salvaguarda infantil, todos los clubes deben tratar de aplicar las mejores prácticas, incluso cuando no lo exija la legislación. Algunas de las mejores prácticas que su club puede adoptar y que se tratarán en este módulo son:
+Si bien es primordial seguir la legislación de su región en materia de protección al menor, todos los clubes deben tratar de aplicar las mejores prácticas, incluso cuando no lo exija la legislación. Algunas de las mejores prácticas que su club puede adoptar y que se tratarán en este módulo son:
 
 * Reclutamiento de voluntarios
-* Código de comportamiento
+* Código de conducta
 * Código de conducta para los jóvenes que asisten a las sesiones en línea
 * Guía para que los adultos apoyen a los jóvenes que asisten a las sesiones en línea
 * El proceso de notificación cuando un voluntario es informado de un maltrato o cuando un voluntario advierte signos de maltrato
