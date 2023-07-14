@@ -1,4 +1,4 @@
-## Proceso de contratación
+## Proceso de reclutamiento
 
 Por lo general, el organizador del club es responsable de reclutar e incorporar a nuevos voluntarios. De vez en cuando, los voluntarios pueden participar en este proceso para ayudar al organizador del club, en particular para ayudar a guiar al nuevo voluntario en su primera sesión.
 
