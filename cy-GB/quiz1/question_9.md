@@ -8,6 +8,6 @@ Ydy copïo rhieni i mewn ym mhob e-bost uniongyrchol at bobl ifanc yn ymarfer da
 --- dewisiadau ---
 - (x) Ymarfer da
 
-- ( ) Ymarfer gwael --- /dewisiadau ---
+- ( ) Ymarfer gwael --- /choices ---
 
 --- /cwestiwn ---
