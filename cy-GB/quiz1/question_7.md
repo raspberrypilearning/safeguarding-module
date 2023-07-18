@@ -8,6 +8,6 @@ Ydy ystyried safbwyntiau pobl ifanc fel rhan o broses gwneud penderfyniadau eich
 --- dewisiadau ---
 - (x) Ymarfer da
 
-- ( ) Ymarfer gwael --- /dewisiadau ---
+- ( ) Ymarfer gwael --- /choices ---
 
 --- /cwestiwn ---
