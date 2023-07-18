@@ -8,6 +8,6 @@ Ydy cosbi corfforol neu emosiynol yn enghraifft o ymarfer da ynteu ymarfer gwael
 --- dewisiadau ---
 - ( ) Ymarfer da
 
-- (x) Ymarfer gwael --- /dewisiadau ---
+- (x) Ymarfer gwael --- /choices ---
 
 --- /cwestiwn ---
