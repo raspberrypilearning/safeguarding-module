@@ -4,14 +4,14 @@
 
 हे तिन्ही सूचना दस्तऐवज वाचून त्यानंतर खालील तीन प्रश्नांची उत्तरे द्या.
 
-### [आपला क्लब सुरक्षित चालवण्यासाठी सर्वकष चौकट](https://static.raspberrypi.org/files/clubs/Code_Club_and_CoderDojo_CV_Framework.pdf){:target='_blank'}
+### [आपला क्लब सुरक्षित चालवण्यासाठी सर्वकष चौकट](images/Code_Club_and_CoderDojo_CV_Framework.pdf){:target='_blank'}
 
 <embed src="https://static.raspberrypi.org/files/clubs/Code_Club_and_CoderDojo_CV_Framework.pdf" width="790" height="500" 
  type="application/pdf">
   </p>
 
 <h3 spaces-before="0">
-  <a href="https://static.raspberrypi.org/files/clubs/Code_Club_and_CoderDojo_Parent_Guide_Supporting_Online_Coding_Session.pdf">तरुणांनी ऑन लाईन सत्रामध्ये येण्याविषयी त्यांना समर्थन देणे विषयी प्रौढांसाठी सूचना</a>{:target='_blank'}
+  <a href="images/Code_Club_and_CoderDojo_Parent_Guide_Supporting_Online_Coding_Session.pdf">तरुणांनी ऑन लाईन सत्रामध्ये येण्याविषयी त्यांना समर्थन देणे विषयी प्रौढांसाठी सूचना</a>{:target='_blank'}
 </h3>
 
 <p spaces-before="0">
@@ -21,7 +21,7 @@
     </p>
 
 <h3 spaces-before="0">
-  <a href="https://static.raspberrypi.org/files/clubs/CoderDojo_Code_Club_Online_Code_of_Behaviour_A4_DIGITAL.pdf">तरुणांनी ऑन लाईन सत्रामध्ये पाळावयाचे वर्तणूकीविषयक सूचना</a>{:target='_blank'}
+  <a href="images/CoderDojo_Code_Club_Online_Code_of_Behaviour_A4_DIGITAL.pdf">तरुणांनी ऑन लाईन सत्रामध्ये पाळावयाचे वर्तणूकीविषयक सूचना</a>{:target='_blank'}
 </h3>
 
 <p spaces-before="0">
@@ -35,7 +35,7 @@
     </p>
     
     <p spaces-before="0">
-      आपण <a href="https://rpf.io/p/en/safeguarding-module-go">येथून सर्व संसाधने डाउनलोड करू शकता</a>{:target='_blank'}.
+      आपण <a href="https://rpf.io/p/mr-IN/safeguarding-module-go">येथून सर्व संसाधने डाउनलोड करू शकता</a>{:target='_blank'}.
     </p>
     
     <p spaces-before="0">
