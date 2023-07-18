@@ -19,7 +19,7 @@ Llongyfarchiadau! Rydych chi wedi llwyddo i recriwtio gwirfoddolwr newydd i'ch c
 
 ### Y gwirfoddolwr cywir
 
-Meddyliwch am dair nodwedd hoffech chi eu gweld mewn gwirfoddolwyr newydd, yna clicio'r awgrym isod i weld rhai o'n nodweddion dymunol ni.
+Meddyliwch am dair nodwedd hoffech chi eu gweld mewn gwirfoddolwyr newydd, yna clicio'r hint isod i weld rhai o'n nodweddion dymunol ni.
 
 --- awgrymiadau ---
 
