@@ -8,6 +8,6 @@ legend: 問4の6
 --- choices ---
 - ( ) 事実又は目撃情報ですか？
 
-- (x) 意見又は評価ですか？ --- /choices ---
+- (x) 意見又は評価ですか？ --- /choices --- --- /choices ---
 
 --- /question ---
