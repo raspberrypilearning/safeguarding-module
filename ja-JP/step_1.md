@@ -3,7 +3,7 @@
 セーフガードとは、子どもの福祉を促進し、子どもを危険から守るためにとられる行動をいう。
 
 <p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">
-<span style="color: #0faeb0">Raspberry Pi Foundation アカウント</span> にログインしていることを確認して進行状況を保存してください。それ以外の場合、完了情報は記録されません。 Use the 'Log in' link in the navigation menu to log in.
+<span style="color: #0faeb0">Raspberry Pi Foundation アカウント</span> にログインしていることを確認して進行状況を保存してください。 ナビゲーションメニューの「ログイン」リンクからログインしてください。
 </p>
 
 ![3名の若者が立っている。](images/3-RPF-Kids.png)
@@ -42,7 +42,7 @@
 
 各クラブは、各地域の保護に関する法令を遵守する責任があります。 管轄区域によっては、青少年および弱者、またはそのいずれかと活動するすべてのボランティアが、ボランティア活動を開始する前に身元調査を受けることを要求する場合があります。 その他の管轄区域では、児童保護方針または保護声明書を作成するよう求められる場合があります。
 
-**注意事項**。米国の法律は、州によって異なる場合があります。
+**注意事項**。 米国の法律は、州によって異なる場合があります。
 
 ### ベストプラクティス
 
