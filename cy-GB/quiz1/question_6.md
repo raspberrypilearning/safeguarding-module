@@ -8,6 +8,6 @@ Ydy gwneud taith car ar eich pen eich hun gyda phobl ifanc yn ymarfer da ynteu'n
 --- dewisiadau ---
 - ( ) Ymarfer da
 
-- (x) Ymarfer gwael --- /dewisiadau ---
+- (x) Ymarfer gwael --- /choices ---
 
 --- /cwestiwn ---
