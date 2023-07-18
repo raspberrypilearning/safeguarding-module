@@ -4,14 +4,14 @@ Você pode desejar realizar sessões on-line para jovens no seu clube que não p
 
 Leia esses guias e responda às três perguntas a seguir na próxima etapa.
 
-### [Estrutura básica para ajudá-lo a avaliar como desenvolver o seu clube com segurança](https://static.raspberrypi.org/files/clubs/Code_Club_and_CoderDojo_CV_Framework.pdf){:target='_blank'}
+### [Estrutura básica para ajudá-lo a avaliar como desenvolver o seu clube com segurança](images/Code_Club_and_CoderDojo_CV_Framework.pdf){:target='_blank'}
 
 <embed src="https://static.raspberrypi.org/files/clubs/Code_Club_and_CoderDojo_CV_Framework.pdf" width="790" height="500" 
  type="application/pdf">
   </p>
 
 <h3 spaces-before="0">
-  <a href="https://static.raspberrypi.org/files/clubs/Code_Club_and_CoderDojo_Parent_Guide_Supporting_Online_Coding_Session.pdf">Guia para apoiar jovens que participam de sessões online</a>{:target='_blank'}
+  <a href="images/Code_Club_and_CoderDojo_Parent_Guide_Supporting_Online_Coding_Session.pdf">Guia para apoiar jovens que participam de sessões online</a>{:target='_blank'}
 </h3>
 
 <p spaces-before="0">
@@ -21,7 +21,7 @@ Leia esses guias e responda às três perguntas a seguir na próxima etapa.
     </p>
 
 <h3 spaces-before="0">
-  <a href="https://static.raspberrypi.org/files/clubs/CoderDojo_Code_Club_Online_Code_of_Behaviour_A4_DIGITAL.pdf">Complemento para jovens que participam das sessões online</a>{:target='_blank'}
+  <a href="images/CoderDojo_Code_Club_Online_Code_of_Behaviour_A4_DIGITAL.pdf">Complemento para jovens que participam das sessões online</a>{:target='_blank'}
 </h3>
 
 <p spaces-before="0">
@@ -35,7 +35,7 @@ Leia esses guias e responda às três perguntas a seguir na próxima etapa.
     </p>
     
     <p spaces-before="0">
-      Você pode <a href="https://rpf.io/p/en/safeguarding-module-go">carregar todos esses recursos aqui</a>{:target='_blank'}.
+      Você pode <a href="https://rpf.io/p/pt-BR/safeguarding-module-go">carregar todos esses recursos aqui</a>{:target='_blank'}.
     </p>
     
     <p spaces-before="0">
@@ -43,5 +43,5 @@ Leia esses guias e responda às três perguntas a seguir na próxima etapa.
     </p>
 
 <p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">
-Certifique-se de que você está <span style="color: #0faeb0">logado na sua conta da Fundação Raspberry Pi </span> para salvar o seu progresso, caso contrário a sua conclusão não será gravada. Use the 'Log in' link in the navigation menu to log in.
+Certifique-se de que você está <span style="color: #0faeb0">logado na sua conta da Fundação Raspberry Pi </span> para salvar o seu progresso, caso contrário a sua conclusão não será gravada. Utilize o link de Login no menu de navegação para fazer login.
 </p>
