@@ -4,14 +4,14 @@ Efallai byddwch yn dymuno rhedeg sesiynau ar-lein i bobl ifanc yn eich clwb sy'n
 
 Darllenwch y canllawiau hyn ac ateb y tri chwestiwn canlynol yn y cam nesaf.
 
-### [Fframwaith i'ch helpu i asesu sut mae rhedeg eich clwb yn ddiogel](https://static.raspberrypi.org/files/clubs/Code_Club_and_CoderDojo_CV_Framework.pdf){:target='_blank'}
+### [Fframwaith i'ch helpu i asesu sut mae rhedeg eich clwb yn ddiogel](images/Code_Club_and_CoderDojo_CV_Framework.pdf){:target='_blank'}
 
 <embed src="https://static.raspberrypi.org/files/clubs/Code_Club_and_CoderDojo_CV_Framework.pdf" width="790" height="500" 
  type="application/pdf">
   </p>
 
 <h3 spaces-before="0">
-  <a href="https://static.raspberrypi.org/files/clubs/Code_Club_and_CoderDojo_Parent_Guide_Supporting_Online_Coding_Session.pdf">Canllaw i oedolion i gefnogi pobl ifanc sy'n cymryd rhan mewn sesiynau ar-lein</a>{:target='_blank'}
+  <a href="images/Code_Club_and_CoderDojo_Parent_Guide_Supporting_Online_Coding_Session.pdf">Canllaw i oedolion i gefnogi pobl ifanc sy'n cymryd rhan mewn sesiynau ar-lein</a>{:target='_blank'}
 </h3>
 
 <p spaces-before="0">
@@ -21,7 +21,7 @@ Darllenwch y canllawiau hyn ac ateb y tri chwestiwn canlynol yn y cam nesaf.
     </p>
 
 <h3 spaces-before="0">
-  <a href="https://static.raspberrypi.org/files/clubs/CoderDojo_Code_Club_Online_Code_of_Behaviour_A4_DIGITAL.pdf">Cod ymddygiad i bobl ifanc sy'n cymryd rhan mewn sesiynau ar-lein</a>{:target='_blank'}
+  <a href="images/CoderDojo_Code_Club_Online_Code_of_Behaviour_A4_DIGITAL.pdf">Cod ymddygiad i bobl ifanc sy'n cymryd rhan mewn sesiynau ar-lein</a>{:target='_blank'}
 </h3>
 
 <p spaces-before="0">
@@ -35,7 +35,7 @@ Darllenwch y canllawiau hyn ac ateb y tri chwestiwn canlynol yn y cam nesaf.
     </p>
     
     <p spaces-before="0">
-      Fe allwch chi <a href="https://rpf.io/p/en/safeguarding-module-go">lwytho'r holl adnoddau i lawr yma</a>{:target='_blank'}.
+      Fe allwch chi <a href="https://rpf.io/p/cy-GB/safeguarding-module-go">lwytho'r holl adnoddau i lawr yma</a>{:target='_blank'}.
     </p>
     
     <p spaces-before="0">
