@@ -8,6 +8,6 @@ Ydy anfon negeseuon un-i-un ar gyfryngau cymdeithasol i rywun sy'n cymryd rhan y
 --- dewisiadau ---
 - ( ) Ymarfer da
 
-- (x) Ymarfer gwael --- /dewisiadau ---
+- (x) Ymarfer gwael --- /choices ---
 
 --- /cwestiwn ---
