@@ -4,14 +4,14 @@
 
 ಈ ಮಾರ್ಗದರ್ಶಿಗಳನ್ನು ಓದಿರಿ ಮತ್ತು ಮುಂದಿನ ಹಂತದಲ್ಲಿ ಈ ಕೆಳಗಿನ ಮೂರು ಪ್ರಶ್ನೆಗಳಿಗೆ ಉತ್ತರಿಸಿ.
 
-### [ನಿಮ್ಮ ಕ್ಲಬ್ ಅನ್ನು ಸುರಕ್ಷಿತವಾಗಿ ಹೇಗೆ ನಡೆಸುವುದೆಂದು ನಿರ್ಣಯಿಸಲು ನಿಮಗೆ ಸಹಾಯ ಮಾಡುವ ಚೌಕಟ್ಟು](https://static.raspberrypi.org/files/clubs/Code_Club_and_CoderDojo_CV_Framework.pdf){:target='_blank'}
+### [ನಿಮ್ಮ ಕ್ಲಬ್ ಅನ್ನು ಸುರಕ್ಷಿತವಾಗಿ ಹೇಗೆ ನಡೆಸುವುದೆಂದು ನಿರ್ಣಯಿಸಲು ನಿಮಗೆ ಸಹಾಯ ಮಾಡುವ ಚೌಕಟ್ಟು](images/Code_Club_and_CoderDojo_CV_Framework.pdf){:target='_blank'}
 
 <embed src="https://static.raspberrypi.org/files/clubs/Code_Club_and_CoderDojo_CV_Framework.pdf" width="790" height="500" 
  type="application/pdf">
   </p>
 
 <h3 spaces-before="0">
-  <a href="https://static.raspberrypi.org/files/clubs/Code_Club_and_CoderDojo_Parent_Guide_Supporting_Online_Coding_Session.pdf">ಆನ್‌ಲೈನ್ ಸೆಷನ್‌ಗಳಿಗೆ ಹಾಜರಾಗುವ ಯುವಜನರನ್ನು ಬೆಂಬಲಿಸಲು ವಯಸ್ಕರ ಮಾರ್ಗದರ್ಶಿ</a>{:target='_blank'}
+  <a href="images/Code_Club_and_CoderDojo_Parent_Guide_Supporting_Online_Coding_Session.pdf">ಆನ್‌ಲೈನ್ ಸೆಷನ್‌ಗಳಿಗೆ ಹಾಜರಾಗುವ ಯುವಜನರನ್ನು ಬೆಂಬಲಿಸಲು ವಯಸ್ಕರ ಮಾರ್ಗದರ್ಶಿ</a>{:target='_blank'}
 </h3>
 
 <p spaces-before="0">
@@ -21,7 +21,7 @@
     </p>
 
 <h3 spaces-before="0">
-  <a href="https://static.raspberrypi.org/files/clubs/CoderDojo_Code_Club_Online_Code_of_Behaviour_A4_DIGITAL.pdf">ಆನ್‌ಲೈನ್‌ ಸೆಷನ್‌ಗಳಿಗೆ ಹಾಜರಾಗುವ ಯುವಕರಿಗೆ ನಡವಳಿಕೆಯ ಸಂಹಿತೆ</a>{:target='_blank'}
+  <a href="images/CoderDojo_Code_Club_Online_Code_of_Behaviour_A4_DIGITAL.pdf">ಆನ್‌ಲೈನ್‌ ಸೆಷನ್‌ಗಳಿಗೆ ಹಾಜರಾಗುವ ಯುವಕರಿಗೆ ನಡವಳಿಕೆಯ ಸಂಹಿತೆ</a>{:target='_blank'}
 </h3>
 
 <p spaces-before="0">
@@ -35,7 +35,7 @@
     </p>
     
     <p spaces-before="0">
-      ನೀವು ಈ ಎಲ್ಲಾ ಸಂಪನ್ಮೂಲಗಳನ್ನು ಇಲ್ಲಿ <a href="https://rpf.io/p/en/safeguarding-module-go">ಡೌನ್‍‌ಲೋಡ್ ಮಾಡಿಕೊಳ್ಳಬಹುದು</a>{:target='_blank'}.
+      ನೀವು ಈ ಎಲ್ಲಾ ಸಂಪನ್ಮೂಲಗಳನ್ನು ಇಲ್ಲಿ <a href="https://rpf.io/p/kn-IN/safeguarding-module-go">ಡೌನ್‍‌ಲೋಡ್ ಮಾಡಿಕೊಳ್ಳಬಹುದು</a>{:target='_blank'}.
     </p>
     
     <p spaces-before="0">
