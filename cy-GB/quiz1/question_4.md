@@ -8,6 +8,6 @@ Ydy cael cymhareb o 1:10 oedolyn i bobl ifanc o leiaf yn eich clwb yn ymarfer da
 --- dewisiadau ---
 - (x) Ymarfer da
 
-- ( ) Ymarfer gwael --- /dewisiadau ---
+- ( ) Ymarfer gwael --- /choices ---
 
 --- /cwestiwn ---
