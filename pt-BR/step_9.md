@@ -24,7 +24,7 @@ Em caso de dúvidas, você pode preencher o nosso formulário de salvaguarda [on
 
 1. Grave a conversa.
 1. Assine e date todos os registros escritos.
-1. Passe as informações para o responsável pela proteção da criança no local. Eles poderão orientá-lo nos próximos passos, que incluirão a anotação do que você ouviu da maneira mais precisa possível.
+1. Passe as informações para o responsável pela proteção da criança no local. Eles serão capazes de guiá-lo sobre os próximos passos, o que incluirá escrever o que você ouviu e/ou viu com a maior precisão possível.
 1. Informe-nos sobre as ações tomadas enviando e-mails [safeguarding@raspberrypi.org](mailto:safeguarding@raspberrypi.org){:target='_blank'} ou preenchendo o [ formulário de salvaguarda on-line](https://form.raspberrypi.org/f/safeguarding-concern-form){:target='_blank'}.
 1. Caso o jovem esteja em risco imediato, o responsável pela proteção da criança no local deve entrar em contato com a polícia.
 1. Trate todas as informações confidencialmente, compartilhe-as apenas com aqueles que possuem o direito de ouvir.
@@ -36,7 +36,7 @@ Em caso de dúvidas, você pode preencher o nosso formulário de salvaguarda [on
 
 1. Registre quaisquer sinais em detalhes.
 1. Assine e date todos os registros escritos.
-1. Passe as informações para o responsável pela proteção da criança no local. Eles serão capazes de guiá-lo sobre os próximos passos, o que incluirá escrever o que você ouviu e/ou viu com a maior precisão possível.
+1. Passe as informações para o responsável pela proteção da criança no local. Eles poderão orientá-lo nos próximos passos, que incluirão a anotação do que você ouviu da maneira mais precisa possível.
 1. Caso o jovem esteja em risco imediato, o responsável pela proteção da criança no local deve entrar em contato com a polícia.
 1. Informe-nos sobre as ações tomadas enviando e-mails [safeguarding@raspberrypi.org](mailto:safeguarding@raspberrypi.org){:target='_blank'} ou preenchendo o [ formulário de salvaguarda on-line](https://form.raspberrypi.org/f/safeguarding-concern-form){:target='_blank'}.
 1. Trate todas as informações confidencialmente, compartilhe-as apenas com aqueles que possuem o direito de ouvir.
@@ -47,5 +47,5 @@ Em caso de dúvidas, você pode preencher o nosso formulário de salvaguarda [on
 --- save ---
 
 <p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">
-Certifique-se de que você está <span style="color: #0faeb0">logado na sua conta da Fundação Raspberry Pi </span> para salvar o seu progresso, caso contrário a sua conclusão não será gravada. Use the 'Log in' link in the navigation menu to log in.
+Certifique-se de que você está <span style="color: #0faeb0">logado na sua conta da Fundação Raspberry Pi </span> para salvar o seu progresso, caso contrário a sua conclusão não será gravada. Utilize o link de Login no menu de navegação para fazer login.
 </p>
