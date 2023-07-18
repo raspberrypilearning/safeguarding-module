@@ -8,6 +8,6 @@ Ydy cynnwys yr holl bobl ifanc dim ots beth yw eu rhywedd, oedran, cenedligrwydd
 --- dewisiadau ---
 - (x) Ymarfer da
 
-- ( ) Ymarfer gwael --- /dewisiadau ---
+- ( ) Ymarfer gwael --- /choices ---
 
 --- /cwestiwn ---
