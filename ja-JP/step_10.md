@@ -7,5 +7,5 @@
 --- save ---
 
 <p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">
-<span style="color: #0faeb0">Raspberry Pi Foundation アカウント</span> にログインしていることを確認して進行状況を保存してください。それ以外の場合、完了情報は記録されません。 Use the 'Log in' link in the navigation menu to log in.
+<span style="color: #0faeb0">Raspberry Pi Foundation アカウント</span> にログインしていることを確認して進行状況を保存してください。 ナビゲーションメニューの「ログイン」リンクからログインしてください。
 </p>
