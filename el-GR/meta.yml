@@ -1,0 +1,43 @@
+---
+title: Εκπαιδευτική Ενότητα Προστασίας των Παιδιών
+hero_image: images/banner.png
+description: Εκπαιδευτική Ενότητα Προστασίας των Παιδιών
+version: 0.1
+listed: false
+copyedit: true
+volunteers: true
+last_tested: 2022-01-05
+steps:
+- title: Τι είναι η προστασία των παιδιών;
+- title: Αφίσες προσέγγισης νέων εθελοντών/τριών
+  completion:
+  - engaged
+- title: Εισαγωγή νέων εθελοντών/τριών
+- title: Κώδικας συμπεριφοράς
+- title: Κουίζ κώδικα συμπεριφοράς
+  knowledge_quiz:
+    path: quiz1
+    version: 1
+    questions: 9
+    passing_score: 9
+- title: Κακοποίηση και αποκαλύψεις
+- title: Πώς να εκτελείτε ασφαλείς διαδικτυακές συνεδρίες
+- title: Κουίζ διαδικτυακών συνεδριών
+  knowledge_quiz:
+    path: quiz2
+    version: 1
+    questions: 3
+    passing_score: 3
+- title: Τι να κάνετε εάν…
+- title: Πώς να καταγράψετε λεπτομέρειες κακοποίησης
+- title: Κουίζ παρατηρήσεων και αξιολογήσεων
+  knowledge_quiz:
+    path: quiz3
+    version: 1
+    questions: 6
+    passing_score: 6
+  completion:
+  - internal
+- title: Σχεδόν ολοκληρώσαμε!
+  completion:
+  - external
