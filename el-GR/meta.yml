@@ -37,7 +37,7 @@ steps:
     questions: 6
     passing_score: 6
   completion:
- - internal
+  - internal
 - title: Σχεδόν ολοκληρώσαμε!
   completion:
   - external
