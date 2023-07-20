@@ -4,17 +4,17 @@
 
 Διαβάστε αυτούς τους οδηγούς και απαντήστε στις ακόλουθες τρεις ερωτήσεις στο επόμενο βήμα.
 
-### [Πλαίσιο που θα σας βοηθήσει να αξιολογήσετε πώς να διευθύνετε με ασφάλεια τη λέσχη σας](https://projects-static.raspberrypi.org/projects/safeguarding-module/22e1f8b904092c8db41444ebc30ba0884f6618f1/el-GR/images/Code_Club_and_CoderDojo_CV_Framework.pdf){:target='_blank'}
+### [Πλαίσιο που θα σας βοηθήσει να αξιολογήσετε πώς να διευθύνετε με ασφάλεια τη λέσχη σας](https://static.raspberrypi.org/files/clubs/Code_Club_and_CoderDojo_CV_Framework.pdf){:target='_blank'}
 
 <embed src="https://static.raspberrypi.org/files/clubs/Code_Club_and_CoderDojo_CV_Framework.pdf" width="790" height="500" 
  type="application/pdf">
 
-### [Οδηγός για ενήλικες για υποστήριξη νέων που παρακολουθούν διαδικτυακές συνεδρίες](https://projects-static.raspberrypi.org/projects/safeguarding-module/22e1f8b904092c8db41444ebc30ba0884f6618f1/el-GR/images/Code_Club_and_CoderDojo_Parent_Guide_Supporting_Online_Coding_Session.pdf){:target='_blank'}
+### [Οδηγός για ενήλικες για υποστήριξη νέων που παρακολουθούν διαδικτυακές συνεδρίες](https://static.raspberrypi.org/files/clubs/Code_Club_and_CoderDojo_Parent_Guide_Supporting_Online_Coding_Session.pdf){:target='_blank'}
 
 <embed src="https://static.raspberrypi.org/files/clubs/Code_Club_and_CoderDojo_Parent_Guide_Supporting_Online_Coding_Session.pdf" width="790" height="1000" 
  type="application/pdf">
 
-### [Κώδικας συμπεριφοράς για νέους ανθρώπους που παρακολουθούν διαδικτυακές συνεδρίες](https://projects-static.raspberrypi.org/projects/safeguarding-module/22e1f8b904092c8db41444ebc30ba0884f6618f1/el-GR/images/CoderDojo_Code_Club_Online_Code_of_Behaviour_A4_DIGITAL.pdf){:target='_blank'}
+### [Κώδικας συμπεριφοράς για νέους ανθρώπους που παρακολουθούν διαδικτυακές συνεδρίες](https://static.raspberrypi.org/files/clubs/CoderDojo_Code_Club_Online_Code_of_Behaviour_A4_DIGITAL.pdf){:target='_blank'}
 
 <embed src="https://static.raspberrypi.org/files/clubs/CoderDojo_Code_Club_Online_Code_of_Behaviour_A4_DIGITAL.pdf" width="790" height="1000" 
  type="application/pdf">
