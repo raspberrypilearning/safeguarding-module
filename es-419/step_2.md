@@ -4,14 +4,14 @@ Por lo general, el organizador del club es responsable de reclutar e incorporar 
 
 ![Hay tres voluntarios que se mantienen.](images/2-RPF-Volunteers.png)
 
-Es importante reconocer que es posible que no todos los voluntarios que están interesados en ayudar en el club son apropiados o coincidentes.
+Es importante reconocer que es posible que no todos los voluntarios que están interesados en ayudar en el club son apropiados o compatibles.
 
-Un proceso de reclutamiento facilita la identificación de los voluntarios que no encajan en el club. He aquí un ejemplo de proceso de contratación.
+Un proceso de reclutamiento facilita la identificación de los voluntarios que no encajan en el club. He aquí un ejemplo de proceso de reclutamiento.
 
 ### 1. Descripción de los voluntarios
 
 
-Se trata de una breve descripción para indicarles a los posibles voluntarios qué involucra la función y para brindar una visión amplia de su club. Podría ser una breve descripción en su sitio web o un perfil del club sobre la función de los voluntarios. Debería incluir:
+Es una breve descripción para indicarles a los posibles voluntarios qué involucra la función y para brindar una visión amplia del club. Podría ser una breve descripción en su sitio web o un perfil del club sobre la función de los voluntarios. Debería incluir:
 
 * ¿Qué ocurre en una sesión regular?
 * ¿Con qué frecuencia funciona su club y durante cuánto tiempo?
