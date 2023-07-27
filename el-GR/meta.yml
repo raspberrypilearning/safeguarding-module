@@ -13,7 +13,7 @@ steps:
   - 
     title: Αφίσες προσέγγισης νέων εθελοντών/τριών
     completion:
-      - εμπλέκεται
+      - engaged
   - 
     title: Εισαγωγή νέων εθελοντών/τριών
   - 
@@ -21,7 +21,7 @@ steps:
   - 
     title: Κουίζ κώδικα συμπεριφοράς
     knowledge_quiz:
-      path: κουίζ1
+      path: quiz1
       version: 1
       questions: 9
       passing_score: 9
@@ -32,7 +32,7 @@ steps:
   - 
     title: Κουίζ διαδικτυακών συνεδριών
     knowledge_quiz:
-      path: κουίζ2
+      path: quiz2
       version: 1
       questions: 3
       passing_score: 3
@@ -43,13 +43,13 @@ steps:
   - 
     title: Κουίζ παρατηρήσεων και αξιολογήσεων
     knowledge_quiz:
-      path: κουίζ 3
+      path: quiz3
       version: 1
       questions: 6
       passing_score: 6
     completion:
-      - εσωτερικό
+      - internal
   - 
     title: Σχεδόν ολοκληρώσαμε!
     completion:
-      - εξωτερικό
+      - external
