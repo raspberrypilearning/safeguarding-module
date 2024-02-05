@@ -4,7 +4,7 @@ Si tiene alguna preocupación acerca de un joven, o si un joven le revela un mal
 
 ![Tres jóvenes están de pie.](images/8-Diverse-Mix-2.png)
 
-En esta sección hay sugerencias, ejemplos de escenarios y ejemplos de procedimientos de notificación para su club. Le recomendamos que hable de ello con sus compañeros voluntarios.
+En esta sección hay sugerencias, ejemplos de escenarios y ejemplos de procedimientos de notificación para su club. Le recomendamos que hable de ello con sus compañeros voluntarios. We also have guidance on [Dealing with safeguarding concerns](https://static.raspberrypi.org/files/safeguarding/Raspberry-Pi-Foundation-safeguarding-dealing-with-safeguarding-concerns.pdf){:target='_blank'}, that you can print out and share with volunteers.
 
 Si tiene alguna duda, puede llenar nuestro [formulario de salvaguarda en línea para obtener asesoramiento y apoyo](https://form.raspberrypi.org/f/safeguarding-concern-form){:target='_blank'}.
 
