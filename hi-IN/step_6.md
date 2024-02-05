@@ -1,6 +1,6 @@
 ## दुरुपयोग और अस्वीकरण
 
-हमारे क्लबों में बड़ी तादाद में युवा लोग बिना किसी दुर्व्यवहार का सामना किए बिना भाग लेते हैं। हालांकि, यह अहम है कि स्वयंसेवक इस बात को जानें कि जब वे अवलोकन से या किसी युवा व्यक्ति की तरफ से आपको दुर्व्यवहार (खुलासा) के बारे में बताते हुए दुर्व्यवहार के बारे में जागरूक हो जाते हैं तो उन्हें क्या करना चाहिए। अधिकांश रास्पबेरी पाई फाउंडेशन क्लब एक ऐसा माहौल बनाते हैं जिसमें कई युवा खासतौर पर राहत महसूस करते हैं, जो क्लब में खुलासे को प्रोत्साहित करने में सहायता कर सकता है।
+हमारे क्लबों में बड़ी तादाद में युवा लोग बिना किसी दुर्व्यवहार का सामना किए बिना भाग लेते हैं। However, it is important that volunteers maintain an attitude of 'it could happen here' and are aware of what to do when they become aware of abuse, either through observation or through a young person telling them about abuse (disclosure). Although volunteers may not spend a large amount of time with each young person compared to teachers in schools, Raspberry Pi Foundation clubs create an environment in which many young people feel particularly comfortable, which can help encourage disclosures at the club.
 
 ![तीन युवक खड़े हैं।](images/7-Diverse-Mix.png){:target='_blank'}
 
