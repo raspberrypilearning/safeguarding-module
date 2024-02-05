@@ -4,7 +4,7 @@
 
 ![ಮೂವರು ಯುವಕರು ನಿಂತಿದ್ದಾರೆ.](images/8-Diverse-Mix-2.png)
 
-ಈ ವಿಭಾಗದಲ್ಲಿ, ನಿಮ್ಮ ಕ್ಲಬ್‌ಗಾಗಿ ಸಲಹೆಗಳು, ಮಾದರಿ ಸನ್ನಿವೇಶಗಳು, ಮತ್ತು ಮಾದರಿ ವರದಿ ಮಾಡುವ ಕಾರ್ಯವಿಧಾನಗಳಿವೆ. ನಿಮ್ಮ ಸಹ ಸ್ವಯಂಸೇವಕರೊಂದಿಗೆ ಇವುಗಳ ಬಗ್ಗೆ ಮಾತನಾಡುವಂತೆ ನಾವು ಶಿಫಾರಸು ಮಾಡುತ್ತೇವೆ.
+ಈ ವಿಭಾಗದಲ್ಲಿ, ನಿಮ್ಮ ಕ್ಲಬ್‌ಗಾಗಿ ಸಲಹೆಗಳು, ಮಾದರಿ ಸನ್ನಿವೇಶಗಳು, ಮತ್ತು ಮಾದರಿ ವರದಿ ಮಾಡುವ ಕಾರ್ಯವಿಧಾನಗಳಿವೆ. ನಿಮ್ಮ ಸಹ ಸ್ವಯಂಸೇವಕರೊಂದಿಗೆ ಇವುಗಳ ಬಗ್ಗೆ ಮಾತನಾಡುವಂತೆ ನಾವು ಶಿಫಾರಸು ಮಾಡುತ್ತೇವೆ. We also have guidance on [Dealing with safeguarding concerns](https://static.raspberrypi.org/files/safeguarding/Raspberry-Pi-Foundation-safeguarding-dealing-with-safeguarding-concerns.pdf){:target='_blank'}, that you can print out and share with volunteers.
 
 ನಿಮಗೆ ಯಾವುದೇ ಸಂದೇಹಗಳಿದ್ದರೆ, ಸಲಹೆ ಪಡೆಯಲು ಮತ್ತು</a>{:target='_blank'} ಅನ್ನು ಬೆಂಬಲಿಸಲು ನಮ್ಮ
 
