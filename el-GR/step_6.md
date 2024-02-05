@@ -1,6 +1,6 @@
 ## Κακοποίηση και αποκαλύψεις
 
-Η συντριπτική πλειονότητα των νέων συμμετέχει στις λέσχες μας χωρίς να αντιμετωπίζουν κακομεταχείριση. Ωστόσο, είναι σημαντικό οι εθελοντές να γνωρίζουν τι πρέπει να κάνουν όταν αντιληφθούν την κακοποίηση είτε μέσω παρατήρησης είτε μέσω ενός νεαρού ατόμου που σας λέει για κακοποίηση (αποκάλυψη). Οι περισσότερες λέσχες του Ιδρύματος Raspberry Pi δημιουργούν ένα περιβάλλον στο οποίο πολλοί νέοι αισθάνονται ιδιαίτερα άνετα, κάτι που μπορεί να βοηθήσει στην ενθάρρυνση των αποκαλύψεων στη λέσχη.
+Η συντριπτική πλειονότητα των νέων συμμετέχει στις λέσχες μας χωρίς να αντιμετωπίζουν κακομεταχείριση. However, it is important that volunteers maintain an attitude of 'it could happen here' and are aware of what to do when they become aware of abuse, either through observation or through a young person telling them about abuse (disclosure). Although volunteers may not spend a large amount of time with each young person compared to teachers in schools, Raspberry Pi Foundation clubs create an environment in which many young people feel particularly comfortable, which can help encourage disclosures at the club.
 
 ![Τρεις νέοι άνθρωποι όρθιοι.](images/7-Diverse-Mix.png){:target="_blank'}
 
