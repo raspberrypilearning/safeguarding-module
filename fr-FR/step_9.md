@@ -4,7 +4,7 @@ Si vous avez des inquiétudes au sujet d'un jeune, ou si un jeune vous révèle 
 
 ![Trois jeunes debout.](images/8-Diverse-Mix-2.png)
 
-Dans cette section, vous trouverez des conseils, des exemples de scénarios et des exemples de procédures de rapport pour votre club. Nous vous recommandons d'en parler avec vos collègues bénévoles.
+Dans cette section, vous trouverez des conseils, des exemples de scénarios et des exemples de procédures de rapport pour votre club. Nous vous recommandons d'en parler avec vos collègues bénévoles. We also have guidance on [Dealing with safeguarding concerns](https://static.raspberrypi.org/files/safeguarding/Raspberry-Pi-Foundation-safeguarding-dealing-with-safeguarding-concerns.pdf){:target='_blank'}, that you can print out and share with volunteers.
 
 Si vous avez des doutes, vous pouvez remplir notre [formulaire de protection en ligne pour obtenir des conseils et une assistance](https://form.raspberrypi.org/f/safeguarding-concern-form){:target='_blank'}.
 
