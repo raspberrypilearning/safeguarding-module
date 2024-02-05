@@ -1,6 +1,6 @@
 ## Malos tratos y revelaciones
 
-La gran mayoría de los jóvenes participan en nuestros clubes sin sufrir maltratos. Sin embargo, es importante que los voluntarios sepan qué hacer cuando tengan conocimiento de un maltrato, ya sea mediante la observación o a través de un joven que le informe del maltrato (revelación). La mayoría de los clubes de la Fundación Raspberry Pi crean un entorno en el cual muchos jóvenes se sienten especialmente cómodos, lo cual puede ayudar a fomentar las revelaciones en el club.
+La gran mayoría de los jóvenes participan en nuestros clubes sin sufrir maltratos. However, it is important that volunteers maintain an attitude of 'it could happen here' and are aware of what to do when they become aware of abuse, either through observation or through a young person telling them about abuse (disclosure). Although volunteers may not spend a large amount of time with each young person compared to teachers in schools, Raspberry Pi Foundation clubs create an environment in which many young people feel particularly comfortable, which can help encourage disclosures at the club.
 
 ![Tres jóvenes están de pie.](images/7-Diverse-Mix.png){:target='_blank'}
 
