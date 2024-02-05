@@ -1,6 +1,6 @@
 ## Cam-drin a datgelu
 
-Mae mwyafrif helaeth y bobl ifanc yn cymryd rhan yn ein clybiau heb ddod ar draws camdriniaeth. Ond mae'n bwysig bod gwirfoddolwyr yn gwybod beth i'w wneud pan fyddan nhw'n dod i wybod am gamdriniaeth naill ai drwy arsylwi neu drwy berson ifanc yn rhoi gwybod iddyn nhw am gamdriniaeth (datgelu). Mae'r rhan fwyaf o glybiau'r Raspberry Pi Foundation yn creu amgylchedd lle mae llawer o bobl ifanc yn teimlo'n arbennig o ddibryder, sy'n gallu helpu i hybu datgeliadau yn y clwb.
+Mae mwyafrif helaeth y bobl ifanc yn cymryd rhan yn ein clybiau heb ddod ar draws camdriniaeth. However, it is important that volunteers maintain an attitude of 'it could happen here' and are aware of what to do when they become aware of abuse, either through observation or through a young person telling them about abuse (disclosure). Although volunteers may not spend a large amount of time with each young person compared to teachers in schools, Raspberry Pi Foundation clubs create an environment in which many young people feel particularly comfortable, which can help encourage disclosures at the club.
 
 ![Tri o bobl ifanc yn sefyll.](images/7-Diverse-Mix.png){:target='_blank'}
 
