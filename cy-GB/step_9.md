@@ -4,7 +4,7 @@ Os oes gennych chi bryder ynglŷn â pherson ifanc, neu os bydd person ifanc yn 
 
 ![Tri o bobl ifanc yn sefyll.](images/8-Diverse-Mix-2.png)
 
-Mae'r adran hon yn cynnwys awgrymiadau, sefyllfaoedd enghreifftiol ac enghreifftiau o weithdrefnau rhoi gwybod i'ch clwb. Bydden ni'n argymell eich bod yn siarad am y rhain gyda'ch cyd-wirfoddolwyr.
+Mae'r adran hon yn cynnwys awgrymiadau, sefyllfaoedd enghreifftiol ac enghreifftiau o weithdrefnau rhoi gwybod i'ch clwb. Bydden ni'n argymell eich bod yn siarad am y rhain gyda'ch cyd-wirfoddolwyr. We also have guidance on [Dealing with safeguarding concerns](https://static.raspberrypi.org/files/safeguarding/Raspberry-Pi-Foundation-safeguarding-dealing-with-safeguarding-concerns.pdf){:target='_blank'}, that you can print out and share with volunteers.
 
 Os ydych chi'n ansicr am unrhyw beth, fe allwch chi lenwi ein [ffurflen diogelu ar-lein i gael cyngor a chymorth](https://form.raspberrypi.org/f/safeguarding-concern-form){:target='_blank'}.
 
