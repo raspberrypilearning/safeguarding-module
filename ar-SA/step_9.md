@@ -4,7 +4,7 @@
 
 ![ثلاثة شباب واقفين.](images/8-Diverse-Mix-2.png)
 
-في هذا القسم توجد نصائح وسيناريوهات افتراضيّة ونماذج من إجراءات الإبلاغ لناديك. ونوصي بأن تتحدث عن ذلك مع زملائك المتطوعين.
+في هذا القسم توجد نصائح وسيناريوهات افتراضيّة ونماذج من إجراءات الإبلاغ لناديك. ونوصي بأن تتحدث عن ذلك مع زملائك المتطوعين. We also have guidance on [Dealing with safeguarding concerns](https://static.raspberrypi.org/files/safeguarding/Raspberry-Pi-Foundation-safeguarding-dealing-with-safeguarding-concerns.pdf){:target='_blank'}, that you can print out and share with volunteers.
 
 إذا كانت لديك أي تساؤلات، يمكنك ملء [نموذج الحماية على الإنترنت للحصول على المشورة والدعم](https://form.raspberrypi.org/f/safeguarding-concern-form){:target='_blank'}.
 
