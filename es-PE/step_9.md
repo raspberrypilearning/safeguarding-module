@@ -4,7 +4,7 @@ If you have a concern about a young person, or if a young person discloses abuse
 
 ![Three young people standing.](images/8-Diverse-Mix-2.png)
 
-In this section, there are tips, sample scenarios, and sample reporting procedures for your club. We would recommend that you talk about these with your fellow volunteers.
+In this section, there are tips, sample scenarios, and sample reporting procedures for your club. We would recommend that you talk about these with your fellow volunteers. We also have guidance on [Dealing with safeguarding concerns](https://static.raspberrypi.org/files/safeguarding/Raspberry-Pi-Foundation-safeguarding-dealing-with-safeguarding-concerns.pdf){:target='_blank'}, that you can print out and share with volunteers.
 
 If you have any doubts, you can fill out our [online safeguarding form to get advice and support](https://form.raspberrypi.org/f/safeguarding-concern-form){:target='_blank'}.
 
