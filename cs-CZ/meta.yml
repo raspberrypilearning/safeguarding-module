@@ -1,0 +1,55 @@
+---
+title: Bezpečnost při práci s dětmi
+hero_image: fotky/banner.png
+description: Bezpečnost při práci s dětmi
+version: 0.1
+listed: false
+copyedit: true
+volunteers: true
+last_tested: 2022-01-05
+steps:
+  - 
+    title: Co je to ochrana dětí?
+  - 
+    title: Proces náboru
+    completion:
+      - engaged
+  - 
+    title: Příjem nových dobrovolníků
+  - 
+    title: Pravidla chování
+  - 
+    title: 'Kvíz: Pravidla chování'
+    knowledge_quiz:
+      path: quiz1
+      version: 1
+      questions: 9
+      passing_score: 9
+  - 
+    title: Zneužívání a zveřejňování
+  - 
+    title: Jak provozovat bezpečné online hodiny
+  - 
+    title: 'Kvíz: Online hodiny'
+    knowledge_quiz:
+      path: quiz2
+      version: 1
+      questions: 3
+      passing_score: 3
+  - 
+    title: Co dělat, když…
+  - 
+    title: Jak zaznamenat podrobnosti o zneužívání
+  - 
+    title: 'Kvíz: Pozorování a hodnocení'
+    knowledge_quiz:
+      path: quiz3
+      version: 1
+      questions: 6
+      passing_score: 6
+    completion:
+      - internal
+  - 
+    title: To je téměř všechno!
+    completion:
+      - external
