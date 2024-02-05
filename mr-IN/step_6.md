@@ -1,6 +1,6 @@
 ## गैरवर्तणूक आणि प्रकटीकरण
 
-बहुसंख्य तरुण लोकांना गैर वर्तणुकीचा सामना न करता आमच्या क्लबमध्ये भाग घेतात. तथापि, हे महत्त्वाचे आहे की स्वयंसेवकांनी निरीक्षणाद्वारे जाणल्यास किंवा एखाद्या तरुण व्यक्ती द्वारे तुम्हाला गैरवर्तणूकीबद्दल (प्रकटीकरण) समजल्यास पुढे काय करावे हे त्यांना माहित असणे आवश्यक आहे. बहुतेक Raspberry Pi फाउंडेशन क्लब असे वातावरण तयार करतात ज्यामध्ये अनेक तरुणांना विशेषतः आराम दायक वाटते, जे क्लबमध्ये प्रकटीकरण करण्यास प्रोत्साहित करू शकतात.
+बहुसंख्य तरुण लोकांना गैर वर्तणुकीचा सामना न करता आमच्या क्लबमध्ये भाग घेतात. However, it is important that volunteers maintain an attitude of 'it could happen here' and are aware of what to do when they become aware of abuse, either through observation or through a young person telling them about abuse (disclosure). Although volunteers may not spend a large amount of time with each young person compared to teachers in schools, Raspberry Pi Foundation clubs create an environment in which many young people feel particularly comfortable, which can help encourage disclosures at the club.
 
 ![तीन युवक आहेत.](images/7-Diverse-Mix.png){:target='_blank'}
 
