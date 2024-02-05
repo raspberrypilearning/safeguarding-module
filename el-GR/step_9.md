@@ -4,7 +4,7 @@
 
 ![Τρεις νέοι άνθρωποι όρθιοι.](images/8-Diverse-Mix-2.png)
 
-Σε αυτήν την ενότητα, υπάρχουν συμβουλές, δείγματα σεναρίων και δείγματα διαδικασιών αναφοράς για τη λέσχη σας. Θα συνιστούσαμε να μιλήσετε για αυτά με τους συναδέλφους σας εθελοντές.
+Σε αυτήν την ενότητα, υπάρχουν συμβουλές, δείγματα σεναρίων και δείγματα διαδικασιών αναφοράς για τη λέσχη σας. Θα συνιστούσαμε να μιλήσετε για αυτά με τους συναδέλφους σας εθελοντές. We also have guidance on [Dealing with safeguarding concerns](https://static.raspberrypi.org/files/safeguarding/Raspberry-Pi-Foundation-safeguarding-dealing-with-safeguarding-concerns.pdf){:target='_blank'}, that you can print out and share with volunteers.
 
 Εάν έχετε οποιεσδήποτε αμφιβολίες, μπορείτε να συμπληρώσετε τη [φόρμα προστασίας στο διαδίκτυο για να λάβετε συμβουλές και υποστήριξη](https://form.raspberrypi.org/f/safeguarding-concern-form){:target='_blank'}.
 
