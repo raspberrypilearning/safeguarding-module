@@ -4,7 +4,7 @@
 
 ![तीन युवक आहेत.](images/8-Diverse-Mix-2.png)
 
-या विभागात, टिपा, नमुना परिस्थिती, आपल्या क्लबसाठी नमुना अहवाल प्रक्रिया आहेत. आपण आपल्या सहकारी स्वयंसेवकांशी ह्याविषयी चर्चा करा.
+या विभागात, टिपा, नमुना परिस्थिती, आपल्या क्लबसाठी नमुना अहवाल प्रक्रिया आहेत. आपण आपल्या सहकारी स्वयंसेवकांशी ह्याविषयी चर्चा करा. We also have guidance on [Dealing with safeguarding concerns](https://static.raspberrypi.org/files/safeguarding/Raspberry-Pi-Foundation-safeguarding-dealing-with-safeguarding-concerns.pdf){:target='_blank'}, that you can print out and share with volunteers.
 
 आपण काही शंका असल्यास, आपण पुढील फॉर्म भरू शकता [ऑनलाइन संरक्षण फॉर्म सल्ला आणि समर्थन](https://form.raspberrypi.org/f/safeguarding-concern-form){:target='_blank'}.
 
