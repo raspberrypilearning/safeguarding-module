@@ -1,6 +1,6 @@
 ## ದೌರ್ಜನ್ಯ ಮತ್ತು ಬಹಿರಂಗಪಡಿಸುವಿಕೆಗಳು
 
-ಹೆಚ್ಚಿನ ಯುವ ಜನರು ಯಾವುದೇ ನಿಂದನೆಯನ್ನು ಎದುರಿಸದೆ ನಮ್ಮ ಕ್ಲಬ್‌ಗಳಲ್ಲಿ ಭಾಗವಹಿಸುತ್ತಾರೆ. ಆದಾಗ್ಯೂ, ಸ್ವಯಂಸೇವಕರು ನಿಂದನೆಯನ್ನು ಗಮನಿಸಿದಾಗ ಅಥವಾ ನಿಂದನೆಯ ಬಗ್ಗೆ ನಿಮಗೆ ಯಾರಾದರೂ ಯುವಕರು ತಿಳಿಸಿದಾಗ (ಬಹಿರಂಗಪಡಿಸುವಿಕೆ) ಏನು ಮಾಡಬೇಕೆಂದು ತಿಳಿದಿರುವುದು ಬಹಳ ಮುಖ್ಯವಾಗಿದೆ. ಹೆಚ್ಚಿನ Raspberry Pi ಫೌಂಡೇಶನ್ ಕ್ಲಬ್‌ಗಳು ಅನೇಕ ಯುವಕರಿಗೆ ವಿಶೇಷವಾಗಿ ಆರಾಮದಾಯಕವಾಗಿರುವ ವಾತಾವರಣವನ್ನು ಸೃಷ್ಟಿಸುತ್ತಿದ್ದು, ಇದು ಕ್ಲಬ್‌ನಲ್ಲಿ ಮುಕ್ತವಾಗಿ ಸಂವಾದಗಳನ್ನು ಹೊಂದುವುದನ್ನು ಪ್ರೋತ್ಸಾಹಿಸುತ್ತದೆ.
+ಹೆಚ್ಚಿನ ಯುವ ಜನರು ಯಾವುದೇ ನಿಂದನೆಯನ್ನು ಎದುರಿಸದೆ ನಮ್ಮ ಕ್ಲಬ್‌ಗಳಲ್ಲಿ ಭಾಗವಹಿಸುತ್ತಾರೆ. However, it is important that volunteers maintain an attitude of 'it could happen here' and are aware of what to do when they become aware of abuse, either through observation or through a young person telling them about abuse (disclosure). Although volunteers may not spend a large amount of time with each young person compared to teachers in schools, Raspberry Pi Foundation clubs create an environment in which many young people feel particularly comfortable, which can help encourage disclosures at the club.
 
 ![ಮೂವರು ಯುವಕರು ನಿಂತಿದ್ದಾರೆ.](images/7-Diverse-Mix.png){:target='_blank'}
 
