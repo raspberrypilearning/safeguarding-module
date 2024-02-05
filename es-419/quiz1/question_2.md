@@ -8,6 +8,6 @@ legend: pregunta 2 de 9
 --- choices ---
 - ( ) Buena práctica
 
-- (x) Pobre práctica --- /choices ---
+- (x) Mala práctica --- /choices ---
 
 --- /question ---
