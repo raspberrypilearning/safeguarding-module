@@ -4,7 +4,7 @@ Se você possui uma preocupação com um jovem, ou se um jovem lhe revela abuso,
 
 ![Três jovens em destaque.](images/8-Diverse-Mix-2.png)
 
-Nesta seção, há dicas, cenários de amostra e procedimentos de relatórios de amostras para o seu clube. Recomendamos que fale sobre isso com os seus colegas voluntários.
+Nesta seção, há dicas, cenários de amostra e procedimentos de relatórios de amostras para o seu clube. Recomendamos que fale sobre isso com os seus colegas voluntários. We also have guidance on [Dealing with safeguarding concerns](https://static.raspberrypi.org/files/safeguarding/Raspberry-Pi-Foundation-safeguarding-dealing-with-safeguarding-concerns.pdf){:target='_blank'}, that you can print out and share with volunteers.
 
 Em caso de dúvidas, você pode preencher o nosso formulário de salvaguarda [on-line para obter conselhos e suporte](https://form.raspberrypi.org/f/safeguarding-concern-form){:target='_blank'}.
 
