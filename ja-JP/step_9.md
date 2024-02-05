@@ -4,7 +4,7 @@
 
 ![3名の若者が立っている。](images/8-Diverse-Mix-2.png)
 
-このセクションでは、クラブのためのヒント、シナリオの例、報告手順の例が紹介されています。 ボランティア仲間の内部で話し合っておくことをお勧めします。
+このセクションでは、クラブのためのヒント、シナリオの例、報告手順の例が紹介されています。 ボランティア仲間の内部で話し合っておくことをお勧めします。 We also have guidance on [Dealing with safeguarding concerns](https://static.raspberrypi.org/files/safeguarding/Raspberry-Pi-Foundation-safeguarding-dealing-with-safeguarding-concerns.pdf){:target='_blank'}, that you can print out and share with volunteers.
 
 疑問がある場合は、[オンラインのセーフガードフォームに記入し、アドバイスやサポートを受けることができます](https://form.raspberrypi.org/f/safeguarding-concern-form){:target='_blank'}。
 
