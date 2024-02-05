@@ -4,7 +4,7 @@
 
 ![तीन युवक खड़े हैं।](images/8-Diverse-Mix-2.png)
 
-इस खंड में, आपके क्लब के लिए सुझाव, सैंपल परिदृश्य और सैंपल रिपोर्टिंग प्रक्रियाएं हैं। हम सुझाव देते हैं कि आप अपने साथी स्वयंसेवकों से इनके बारे में बात करें।
+इस खंड में, आपके क्लब के लिए सुझाव, सैंपल परिदृश्य और सैंपल रिपोर्टिंग प्रक्रियाएं हैं। हम सुझाव देते हैं कि आप अपने साथी स्वयंसेवकों से इनके बारे में बात करें। We also have guidance on [Dealing with safeguarding concerns](https://static.raspberrypi.org/files/safeguarding/Raspberry-Pi-Foundation-safeguarding-dealing-with-safeguarding-concerns.pdf){:target='_blank'}, that you can print out and share with volunteers.
 
 यदि आपको कोई संदेह है, तो आप सलाह और सहायता प्राप्त करने के लिए हमारा [ऑनलाइन सुरक्षा फ़ॉर्म भर सकते हैं](https://form.raspberrypi.org/f/safeguarding-concern-form){:target='_blank'}।
 
