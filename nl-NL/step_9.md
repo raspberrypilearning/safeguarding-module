@@ -4,7 +4,7 @@ Als je je zorgen maakt over een jongere, of als een jongere misbruik aan je onth
 
 ![Drie staande jonge mensen.](images/8-Diverse-Mix-2.png)
 
-In dit gedeelte vind je tips, voorbeeldscenario's en voorbeeldrapportageprocedures voor jouw club. We raden je aan om hierover met je vrijwilligers te praten.
+In dit gedeelte vind je tips, voorbeeldscenario's en voorbeeldrapportageprocedures voor jouw club. We raden je aan om hierover met je vrijwilligers te praten. We also have guidance on [Dealing with safeguarding concerns](https://static.raspberrypi.org/files/safeguarding/Raspberry-Pi-Foundation-safeguarding-dealing-with-safeguarding-concerns.pdf){:target='_blank'}, that you can print out and share with volunteers.
 
 Als je twijfels hebt, kun je ons [online formulier invullen voor advies en ondersteuning](https://form.raspberrypi.org/f/safeguarding-concern-form){:target='_blank'}.
 
