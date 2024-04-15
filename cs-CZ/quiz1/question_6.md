@@ -8,6 +8,6 @@ Je dobrou nebo špatnou praxí brát mladé lidi na cesty autem samostatně?
 --- choices ---
 - ( ) Dobrá praxe
 
-- (x) Špatná praxe --- /možnosti ---
+- (x) Špatná praxe --- /choices ---
 
 --- /question ---
