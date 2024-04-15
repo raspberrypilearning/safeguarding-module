@@ -4,14 +4,14 @@ Pokud máte obavy o mladou osobu nebo pokud vám mladá osoba odhalí zneužív�
 
 ![Tři mladí lidé stojí.](images/8-Diverse-Mix-2.png)
 
-V této sekci jsou tipy, ukázkové scénáře a vzorové postupy pro hlášení ve vašem klubu. Doporučujeme, abyste je probrali se svými dobrovolníky. We also have guidance on [Dealing with safeguarding concerns](https://static.raspberrypi.org/files/safeguarding/Raspberry-Pi-Foundation-safeguarding-dealing-with-safeguarding-concerns.pdf){:target='_blank'}, that you can print out and share with volunteers.
+V této sekci jsou tipy, ukázkové scénáře a vzorové postupy pro hlášení ve vašem klubu. Doporučujeme, abyste je probrali se svými dobrovolníky. Máme také návod na [Řešení bezpečnostních problémů](https://static.raspberrypi.org/files/safeguarding/Raspberry-Pi-Foundation-safeguarding-dealing-with-safeguarding-concerns.pdf){:target='_blank'}, který si můžete vytisknout a sdílet s dobrovolníky.
 
-Pokud máte nějaké pochybnosti, můžete vyplnit náš [formulář věnující se online bezpečnosti a získat radu a podporu](https://form.raspberrypi.org/f/safeguarding-concern-form){:target='_blank'}.
+Pokud máte nějaké pochybnosti, můžete vyplnit náš [formulář věnující se online bezpečnosti a získat rady a podporu](https://form.raspberrypi.org/f/safeguarding-concern-form){:target='_blank'}.
 
 ### Co dělat, když vám mladý člověk odhalí zneužití?
 
 1. Reagujte klidně: vážná reakce může mladého člověka vyděsit a zhoršit pocity úzkosti a/nebo viny.
-1. Poslouchejte pozorně a pozorně a berte mladého člověka vážně.
+1. Poslouchejte pozorně a berte mladého člověka vážně.
 1. Ujistěte mladého člověka, že rozhovorem s vámi udělal správnou věc.
 1. Nedávejte falešné sliby (zejména pokud jde o tajnost).
 1. Vysvětlete, že pokud je to, co vám říkají, vážné, pak budete muset říci jiné osobě.
@@ -47,5 +47,5 @@ Pokud máte nějaké pochybnosti, můžete vyplnit náš [formulář věnující
 --- save ---
 
 <p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">
-Zajistěte, že jste <span style="color: #0faeb0">přihlášeni do vašeho Raspberry Pi Foundation účtu</span> aby byl váš dosavadní postup uložen, v opačném případě nebude vaše dokončení zaznamenáno. Použijte 'Log in' link v menu k přihlášení.
+Zajistěte, že jste <span style="color: #0faeb0">přihlášeni do vašeho Raspberry Pi Foundation účtu</span> aby byl váš dosavadní postup uložen, v opačném případě nebude vaše dokončení zaznamenáno. Použijte 'Log in' link v menu pro přihlášení.
 </p>
