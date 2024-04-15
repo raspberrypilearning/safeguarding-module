@@ -8,6 +8,6 @@ Je dobrou nebo špatnou praxí posílat rodičům kopii veškeré přímé e-mai
 --- choices ---
 - (x) Dobrá praxe
 
-- ( ) Špatná praxe --- /možnosti ---
+- ( ) Špatná praxe --- /choices ---
 
 --- /question ---
