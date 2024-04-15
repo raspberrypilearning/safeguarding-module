@@ -21,11 +21,11 @@ Toto je krátký popis, který potenciálním dobrovolníkům sdělí, co role d
 
 Toto může být online formulář s několika krátkými otázkami. Pokud je to možné, měli byste požádat o doporučení a všechny relevantní dovednosti, které mohou být užitečné ve vašem klubu. Informace z přihlášky, jako jsou kontaktní údaje, budou užitečné, pokud se tento potenciální dobrovolník připojí do klubu.
 
-**Note**: Pokud jste v Code Club nebo CoderDojo, místo přihláškového formuláře byste měli povzbuzovat potenciální dobrovolníky, aby se zaregistrovali prostřednictvím našich webových stránek ([codeclub.org](https://codeclub.org){:target='_blank'} and [coderdojo.com](https://coderdojo.com){:target='_blank'}).
+**Poznámka**: Pokud jste v Code Club nebo CoderDojo, místo přihláškového formuláře byste měli povzbuzovat potenciální dobrovolníky, aby se zaregistrovali prostřednictvím našich webových stránek ([codeclub.org](https://codeclub.org){:target='_blank'} and [coderdojo.com](https://coderdojo.com){:target='_blank'}).
 
 ### 3. Neformální setkání nebo pohovor
 
-Pozvěte osobu do klubu, abyste se s nimi mohli setkat, a oni aby se mohli dozvědět více o prostředí klubu. Pokud váš klub provozuje aktivity online, můžete se setkávat na dálku. Mělo by to být neformální setkání, ale mělo by dát současným klubovým dobrovolníkům a potenciálnímu dobrovolníkovi možnost rozhodnout se, zda chtějí, aby se zájemce stal dobrovolníkem na stálo. To také umožní současným klubovým dobrovolníkům a novým dobrovolníkům zjistit, zda mohou dobře spolupracovat v prostředí klubu. Pokud začínáte svůj klub poprvé, měli byste uspořádat neformální schůzku s potenciálním dobrovolníkem před vaším prvním zasedáním.
+Pozvěte osobu do klubu, abyste se s ni mohli setkat, a aby on/ona se mohl/a dozvědět více o prostředí klubu. Pokud váš klub provozuje aktivity online, můžete se setkávat na dálku. Mělo by to být neformální setkání, ale mělo by dát současným klubovým dobrovolníkům a potenciálnímu dobrovolníkovi možnost rozhodnout se, zda chtějí, aby se zájemce stal dobrovolníkem na stálo. To také umožní současným klubovým dobrovolníkům a novým dobrovolníkům zjistit, zda mohou dobře spolupracovat v prostředí klubu. Pokud začínáte svůj klub poprvé, měli byste uspořádat neformální schůzku s potenciálním dobrovolníkem před vaším prvním zasedáním.
 
 ### 4. Prověrky (v závislosti na regionu)
 
@@ -35,12 +35,12 @@ Prověrky jsou užitečné pro dobrovolné kódovací kluby; v některých regio
 
 Může být opravdu užitečné požádat rozhodčí o zkontrolování referencí, abyste zjistili, zda je dobrovolník vhodný pro práci s mladými lidmi a/nebo zranitelnými dospělými.
 
-Jestli máte svou vlastní přihlášku, můžete právě toto použít jako prostor, kde se zeptáte na detaily referujících. Jestli jste neposbírali data o referujících v přihlášce, můžete tak učinit po neformálním setkání s potenciálním dobrovolníkem. Referující mohou být kolegové, učitelé, lektoři, nebo přátelé, kteří dobře znají potenciálního dobrovolníka. Dobrovolníci mohou být klubu doporučeni jiným již existujícím dobrovolníkem, tento dobrovolník může taktéž posloužit jako referent.
+Jestli máte svou vlastní přihlášku, můžete právě toto použít jako prostor, kde se zeptáte na detaily referujících. Jestli jste neposbírali data o referujících v přihlášce, můžete tak učinit po neformálním setkání s potenciálním dobrovolníkem. Referující mohou být kolegové, učitelé, lektoři, nebo přátelé, kteří dobře znají potenciálního dobrovolníka. Dobrovolníci mohou být klubu doporučeni jiným již existujícím dobrovolníkem, tento dobrovolník může taktéž posloužit jako rozhodčí.
 
 **Tip**: Když kontrolujete reference, je často nejlepší zavolat doporučujícímu, protože je větší šance, že bude upřímnější, než kdyby to psal.
 
 --- save ---
 
 <p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">
-Zajistěte, že jste <span style="color: #0faeb0">přihlášeni do vašeho Raspberry Pi Foundation účtu</span> aby byl váš dosavadní postup uložen, v opačném případě nebude vaše dokončení zaznamenáno. Použijte 'Log in' link v menu k přihlášení.
+Zajistěte, že jste <span style="color: #0faeb0">přihlášeni do vašeho Raspberry Pi Foundation účtu</span> aby byl váš dosavadní postup uložen, v opačném případě nebude vaše dokončení zaznamenáno. Použijte 'Log in' link v menu pro přihlášení.
 </p>
