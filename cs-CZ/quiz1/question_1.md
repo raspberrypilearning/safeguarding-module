@@ -8,6 +8,6 @@ Je dobrou nebo špatnou praxí začlenit všechny mladé lidi bez ohledu na pohl
 --- choices ---
 - (x) Dobrá praxe
 
-- ( ) Špatná praxe --- /možnosti ---
+- ( ) Špatná praxe --- /choices ---
 
 --- /question ---
