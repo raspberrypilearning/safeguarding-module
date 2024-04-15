@@ -8,6 +8,6 @@ Je dobrou nebo špatnou praxí mít ve vašem klubu poměr dospělých a mláde�
 --- choices ---
 - (x) Dobrá praxe
 
-- ( ) Špatná praxe --- /možnosti ---
+- ( ) Špatná praxe --- /choices ---
 
 --- /question ---
