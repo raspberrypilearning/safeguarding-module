@@ -29,12 +29,12 @@ Níže jsou uvedena některá z témat, která budou probrána:
 * Pravidla chování
 * Druhy zneužití
 * Jak zavést postupy pro oznamování zneužití
-* Příklad scénářů v Code Clubu
+* Příklad scénářů v kódovacím klubu
 * Jak provozovat bezpečné online hodiny
 
 ### Proč je ochrana dětí důležitá?
 
-Programy provozované a podporované Raspberry Pi Foundation by měly vždy být bezpečným prostorem pro všchny. Udržováním bezpečného prostředí umožňujete mladým lidem prosperovat a učit se kódovat zcela bezstarostně.
+Programy provozované a podporované Raspberry Pi Foundation by měly vždy být bezpečným prostorem pro všechny. Udržováním bezpečného prostředí umožňujete mladým lidem prosperovat a učit se kódovat zcela bezstarostně.
 
 Kluby mohou navštěvovat mladí lidé z různých škol, prostředí a věku. Proto je zásadní zajistit, aby byl tento bezpečný prostor chráněn, aby se zajistilo, že mladí lidé budou moci navazovat nové přátele a sdílet společné zájmy.
 
