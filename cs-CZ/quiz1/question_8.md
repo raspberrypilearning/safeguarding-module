@@ -8,6 +8,6 @@ Je fyzický nebo emocionální trest příkladem dobré nebo špatné praxe?
 --- choices ---
 - ( ) Dobrá praxe
 
-- (x) Špatná praxe --- /možnosti ---
+- (x) Špatná praxe --- /choices ---
 
 --- /question ---
