@@ -6,8 +6,8 @@ legend: Otázka 3 z 9
 Je dobrou nebo špatnou praxí používat v klubu urážlivé výrazy?
 
 --- choices ---
-- (x) Dobrá praxe
+- ( ) Dobrá praxe
 
-- (x) Špatná praxe --- /možnosti ---
+- (x) Špatná praxe --- /choices ---
 
 --- /question ---
