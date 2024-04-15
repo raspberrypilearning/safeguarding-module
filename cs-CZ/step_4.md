@@ -1,6 +1,6 @@
 ## Pravidla chování
 
-Každá osoba v klubu si musí být vědoma pravidel chování a dodržovat je. Náš dokument obsahující pravidla chování naleznete na [rpf.io/code-of-behaviour](http://rpf.io/code-of-behaviour){:target='_blank'}
+Každá osoba v klubu si musí být vědoma pravidel chování a dodržovat je. Náš dokument obsahující pravidla chování naleznete na [rpf.io/code-of-behaviour](images/Raspberry_Pi_Foundation-safeguarding-code-of-behaviour.pdf){:target='_blank'}
 
 <embed src="images/Raspberry_Pi_Foundation-safeguarding-code-of-behaviour.pdf" width="790" height="500" 
  type="application/pdf">
