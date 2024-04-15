@@ -3,7 +3,7 @@
 legend: Otázka 2 z 6
 ---
 
-John cítil alkohol. Je to:
+Z Johna byl cítit alkohol. Je to:
 
 --- choices ---
 - (x) Fakt nebo pozorování?
