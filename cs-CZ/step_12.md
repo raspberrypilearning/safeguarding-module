@@ -10,7 +10,7 @@ Nyní si můžete otestovat své znalosti pomocí některých scénářů. V ka�
 
 --- hints --- --- hint ---
 
-V takovém případě byste se měli ujistit, že jste mladého člověka zkontrolovali, než začnete mít jakékoli domněnky. Kimovi rodiče nebo opatrovníci by měli být informováni o hře tou nejvhodnější osobou, kterou můžete být vy, ale může to být i jiný dobrovolník nebo učitel z klubu. Může být také důležité říci rodičům nebo opatrovníkům mladého člověka o místní podpoře v oblasti, pokud dobrovolník ví, jaká je. V tomto scénáři je často praktický lékař nebo místní lékař tím nejlepším místem, kam rodiče nebo opatrovníka nasměrovat. A co je nejdůležitější, měli byste si promluvit se svým organizátorem klubu nebo učitelem, pokud jste ve školním prostředí, a zajistit, aby někdo z klubu kontroloval Kima na budoucích sezeních.
+V takovém případě byste se měli ujistit, že jste mladého člověka zkontrolovali, než začnete mít jakékoli domněnky. Kimovi rodiče nebo opatrovníci by měli být informováni o hře tou nejvhodnější osobou, kterou můžete být vy, ale může to být i jiný dobrovolník nebo učitel z klubu. Může být také vhodné říci rodičům nebo opatrovníkům mladého člověka o místní podpoře v oblasti, pokud dobrovolník ví, jaká je. V tomto scénáři je často praktický lékař nebo místní lékař tou nejlepší variantou, kam rodiče nebo opatrovníka nasměrovat. A co je nejdůležitější, měli byste si promluvit se svým organizátorem klubu nebo učitelem, pokud jste ve školním prostředí, a zajistit, aby někdo z klubu zkontroloval Kima na budoucích sezeních.
 
 --- /hint --- --- /hints ---
 
@@ -49,7 +49,7 @@ Je důležité udělat záznam o tom, co Robert zveřejnil, pro případ, že by
 
 --- hints --- --- hint ---
 
-Osobní zasílání zpráv s mladými lidmi se žádným dobrovolníkům nedoporučuje, a to ani na sociálních sítích, ani prostřednictvím jiných médií (včetně e-mailu). Jsou scénáře, ve kterých můžete chtít mladému člověku odpovědět: například jestli je další hodina vzdálená a/nebo je u onoho projektu uzávěrka přijetí do soutěže, a vy nechcete mladého člověka zklamat. Pokud odpovíte měli byste jim doporučit, ať v průběhu další komunikace vloží do kopie jejich rodiče či opatrovníka (nebo organizátora klubu či učitele).
+Osobní zasílání zpráv s mladými lidmi se žádným dobrovolníkům nedoporučuje, a to ani na sociálních sítích, ani prostřednictvím jiných médií (včetně e-mailu). Jsou scénáře, ve kterých můžete chtít mladému člověku odpovědět: například jestli je další hodina za dlouho a/nebo je u onoho projektu uzávěrka přijetí do soutěže, a vy nechcete mladého člověka zklamat. Pokud odpovíte měli byste jim doporučit, ať v průběhu další komunikace vloží do kopie jejich rodiče či opatrovníka (nebo organizátora klubu či učitele).
 
 --- /hint --- --- /hints ---
 
