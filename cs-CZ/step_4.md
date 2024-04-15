@@ -26,7 +26,7 @@ Každá osoba v klubu si musí být vědoma pravidel chování a dodržovat je. 
     Varování slovy
   </li>
   <li>
-    Formální písemné varování, ke kterému jakákoli další neuváženost povede k vyloučení z klubu nebo k ukončení jejich role dobrovolníka v klubu
+    Formální písemné varování, ke kterému jakákoli další neuváženost povede k vyloučení z klubu nebo k ukončení role dobrovolníka v klubu
   </li>
   <li>
     Pozastavení dobrovolníka z aktivit klubu
@@ -45,5 +45,5 @@ Každá osoba v klubu si musí být vědoma pravidel chování a dodržovat je. 
 </p>
 
 <p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">
-Zajistěte, že jste <span style="color: #0faeb0">přihlášeni do vašeho Raspberry Pi Foundation účtu</span> aby byl váš dosavadní postup uložen, v opačném případě nebude vaše dokončení zaznamenáno. Použijte 'Log in' link v menu k přihlášení.
+Zajistěte, že jste <span style="color: #0faeb0">přihlášeni do vašeho Raspberry Pi Foundation účtu</span> aby byl váš dosavadní postup uložen, v opačném případě nebude vaše dokončení zaznamenáno. Použijte 'Log in' link v menu pro přihlášení.
 </p>
