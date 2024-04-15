@@ -3,7 +3,7 @@
 legend: Otázka 6 z 9
 ---
 
-Je dobrá nebo špatná praxe brát mladé lidi samotné na cesty autem?
+Je dobrou nebo špatnou praxí brát mladé lidi na cesty autem samostatně?
 
 --- choices ---
 - ( ) Dobrá praxe
