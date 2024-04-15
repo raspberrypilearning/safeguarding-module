@@ -8,6 +8,6 @@ Je dobrou nebo špatnou praxí brát v potaz názory mladých lidí v rozhodovac
 --- choices ---
 - (x) Dobrá praxe
 
-- ( ) Špatná praxe --- /možnosti ---
+- ( ) Špatná praxe --- /choices ---
 
 --- /question ---
