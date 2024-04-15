@@ -7,11 +7,11 @@ Když se poprvé setkáte s dobrovolníkem, budou existovat určité požadavky 
 
 Pokud by vaši dobrovolníci chtěli školení či podporu navíc, odkažte je na [free online courses](https://www.futurelearn.com/partners/raspberry-pi){:target='_blank'}, které jsou poskytovány Raspberry Pi Foundation.
 
-Pokud máte v klubu několik dobrovolníků, můžete zorganizovat i nějaké setkání mezi vámi, kdy si předáte znalosti a můžete spolu zkusit nové programy a projekty. To pomůže zvýšit důvěru vašich dobrovolníků v to, co v klubu pokrývají.
+Pokud máte v klubu několik dobrovolníků, můžete zorganizovat i nějaké setkání mezi vámi, kde si předáte znalosti a můžete spolu zkusit nové programy a projekty. To pomůže zvýšit důvěru vašich dobrovolníků v to, co v klubu pokrývají.
 
 ### 2. Výběr
 
-Zdá se vám nový dobrovolník vhodný pro váš klub? Spojte se s nimi a dejte jim vědět, kdy je vaše další hodina, abyste zjistili, zda-li se mohou zúčastnit. Pokud svůj klub teprve zakládáte, zvažte neformální setkání se všemi svými dobrovolníky, abyste si vytvořili plán své první hodiny. Pokud se v průběhu výběrového řízení vyskytnou nějaké obavy, možná jim budete muset říct, že se do vašeho klubu nehodí. Pokud si nejste jisti, můžete se obrátit na Raspberry Pi Foundation a požádat o radu.
+Zdá se vám nový dobrovolník vhodný pro váš klub? Spojte se s nimi a dejte jim vědět, kdy je vaše další hodina, abyste zjistili, zda-li se mohou zúčastnit. Pokud svůj klub teprve zakládáte, zvažte neformální setkání se všemi svými dobrovolníky, abyste si vytvořili plán své první hodiny. Pokud se v průběhu výběrového řízení vyskytnou nějaké obavy, možná jim budete muset říct, že se do vašeho klubu nehodí. Pokud si nejste jisti, můžete se obrátit na Raspberry Pi Foundation pro radu.
 
 ### 3. První kamarád z klubu
 
@@ -27,7 +27,7 @@ Zamyslete se nad třemi vlastnostmi, které hledáte u nových dobrovolníků, a
 
 * Pozitivní
 * Kreativní
-* Vlídný
+* Přístupný
 * Podporující
 * Odhodlaný
 * Spolupracující
@@ -44,5 +44,5 @@ Mít dobrovolníky s těmito rysy je žádoucí, aby se váš klub stal zábavn�
 --- save ---
 
 <p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">
-Zajistěte, že jste <span style="color: #0faeb0">přihlášeni do vašeho Raspberry Pi Foundation účtu</span> aby byl váš dosavadní postup uložen, v opačném případě nebude vaše dokončení zaznamenáno. Použijte 'Log in' link v menu k přihlášení.
+Zajistěte, že jste <span style="color: #0faeb0">přihlášeni do vašeho Raspberry Pi Foundation účtu</span> aby byl váš dosavadní postup uložen, v opačném případě nebude vaše dokončení zaznamenáno. Použijte 'Log in' link v menu pro přihlášení.
 </p>
