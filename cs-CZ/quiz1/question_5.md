@@ -8,6 +8,6 @@ Je dobrou nebo špatnou praxí upřednosňovat některé z mladých lidí?
 --- choices ---
 - ( ) Dobrá praxe
 
-- (x) Špatná praxe --- /možnosti ---
+- (x) Špatná praxe --- /choices ---
 
 --- /question ---
