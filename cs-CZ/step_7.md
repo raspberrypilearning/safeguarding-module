@@ -4,9 +4,9 @@ Možná budete chtít uspořádat online hodinu pro mladé lidi ve vašem klubu,
 
 Přečtěte si tyto průvodce a v dalším kroku odpovězte na následující tři otázky.
 
-### [Rámec, který vám pomůže posoudit, jak bezpečně vést svůj klub](images/Code_Club_and_CoderDojo_2023_Framework_V1%20.pdf){:target='_blank'}
+### [Rámec, který vám pomůže posoudit, jak bezpečně vést svůj klub](images/Code_Club_and_CoderDojo_2023_Framework_V1.pdf){:target='_blank'}
 
-<embed src="images/Code_Club_and_CoderDojo_2023_Framework_V1%20.pdf" width="790" height="500" 
+<embed src="images/Code_Club_and_CoderDojo_2023_Framework_V1.pdf" width="790" height="500" 
  type="application/pdf">
 
 ### [Průvodce pro dospělé na podporu mladých lidí navštěvujících online hodiny](images/Code_Club_and_CoderDojo_Parent_Guide_Supporting_Online_Coding_Session.pdf){:target='_blank'}
