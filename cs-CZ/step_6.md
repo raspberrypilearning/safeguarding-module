@@ -1,8 +1,8 @@
-## Zneužívání a odhalování
+## Zneužívání a zveřejňování informací
 
-Naprostá většina mladých lidí navštěvuje naše kluby, aniž by se setkala se zneužíváním. However, it is important that volunteers maintain an attitude of 'it could happen here' and are aware of what to do when they become aware of abuse, either through observation or through a young person telling them about abuse (disclosure). Although volunteers may not spend a large amount of time with each young person compared to teachers in schools, Raspberry Pi Foundation clubs create an environment in which many young people feel particularly comfortable, which can help encourage disclosures at the club.
+Naprostá většina mladých lidí navštěvuje naše kluby, aniž by se setkala se zneužíváním. Ovšem je důležité, aby si dobrovolníci zachovávali postoj "i zde by se to mohlo stát" a byli si vědomi toho, co mají dělat, když se o nějaké formě zneužívání dozví, buď pozorováním nebo prostřednictvím mladého člověka, který jim o zneužívání řekne (zveřejnění). I když dobrovolníci nemusí trávit s každým mladým člověkem velké množství času ve srovnání s učiteli ve školách, kluby Raspberry Pi Foundation vytvářejí prostředí, ve kterém se mnoho mladých lidí cítí obzvlášť dobře, což může pomoci podnítit svěření se v klubu.
 
-![Tři mladí lidé stojí.](images/7-Diverse-Mix.png){:target='_blank'}
+![Tři mladí lidé stojí.](images/7-Diverse-Mix.png){:target="_blank'}
 
 Zneužívání dětí je obecně kategorizováno jako zanedbávání, fyzické týrání, emocionální týrání, sexuální zneužívání či radikalizace. Mezi další aspekty, které je třeba si uvědomit, patří zneužívání vrstevníky, organizované zneužívání a zneužívání online.
 
@@ -62,5 +62,5 @@ Je těžké si radikalizace všimnout, protože je podobná normálnímu chován
 --- save ---
 
 <p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">
-Zajistěte, že jste <span style="color: #0faeb0">přihlášeni do vašeho Raspberry Pi Foundation účtu</span> aby byl váš dosavadní postup uložen, v opačném případě nebude vaše dokončení zaznamenáno. Použijte 'Log in' link v menu k přihlášení.
+Zajistěte, že jste <span style="color: #0faeb0">přihlášeni do vašeho Raspberry Pi Foundation účtu</span> aby byl váš dosavadní postup uložen, v opačném případě nebude vaše dokončení zaznamenáno. Použijte 'Log in' link v menu pro přihlášení.
 </p>
