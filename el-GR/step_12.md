@@ -1,6 +1,6 @@
 ## Σχεδόν ολοκληρώσαμε
 
-Ολοκληρώσατε αυτόν τον σύντομο διαδραστικό οδηγό εκμάθησης. Μπράβο!
+Ολοκληρώσατε αυτόν τον σύντομο διαδραστικό οδηγό εκμάθησης. Μπράβο! **Let us know what you thought** of this module. [Fill in this short form about your experience of this training](https://form.raspberrypi.org/4873716){:target="_blank"} so we can improve it and future training resouces we develop.
 
 Τώρα μπορείτε να δοκιμάσετε τις γνώσεις σας με κάποια σενάρια. Σε κάθε σενάριο, θέλουμε να σκεφτείτε τι θα κάνατε σίγουρα, τι μπορείτε να κάνετε (ανάλογα με τις περιστάσεις) και τι δεν θα κάνατε.
 
