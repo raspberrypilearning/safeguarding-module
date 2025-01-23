@@ -1,6 +1,6 @@
 ## That’s almost it
 
-You’ve completed this short interactive learning guide. Well done!
+You’ve completed this short interactive learning guide. Well done! **Let us know what you thought** of this module. [Fill in this short form about your experience of this training](https://form.raspberrypi.org/4873716){:target="_blank"} so we can improve it and future training resouces we develop.
 
 You can now test your knowledge with some scenarios. In each scenario, we want you to consider what you definitely would do, what you may do (depending on the circumstances), and what you would not do.
 
