@@ -1,6 +1,6 @@
 ## Je bent bijna klaar
 
-Je hebt deze korte interactieve gids voltooid. Goed gedaan!
+Je hebt deze korte interactieve gids voltooid. Goed gedaan! **Let us know what you thought** of this module. [Fill in this short form about your experience of this training](https://form.raspberrypi.org/4873716){:target="_blank"} so we can improve it and future training resouces we develop.
 
 Je kunt nu je kennis testen met enkele scenario's. In elk scenario willen we dat je overweegt wat je zeker zou doen, wat je zou kunnen doen (afhankelijk van de omstandigheden) en wat je niet zou doen.
 
