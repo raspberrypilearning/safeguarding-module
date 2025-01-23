@@ -1,6 +1,6 @@
 ## هذا تقريبًا كلّ شيء
 
-لقد أكملت دليل التعليم التفاعلي القصير. أحسنت صنعًا!
+لقد أكملت دليل التعليم التفاعلي القصير. أحسنت صنعًا! **Let us know what you thought** of this module. [Fill in this short form about your experience of this training](https://form.raspberrypi.org/4873716){:target="_blank"} so we can improve it and future training resouces we develop.
 
 يمكنك الآن اختبار معلوماتك ببعض السيناريوهات. في كل سيناريو ، نريدك أن تفكر في ما ستفعله بشكل حتميّ، وما قد تفعله (حسب الظروف)، وما لن تفعله.
 
