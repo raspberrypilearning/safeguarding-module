@@ -1,6 +1,6 @@
 ## यह लगभग यही है
 
-आपने इस संक्षिप्त इंटरैक्टिव लर्निंग गाइड पूरा कर लिया है। बहुत ख़ूब!
+आपने इस संक्षिप्त इंटरैक्टिव लर्निंग गाइड पूरा कर लिया है। बहुत ख़ूब! **Let us know what you thought** of this module. [Fill in this short form about your experience of this training](https://form.raspberrypi.org/4873716){:target="_blank"} so we can improve it and future training resouces we develop.
 
 अब आप कुछ परिदृश्यों से अपने ज्ञान को जांच सकते हैं। हम चाहते हैं कि आप प्रत्येक परिदृश्य में इस बात पर सोच-विचार करें कि आप वाकई क्या करेंगे, आप क्या कर सकते हैं (परिस्थितियों के आधार पर), और आप क्या नहीं करेंगे।
 
