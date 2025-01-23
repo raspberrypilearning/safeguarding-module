@@ -1,6 +1,6 @@
 ## To je téměř všechno
 
-Dokončili jste tuto krátkou interaktivní výukovou příručku. Skvělá práce!
+Dokončili jste tuto krátkou interaktivní výukovou příručku. Skvělá práce! **Let us know what you thought** of this module. [Fill in this short form about your experience of this training](https://form.raspberrypi.org/4873716){:target="_blank"} so we can improve it and future training resouces we develop.
 
 Nyní si můžete otestovat své znalosti pomocí některých scénářů. V každém scénáři chceme, abyste zvážili, co byste určitě udělali, co můžete udělat (v závislosti na okolnostech) a co byste neudělali.
 
