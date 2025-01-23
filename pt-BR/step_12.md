@@ -1,6 +1,6 @@
 ## Estamos quase lá
 
-Você completou esse pequeno guia interativo de aprendizagem. Muito bem!
+Você completou esse pequeno guia interativo de aprendizagem. Muito bem! **Let us know what you thought** of this module. [Fill in this short form about your experience of this training](https://form.raspberrypi.org/4873716){:target="_blank"} so we can improve it and future training resouces we develop.
 
 Agora você pode testar os seus conhecimentos com alguns cenários. Em cada cenário, queremos que você considere o que você definitivamente faria, o que você pode fazer (dependendo das circunstâncias), e o que você não faria.
 
