@@ -1,6 +1,6 @@
 ## Bron â gorffen!
 
-Rydych chi wedi cwblhau'r canllaw dysgu rhyngweithiol byr hwn. Da iawn!
+Rydych chi wedi cwblhau'r canllaw dysgu rhyngweithiol byr hwn. Da iawn! **Let us know what you thought** of this module. [Fill in this short form about your experience of this training](https://form.raspberrypi.org/4873716){:target="_blank"} so we can improve it and future training resouces we develop.
 
 Nawr fe allwch chi brofi eich gwybodaeth gydag ambell sefyllfa. Ym mhob sefyllfa, rydyn ni am i chi ystyried beth fyddech chi'n sicr yn ei wneud, beth fyddech chi'n ei wneud o bosib (yn dibynnu ar yr amgylchiadau), a beth na fyddech chi'n ei wneud.
 
