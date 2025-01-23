@@ -1,6 +1,6 @@
 ## जवळजवळ झालेच
 
-तुम्ही ही लहान संवादात्मक शिक्षण मार्गदर्शन पूर्ण केले आहे. छान!
+तुम्ही ही लहान संवादात्मक शिक्षण मार्गदर्शन पूर्ण केले आहे. छान! **Let us know what you thought** of this module. [Fill in this short form about your experience of this training](https://form.raspberrypi.org/4873716){:target="_blank"} so we can improve it and future training resouces we develop.
 
 तुम्ही आता काही परिस्थिती जन्य उदाहरणासह तुमच्या ज्ञानाची चाचणी घेऊ शकता. प्रत्येक परिस्थितीमध्ये, तुम्ही निश्चितपणे काय कराल, तुम्ही काय करू शकता (परिस्थितीनुसार) आणि तुम्ही काय करणार नाही याचा विचार करावा अशी आमची इच्छा आहे.
 
