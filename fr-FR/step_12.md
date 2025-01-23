@@ -1,6 +1,6 @@
 ## C'est presque terminé
 
-Vous avez terminé ce court guide d'apprentissage interactif. Bien joué !
+Vous avez terminé ce court guide d'apprentissage interactif. Bien joué ! **Let us know what you thought** of this module. [Fill in this short form about your experience of this training](https://form.raspberrypi.org/4873716){:target="_blank"} so we can improve it and future training resouces we develop.
 
 Vous pouvez maintenant tester vos connaissances à l'aide de quelques scénarios. Dans chaque scénario, nous voulons que vous envisagiez ce que vous feriez certainement, ce que vous pourriez faire (en fonction des circonstances) et ce que vous ne feriez pas.
 
