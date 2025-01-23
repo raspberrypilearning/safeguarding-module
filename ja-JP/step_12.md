@@ -1,6 +1,6 @@
 ## もう少しです
 
-この短い対話型学習ガイドは終了いたしました。 よくできました！
+この短い対話型学習ガイドは終了いたしました。 よくできました！ **Let us know what you thought** of this module. [Fill in this short form about your experience of this training](https://form.raspberrypi.org/4873716){:target="_blank"} so we can improve it and future training resouces we develop.
 
 いくつかのシナリオを使用して、あなたの知識を試すことができます。 各シナリオで、「絶対にやること」、「（状況によっては）やっても良いこと」、「やってはいけないこと」について考えてほしいのです。
 
