@@ -2,7 +2,7 @@
 
 Typically, it is the club organiser's responsibility to recruit and onboard new volunteers. From time to time, volunteers may be involved in this process to help the club organiser, in particular to help guide the new volunteer in their first session.
 
-![Three volunteers standing.](images/2-RPF-Volunteers.png)
+![Three volunteers standing.](images/Safeguarding-Course-Group-1640x824.png)
 
 It is important to recognise that not every volunteer who is interested in helping out at your club may be appropriate or a match.
 
