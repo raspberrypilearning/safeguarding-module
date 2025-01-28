@@ -6,7 +6,7 @@ La protection est l'ensemble des mesures prises pour promouvoir le bien-être de
 Assurez-vous d'être <span style="color: #0faeb0">connecté à votre compte Raspberry Pi Foundation</span> pour enregistrer votre progression, sinon votre achèvement ne sera pas enregistré. Utilisez le lien « Connexion » dans le menu de navigation pour vous connecter.
 </p>
 
-![Trois jeunes debout.](images/3-RPF-Kids.png)
+![Three young people.](images/Code_Club_Image1_808x704.png)
 
 Ce guide d'apprentissage a été créé pour donner à tous les bénévoles de la Raspberry Pi Foundation et de ses programmes (Code Club, CoderDojo, Raspberry Jams et Astro Pi) l'occasion d'apprendre les bonnes pratiques en matière de protection des enfants.
 
