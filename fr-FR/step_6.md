@@ -2,7 +2,7 @@
 
 Une grande majorité de jeunes participent à nos clubs sans rencontrer d'abus. Cependant, il est important que les bénévoles sachent ce qu'ils doivent faire lorsqu'ils ont connaissance d'un abus, soit par observation, soit par un jeune qui vous en parle (dénonciation). La plupart des clubs de la Raspberry Pi Foundation créent un environnement dans lequel beaucoup de jeunes se sentent particulièrement à l'aise, ce qui peut aider à encourager la dénonciation au sein du club.
 
-![Trois jeunes debout.](images/7-Diverse-Mix.png){:target='_blank'}
+![Older mentor and young person](images/Safeguarding-Image5-1200x800.png){:target='_blank'}
 
 La violence envers les enfants est généralement classée dans les catégories suivantes : négligence, violence physique, violence psychologique, abus sexuelle ou radicalisation. D'autres aspects à connaître sont la violence entre pairs, la violence organisée et la violence en ligne.
 
