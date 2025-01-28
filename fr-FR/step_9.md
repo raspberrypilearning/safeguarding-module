@@ -2,7 +2,7 @@
 
 Si vous avez des inquiétudes au sujet d'un jeune, ou si un jeune vous révèle un abus, il est important d'être préparé. Votre club doit disposer d'une procédure de signalement (celle-ci peut être liée au lieu où vous opérez).
 
-![Trois jeunes debout.](images/8-Diverse-Mix-2.png)
+![Two mentors talking.](images/Safeguarding-Image4-1200x800.png)
 
 Dans cette section, vous trouverez des conseils, des exemples de scénarios et des exemples de procédures de rapport pour votre club. Nous vous recommandons d'en parler avec vos collègues bénévoles. We also have guidance on [Dealing with safeguarding concerns](https://static.raspberrypi.org/files/safeguarding/Raspberry-Pi-Foundation-safeguarding-dealing-with-safeguarding-concerns.pdf){:target='_blank'}, that you can print out and share with volunteers.
 
