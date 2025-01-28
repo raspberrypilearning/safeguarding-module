@@ -2,7 +2,7 @@
 
 Bydd rhai gofynion cynefino pan fyddwch chi'n cyfarfod gwirfoddolwr am y tro cyntaf. Mae hyn yn cynnwys adnabod nodweddion dymunol gwirfoddolwyr; er na fydd gan wirfoddolwr yr holl nodweddion hyn efallai, fe ddylai fod ganddo un o leiaf.
 
-![Gwirfoddolwr sy'n oedolyn.](Safeguarding_Course_Assets_V2_Image31280x1933.png){:width="400px"}.
+![Gwirfoddolwr sy'n oedolyn.](images/Safeguarding_Course_Assets_V2_Image31280x1933.png){:width="400px"}.
 ### 1. Nodi hyfforddiant
 
 Os hoffai eich gwirfoddolwyr hyfforddiant neu gymorth pellach, fe allwch chi eu cyfeirio at y [cyrsiau ar-lein am ddim](https://www.futurelearn.com/partners/raspberry-pi){:target='_blank'} sy'n cael eu darparu gan y Raspberry Pi Foundation.
