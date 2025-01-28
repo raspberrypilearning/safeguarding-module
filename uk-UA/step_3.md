@@ -2,7 +2,7 @@
 
 When you first meet a volunteer, there will be some induction requirements. This includes recognising the desirable characteristics for volunteers; while a volunteer may not have all these traits, they should definitely have at least one.
 
-![An adult volunteer.](Safeguarding_Course_Assets_V2_Image31280x1933.png){:width="400px"}.
+![An adult volunteer.](images/Safeguarding_Course_Assets_V2_Image31280x1933.png){:width="400px"}.
 ### 1. Training identification
 
 If your volunteers would like some further training or support, you can direct them to the [free online courses](https://www.futurelearn.com/partners/raspberry-pi){:target='_blank'} that are provided by the Raspberry Pi Foundation.
