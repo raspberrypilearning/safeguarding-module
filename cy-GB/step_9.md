@@ -2,7 +2,7 @@
 
 Os oes gennych chi bryder ynglŷn â pherson ifanc, neu os bydd person ifanc yn datgelu camdriniaeth i chi, mae'n bwysig bod yn barod. Rhaid i'ch clwb gael gweithdrefn rhoi gwybod (fe allai hon fod yn gysylltiedig â'r lleoliad lle rydych chi'n gweithredu).
 
-![Tri o bobl ifanc yn sefyll.](images/8-Diverse-Mix-2.png)
+![Two mentors talking.](images/Safeguarding-Image4-1200x800.png)
 
 Mae'r adran hon yn cynnwys awgrymiadau, sefyllfaoedd enghreifftiol ac enghreifftiau o weithdrefnau rhoi gwybod i'ch clwb. Bydden ni'n argymell eich bod yn siarad am y rhain gyda'ch cyd-wirfoddolwyr. We also have guidance on [Dealing with safeguarding concerns](https://static.raspberrypi.org/files/safeguarding/Raspberry-Pi-Foundation-safeguarding-dealing-with-safeguarding-concerns.pdf){:target='_blank'}, that you can print out and share with volunteers.
 
