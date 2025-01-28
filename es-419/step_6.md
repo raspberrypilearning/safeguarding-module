@@ -2,7 +2,7 @@
 
 La gran mayoría de los jóvenes participan en nuestros clubes sin sufrir maltratos. However, it is important that volunteers maintain an attitude of 'it could happen here' and are aware of what to do when they become aware of abuse, either through observation or through a young person telling them about abuse (disclosure). Although volunteers may not spend a large amount of time with each young person compared to teachers in schools, Raspberry Pi Foundation clubs create an environment in which many young people feel particularly comfortable, which can help encourage disclosures at the club.
 
-![Tres jóvenes están de pie.](images/7-Diverse-Mix.png){:target='_blank'}
+![Older mentor and young person](images/Safeguarding-Image5-1200x800.png){:target='_blank'}
 
 El maltrato infantil se clasifica generalmente como negligencia, maltrato físico, maltrato emocional, abuso sexual o radicalización. Otros aspectos que hay que tener en cuenta son el maltrato entre iguales, el maltrato organizado y el maltrato en línea.
 
