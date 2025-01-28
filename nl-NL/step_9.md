@@ -2,7 +2,7 @@
 
 Als je je zorgen maakt over een jongere, of als een jongere misbruik aan je onthult, is het belangrijk om voorbereid te zijn. Je club moet een meldprocedure hebben (deze kan gekoppeld zijn aan de locatie van waaruit je opereert).
 
-![Drie staande jonge mensen.](images/8-Diverse-Mix-2.png)
+![Two mentors talking.](images/Safeguarding-Image4-1200x800.png)
 
 In dit gedeelte vind je tips, voorbeeldscenario's en voorbeeldrapportageprocedures voor jouw club. We raden je aan om hierover met je vrijwilligers te praten. We also have guidance on [Dealing with safeguarding concerns](https://static.raspberrypi.org/files/safeguarding/Raspberry-Pi-Foundation-safeguarding-dealing-with-safeguarding-concerns.pdf){:target='_blank'}, that you can print out and share with volunteers.
 
