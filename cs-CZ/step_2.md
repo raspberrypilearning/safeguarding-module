@@ -2,7 +2,7 @@
 
 Za nábor a přijímání nových dobrovolníků je obvykle odpovědný organizátor klubu. Čas od času se do tohoto procesu mohou zapojit dobrovolníci, aby usnadnili část práce organizátorovi klubu, zejména aby pomohli novému dobrovolníkovi s vedením jeho první hodiny.
 
-![Tři dobrovolníci stojí.](images/2-RPF-Volunteers.png)
+![Tři dobrovolníci stojí.](images/Safeguarding-Course-Group-1640x824.png)
 
 Je důležité si uvědomit, že ne každý dobrovolník, který má zájem pomáhat ve vašem klubu, musí být vhodný.
 
