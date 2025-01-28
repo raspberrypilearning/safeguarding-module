@@ -2,7 +2,7 @@
 
 إذا كان لديك قلق بشأن شاب، أو إذا كشف لك شاب عن إساءة معاملة. من المهم أن تكون مستعدًا. يجب أن يكون لدى ناديك إجراء للإبلاغ (قد يكون هذا مرتبطاً بالمكان الذي تعمل فيه).
 
-![ثلاثة شباب واقفين.](images/8-Diverse-Mix-2.png)
+![Two mentors talking.](images/Safeguarding-Image4-1200x800.png)
 
 في هذا القسم توجد نصائح وسيناريوهات افتراضيّة ونماذج من إجراءات الإبلاغ لناديك. ونوصي بأن تتحدث عن ذلك مع زملائك المتطوعين. We also have guidance on [Dealing with safeguarding concerns](https://static.raspberrypi.org/files/safeguarding/Raspberry-Pi-Foundation-safeguarding-dealing-with-safeguarding-concerns.pdf){:target='_blank'}, that you can print out and share with volunteers.
 
