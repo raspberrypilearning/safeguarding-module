@@ -2,7 +2,7 @@
 
 Εάν ανησυχείτε για ένα νεαρό άτομο ή εάν ένα νεαρό άτομο σας αποκαλύψει κακοποίηση, είναι σημαντικό να είστε προετοιμασμένοι. Η λέσχη σας πρέπει να έχει μια διαδικασία αναφοράς (η οποία μπορεί να συνδέεται με τον χώρο στον οποίο λειτουργείτε).
 
-![Τρεις νέοι άνθρωποι όρθιοι.](images/8-Diverse-Mix-2.png)
+![Two mentors talking.](images/Safeguarding-Image4-1200x800.png)
 
 Σε αυτήν την ενότητα, υπάρχουν συμβουλές, δείγματα σεναρίων και δείγματα διαδικασιών αναφοράς για τη λέσχη σας. Θα συνιστούσαμε να μιλήσετε για αυτά με τους συναδέλφους σας εθελοντές. We also have guidance on [Dealing with safeguarding concerns](https://static.raspberrypi.org/files/safeguarding/Raspberry-Pi-Foundation-safeguarding-dealing-with-safeguarding-concerns.pdf){:target='_blank'}, that you can print out and share with volunteers.
 
