@@ -2,7 +2,7 @@
 
 Když se poprvé setkáte s dobrovolníkem, budou existovat určité požadavky na přijetí. To zahrnuje rozpoznání žádoucích vlastností pro dobrovolníky; i když dobrovolník nemusí mít všechny tyto vlastnosti, rozhodně by měl mít alespoň jednu.
 
-![Dospělý dobrovolník.](Safeguarding_Course_Assets_V2_Image31280x1933.png){:width="400px"}.
+![Dospělý dobrovolník.](images/Safeguarding_Course_Assets_V2_Image31280x1933.png){:width="400px"}.
 ### 1. Identifikace školení
 
 Pokud by vaši dobrovolníci chtěli školení či podporu navíc, odkažte je na [free online courses](https://www.futurelearn.com/partners/raspberry-pi){:target='_blank'}, které jsou poskytovány Raspberry Pi Foundation.
