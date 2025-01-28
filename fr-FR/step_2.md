@@ -2,7 +2,7 @@
 
 En général, c'est à l'organisateur du club qu'il incombe de recruter et d'intégrer les nouveaux bénévoles. De temps en temps, des bénévoles peuvent être impliqués dans ce processus pour aider l'organisateur du club, en particulier pour aider à guider le nouveau bénévole lors de sa première session.
 
-![Trois bénévoles debout.](images/2-RPF-Volunteers.png)
+![Trois bénévoles debout.](images/Safeguarding-Course-Group-1640x824.png)
 
 Il est important de reconnaître que tous les bénévoles qui souhaitent apporter leur aide à votre club ne sont pas forcément appropriés ou compatibles.
 
