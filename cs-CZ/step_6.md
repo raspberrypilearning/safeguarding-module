@@ -2,7 +2,7 @@
 
 Naprostá většina mladých lidí navštěvuje naše kluby, aniž by se setkala se zneužíváním. Ovšem je důležité, aby si dobrovolníci zachovávali postoj "i zde by se to mohlo stát" a byli si vědomi toho, co mají dělat, když se o nějaké formě zneužívání dozví, buď pozorováním nebo prostřednictvím mladého člověka, který jim o zneužívání řekne (zveřejnění). I když dobrovolníci nemusí trávit s každým mladým člověkem velké množství času ve srovnání s učiteli ve školách, kluby Raspberry Pi Foundation vytvářejí prostředí, ve kterém se mnoho mladých lidí cítí obzvlášť dobře, což může pomoci podnítit svěření se v klubu.
 
-![Tři mladí lidé stojí.](images/7-Diverse-Mix.png){:target="_blank'}
+![Older mentor and young person](images/Safeguarding-Image5-1200x800.png){:target='_blank'}
 
 Zneužívání dětí je obecně kategorizováno jako zanedbávání, fyzické týrání, emocionální týrání, sexuální zneužívání či radikalizace. Mezi další aspekty, které je třeba si uvědomit, patří zneužívání vrstevníky, organizované zneužívání a zneužívání online.
 
