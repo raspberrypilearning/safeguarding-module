@@ -2,7 +2,7 @@
 
 A vast majority of young people take part in our clubs without encountering abuse. However, it is important that volunteers maintain an attitude of 'it could happen here' and are aware of what to do when they become aware of abuse, either through observation or through a young person telling them about abuse (disclosure). Although volunteers may not spend a large amount of time with each young person compared to teachers in schools, Raspberry Pi Foundation clubs create an environment in which many young people feel particularly comfortable, which can help encourage disclosures at the club.
 
-![Three young people standing.](images/Code_Club_Safeguarding_Course_Assets_V2_Image 5 - 1200 x 800.png){:target='_blank'}
+![Three young people standing.](images/Safeguarding-Image5-1200x800.png){:target='_blank'}
 
 Child abuse is generally categorised as neglect, physical abuse, emotional abuse, sexual abuse, or radicalisation. Other aspects to be aware of include peer abuse, organised abuse, and online abuse.
 
