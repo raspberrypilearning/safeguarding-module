@@ -2,7 +2,7 @@
 
 Wanneer je een vrijwilliger voor het eerst ontmoet, zijn er enkele introductie-eisen. Dit omvat het herkennen van de gewenste kenmerken voor vrijwilligers; hoewel een vrijwilliger misschien niet al deze eigenschappen heeft, zouden ze er zeker minstens één moeten hebben.
 
-![Een volwassen vrijwilliger.](images/10-Adult.png){:width="400px"}.
+![Een volwassen vrijwilliger.](Safeguarding_Course_Assets_V2_Image31280x1933.png){:width="400px"}.
 ### 1. Training identificatie
 
 Als je vrijwilligers wat meer training of ondersteuning willen, kun je ze doorverwijzen naar de [gratis online cursussen](https://www.futurelearn.com/partners/raspberry-pi){:target='_blank'} die worden aangeboden door de Raspberry Pi Foundation.
