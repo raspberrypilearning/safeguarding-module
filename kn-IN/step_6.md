@@ -2,7 +2,7 @@
 
 ಹೆಚ್ಚಿನ ಯುವ ಜನರು ಯಾವುದೇ ನಿಂದನೆಯನ್ನು ಎದುರಿಸದೆ ನಮ್ಮ ಕ್ಲಬ್‌ಗಳಲ್ಲಿ ಭಾಗವಹಿಸುತ್ತಾರೆ. However, it is important that volunteers maintain an attitude of 'it could happen here' and are aware of what to do when they become aware of abuse, either through observation or through a young person telling them about abuse (disclosure). Although volunteers may not spend a large amount of time with each young person compared to teachers in schools, Raspberry Pi Foundation clubs create an environment in which many young people feel particularly comfortable, which can help encourage disclosures at the club.
 
-![ಮೂವರು ಯುವಕರು ನಿಂತಿದ್ದಾರೆ.](images/7-Diverse-Mix.png){:target='_blank'}
+![Older mentor and young person](images/Safeguarding-Image5-1200x800.png){:target='_blank'}
 
 ಮಕ್ಕಳ ಮೇಲಿನ ದೌರ್ಜನ್ಯವನ್ನು ಸಾಮಾನ್ಯವಾಗಿ ನಿರ್ಲಕ್ಷ್ಯ, ದೈಹಿಕ ದೌರ್ಜನ್ಯ, ಭಾವನಾತ್ಮಕ ದೌರ್ಜನ್ಯ, ಲೈಂಗಿಕ ಕಿರುಕುಳ ಅಥವಾ ತೀವ್ರವಾದ ಎಂದು ವರ್ಗೀಕರಿಸಲಾಗಿದೆ. ಸಮವಯಸ್ಕರ ದೌರ್ಜನ್ಯ, ಸಂಘಟಿತ ದೌರ್ಜನ್ಯ ಮತ್ತು ಆನ್‌ಲೈನ್‌ ದೌರ್ಜನ್ಯಗಳನ್ನು ಒಳಗೊಂಡಿರುವ ಇತರ ಅಂಶಗಳ ಬಗ್ಗೆ ತಿಳಿದಿರಬೇಕು.
 
