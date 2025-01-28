@@ -2,7 +2,7 @@
 
 यदि आप किसी युवा व्यक्ति के बारे में चिंतित हैं, या यदि कोई युवा व्यक्ति आपको दुर्व्यवहार का खुलासा करता है, तो तैयार रहना महत्वपूर्ण है। आपके क्लब में एक रिपोर्टिंग प्रक्रिया होनी चाहिए (इसे उस स्थान से जोड़ा जा सकता है जहां से आप काम करते हैं)।
 
-![Two mentors talking.](images/Safeguarding-Image4-1200x800.png)
+![Two mentors talking](images/Safeguarding-Image4-1200x800.png)
 
 इस खंड में, आपके क्लब के लिए सुझाव, सैंपल परिदृश्य और सैंपल रिपोर्टिंग प्रक्रियाएं हैं। हम सुझाव देते हैं कि आप अपने साथी स्वयंसेवकों से इनके बारे में बात करें। We also have guidance on [Dealing with safeguarding concerns](https://static.raspberrypi.org/files/safeguarding/Raspberry-Pi-Foundation-safeguarding-dealing-with-safeguarding-concerns.pdf){:target='_blank'}, that you can print out and share with volunteers.
 
