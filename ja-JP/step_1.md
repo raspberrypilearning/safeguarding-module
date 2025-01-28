@@ -6,7 +6,7 @@
 <span style="color: #0faeb0">Raspberry Pi Foundation アカウント</span> にログインしていることを確認して進行状況を保存してください。 ナビゲーションメニューの「ログイン」リンクからログインしてください。
 </p>
 
-![3名の若者が立っている。](images/3-RPF-Kids.png)
+![Three young people.](images/Code_Club_Image1_808x704.png)
 
 この学習ガイドは、Raspberry Pi財団のすべてのボランティアとそのプログラム(コードクラブ) を提供するために作成されました。 CoderDojo、Raspberry Jams、Astro Piは、児童保護のベストプラクティスについて学ぶ機会です。
 
