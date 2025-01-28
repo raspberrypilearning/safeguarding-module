@@ -2,7 +2,7 @@
 
 A grande maioria dos jovens participa dos nossos clubes sem presenciar abusos. No entanto, é importante que os voluntários estejam cientes do que fazer quando se conscientizam sobre o abuso, seja através da observação ou através de um jovem falando sobre abuso (divulgação). A maioria dos clubes da Fundação Raspberry Pi cria um ambiente no qual muitos jovens se sentem particularmente confortáveis, o que pode ajudar a incentivar as divulgações no clube.
 
-![Três jovens em destaque.](images/7-Diverse-Mix.png){:target='_blank'}
+![Older mentor and young person](images/Safeguarding-Image5-1200x800.png){:target='_blank'}
 
 O abuso infantil é geralmente categorizado como negligência, abuso físico, abuso emocional, abuso sexual ou radicalização. Outros aspectos a serem observados incluem abuso por colegas, abuso organizado e abuso on-line.
 
