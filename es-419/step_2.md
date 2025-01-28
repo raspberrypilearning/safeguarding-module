@@ -2,7 +2,7 @@
 
 Por lo general, el organizador del club es responsable de reclutar e incorporar a nuevos voluntarios. De vez en cuando, los voluntarios pueden participar en este proceso para ayudar al organizador del club, en particular para ayudar a guiar al nuevo voluntario en su primera sesión.
 
-![Hay tres voluntarios que se mantienen.](images/2-RPF-Volunteers.png)
+![Hay tres voluntarios que se mantienen.](images/Safeguarding-Course-Group-1640x824.png)
 
 Es importante reconocer que es posible que no todos los voluntarios que están interesados en ayudar en el club son apropiados o compatibles.
 
