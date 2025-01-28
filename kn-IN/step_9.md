@@ -2,7 +2,7 @@
 
 ಒಬ್ಬ ಯುವ ವ್ಯಕ್ತಿಯ ಬಗ್ಗೆ ನಿಮಗೆ ಚಿಂತೆಯಾಗುತ್ತಿದ್ದರೆ, ಅಥವಾ ಒಬ್ಬ ಯುವ ವ್ಯಕ್ತಿಯು ತನ್ನ ಮೇಲೆ ನಡೆಯುತ್ತಿರುವ ದೌರ್ಜನ್ಯದ ಬಗ್ಗೆ ನಿಮಗೆ ತಿಳಿಸಿದರೆ, ಸಿದ್ಧರಾಗಿರುವುದು ಬಹಳ ಮುಖ್ಯ. ನಿಮ್ಮ ಕ್ಲಬ್ ವರದಿ ಮಾಡುವ ಕಾರ್ಯವಿಧಾನವನ್ನು ಹೊಂದಿರಬೇಕು (ಇದನ್ನು ನೀವು ಕಾರ್ಯನಿರ್ವಹಿಸುವ ಸ್ಥಳಕ್ಕೆ ಜೋಡಿಸಬಹುದು).
 
-![ಮೂವರು ಯುವಕರು ನಿಂತಿದ್ದಾರೆ.](images/8-Diverse-Mix-2.png)
+![Two mentors talking.](images/Safeguarding-Image4-1200x800.png)
 
 ಈ ವಿಭಾಗದಲ್ಲಿ, ನಿಮ್ಮ ಕ್ಲಬ್‌ಗಾಗಿ ಸಲಹೆಗಳು, ಮಾದರಿ ಸನ್ನಿವೇಶಗಳು, ಮತ್ತು ಮಾದರಿ ವರದಿ ಮಾಡುವ ಕಾರ್ಯವಿಧಾನಗಳಿವೆ. ನಿಮ್ಮ ಸಹ ಸ್ವಯಂಸೇವಕರೊಂದಿಗೆ ಇವುಗಳ ಬಗ್ಗೆ ಮಾತನಾಡುವಂತೆ ನಾವು ಶಿಫಾರಸು ಮಾಡುತ್ತೇವೆ. We also have guidance on [Dealing with safeguarding concerns](https://static.raspberrypi.org/files/safeguarding/Raspberry-Pi-Foundation-safeguarding-dealing-with-safeguarding-concerns.pdf){:target='_blank'}, that you can print out and share with volunteers.
 
