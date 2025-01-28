@@ -2,7 +2,7 @@
 
 Pokud máte obavy o mladou osobu nebo pokud vám mladá osoba odhalí zneužívání, je důležité být připraven. Váš klub musí mít ohlašovací postup (může být propojen s místem vašeho působiště).
 
-![Tři mladí lidé stojí.](images/8-Diverse-Mix-2.png)
+![Two mentors talking.](images/Safeguarding-Image4-1200x800.png)
 
 V této sekci jsou tipy, ukázkové scénáře a vzorové postupy pro hlášení ve vašem klubu. Doporučujeme, abyste je probrali se svými dobrovolníky. Máme také návod na [Řešení bezpečnostních problémů](https://static.raspberrypi.org/files/safeguarding/Raspberry-Pi-Foundation-safeguarding-dealing-with-safeguarding-concerns.pdf){:target='_blank'}, který si můžete vytisknout a sdílet s dobrovolníky.
 
