@@ -6,7 +6,7 @@ La protección al menor es la acción que se lleva a cabo para promover el biene
 Asegúrese de que ha <span style="color: #0faeb0">iniciado sesión con su cuenta de la Fundación Raspberry Pi</span> para guardar su avance, de lo contrario no se registrará su finalización. Use el enlace 'Iniciar sesión' en el menú de navegación para iniciar sesión.
 </p>
 
-![Tres jóvenes están de pie.](images/3-RPF-Kids.png)
+![Three young people.](images/Code_Club_Image1_808x704.png)
 
 Esta guía de aprendizaje se creó para darles a todos los voluntarios de la Fundación Raspberry Pi y sus programas (Code Club, CoderDojo, Raspberry Jams y Astro Pi) la oportunidad de aprender acerca de las mejores prácticas en materia de protección al menor.
 
