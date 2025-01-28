@@ -6,7 +6,7 @@
 تأكّد من أنّك <span style="color: #0faeb0">سجّلت دخولك إلى حساب مؤسّسة Raspberry Pi</span> لحفظ تقدّمك، وإلّا فلن يُسجَّل إتمامك. استخدم رابط "تسجيل الدخول" في قائمة التنقّل لتسجيل الدخول.
 </p>
 
-![ثلاثة شباب واقفين.](images/3-RPF-Kids.png)
+![Three young people.](images/Code_Club_Image1_808x704.png)
 
 تم انشاء دليل التعلّم هذا لمنح الفرصة لجميع المتطوّعين في مؤسّسة Raspberry Pi وبرامجهم (Code Club وCoderDojo وRaspberry Jams وAstro Pi)، للتعرّف على أفضل الممارسات في حماية الطفل.
 
