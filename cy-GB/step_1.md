@@ -6,7 +6,7 @@ Diogelu ydy'r camau sy'n cael eu cymryd i hybu lles plant a'u gwarchod rhag niwe
 Gwnewch yn siŵr eich bod wedi <span style="color: #0faeb0">mewngofnodi i'ch cyfrif Raspberry Pi Foundation</span> i gadw eich cynnydd, neu ni fydd cofnod eich bod wedi cwblhau. Use the 'Log in' link in the navigation menu to log in.
 </p>
 
-![Tri o bobl ifanc yn sefyll.](images/3-RPF-Kids.png)
+![Three young people.](images/Code_Club_Image1_808x704.png)
 
 Mae'r canllaw dysgu hwn wedi cael ei greu i roi cyfle i holl wirfoddolwyr y Raspberry Pi Foundation a'i raglenni (Code Club, CoderDojo, Raspberry Jams ac Astro Pi) ddysgu am yr arferion diogelu plant gorau.
 
