@@ -2,7 +2,7 @@
 
 Fel rheol, cyfrifoldeb trefnydd y clwb ydy recriwtio a chynefino gwirfoddolwyr newydd. O bryd i'w gilydd, mae'n bosib bydd gwirfoddolwyr yn rhan o'r broses hon i helpu trefnydd y clwb, yn benodol i helpu i roi'r gwirfoddolwr newydd ar ben ffordd yn ei sesiwn gyntaf.
 
-![Tri gwirfoddolwr yn sefyll.](images/2-RPF-Volunteers.png)
+![Tri gwirfoddolwr yn sefyll.](images/Safeguarding-Course-Group-1640x824.png)
 
 Mae'n bwysig cydnabod efallai na fydd pob gwirfoddolwr sydd â diddordeb cynnig help llaw yn eich clwb yn briodol neu'n addas.
 
