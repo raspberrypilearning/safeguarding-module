@@ -2,7 +2,7 @@
 
 Een overgrote meerderheid van de jongeren neemt deel aan onze clubs zonder te worden misbruikt. Het is echter belangrijk dat vrijwilligers weten wat ze moeten doen als ze zich bewust worden van mishandeling, hetzij door observatie, hetzij door een jongere die je over misbruik vertelt (openbaarmaking). De meeste Raspberry Pi Foundation clubs creëren een omgeving waarin veel jonge mensen zich bijzonder op hun gemak voelen, wat kan helpen om onthullingen in de club te stimuleren.
 
-![Drie staande jonge mensen.](images/7-Diverse-Mix.png){:target='_blank'}
+![Older mentor and young person](images/Safeguarding-Image5-1200x800.png){:target='_blank'}
 
 Kindermishandeling wordt over het algemeen gecategoriseerd als verwaarlozing, lichamelijke mishandeling, emotionele mishandeling, seksueel misbruik of radicalisering. Andere aspecten om rekening mee te houden zijn onder meer misbruik door leeftijdsgenoten, georganiseerd misbruik en online misbruik.
 
