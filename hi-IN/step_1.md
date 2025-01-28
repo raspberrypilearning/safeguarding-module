@@ -6,7 +6,7 @@
 इस बात को पक्का करें कि आपने अपनी प्रगति को बचाने के लिए <span style="color: #0faeb0">अपने Raspberry Pi फाउंडेशन खाते में लॉग इन किया है</span>, अन्यथा आपका समापन रिकॉर्ड नहीं किया जाएगा। Use the 'Log in' link in the navigation menu to log in.
 </p>
 
-![तीन युवक खड़े हैं।](images/3-RPF-Kids.png)
+![Three young people.](images/Code_Club_Image1_808x704.png)
 
 यह लर्निंग गाइड Raspberry Pi फाउंडेशन के सभी स्वयंसेवकों और उनके कार्यक्रमों (Code Club, CoderDojo, Raspberry Jams, और Astro Pi) को बच्चों की सुरक्षा में सर्वोत्तम प्रथाओं के बारे में जानने का मौका देने हेतु बनाई गई है।
 
