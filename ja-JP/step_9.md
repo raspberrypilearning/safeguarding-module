@@ -2,7 +2,7 @@
 
 青少年について懸念がある場合、あるいは青少年から虐待を申告された場合に備えることが重要です。 クラブには報告手順が必要です（これは、運営する会場と連動している場合があります）。
 
-![Two mentors talking.](images/Safeguarding-Image4-1200x800.png)
+![Two mentors talking](images/Safeguarding-Image4-1200x800.png)
 
 このセクションでは、クラブのためのヒント、シナリオの例、報告手順の例が紹介されています。 ボランティア仲間の内部で話し合っておくことをお勧めします。 We also have guidance on [Dealing with safeguarding concerns](https://static.raspberrypi.org/files/safeguarding/Raspberry-Pi-Foundation-safeguarding-dealing-with-safeguarding-concerns.pdf){:target='_blank'}, that you can print out and share with volunteers.
 
