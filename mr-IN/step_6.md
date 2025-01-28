@@ -2,7 +2,7 @@
 
 बहुसंख्य तरुण लोकांना गैर वर्तणुकीचा सामना न करता आमच्या क्लबमध्ये भाग घेतात. However, it is important that volunteers maintain an attitude of 'it could happen here' and are aware of what to do when they become aware of abuse, either through observation or through a young person telling them about abuse (disclosure). Although volunteers may not spend a large amount of time with each young person compared to teachers in schools, Raspberry Pi Foundation clubs create an environment in which many young people feel particularly comfortable, which can help encourage disclosures at the club.
 
-![तीन युवक आहेत.](images/7-Diverse-Mix.png){:target='_blank'}
+![Older mentor and young person](images/Safeguarding-Image5-1200x800.png){:target='_blank'}
 
 बाल शोषण सामान्यतः दुर्लक्ष, शारीरिक शोषण, भावनिक शोषण, लैंगिक अत्याचार किंवा संघिकरणाच्या रूपता वर्गीकृत केले जाते. इतर पैलूंबद्दल जागरूक असण्यामध्ये समवयस्कांचा गैरवापर, संघटित गैरवर्तणूक आणि ऑन लाइन गैर वर्तणूक यांचा समावेश आहे.
 
