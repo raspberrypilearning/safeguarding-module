@@ -2,7 +2,7 @@
 
 Doorgaans is het de verantwoordelijkheid van de cluborganisator om nieuwe vrijwilligers te werven en aan te nemen. Van tijd tot tijd kunnen vrijwilligers bij dit proces worden betrokken om de organisator van de club te helpen, in het bijzonder om de nieuwe vrijwilliger te helpen bij hun eerste sessie.
 
-![Drie staande vrijwilligers.](images/2-RPF-Volunteers.png)
+![Drie staande vrijwilligers.](images/Safeguarding-Course-Group-1640x824.png)
 
 Het is belangrijk om te beseffen dat niet elke vrijwilliger die geïnteresseerd is in het helpen van jouw club geschikt is of een match kan zijn.
 
