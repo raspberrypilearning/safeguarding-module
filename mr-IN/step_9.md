@@ -2,7 +2,7 @@
 
 आपल्याला एखाद्या तरुणाविषयी चिंता असेल किंवा कोणती तरुणाने आपल्याशी गैरवर्तणूक विषयक चर्चा केल्यास आपण ह्याविषयी पावले उचलण्यासाठी तयार असणे महत्त्वाचे आहे. आपले क्लबला एक अहवाल प्रक्रिया असणे आवश्यक आहे (हे आपल्या काम करण्याच्या ठिकाणाला जोडून असू शकते.).
 
-![Two mentors talking.](images/Safeguarding-Image4-1200x800.png)
+![Two mentors talking](images/Safeguarding-Image4-1200x800.png)
 
 या विभागात, टिपा, नमुना परिस्थिती, आपल्या क्लबसाठी नमुना अहवाल प्रक्रिया आहेत. आपण आपल्या सहकारी स्वयंसेवकांशी ह्याविषयी चर्चा करा. We also have guidance on [Dealing with safeguarding concerns](https://static.raspberrypi.org/files/safeguarding/Raspberry-Pi-Foundation-safeguarding-dealing-with-safeguarding-concerns.pdf){:target='_blank'}, that you can print out and share with volunteers.
 
