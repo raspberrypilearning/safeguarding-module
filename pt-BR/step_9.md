@@ -2,7 +2,7 @@
 
 Se você possui uma preocupação com um jovem, ou se um jovem lhe revela abuso, é importante estar preparado. Seu clube deve ter um procedimento de notificação (isso pode estar vinculado ao local de onde você opera).
 
-![Três jovens em destaque.](images/8-Diverse-Mix-2.png)
+![Two mentors talking.](images/Safeguarding-Image4-1200x800.png)
 
 Nesta seção, há dicas, cenários de amostra e procedimentos de relatórios de amostras para o seu clube. Recomendamos que fale sobre isso com os seus colegas voluntários. We also have guidance on [Dealing with safeguarding concerns](https://static.raspberrypi.org/files/safeguarding/Raspberry-Pi-Foundation-safeguarding-dealing-with-safeguarding-concerns.pdf){:target='_blank'}, that you can print out and share with volunteers.
 
