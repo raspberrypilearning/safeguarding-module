@@ -2,7 +2,7 @@
 
 Lorsque vous rencontrerez un bénévole pour la première fois, il y aura quelques exigences d'accueil. Cela implique notamment de reconnaître les caractéristiques souhaitables des bénévoles ; même si un bénévole peut ne pas avoir tous ces caractéristiques, il devrait certainement en avoir au moins une.
 
-![Un bénévole adulte.](Safeguarding_Course_Assets_V2_Image31280x1933.png){:width="400px"}.
+![Un bénévole adulte.](images/Safeguarding_Course_Assets_V2_Image31280x1933.png){:width="400px"}.
 ### 1. Identification de la formation
 
 Si vos bénévoles souhaitent bénéficier d'une formation ou d'un soutien supplémentaires, vous pouvez les orienter vers les [cours en ligne gratuits](https://www.futurelearn.com/partners/raspberry-pi){:target='_blank'} qui sont proposés par la Raspberry Pi Foundation.
