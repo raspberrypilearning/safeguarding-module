@@ -2,7 +2,7 @@
 
 Η συντριπτική πλειονότητα των νέων συμμετέχει στις λέσχες μας χωρίς να αντιμετωπίζουν κακομεταχείριση. However, it is important that volunteers maintain an attitude of 'it could happen here' and are aware of what to do when they become aware of abuse, either through observation or through a young person telling them about abuse (disclosure). Although volunteers may not spend a large amount of time with each young person compared to teachers in schools, Raspberry Pi Foundation clubs create an environment in which many young people feel particularly comfortable, which can help encourage disclosures at the club.
 
-![Τρεις νέοι άνθρωποι όρθιοι.](images/7-Diverse-Mix.png){:target="_blank'}
+![Older mentor and young person](images/Safeguarding-Image5-1200x800.png){:target='_blank'}
 
 Η κακοποίηση παιδιών μπορεί να διακρίνεται στις παρακάτω κατηγορίες: παραμέληση, σωματική κακοποίηση, συναισθηματική κακοποίηση, σεξουαλική κακοποίηση ή ριζοσπαστικοποίηση. Άλλες πτυχές που πρέπει να γνωρίζετε είναι η κακοποίηση από ομοτίμους, η οργανωμένη κακοποίηση και η διαδικτυακή κακοποίηση.
 
