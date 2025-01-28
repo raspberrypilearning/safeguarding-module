@@ -6,7 +6,7 @@
 आपण <span style="color: #0faeb0">आपल्या Raspberry Pi Fफाउंडेशन खात्यात</span>लॉगिन होऊन आपली प्रगती जतन करा नाही तर त्याशिवाय ती जतन केली जाणार नाही. Use the 'Log in' link in the navigation menu to log in.
 </p>
 
-![तीन युवक आहेत.](images/3-RPF-Kids.png)
+![Three young people.](images/Code_Club_Image1_808x704.png)
 
 Raspberry Pi फाउंडेशनच्या सर्व स्वयंसेवकांना आणि त्यांच्या कार्यक्रमांना (कोड क्लब, CoderDojo, Raspberry Jams आणि Astro Pi) बालकांच्या सुरक्षेच्या सर्वोत्तम पद्धतींबद्दल जाणून घेण्याची संधी देण्यासाठी हे शिक्षण मार्गदर्शन तयार केले गेले आहे.
 
