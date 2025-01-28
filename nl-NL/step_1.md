@@ -6,7 +6,7 @@ Bescherming van kinderen wordt gewaarborgd door de maatregelen die worden genome
 Zorg ervoor dat je <span style="color: #0faeb0">bent ingelogd op je Raspberry Pi Foundation account</span> om je voortgang op te slaan, anders word je eindresultaat niet geregistreerd. Gebruik de 'Inloggen' link in het navigatiemenu om in te loggen.
 </p>
 
-![Drie staande jonge mensen.](images/3-RPF-Kids.png)
+![Three young people.](images/Code_Club_Image1_808x704.png)
 
 Deze gids is gemaakt om alle vrijwilligers van de Raspberry Pi Foundation en hun programma's (Code Club, CoderDojo, Raspberry Jams en Astro Pi) de kans te geven om te leren over de best practices op het gebied van kinderbescherming.
 
