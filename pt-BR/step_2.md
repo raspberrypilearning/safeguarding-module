@@ -2,7 +2,7 @@
 
 Normalmente, é responsabilidade do organizador do clube recrutar e integrar novos voluntários. De tempos em tempos, os voluntários podem estar envolvidos nesse processo para ajudar o organizador do clube, em particular para ajudar a orientar o novo voluntário na sua primeira sessão.
 
-![Três voluntários em destaque.](images/2-RPF-Volunteers.png)
+![Três voluntários em destaque.](images/Safeguarding-Course-Group-1640x824.png)
 
 É importante reconhecer que nem todos os voluntários interessados em ajudar no seu clube podem ser apropriados ou compatíveis.
 
