@@ -6,7 +6,7 @@ Ochrana dětí jsou opatření přijatá za účelem podpory blaha dětí a jeji
 Zajistěte, že jste <span style="color: #0faeb0">přihlášeni do vašeho Raspberry Pi Foundation účtu</span> aby byl váš dosavadní postup uložen, v opačném případě nebude vaše dokončení zaznamenáno. Použijte 'Log in' link v menu k přihlášení.
 </p>
 
-![Tři mladí lidé stojí.](images/3-RPF-Kids.png)
+![Three young people.](images/Code_Club_Image1_808x704.png)
 
 Tato výuková příručka byla vytvořena, aby dala všem dobrovolníkům Raspberry Pi Foundation a jejich programům (Code Club, CoderDojo, Raspberry Jams a Astro Pi) příležitost dozvědět se o osvědčených postupech v ochraně dětí.
 
