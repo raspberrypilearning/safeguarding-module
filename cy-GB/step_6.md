@@ -2,7 +2,7 @@
 
 Mae mwyafrif helaeth y bobl ifanc yn cymryd rhan yn ein clybiau heb ddod ar draws camdriniaeth. However, it is important that volunteers maintain an attitude of 'it could happen here' and are aware of what to do when they become aware of abuse, either through observation or through a young person telling them about abuse (disclosure). Although volunteers may not spend a large amount of time with each young person compared to teachers in schools, Raspberry Pi Foundation clubs create an environment in which many young people feel particularly comfortable, which can help encourage disclosures at the club.
 
-![Tri o bobl ifanc yn sefyll.](images/7-Diverse-Mix.png){:target='_blank'}
+![Older mentor and young person](images/Safeguarding-Image5-1200x800.png){:target='_blank'}
 
 Ar y cyfan, mae cam-drin plant yn cael ei gategoreiddio fel esgeulustod, cam-drin corfforol, cam-drin emosiynol, cam-drin rhywiol, neu radicaleiddio. Ymysg yr agweddau eraill i fod yn ymwybodol ohonyn nhw mae cam-drin gan gyfoedion, cam-drin wedi'i drefnu, a cham-drin ar-lein.
 
