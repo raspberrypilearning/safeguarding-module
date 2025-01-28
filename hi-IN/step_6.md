@@ -2,7 +2,7 @@
 
 हमारे क्लबों में बड़ी तादाद में युवा लोग बिना किसी दुर्व्यवहार का सामना किए बिना भाग लेते हैं। However, it is important that volunteers maintain an attitude of 'it could happen here' and are aware of what to do when they become aware of abuse, either through observation or through a young person telling them about abuse (disclosure). Although volunteers may not spend a large amount of time with each young person compared to teachers in schools, Raspberry Pi Foundation clubs create an environment in which many young people feel particularly comfortable, which can help encourage disclosures at the club.
 
-![तीन युवक खड़े हैं।](images/7-Diverse-Mix.png){:target='_blank'}
+![Older mentor and young person](images/Safeguarding-Image5-1200x800.png){:target='_blank'}
 
 बाल शोषण को आम तौर पर उपेक्षा, शारीरिक शोषण, भावनात्मक शोषण, यौन शोषण या कट्टरता के रूप में वर्गीकृत किया जाता है। अन्य पहलुओं के बारे में पता होना चाहिए जिसमें सहकर्मी दुर्व्यवहार, संगठित दुर्व्यवहार और ऑनलाइन दुर्व्यवहार शामिल हैं।
 
