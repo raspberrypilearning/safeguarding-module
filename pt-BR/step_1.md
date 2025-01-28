@@ -6,7 +6,7 @@ A salvaguarda é a ação tomada para promover o bem-estar das crianças e prote
 Certifique-se de que você está <span style="color: #0faeb0">logado na sua conta da Fundação Raspberry Pi </span> para salvar o seu progresso, caso contrário a sua conclusão não será gravada. Utilize o link de Login no menu de navegação para fazer login.
 </p>
 
-![Três jovens em destaque.](images/3-RPF-Kids.png)
+![Three young people.](images/Code_Club_Image1_808x704.png)
 
 Esse guia de aprendizagem foi criado para dar a todos os voluntários da Fundação Raspberry Pi e aos seus programas (Code Club, CoderDojo, Raspberry Jams e Astro Pi) a oportunidade de aprender sobre as melhores práticas na proteção infantil.
 
