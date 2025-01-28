@@ -2,7 +2,7 @@
 
 If you have a concern about a young person, or if a young person discloses abuse to you, it is important to be prepared. Your club must have a reporting procedure (this may be linked to the venue you operate from).
 
-![Three young people standing.](images/8-Diverse-Mix-2.png)
+![Two mentors talking.](images/Safeguarding-Image4-1200x800.png)
 
 In this section, there are tips, sample scenarios, and sample reporting procedures for your club. We would recommend that you talk about these with your fellow volunteers. We also have guidance on [Dealing with safeguarding concerns](https://static.raspberrypi.org/files/safeguarding/Raspberry-Pi-Foundation-safeguarding-dealing-with-safeguarding-concerns.pdf){:target='_blank'}, that you can print out and share with volunteers.
 
