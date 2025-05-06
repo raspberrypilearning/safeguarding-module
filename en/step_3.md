@@ -5,7 +5,7 @@ When you first meet a volunteer, there will be some induction requirements. This
 ![An adult volunteer.](images/Safeguarding_Course_Assets_V2_Image31280x1933.png){:width="400px"}.
 ### 1. Training identification  
 
-If your volunteers would like some further training or support, you can direct them to the [free online courses](https://www.futurelearn.com/partners/raspberry-pi){:target='_blank'} that are provided by the Raspberry Pi Foundation. 
+If your volunteers would like some further training or support, you can direct them to the [free online courses](https://www.edx.org/school/raspberrypifoundation?utm_medium=website&utm_source=rpf-homepage){:target='_blank'} that are provided by the Raspberry Pi Foundation. 
 
 If you have several volunteers in your club, you could also arrange some sessions between yourselves to share knowledge and try out new programmes and projects together. This will help increase the confidence of your volunteers on what they are covering in the club.
 
