@@ -21,7 +21,7 @@ Dit is een korte beschrijving om potentiële vrijwilligers te vertellen wat de r
 
 Dit kan een online formulier zijn met een paar korte vragen. Vraag indien mogelijk om een referentie en eventuele relevante vaardigheden die nuttig kunnen zijn in je club. Informatie op het aanmeldingsformulier, zoals contactgegevens, is nuttig als deze potentiële vrijwilliger lid wordt van de club.
 
-**Opmerking**: Als je lid bent van een Code Club of CoderDojo, moet je in plaats van een aanmeldingsformulier potentiële vrijwilligers aanmoedigen om zich te registreren via onze websites ([codeclub.org](https://codeclub.org){:target='_blank'} en [coderdojo.com](https://coderdojo.com){:target='_blank'}).
+**Note**: If you are in a Code Club, instead of an application form you should encourage potential volunteers to register through our website [codeclub.org](https://codeclub.org/en/mentor){:target='_blank'}.
 
 ### 3. Informele bijeenkomst of interview
 
