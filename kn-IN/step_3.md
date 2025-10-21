@@ -5,7 +5,7 @@
 ![ಒಬ್ಬ ವಯಸ್ಕ ಸ್ವಯಂಸೇವಕರು.](images/Safeguarding_Course_Assets_V2_Image31280x1933.png){:width="400px"}.
 ### 1. ತರಬೇತಿ ಗುರುತಿಸುವಿಕೆ
 
-ನಿಮ್ಮ ಸ್ವಯಂಸೇವಕರು ಇನ್ನೂ ಹೆಚ್ಚಿನ ತರಬೇತಿ ಅಥವಾ ಬೆಂಬಲವನ್ನು ಬಯಸಿದರೆ, Raspberry Pi ಫೌಂಡೇಶನ್ ಒದಗಿಸುವ [ಉಚಿತ ಆನ್‌ಲೈನ್‌ ಕೋರ್ಸ್‌ಗಳನ್ನು](https://www.futurelearn.com/partners/raspberry-pi){:target='_blank'} ತೆಗೆದುಕೊಳ್ಳುವಂತೆ ನೀವು ಅವರಿಗೆ ಹೇಳಬಹುದು.
+If your volunteers would like some further training or support, you can direct them to the [free online courses](https://www.edx.org/school/raspberrypifoundation?utm_medium=website&utm_source=rpf-homepage){:target='_blank'} that are provided by the Raspberry Pi Foundation.
 
 ನಿಮ್ಮ ಕ್ಲಬ್‌ನಲ್ಲಿ ಹಲವಾರು ಸ್ವಯಂಸೇವಕರಿದ್ದರೆ, ಜ್ಞಾನ ಹಂಚಿಕೊಳ್ಳಲು ಮತ್ತು ಹೊಸ ಕಾರ್ಯಕ್ರಮಗಳು ಮತ್ತು ಯೋಜನೆಗಳನ್ನು ಒಟ್ಟಾಗಿ ಪ್ರಯತ್ನಿಸಲು ನೀವು ನಿಮ್ಮ ನಡುವೆ ಕೆಲವು ಸೆಷನ್‌ಗಳನ್ನೂ ಸಹ ನೀವು ಆಯೋಜಿಸಬಹುದು. ಇದು ನಿಮ್ಮ ಸ್ವಯಂಸೇವಕರು ಕ್ಲಬ್‌ನಲ್ಲಿ ಅವರು ಮಾಡುತ್ತಿರುವ ಕೆಲಸದ ಬಗ್ಗೆ ಅವರ ಆತ್ಮವಿಶ್ವಾಸವನ್ನು ಹೆಚ್ಚಿಸಲು ಸಹಾಯ ಮಾಡುತ್ತದೆ.
 
