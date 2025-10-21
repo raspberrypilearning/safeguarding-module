@@ -5,7 +5,7 @@ Wanneer je een vrijwilliger voor het eerst ontmoet, zijn er enkele introductie-e
 ![Een volwassen vrijwilliger.](images/Safeguarding_Course_Assets_V2_Image31280x1933.png){:width="400px"}.
 ### 1. Training identificatie
 
-Als je vrijwilligers wat meer training of ondersteuning willen, kun je ze doorverwijzen naar de [gratis online cursussen](https://www.futurelearn.com/partners/raspberry-pi){:target='_blank'} die worden aangeboden door de Raspberry Pi Foundation.
+If your volunteers would like some further training or support, you can direct them to the [free online courses](https://www.edx.org/school/raspberrypifoundation?utm_medium=website&utm_source=rpf-homepage){:target='_blank'} that are provided by the Raspberry Pi Foundation.
 
 Als je meerdere vrijwilligers in je club hebt, kun je ook wat sessies met elkaar regelen om kennis te delen en samen nieuwe programma's en projecten uit te proberen. Dit zal helpen het vertrouwen van de vrijwilligers te vergroten in wat ze in de club behandelen.
 
