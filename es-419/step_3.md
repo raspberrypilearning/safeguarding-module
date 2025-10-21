@@ -5,7 +5,7 @@ Cuando conozca a un voluntario por primera vez, habrá algunos requisitos de ini
 ![Un voluntario adulto.](images/Safeguarding_Course_Assets_V2_Image31280x1933.png){:width="400px"}.
 ### 1. Identificación de capacitación
 
-Si sus voluntarios desean recibir más capacitación o apoyo, puede dirigirlos a los [cursos en línea gratuitos](https://www.futurelearn.com/partners/raspberry-pi){:target='_blank'} que ofrece la Fundación Raspberry Pi.
+If your volunteers would like some further training or support, you can direct them to the [free online courses](https://www.edx.org/school/raspberrypifoundation?utm_medium=website&utm_source=rpf-homepage){:target='_blank'} that are provided by the Raspberry Pi Foundation.
 
 Si hay varios voluntarios en su club, también podrían organizar algunas sesiones entre ustedes para compartir sus conocimientos y probar juntos nuevos programas y proyectos. Esto ayudará a aumentar la confianza de sus voluntarios sobre lo que están cubriendo en el club.
 
