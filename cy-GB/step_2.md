@@ -21,7 +21,7 @@ Dyma ddisgrifiad byr i roi gwybod i ddarpar wirfoddolwyr beth mae'r rôl yn ei g
 
 Fe allai hon fod yn ffurflen ar-lein gyda rhywfaint o gwestiynau byr. Fe ddylech chi ofyn am ganolwr os oes modd ac am unrhyw sgiliau perthnasol a allai fod yn ddefnyddiol i'ch clwb. Bydd gwybodaeth o'r ffurflen gais, fel manylion cyswllt, yn ddefnyddiol pe bai'r darpar wirfoddolwr yn ymuno â'r clwb.
 
-**Sylwch**: Os ydych chi mewn Code Club neu CoderDojo, yn hytrach na ffurflen gais fe ddylech chi annog darpar wirfoddolwyr i gofrestru drwy ein gwefannau ([codeclub.org](https://codeclub.org){:target='_blank'} a [coderdojo.com](https://coderdojo.com){:target='_blank'}).
+**Note**: If you are in a Code Club, instead of an application form you should encourage potential volunteers to register through our website [codeclub.org](https://codeclub.org/en/mentor){:target='_blank'}.
 
 ### 3. Cyfarfod neu gyfweliad anffurfiol
 
