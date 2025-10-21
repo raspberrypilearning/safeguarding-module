@@ -5,7 +5,7 @@ Bydd rhai gofynion cynefino pan fyddwch chi'n cyfarfod gwirfoddolwr am y tro cyn
 ![Gwirfoddolwr sy'n oedolyn.](images/Safeguarding_Course_Assets_V2_Image31280x1933.png){:width="400px"}.
 ### 1. Nodi hyfforddiant
 
-Os hoffai eich gwirfoddolwyr hyfforddiant neu gymorth pellach, fe allwch chi eu cyfeirio at y [cyrsiau ar-lein am ddim](https://www.futurelearn.com/partners/raspberry-pi){:target='_blank'} sy'n cael eu darparu gan y Raspberry Pi Foundation.
+If your volunteers would like some further training or support, you can direct them to the [free online courses](https://www.edx.org/school/raspberrypifoundation?utm_medium=website&utm_source=rpf-homepage){:target='_blank'} that are provided by the Raspberry Pi Foundation.
 
 Os oes gennych chi nifer o wirfoddolwyr yn eich clwb, fe allech chi hefyd drefnu rhywfaint o sesiynau ymysg eich gilydd i rannu gwybodaeth ac i roi cynnig ar raglenni a phrosiectau newydd gyda'ch gilydd. Bydd hyn yn helpu i fagu hyder eich gwirfoddolwyr o ran yr hyn sy'n cael sylw ganddyn nhw yn y clwb.
 
