@@ -1,6 +1,6 @@
 <div class="site-warning" role="alert">
   <strong>Important notice:</strong>
-  The latest version of this training can be found at
+  The latest English language version of this training can be found at
   <a href="https://training-hub.raspberrypi.org/en/courses/safeguarding">
     training-hub.raspberrypi.org/en/courses/safeguarding
   </a>.
