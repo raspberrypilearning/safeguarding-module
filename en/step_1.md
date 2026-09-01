@@ -3,7 +3,7 @@
 
   <p>This course is available in 12 other languages.</p>
 
-  <p>To take this safeguarding course in another language, select one of the links below. You will be redirected to another site to complete the course:</p>
+  <p>To take this safeguarding course in another language, select one of the links below.</p>
 
   <ul dir="ltr" style="direction: ltr; text-align: left;">
     <li><a href="https://projects.raspberrypi.org/ar-SA/projects/safeguarding-module/0">اللغة العربية</a></li>
