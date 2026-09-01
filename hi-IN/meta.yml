@@ -10,6 +10,8 @@ last_tested: 2022-01-05
 steps:
 - title: बच्चे की सुरक्षा क्या है?
 - title: नियुक्ति प्रक्रिया
+  completion:
+  - engaged
 - title: नए स्वयंसेवकों को शामिल करना
 - title: बर्ताव का संकेत
 - title: आचार संहिता क्विज
@@ -34,4 +36,8 @@ steps:
     version: 1
     questions: 6
     passing_score: 6
+  completion:
+  - internal
 - title: यह लगभग यही है!
+  completion:
+  - external

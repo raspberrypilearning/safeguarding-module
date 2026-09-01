@@ -10,6 +10,8 @@ last_tested: 2022-01-05
 steps:
 - title: O que é proteção à criança?
 - title: Processo de recrutamento
+  completion:
+  - engaged
 - title: Indução de novos voluntários
 - title: Código de comportamento
 - title: Teste de código de comportamento
@@ -34,4 +36,8 @@ steps:
     version: 1
     questions: 6
     passing_score: 6
+  completion:
+  - internal
 - title: Estamos quase lá!
+  completion:
+  - external

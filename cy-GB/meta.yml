@@ -10,6 +10,8 @@ last_tested: 2022-01-05
 steps:
 - title: Beth ydy diogelu plant?
 - title: Y broses recriwtio
+  completion:
+  - engaged
 - title: Cynefino gwirfoddolwyr newydd
 - title: Cod ymddygiad
 - title: Cwis cod ymddygiad
@@ -34,4 +36,8 @@ steps:
     version: 1
     questions: 6
     passing_score: 6
+  completion:
+  - internal
 - title: Bron â gorffen!
+  completion:
+  - external

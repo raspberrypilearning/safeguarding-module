@@ -10,6 +10,8 @@ last_tested: 2022-01-05
 steps:
 - title: チャイルド・セーフガードとは何ですか?
 - title: 採用の流れ
+  completion:
+  - engaged
 - title: 新規ボランティアの受け入れ
 - title: 行動規範
 - title: 行動規範テスト
@@ -34,4 +36,8 @@ steps:
     version: 1
     questions: 6
     passing_score: 6
+  completion:
+  - internal
 - title: もう少しです!
+  completion:
+  - external

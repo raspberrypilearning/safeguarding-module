@@ -10,6 +10,8 @@ last_tested: 2022-01-05
 steps:
 - title: "¿Qué es la salvaguarda infantil?"
 - title: Proceso de contratación
+  completion:
+  - engaged
 - title: Iniciación de nuevos voluntarios
 - title: Código de comportamiento
 - title: Prueba corta del código de conducta
@@ -34,4 +36,8 @@ steps:
     version: 1
     questions: 6
     passing_score: 6
-- title: "¡Ya casi estamos listos!"
+  completion:
+  - internal
+- title: ¡Ya casi estamos listos!
+  completion:
+  - external
