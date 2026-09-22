@@ -2,7 +2,7 @@
 
 Cuando conozca a un voluntario por primera vez, habrá algunos requisitos de iniciación. Esto incluye el reconocimiento de las características deseables para los voluntarios; aunque el voluntario puede no tener todos estos rasgos, sin duda debe tener al menos uno de ellos.
 
-![Un voluntario adulto.](images/Safeguarding_Course_Assets_V2_Image31280x1933.png){:width="400px"}.
+![Un voluntario adulto.](images/safeguarding-m1-s3.png){:width="400px"}.
 ### 1. Identificación de capacitación
 
 If your volunteers would like some further training or support, you can direct them to the [free online courses](https://www.edx.org/school/raspberrypifoundation?utm_medium=website&utm_source=rpf-homepage){:target='_blank'} that are provided by the Raspberry Pi Foundation.
