@@ -1,6 +1,6 @@
 ## 行動規範
 
-クラブの会員は全て、行動規範を認識し、これを遵守しなければなりません。 私たちの行動規範の文書は、[rpf.io/code-of-behaviour](http://rpf.io/code-of-behaviour){:target='_blank'} から入手可能です。
+クラブの会員は全て、行動規範を認識し、これを遵守しなければなりません。私たちの行動規範の文書は、[rpf.io/code-of-behaviour](http://rpf.io/code-of-behaviour){:target='_blank'} から入手可能です。
 
 <embed src="images/Raspberry_Pi_Foundation-safeguarding-code-of-behaviour.pdf" width="790" height="500" 
  type="application/pdf">
@@ -14,7 +14,7 @@
 </h3>
 
 <p spaces-before="0">
-  クラブのボランティアが不適切な行動を取ったり、行動規範を破ったりした場合は、クラブ主催者が措置を講じなければなりません。 クラブ主催者が行動規範に違反した場合、他のボランティアが行動しなければなりません。
+  クラブのボランティアが不適切な行動を取ったり、行動規範を破ったりした場合は、クラブ主催者が措置を講じなければなりません。クラブ主催者が行動規範に違反した場合、他のボランティアが行動しなければなりません。
 </p>
 
 <p spaces-before="0">
@@ -45,5 +45,5 @@
 </p>
 
 <p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">
-<span style="color: #0faeb0">Raspberry Pi Foundation アカウント</span> にログインしていることを確認して進行状況を保存してください。 ナビゲーションメニューの「ログイン」リンクからログインしてください。
+<span style="color: #0faeb0">Raspberry Pi Foundation アカウント</span> にログインしていることを確認して進行状況を保存してください。ナビゲーションメニューの「ログイン」リンクからログインしてください。
 </p>
