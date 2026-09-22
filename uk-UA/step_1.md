@@ -1,55 +1,22 @@
-## What is child safeguarding?
+<div class="site-warning" role="alert" dir="ltr" style="box-sizing: border-box; width: 100%; padding: 20px; border: 1px solid #ffecb5; border-radius: 4px; background-color: #fff3cd; color: #664d03; direction: ltr; text-align: left;">
+  <p>The english version of this course has now moved to the <a href="https://training-hub.raspberrypi.org/en/courses/safeguarding">training hub</a>.</p>
 
-Safeguarding is the actions taken to promote the welfare of children and protect them from harm.
+  <p>This course is available in 12 other languages.</p>
 
-<p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">
-Ensure you're <span style="color: #0faeb0">logged into your Raspberry Pi Foundation account</span> to save your progress, otherwise your completion will not be recorded. Use the 'Log in' link in the navigation menu to log in.
-</p>
+  <p>To take this safeguarding course in another language, select one of the links below.</p>
 
-![Three young people.](images/Code_Club_Image1_808x704.png)
-
-This learning guide has been created to give all volunteers of the Raspberry Pi Foundation and their programmes (Code Club, CoderDojo, Raspberry Jams, and Astro Pi) the opportunity to learn about best practices in child safeguarding.
-
-Once completed, you will have:
-
-* A basic awareness of the key issues in relation to child safeguarding in a coding club
-* An understanding of how to implement international best practices in child safeguarding
-
-It will take about 20 minutes to complete this learning guide.
-
-### What topics will be covered?
-
-There are many ways to ensure your club is a safe space for young people to learn and engage with technology.
-
-Below are some of the topics that will be covered:
-
-* Background checks
-* Legislation
-* How to recruit volunteers
-* Code of behaviour
-* Types of abuse
-* How to implement processes for reporting abuse
-* Example scenarios in a coding club
-* How to run safe online sessions
-
-### Why is child safeguarding important?
-
-All programmes run and supported by the Raspberry Pi Foundation should always be a safe space for everyone. By maintaining a safe environment, you are allowing young people to thrive and learn to code completely carefree.
-
-Clubs can have young people in attendance from different schools, backgrounds, and ages. Therefore, it is crucial to make sure this safe space is protected to ensure young people can make new friends and share a common interest.
-
-### Legislation
-
-Each club is responsible for ensuring that they abide with the safeguarding legislation in their area. Some jurisdictions will require that all volunteers who work with young people and/or vulnerable persons have background checks before they commence the voluntary activity. Other jurisdictions may require that you have a child protection policy or safeguarding statement.
-
-**Note**: Legislation in the USA can vary from state to state.
-
-### Best practices
-
-While it is paramount that you follow legislation in your region regarding child safeguarding, all clubs should try to have best practices in place, even where they are not required by legislation. Some of the best practices your club can adopt that will be covered in this module include:
-
-* Volunteer recruitment
-* Code of behaviour
-* Code of behaviour for young people attending online sessions
-* Guide for adults to support young people attending online sessions
-* The reporting process when abuse is disclosed to a volunteer or when a volunteer notices signs of abuse
+  <ul dir="ltr" style="direction: ltr; text-align: left;">
+    <li><a href="https://projects.raspberrypi.org/ar-SA/projects/safeguarding-module/0">اللغة العربية</a></li>
+    <li><a href="https://projects.raspberrypi.org/cs-CZ/projects/safeguarding-module/0">Čeština</a></li>
+    <li><a href="https://projects.raspberrypi.org/cy-GB/projects/safeguarding-module/0">Cymraeg</a></li>
+    <li><a href="https://projects.raspberrypi.org/el-GR/projects/safeguarding-module/0">Ελληνικά</a></li>
+    <li><a href="https://projects.raspberrypi.org/es-LA/projects/safeguarding-module/0">Español (Latinoamericano)</a></li>
+    <li><a href="https://projects.raspberrypi.org/fr-FR/projects/safeguarding-module/0">Français</a></li>
+    <li><a href="https://projects.raspberrypi.org/hi-IN/projects/safeguarding-module/0">हिन्दी</a></li>
+    <li><a href="https://projects.raspberrypi.org/ja-JP/projects/safeguarding-module/0">日本語</a></li>
+    <li><a href="https://projects.raspberrypi.org/kn-IN/projects/safeguarding-module/0">ಕನ್ನಡ</a></li>
+    <li><a href="https://projects.raspberrypi.org/mr-IN/projects/safeguarding-module/0">मराठी</a></li>
+    <li><a href="https://projects.raspberrypi.org/nl-NL/projects/safeguarding-module/0">Nederlands</a></li>
+    <li><a href="https://projects.raspberrypi.org/pt-BR/projects/safeguarding-module/0">Português do Brasil</a></li>
+  </ul>
+</div>
