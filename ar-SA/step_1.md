@@ -1,55 +1,22 @@
-## ما هي حماية الطفل؟
+<div class="site-warning" role="alert" dir="ltr" style="box-sizing: border-box; width: 100%; padding: 20px; border: 1px solid #ffecb5; border-radius: 4px; background-color: #fff3cd; color: #664d03; direction: ltr; text-align: left;">
+  <p>The english version of this course has now moved to the <a href="https://training-hub.raspberrypi.org/en/courses/safeguarding">training hub</a>.</p>
 
-الحماية هي الإجراءات المتّخَذة لتعزيز رفاهية الأطفال وحمايتهم من الأذى.
+  <p>This course is available in 12 other languages.</p>
 
-<p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">
-تأكّد من أنّك <span style="color: #0faeb0">سجّلت دخولك إلى حساب مؤسّسة Raspberry Pi</span> لحفظ تقدّمك، وإلّا فلن يُسجَّل إتمامك. استخدم رابط "تسجيل الدخول" في قائمة التنقّل لتسجيل الدخول.
-</p>
+  <p>To take this safeguarding course in another language, select one of the links below.</p>
 
-![ثلاثة شباب واقفين.](images/Code_Club_Image1_808x704.png)
-
-تم انشاء دليل التعلّم هذا لمنح الفرصة لجميع المتطوّعين في مؤسّسة Raspberry Pi وبرامجهم (Code Club وCoderDojo وRaspberry Jams وAstro Pi)، للتعرّف على أفضل الممارسات في حماية الطفل.
-
-بمجرّد إتمامه، ستحصل على:
-
-* الوعي الأساسي بالقضايا الرئيسة المتعلّقة بحماية الطفل في نوادي Code Club
-* فهم كيفيّة تنفيذ أفضل الممارسات الدوليّة في حماية الطفل
-
-سيستغرق إكمال دليل التعلّم هذا حوالي 20 دقيقة.
-
-### ما الموضوعات الّتي ستتمّ تغطيتها؟
-
-هناك العديد من الطرق للتأكد من أن ناديك هو مكان آمن للشباب للتعلم والتعامل مع التكنولوجيا.
-
-أدناه، بعض الموضوعات الّتي ستتمّ تغطيتها:
-
-* التحقق من الخلفية القانونية
-* التشريعات
-* كيفيّة توظيف المتطوّعين
-* مدونة السلوك
-* أنواع الإساءة
-* كيفية تنفيذ عمليات الإبلاغ عن الإساءة
-* أمثلة عن سيناريوهات في Code Club
-* كيفية إجراء جلسات آمنة عبر الإنترنت
-
-### لماذا تعدّ حماية الطفل مهمّة؟
-
-يجب أن تكون جميع البرامج الّتي تديرها وتدعمها مؤسّسة Raspberry Pi آمنة للجميع. من خلال المحافظة على بيئة آمنة، فإنّك تسمح للأطفال بالنجاح وتعلّم البرمجة بشكل خالٍ من المشاكل.
-
-من الممكن أن يكون في النوادي شباب من مختلف المدارس والخلفيات والأعمار. لذلك، من المهمّ التأكّد من حماية هذه المساحة الآمنة، لضمان تمكّن الأطفال من تكوين صداقات جديدة والمشاركة في الاهتمامات المشتركة.
-
-### التشريعات
-
-كلّ نادٍ مسؤول عن ضمان التزامه بتشريعات الحماية في منطقته. وستطلب بعض الولايات القضائية أن يجري جميع المتطوعين الذين يعملون مع الشباب و/أو الأشخاص المستضعفين التحقق من خلفيتهم قبل أن يبدؤوا بالنشاط التطوعي. وقد تطلّب الولايات القضائيّة الأخرى أن تكون لديك سياسة لحماية الطفل أو بيان الحماية.
-
-**ملاحظة**: التشريعات في الولايات المتحدة الأمريكية يمكن أن تختلف من ولاية إلى أخرى.
-
-### أفضل الممارسات
-
-في حين أنه من المهمّ للغاية أن تتبع التشريعات في منطقتك فيما يتعلق بحماية الطفل، يجب على جميع الأندية محاولة الحصول على أفضل الممارسات، حتى عندما لا تكون مطلوبة بموجب التشريعات. تشمل بعض أفضل الممارسات التي يمكن لناديك اعتمادها والتي سيتم تغطيتها في هذه الوحدة ما يلي:
-
-* توظيف المتطوّعين
-* مدونة السلوك
-* مدونة السلوك للشباب الّذين يحضرون الجلسات الإلكترونيّة عن بعد
-* دليل للبالغين لدعم الشباب الّذين يحضرون الجلسات الإلكترونيّة عن بعد
-* عمليّة الإبلاغ عند اكتشاف إساءة حاصلة لمتطوّع، أو عندما يلاحظ متطوّع علامة من علامات سوء المعاملة
+  <ul dir="ltr" style="direction: ltr; text-align: left;">
+    <li><a href="https://projects.raspberrypi.org/ar-SA/projects/safeguarding-module/0">اللغة العربية</a></li>
+    <li><a href="https://projects.raspberrypi.org/cs-CZ/projects/safeguarding-module/0">Čeština</a></li>
+    <li><a href="https://projects.raspberrypi.org/cy-GB/projects/safeguarding-module/0">Cymraeg</a></li>
+    <li><a href="https://projects.raspberrypi.org/el-GR/projects/safeguarding-module/0">Ελληνικά</a></li>
+    <li><a href="https://projects.raspberrypi.org/es-LA/projects/safeguarding-module/0">Español (Latinoamericano)</a></li>
+    <li><a href="https://projects.raspberrypi.org/fr-FR/projects/safeguarding-module/0">Français</a></li>
+    <li><a href="https://projects.raspberrypi.org/hi-IN/projects/safeguarding-module/0">हिन्दी</a></li>
+    <li><a href="https://projects.raspberrypi.org/ja-JP/projects/safeguarding-module/0">日本語</a></li>
+    <li><a href="https://projects.raspberrypi.org/kn-IN/projects/safeguarding-module/0">ಕನ್ನಡ</a></li>
+    <li><a href="https://projects.raspberrypi.org/mr-IN/projects/safeguarding-module/0">मराठी</a></li>
+    <li><a href="https://projects.raspberrypi.org/nl-NL/projects/safeguarding-module/0">Nederlands</a></li>
+    <li><a href="https://projects.raspberrypi.org/pt-BR/projects/safeguarding-module/0">Português do Brasil</a></li>
+  </ul>
+</div>
