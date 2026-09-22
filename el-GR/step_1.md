@@ -1,55 +1,22 @@
-## Τι είναι η προστασία των παιδιών;
+<div class="site-warning" role="alert" dir="ltr" style="box-sizing: border-box; width: 100%; padding: 20px; border: 1px solid #ffecb5; border-radius: 4px; background-color: #fff3cd; color: #664d03; direction: ltr; text-align: left;">
+  <p>The english version of this course has now moved to the <a href="https://training-hub.raspberrypi.org/en/courses/safeguarding">training hub</a>.</p>
 
-Προστασία των παιδιών είναι οι ενέργειες που λαμβάνονται ώστε τα παιδιά να ευημερούν και να προστατεύονται από βλάβες.
+  <p>This course is available in 12 other languages.</p>
 
-<p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">
-Βεβαιωθείτε ότι είστε <span style="color: #0faeb0">συνδεδεμένοι στον λογαριασμό σας στο Raspberry Pi Foundation</span> για να αποθηκεύσετε την πρόοδό σας, διαφορετικά η ολοκλήρωσή σας δεν θα καταγραφεί. Χρησιμοποιήστε το σύνδεσμο «Σύνδεση» στο μενού πλοήγησης για να συνδεθείτε.
-</p>
+  <p>To take this safeguarding course in another language, select one of the links below.</p>
 
-![Τρεις νέοι είναι όρθιοι.](images/Code_Club_Image1_808x704.png)
-
-Αυτός ο οδηγός εκμάθησης δημιουργήθηκε για να δώσει σε όλους τους εθελοντές του Ιδρύματος Raspberry Pi και των προγραμμάτων τους (Code Club, CoderDojo, Raspberry Jams και Astro Pi) την ευκαιρία να μάθουν για τις βέλτιστες πρακτικές στην προστασία των παιδιών.
-
-Μόλις τον ολοκληρώσετε, θα έχετε:
-
-* Βασική επίγνωση των κύριων θεμάτων σε σχέση με την προστασία των παιδιών σε μια λέσχη προγραμματισμού
-* Κατανόηση του τρόπου εφαρμογής διεθνών βέλτιστων πρακτικών για την προστασία των παιδιών
-
-Θα χρειαστούν περίπου 20 λεπτά για να ολοκληρωθεί αυτός ο οδηγός εκμάθησης.
-
-### Ποια θέματα θα καλυφθούν;
-
-Υπάρχουν πολλοί τρόποι για να διασφαλίσετε ότι η λέσχη σας είναι ένας ασφαλής χώρος για τους/τις νέους/ες να μάθουν και να ασχοληθούν με την τεχνολογία.
-
-Παρακάτω είναι μερικά από τα θέματα που θα καλυφθούν:
-
-* Έλεγχοι ιστορικού
-* Νομοθεσία
-* Πώς να στρατολογήσετε εθελοντές/τριες
-* Κώδικας συμπεριφοράς
-* Τύποι κακοποίησης
-* Πώς να εφαρμόσετε διαδικασίες για την αναφορά κακοποίησης
-* Παραδείγματα σεναρίων σε μια λέσχη προγραμματισμού
-* Πώς να πραγματοποιείτε ασφαλείς διαδικτυακές συνεδρίες
-
-### Γιατί είναι σημαντική η προστασία των παιδιών;
-
-Όλα τα προγράμματα που εκτελούνται και υποστηρίζονται από το Raspberry Pi Foundation πρέπει να εμπνέουν ασφάλεια για όλους. Διατηρώντας ένα ασφαλές περιβάλλον, επιτρέπετε στους νέους να αναπτυχθούν και να μάθουν προγραμματισμό εντελώς ξένοιαστα.
-
-Οι λέσχες μπορούν να έχουν νέους ανθρώπους που συμμετέχουν από διαφορετικά σχολεία, υπόβαθρα και ηλικίες. Ως εκ τούτου, είναι σημαντικό να διασφαλίσουμε ότι αυτός ο ασφαλής χώρος προστατεύεται για να διασφαλιστεί ότι οι νέοι/νέες μπορούν να κάνουν νέους/ες φίλους/ες και να μοιράζονται κοινά ενδιαφέροντα.
-
-### Νομοθεσία
-
-Κάθε λέσχη είναι υπεύθυνη να διασφαλίσει ότι συμμορφώνεται με τη νομοθεσία προστασίας της περιοχής της. Σε ορισμένες περιοχές θα απαιτηθεί από όλους τους εθελοντές που εργάζονται με νέους και/ή ευάλωτα άτομα να υποβάλλονται σε έλεγχο ιστορικού πριν ξεκινήσουν την εθελοντική δραστηριότητα. Σε άλλες περιοχές ενδέχεται να απαιτείται να έχετε μια πολιτική προστασίας των παιδιών ή μια δήλωση προστασίας.
-
-**Σημείωση**: Η νομοθεσία στις ΗΠΑ μπορεί να διαφέρει από πολιτεία σε πολιτεία.
-
-### Βέλτιστες πρακτικές
-
-Αν και είναι υψίστης σημασίας να ακολουθείτε τη νομοθεσία της περιοχής σας σχετικά με την προστασία των παιδιών, όλες οι λέσχες θα πρέπει να προσπαθήσουν να εφαρμόζουν βέλτιστες πρακτικές, ακόμη και όταν δεν απαιτούνται από τη νομοθεσία. Μερικές από τις βέλτιστες πρακτικές που μπορεί να υιοθετήσει η λέσχη σας και θα καλυφθούν σε αυτήν την ενότητα περιλαμβάνουν:
-
-* Προσέγγιση Εθελοντών/τριών
-* Κώδικας συμπεριφοράς
-* Κώδικας συμπεριφοράς για παιδιά που παρακολουθούν διαδικτυακές συνεδρίες
-* Οδηγός για ενήλικες για την υποστήριξη παιδιών που παρακολουθούν διαδικτυακές συνεδρίες
-* Η διαδικασία αναφοράς όταν αποκαλύπτεται η κακοποίηση σε έναν εθελοντή ή όταν ένας εθελοντής παρατηρεί σημάδια κακοποίησης
+  <ul dir="ltr" style="direction: ltr; text-align: left;">
+    <li><a href="https://projects.raspberrypi.org/ar-SA/projects/safeguarding-module/0">اللغة العربية</a></li>
+    <li><a href="https://projects.raspberrypi.org/cs-CZ/projects/safeguarding-module/0">Čeština</a></li>
+    <li><a href="https://projects.raspberrypi.org/cy-GB/projects/safeguarding-module/0">Cymraeg</a></li>
+    <li><a href="https://projects.raspberrypi.org/el-GR/projects/safeguarding-module/0">Ελληνικά</a></li>
+    <li><a href="https://projects.raspberrypi.org/es-LA/projects/safeguarding-module/0">Español (Latinoamericano)</a></li>
+    <li><a href="https://projects.raspberrypi.org/fr-FR/projects/safeguarding-module/0">Français</a></li>
+    <li><a href="https://projects.raspberrypi.org/hi-IN/projects/safeguarding-module/0">हिन्दी</a></li>
+    <li><a href="https://projects.raspberrypi.org/ja-JP/projects/safeguarding-module/0">日本語</a></li>
+    <li><a href="https://projects.raspberrypi.org/kn-IN/projects/safeguarding-module/0">ಕನ್ನಡ</a></li>
+    <li><a href="https://projects.raspberrypi.org/mr-IN/projects/safeguarding-module/0">मराठी</a></li>
+    <li><a href="https://projects.raspberrypi.org/nl-NL/projects/safeguarding-module/0">Nederlands</a></li>
+    <li><a href="https://projects.raspberrypi.org/pt-BR/projects/safeguarding-module/0">Português do Brasil</a></li>
+  </ul>
+</div>
