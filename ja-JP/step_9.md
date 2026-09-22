@@ -1,10 +1,10 @@
 ## もしも...
 
-青少年について懸念がある場合、あるいは青少年から虐待を申告された場合に備えることが重要です。 クラブには報告手順が必要です（これは、運営する会場と連動している場合があります）。
+青少年について懸念がある場合、あるいは青少年から虐待を申告された場合に備えることが重要です。クラブには報告手順が必要です（これは、運営する会場と連動している場合があります）。
 
-![Two mentors talking](images/Safeguarding-Image4-1200x800.png)
+![Two mentors talking](images/safeguarding-m1-s9.png)
 
-このセクションでは、クラブのためのヒント、シナリオの例、報告手順の例が紹介されています。 ボランティア仲間の内部で話し合っておくことをお勧めします。 We also have guidance on [Dealing with safeguarding concerns](https://static.raspberrypi.org/files/safeguarding/Raspberry-Pi-Foundation-safeguarding-dealing-with-safeguarding-concerns.pdf){:target='_blank'}, that you can print out and share with volunteers.
+このセクションでは、クラブのためのヒント、シナリオの例、報告手順の例が紹介されています。ボランティア仲間の内部で話し合っておくことをお勧めします。 We also have guidance on [Dealing with safeguarding concerns](https://static.raspberrypi.org/files/safeguarding/Raspberry-Pi-Foundation-safeguarding-dealing-with-safeguarding-concerns.pdf){:target='_blank'}, that you can print out and share with volunteers.
 
 疑問がある場合は、[オンラインのセーフガードフォームに記入し、アドバイスやサポートを受けることができます](https://form.raspberrypi.org/f/safeguarding-concern-form){:target='_blank'}。
 
@@ -16,7 +16,7 @@
 1. 虚偽の約束（特に秘密保持）をしないこと。
 1. もし、その話が深刻なものであれば、他の人に話す必要があることを説明すること。
 1. 青少年にむやみに話を繰り返すように求めないこと。
-1. 質問は明確にするためにのみ行うこと。 支援を行いながら、誘導的な質問をしたり、若者が自発的に話した以上の親密な内容を聞き出したりしないようにすること。
+1. 質問は明確にするためにのみ行うこと。支援を行いながら、誘導的な質問をしたり、若者が自発的に話した以上の親密な内容を聞き出したりしないようにすること。
 1. 聴取し、理解したことが正確かどうか若者に確認すること。
 1. 虐待の疑いや虐待の加害者について、いかなる意見も述べないこと。
 
@@ -24,7 +24,7 @@
 
 1. 会話を録音すること。
 1. 文書による記録には、署名と日付を記入すること。
-1. 会場の児童保護責任者に情報を伝達すること。 また、彼らは見聞したことをできるだけ正確に書き留めるなど次のステップを指導することができます。
+1. 会場の児童保護責任者に情報を伝達すること。また、彼らは見聞したことをできるだけ正確に書き留めるなど次のステップを指導することができます。
 1. あなたがとった行動を電子メール[safeguarding@raspberrypi.org](mailto:safeguarding@raspberrypi.org){:target='_blank'} または [オンラインセーフガードフォーム](https://form.raspberrypi.org/f/safeguarding-concern-form){:target='_blank'}に入力のうえご連絡ください。
 1. 青少年が急迫の危険にさらされている場合、会場の児童保護責任者が警察に連絡すること
 1. すべての情報を機密扱いにし、情報共有する権利のある者にのみ情報提供すること
@@ -36,7 +36,7 @@
 
 1. 兆候があれば、詳細に記録すること。
 1. 文書による記録には、署名と日付を記入すること。
-1. 会場の児童保護責任者に情報を伝達すること。 彼らは次のステップについて説明してくれます。 そのとき、あなたが聞いたことをできるだけ正確に書き留めることが必要になります。
+1. 会場の児童保護責任者に情報を伝達すること。彼らは次のステップについて説明してくれます。 そのとき、あなたが聞いたことをできるだけ正確に書き留めることが必要になります。
 1. 青少年が急迫の危険にさらされている場合、会場の児童保護責任者が警察に連絡すること
 1. あなたがとった行動を電子メール[safeguarding@raspberrypi.org](mailto:safeguarding@raspberrypi.org){:target='_blank'} または [オンラインセーフガードフォーム](https://form.raspberrypi.org/f/safeguarding-concern-form){:target='_blank'}に入力のうえご連絡ください。
 1. すべての情報を機密扱いにし、情報共有する権利のある者にのみ情報提供すること
@@ -47,5 +47,5 @@
 --- save ---
 
 <p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">
-<span style="color: #0faeb0">Raspberry Pi Foundation アカウント</span> にログインしていることを確認して進行状況を保存してください。 ナビゲーションメニューの「ログイン」リンクからログインしてください。
+<span style="color: #0faeb0">Raspberry Pi Foundation アカウント</span> にログインしていることを確認して進行状況を保存してください。ナビゲーションメニューの「ログイン」リンクからログインしてください。
 </p>
