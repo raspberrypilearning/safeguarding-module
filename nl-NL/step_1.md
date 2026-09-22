@@ -1,55 +1,22 @@
-## Hoe zorgen we voor een veilige omgeving voor kinderen?
+<div class="site-warning" role="alert" dir="ltr" style="box-sizing: border-box; width: 100%; padding: 20px; border: 1px solid #ffecb5; border-radius: 4px; background-color: #fff3cd; color: #664d03; direction: ltr; text-align: left;">
+  <p>The english version of this course has now moved to the <a href="https://training-hub.raspberrypi.org/en/courses/safeguarding">training hub</a>.</p>
 
-Bescherming van kinderen wordt gewaarborgd door de maatregelen die worden genomen om het welzijn van kinderen te bevorderen en hen te beschermen.
+  <p>This course is available in 12 other languages.</p>
 
-<p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">
-Zorg ervoor dat je <span style="color: #0faeb0">bent ingelogd op je Raspberry Pi Foundation account</span> om je voortgang op te slaan, anders word je eindresultaat niet geregistreerd. Gebruik de 'Inloggen' link in het navigatiemenu om in te loggen.
-</p>
+  <p>To take this safeguarding course in another language, select one of the links below.</p>
 
-![Three young people.](images/Code_Club_Image1_808x704.png)
-
-Deze gids is gemaakt om alle vrijwilligers van de Raspberry Pi Foundation en hun programma's (Code Club, CoderDojo, Raspberry Jams en Astro Pi) de kans te geven om te leren over de best practices op het gebied van kinderbescherming.
-
-Eenmaal voltooid, heb je:
-
-* Een basisbewustzijn van de belangrijkste kwesties met betrekking tot de bescherming van kinderen in een codeerclub
-* Inzicht in hoe internationale best practices op het gebied van bescherming van kinderen kunnen worden geïmplementeerd
-
-Het duurt ongeveer 20 minuten om deze gids door te lezen.
-
-### Welke onderwerpen komen aan bod?
-
-Er zijn veel manieren om ervoor te zorgen dat jouw club een veilige plek is voor jonge mensen om te leren en zich bezig te houden met technologie.
-
-Hieronder staan enkele van de onderwerpen die aan bod komen:
-
-* Antecedentenonderzoek
-* Wetgeving
-* Hoe vrijwilligers te werven
-* Gedragscode
-* Soorten misbruik
-* Hoe processen te implementeren voor het melden van misbruik
-* Voorbeeldscenario's in een codeerclub
-* Veilige online sessies uitvoeren
-
-### Waarom is bescherming van kinderen belangrijk?
-
-Alle programma's die worden uitgevoerd en ondersteund door de Raspberry Pi Foundation moeten altijd een veilige plek zijn voor iedereen. Door een veilige omgeving in stand te houden, laat je jonge mensen openbloeien en zonder zorgen leren coderen.
-
-Clubs kunnen jongeren van verschillende scholen, achtergronden en leeftijden hebben. Daarom is het van cruciaal belang ervoor te zorgen dat deze veilige ruimte wordt beschermd om ervoor te zorgen dat jongeren nieuwe vrienden kunnen maken en een gemeenschappelijke interesse kunnen delen.
-
-### Wetgeving
-
-Elke club is verantwoordelijk om ervoor te zorgen dat ze zich houden aan de wetgeving op het gebied van bescherming van kinderen die van toepassing is in hun land of regio. Sommige rechtsgebieden vereisen dat alle vrijwilligers die met jongeren en/of kwetsbare personen werken, een antecedentenonderzoek ondergaan voordat ze met de vrijwilligersactiviteit beginnen. Andere rechtsgebieden kunnen vereisen dat je een kinderbeschermingsbeleid of beschermingsverklaring hebt.
-
-**Opmerking**: De wetgeving in de VS kan van staat tot staat verschillen.
-
-### Best practices
-
-Hoewel het belangrijk is dat je je houdt aan de wetgeving in jouw regio met betrekking tot de bescherming van kinderen, moeten alle clubs proberen om de best practices te hanteren, zelfs als ze niet wettelijk verplicht zijn. Enkele van de best practices die je club kan toepassen en die in deze module worden behandeld, zijn onder meer:
-
-* Werving van vrijwilligers
-* Gedragscode
-* Gedragscode voor kinderen die online sessies bijwonen
-* Gids voor volwassenen ter ondersteuning van kinderen die online sessies bijwonen
-* Het meldingsproces wanneer misbruik wordt gemeld aan een vrijwilliger of wanneer een vrijwilliger mogelijk misbruik opmerkt
+  <ul dir="ltr" style="direction: ltr; text-align: left;">
+    <li><a href="https://projects.raspberrypi.org/ar-SA/projects/safeguarding-module/0">اللغة العربية</a></li>
+    <li><a href="https://projects.raspberrypi.org/cs-CZ/projects/safeguarding-module/0">Čeština</a></li>
+    <li><a href="https://projects.raspberrypi.org/cy-GB/projects/safeguarding-module/0">Cymraeg</a></li>
+    <li><a href="https://projects.raspberrypi.org/el-GR/projects/safeguarding-module/0">Ελληνικά</a></li>
+    <li><a href="https://projects.raspberrypi.org/es-LA/projects/safeguarding-module/0">Español (Latinoamericano)</a></li>
+    <li><a href="https://projects.raspberrypi.org/fr-FR/projects/safeguarding-module/0">Français</a></li>
+    <li><a href="https://projects.raspberrypi.org/hi-IN/projects/safeguarding-module/0">हिन्दी</a></li>
+    <li><a href="https://projects.raspberrypi.org/ja-JP/projects/safeguarding-module/0">日本語</a></li>
+    <li><a href="https://projects.raspberrypi.org/kn-IN/projects/safeguarding-module/0">ಕನ್ನಡ</a></li>
+    <li><a href="https://projects.raspberrypi.org/mr-IN/projects/safeguarding-module/0">मराठी</a></li>
+    <li><a href="https://projects.raspberrypi.org/nl-NL/projects/safeguarding-module/0">Nederlands</a></li>
+    <li><a href="https://projects.raspberrypi.org/pt-BR/projects/safeguarding-module/0">Português do Brasil</a></li>
+  </ul>
+</div>
