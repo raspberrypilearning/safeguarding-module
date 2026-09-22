@@ -2,7 +2,7 @@
 
 Normalmente, é responsabilidade do organizador do clube recrutar e integrar novos voluntários. De tempos em tempos, os voluntários podem estar envolvidos nesse processo para ajudar o organizador do clube, em particular para ajudar a orientar o novo voluntário na sua primeira sessão.
 
-![Três voluntários em destaque.](images/Safeguarding-Course-Group-1640x824.png)
+![Três voluntários em destaque.](images/safeguarding-m1-s2.png)
 
 É importante reconhecer que nem todos os voluntários interessados em ajudar no seu clube podem ser apropriados ou compatíveis.
 
@@ -21,7 +21,7 @@ Essa é uma breve descrição para dizer aos voluntários em potencial o que o p
 
 Esse pode ser um formulário on-line com algumas perguntas curtas. Você deve solicitar uma referência, se possível, e quaisquer habilidades relevantes que possam ser úteis no seu clube. Informações do formulário de inscrição, como informações de contato, serão úteis caso esse potencial voluntário se junte ao clube.
 
-**Note**: If you are in a Code Club, instead of an application form you should encourage potential volunteers to register through our website [codeclub.org](https://codeclub.org/en/mentor){:target='_blank'}.
+**Nota**: Se você estiver em um Code Club ou CoderDojo, em vez de um formulário de inscrição, você deve encorajar os voluntários potenciais a se registrarem nos nossos sites ([codeclub.org](https://codeclub.org){:target='_blank'} e [coderdojo.com](https://coderdojo.com){:target='_blank'}).
 
 ### 3. Reunião ou entrevista informal
 
