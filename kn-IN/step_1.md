@@ -1,55 +1,22 @@
-## ಮಕ್ಕಳ ರಕ್ಷಣೆ ಎಂದರೇನು?
+<div class="site-warning" role="alert" dir="ltr" style="box-sizing: border-box; width: 100%; padding: 20px; border: 1px solid #ffecb5; border-radius: 4px; background-color: #fff3cd; color: #664d03; direction: ltr; text-align: left;">
+  <p>The english version of this course has now moved to the <a href="https://training-hub.raspberrypi.org/en/courses/safeguarding">training hub</a>.</p>
 
-ರಕ್ಷಣೆ ಎಂದರೆ ಮಕ್ಕಳ ಕಲ್ಯಾಣವನ್ನು ಉತ್ತೇಜಿಸಲು ಮತ್ತು ಅವರನ್ನು ಹಾನಿಯಿಂದ ರಕ್ಷಿಸಲು ತೆಗೆದುಕೊಂಡ ಕ್ರಮಗಳಾಗಿವೆ.
+  <p>This course is available in 12 other languages.</p>
 
-<p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">
-ನಿಮ್ಮ ಪ್ರಗತಿಯನ್ನು ಉಳಿಸಲು ನೀವು <span style="color: #0faeb0"> ನಿಮ್ಮ Raspberry Pi ಫೌಂಡೇಶನ್ ಖಾತೆಗೆ ಲಾಗ್ ಇನ್ ಮಾಡಿರುವುದನ್ನು</span> ಖಚಿತಪಡಿಸಿಕೊಳ್ಳಿ, ಇಲ್ಲದಿದ್ದರೆ ನಿಮ್ಮ ಪೂರ್ಣಗೊಳಿಸುವಿಕೆಯನ್ನು ದಾಖಲಿಸಲಾಗುವುದಿಲ್ಲ. Use the 'Log in' link in the navigation menu to log in.
-</p>
+  <p>To take this safeguarding course in another language, select one of the links below.</p>
 
-![Three young people.](images/Code_Club_Image1_808x704.png)
-
-ಈ ಕಲಿಕಾ ಮಾರ್ಗದರ್ಶಿಯನ್ನು Raspberry Pi ಫೌಂಡೇಶನ್‌ನ ಎಲ್ಲಾ ಸ್ವಯಂಸೇವಕರಿಗೆ ಮತ್ತು ಅವರ ಕಾರ್ಯಕ್ರಮಗಳಿಗೆ (Code Club, CoderDojo, Raspberry Jams, ಮತ್ತು Astro Pi) ಮಕ್ಕಳ ರಕ್ಷಣೆಗಾಗಿರುವ ಉತ್ತಮ ಪದ್ಧತಿಗಳ ಬಗ್ಗೆ ಕಲಿಯಲು ಅವಕಾಶ ನೀಡಲು ರಚಿಸಲಾಗಿದೆ.
-
-ಒಮ್ಮೆ ಪೂರ್ಣಗೊಂಡ ನಂತರ, ನೀವು ಈ ಕೆಳಗಿನವುಗಳನ್ನು ತಿಳಿಯಬಹುದು:
-
-* ಕೋಡಿಂಗ್ ಕ್ಲಬ್ ನಲ್ಲಿ ಮಕ್ಕಳ ರಕ್ಷಣೆಗೆ ಸಂಬಂಧಿಸಿದಂತೆ ಪ್ರಮುಖ ಸಮಸ್ಯೆಗಳ ಮೂಲಭೂತ ಅರಿವು
-* ಮಕ್ಕಳ ರಕ್ಷಣೆಯಲ್ಲಿ ಅಂತರರಾಷ್ಟ್ರೀಯ ಉತ್ತಮ ಪದ್ಧತಿಗಳನ್ನು ಹೇಗೆ ಜಾರಿಗೊಳಿಸುವುದು ಎನ್ನುವ ಬಗ್ಗೆ ತಿಳುವಳಿಕೆ
-
-ಈ ಕಲಿಕಾ ಮಾರ್ಗದರ್ಶಿಯನ್ನು ಪೂರ್ಣಗೊಳಿಸಲು ಸುಮಾರು 20 ನಿಮಿಷಗಳು ಬೇಕಾಗುತ್ತವೆ.
-
-### ಯಾವ ವಿಷಯಗಳಿರುತ್ತವೆ?
-
-ನಿಮ್ಮ ಕ್ಲಬ್ ಯುವಜನರಿಗೆ ಕಲಿಯಲು ಮತ್ತು ತಂತ್ರಜ್ಞಾನದೊಂದಿಗೆ ತೊಡಗಿಸಿಕೊಳ್ಳಲು ಸುರಕ್ಷಿತ ಸ್ಥಳವಾಗಿರುವುದನ್ನು ಖಚಿತಪಡಿಸಿಕೊಳ್ಳಲು ಅನೇಕ ಮಾರ್ಗಗಳಿವೆ.
-
-ಕಲಿಸಲಿರುವ ಕೆಲವು ವಿಷಯಗಳು ಈ ಕೆಳಗಿನಂತಿವೆ:
-
-* ಹಿನ್ನೆಲೆ ಪರಿಶೀಲನೆಗಳು
-* ಶಾಸನ
-* ಸ್ವಯಂಸೇವಕರನ್ನು ನೇಮಿಸಿಕೊಳ್ಳುವುದು ಹೇಗೆ
-* ನಡವಳಿಕೆಯ ಸಂಹಿತೆ
-* ದೌರ್ಜನ್ಯದ ವಿಧಗಳು
-* ದೌರ್ಜನ್ಯವನ್ನು ವರದಿ ಮಾಡುವ ಪ್ರಕ್ರಿಯೆಗಳನ್ನು ಹೇಗೆ ಕಾರ್ಯಗತಗೊಳಿಸುವುದು
-* ಕೋಡಿಂಗ್ ಕ್ಲಬ್‌ನಲ್ಲಿ ಸನ್ನಿವೇಶಗಳ ಉದಾಹರಣೆ
-* ಸುರಕ್ಷಿತ ಆನ್‌ಲೈನ್ ಸೆಷನ್‌ಗಳನ್ನು ನಡೆಸುವುದು ಹೇಗೆ
-
-### ಮಕ್ಕಳ ರಕ್ಷಣೆ ಏಕೆ ಮುಖ್ಯವಾಗಿದೆ?
-
-Raspberry Pi ಫೌಂಡೇಶನ್ ನಡೆಸುವ ಮತ್ತು ಬೆಂಬಲಿಸುವ ಎಲ್ಲಾ ಕಾರ್ಯಕ್ರಮಗಳು ಯಾವಾಗಲೂ ಎಲ್ಲರಿಗೂ ಸುರಕ್ಷಿತ ಸ್ಥಳವಾಗಿರಬೇಕು. ಸುರಕ್ಷಿತ ಪರಿಸರವನ್ನು ಕಾಪಾಡಿಕೊಳ್ಳುವ ಮೂಲಕ, ನೀವು ಯುವ ಜನರು ಅಭಿವೃದ್ಧಿ ಹೊಂದಲು ಮತ್ತು ಸಂಪೂರ್ಣವಾಗಿ ನಿರಾತಂಕವಾಗಿ ಕೋಡ್ ಮಾಡುವುದನ್ನು ಕಲಿಯುವುದನ್ನು ಸಾಧ್ಯವಾಗಿಸುತ್ತಿದ್ದೀರಿ.
-
-ಕ್ಲಬ್‌ಗಳು ವಿವಿಧ ಶಾಲೆಗಳು, ಹಿನ್ನೆಲೆಗಳು ಮತ್ತು ವಯಸ್ಸಿನ ಯುವಜನರನ್ನು ಒಳಗೊಂಡಿರಬಹುದು. ಆದ್ದರಿಂದ, ಯುವ ಜನರು ಹೊಸ ಸ್ನೇಹಿತರನ್ನು ಮಾಡಿಕೊಂಡು ಸಾಮಾನ್ಯ ಆಸಕ್ತಿಯನ್ನು ಹಂಚಿಕೊಳ್ಳುವುದನ್ನು ಖಚಿತಪಡಿಸಿಕೊಳ್ಳಲು ಈ ಸುರಕ್ಷಿತ ಸ್ಥಳವನ್ನು ಸುರಕ್ಷಿತವಾಗಿಡುವುದನ್ನು ಖಚಿತಪಡಿಸಿಕೊಳ್ಳುವುದು ಬಹಳ ಮುಖ್ಯವಾಗಿದೆ.
-
-### ಶಾಸನ
-
-ಪ್ರತಿ ಕ್ಲಬ್ ತಮ್ಮ ಪ್ರದೇಶದಲ್ಲಿನ ರಕ್ಷಣಾ ಕಾನೂನುಗಳಿಗೆ ಬದ್ಧರಾಗಿರುವುದನ್ನು ಖಚಿತಪಡಿಸಿಕೊಳ್ಳುವ ಜವಾಬ್ದಾರಿ ಹೊಂದಿರುತ್ತವೆ. ಕೆಲವು ಪ್ರದೇಶಗಳಲ್ಲಿ ಯುವ ಜನರು ಮತ್ತು /ಅಥವಾ ದುರ್ಬಲ ವ್ಯಕ್ತಿಗಳೊಂದಿಗೆ ಕೆಲಸ ಮಾಡುವ ಎಲ್ಲಾ ಸ್ವಯಂಸೇವಕರು ಸ್ವಯಂಸೇವಾ ಚಟುವಟಿಕೆಯನ್ನು ಪ್ರಾರಂಭಿಸುವ ಮೊದಲು ಹಿನ್ನೆಲೆ ಪರಿಶೀಲನೆಗಳನ್ನು ಹೊಂದಿರಬೇಕಿರುತ್ತದೆ. ಇತರ ಪ್ರದೇಶಗಳಲ್ಲಿ ನೀವು ಮಕ್ಕಳ ರಕ್ಷಣಾ ನೀತಿ ಅಥವಾ ಸುರಕ್ಷತಾ ಹೇಳಿಕೆಯನ್ನು ಹೊಂದಿರಬೇಕಾಗಬಹುದು.
-
-**ಗಮನಿಸಿ**: ಅಮೆರಿಕದ ಕಾನೂನುಗಳು ರಾಜ್ಯದಿಂದ ರಾಜ್ಯಕ್ಕೆ ಬದಲಾಗಬಹುದು.
-
-### ಅತ್ಯುತ್ತಮ ಪದ್ಧತಿಗಳು
-
-ಮಕ್ಕಳ ರಕ್ಷಣೆಗೆ ಸಂಬಂಧಿಸಿದಂತೆ ನೀವು ನಿಮ್ಮ ಪ್ರದೇಶದಲ್ಲಿನ ಕಾನೂನನ್ನು ಅನುಸರಿಸುವುದು ಅತ್ಯಗತ್ಯವಾಗಿದ್ದರೂ, ಎಲ್ಲಾ ಕ್ಲಬ್‌ಗಳು ಕಾನೂನಿನ ಪ್ರಕಾರ ಅಗತ್ಯವಿಲ್ಲದಿದ್ದರೂ ಸಹ, ಉತ್ತಮ ಪದ್ಧತಿಗಳನ್ನು ಹೊಂದಲು ಪ್ರಯತ್ನಿಸಬೇಕು. ಈ ಮಾಡ್ಯೂಲ್‌ನಲ್ಲಿ ಒಳಗೊಳ್ಳಲಿರುವ ನಿಮ್ಮ ಕ್ಲಬ್ ಅಳವಡಿಸಿಕೊಳ್ಳಬಹುದಾದ ಕೆಲವು ಅತ್ಯುತ್ತಮ ಪದ್ಧತಿಗಳಲ್ಲಿ ಇವು ಒಳಗೊಂಡಿವೆ:
-
-* ಸ್ವಯಂಸೇವಕರ ನೇಮಕಾತಿ
-* ನಡವಳಿಕೆಯ ಸಂಹಿತೆ
-* ಆನ್‌ಲೈನ್‌ ಸೆಷನ್‌ಗಳಿಗೆ ಹಾಜರಾಗುವ ಯುವಕರಿಗೆ ನಡವಳಿಕೆಯ ಸಂಹಿತೆ
-* ಆನ್‌ಲೈನ್‌ ಸೆಷನ್‌ಗಳಿಗೆ ಹಾಜರಾಗುವ ಯುವಕರನ್ನು ಬೆಂಬಲಿಸಲು ವಯಸ್ಕರಿಗೆ ಮಾರ್ಗದರ್ಶಿ
-* ವರದಿ ಮಾಡುವ ಪ್ರಕ್ರಿಯೆಯು ದೌರ್ಜನ್ಯದ ಬಗ್ಗೆ ಸ್ವಯಂಸೇವಕರಿಗೆ ತಿಳಿಸಿದಾಗ ಅಥವಾ ಸ್ವಯಂಸೇವಕರು ದೌರ್ಜನ್ಯದ ಚಿಹ್ನೆಗಳನ್ನು ಗಮನಿಸಿದಾಗ ಪ್ರಾರಂಭವಾಗುತ್ತದೆ
+  <ul dir="ltr" style="direction: ltr; text-align: left;">
+    <li><a href="https://projects.raspberrypi.org/ar-SA/projects/safeguarding-module/0">اللغة العربية</a></li>
+    <li><a href="https://projects.raspberrypi.org/cs-CZ/projects/safeguarding-module/0">Čeština</a></li>
+    <li><a href="https://projects.raspberrypi.org/cy-GB/projects/safeguarding-module/0">Cymraeg</a></li>
+    <li><a href="https://projects.raspberrypi.org/el-GR/projects/safeguarding-module/0">Ελληνικά</a></li>
+    <li><a href="https://projects.raspberrypi.org/es-LA/projects/safeguarding-module/0">Español (Latinoamericano)</a></li>
+    <li><a href="https://projects.raspberrypi.org/fr-FR/projects/safeguarding-module/0">Français</a></li>
+    <li><a href="https://projects.raspberrypi.org/hi-IN/projects/safeguarding-module/0">हिन्दी</a></li>
+    <li><a href="https://projects.raspberrypi.org/ja-JP/projects/safeguarding-module/0">日本語</a></li>
+    <li><a href="https://projects.raspberrypi.org/kn-IN/projects/safeguarding-module/0">ಕನ್ನಡ</a></li>
+    <li><a href="https://projects.raspberrypi.org/mr-IN/projects/safeguarding-module/0">मराठी</a></li>
+    <li><a href="https://projects.raspberrypi.org/nl-NL/projects/safeguarding-module/0">Nederlands</a></li>
+    <li><a href="https://projects.raspberrypi.org/pt-BR/projects/safeguarding-module/0">Português do Brasil</a></li>
+  </ul>
+</div>
