@@ -2,10 +2,10 @@
 
 जब आप पहली बार किसी स्वयंसेवक से मिलते हैं, तो इंडक्शन से जुडी कुछ ज़रूरतें होंगी। इसमें स्वयंसेवकों के लिए पसंद की जाने वाली विशेषताओं को पहचानना शामिल है; हो सकता है कि एक स्वयंसेवक में ये सभी विशेषताएं ना हों, उनके पास निश्चित रूप से कम से कम एक तो होनी ही चाहिए।
 
-![एक वयस्क स्वयंसेवक।](images/Safeguarding_Course_Assets_V2_Image31280x1933.png){:width="400px"}.
+![एक वयस्क स्वयंसेवक।](images/safeguarding-m1-s3.png){:width="400px"}.
 ### 1. प्रशिक्षण पहचान
 
-If your volunteers would like some further training or support, you can direct them to the [free online courses](https://www.edx.org/school/raspberrypifoundation?utm_medium=website&utm_source=rpf-homepage){:target='_blank'} that are provided by the Raspberry Pi Foundation.
+यदि आपके स्वयंसेवक कुछ और प्रशिक्षण या सहायता चाहते हैं, तो आप उन्हें [मुफ्त ऑनलाइन पाठ्यक्रम](https://www.futurelearn.com/partners/raspberry-pi){:target= _blank'} पर निर्देशित कर सकते हैं 'जो रास्पबेरी पाई फाउंडेशन द्वारा प्रदान किए जाते हैं।
 
 यदि आपके क्लब में कई स्वयंसेवक हैं, तो आप ज्ञान को साझा करने और नए कार्यक्रमों और परियोजनाओं को एक साथ आजमाने के लिए आपस में कुछ सेशंस की व्यवस्था भी कर सकते हैं। यह आपके स्वयंसेवकों के विश्वास को बढ़ाने में मदद करेगा कि वे क्लब में क्या कवर कर रहे हैं।
 
