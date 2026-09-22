@@ -2,10 +2,10 @@
 
 तुम्ही पहिल्यांदा एखाद्या स्वयंसेवकाला भेटता, तेव्हा काही पूर्व मूल्यमापन आवश्यकता असतील. यामध्ये स्वयंसेवकांची वांछलीय वैशिष्ट्ये ओळखणे समाविष्ट आहे; एखाद्या स्वयंसेवकामध्ये हे सर्व गुण नसले तरी त्यांच्याकडे किमान एक तरी गुण असणे आवश्यक आहे.
 
-![प्रौढ स्वयंसेवक.](images/Safeguarding_Course_Assets_V2_Image31280x1933.png){:width="400px"}.
+![प्रौढ स्वयंसेवक.](images/safeguarding-m1-s3.png){:width="400px"}.
 ### १. प्रशिक्षण ओळख
 
-If your volunteers would like some further training or support, you can direct them to the [free online courses](https://www.edx.org/school/raspberrypifoundation?utm_medium=website&utm_source=rpf-homepage){:target='_blank'} that are provided by the Raspberry Pi Foundation.
+आपल्या स्वयंसेवकानं अधिक मदत किंवा प्रशिक्षण येथे उपलब्ध आहे [मोफत ऑनलाईन कोर्सेस](https://www.futurelearn.com/partners/raspberry-pi){:target='_blank'} Raspberry Pi फाउंडेशन द्वारा.
 
 आपल्या क्लब मध्ये अनेक स्वयंसेवक असल्यास, तर तुमच्यात देखील एखादे सत्र घ्या ज्याने एकमेकांचे ज्ञान त्यांना एकमेकांना सांगता येईल, नवे कार्यक्रम आणि प्रकल्प राबवविता येतील का ह्याविषयी चर्चा होईल. ह्याने क्लबमध्ये ते काय करीत आहे ह्याविषयी स्वयंसेवकांचा आत्मविश्वास वाढण्यासाठी मदत होईल.
 
