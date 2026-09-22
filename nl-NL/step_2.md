@@ -2,7 +2,7 @@
 
 Doorgaans is het de verantwoordelijkheid van de cluborganisator om nieuwe vrijwilligers te werven en aan te nemen. Van tijd tot tijd kunnen vrijwilligers bij dit proces worden betrokken om de organisator van de club te helpen, in het bijzonder om de nieuwe vrijwilliger te helpen bij hun eerste sessie.
 
-![Drie staande vrijwilligers.](images/Safeguarding-Course-Group-1640x824.png)
+![Drie staande vrijwilligers.](images/safeguarding-m1-s2.png)
 
 Het is belangrijk om te beseffen dat niet elke vrijwilliger die geïnteresseerd is in het helpen van jouw club geschikt is of een match kan zijn.
 
@@ -21,7 +21,7 @@ Dit is een korte beschrijving om potentiële vrijwilligers te vertellen wat de r
 
 Dit kan een online formulier zijn met een paar korte vragen. Vraag indien mogelijk om een referentie en eventuele relevante vaardigheden die nuttig kunnen zijn in je club. Informatie op het aanmeldingsformulier, zoals contactgegevens, is nuttig als deze potentiële vrijwilliger lid wordt van de club.
 
-**Note**: If you are in a Code Club, instead of an application form you should encourage potential volunteers to register through our website [codeclub.org](https://codeclub.org/en/mentor){:target='_blank'}.
+**Opmerking**: Als je lid bent van een Code Club of CoderDojo, moet je in plaats van een aanmeldingsformulier potentiële vrijwilligers aanmoedigen om zich te registreren via onze websites ([codeclub.org](https://codeclub.org){:target='_blank'} en [coderdojo.com](https://coderdojo.com){:target='_blank'}).
 
 ### 3. Informele bijeenkomst of interview
 
