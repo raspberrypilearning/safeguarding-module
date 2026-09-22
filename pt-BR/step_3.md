@@ -2,10 +2,10 @@
 
 Quando você encontrar um voluntário pela primeira vez, haverá alguns requisitos de indução. Isso inclui reconhecer as características desejáveis para os voluntários; enquanto um voluntário pode não ter todas essas características, eles definitivamente devem ter pelo menos uma.
 
-![Um voluntário adulto.](images/Safeguarding_Course_Assets_V2_Image31280x1933.png){:lwidth="400px"}.
+![Um voluntário adulto.](images/safeguarding-m1-s3.png){:lwidth="400px"}.
 ### 1. Identificação de treinamento
 
-If your volunteers would like some further training or support, you can direct them to the [free online courses](https://www.edx.org/school/raspberrypifoundation?utm_medium=website&utm_source=rpf-homepage){:target='_blank'} that are provided by the Raspberry Pi Foundation.
+Se os seus voluntários quiserem mais treinamento ou suporte, você pode direcioná-los para os cursos [grátis on-line](https://www.futurelearn.com/partners/raspberry-pi){:target='_blank'} que são fornecidos pela Fundação Raspberry Pi.
 
 Se você possui vários voluntários no seu clube, você também pode organizar algumas sessões entre vocês para que compartilhem conhecimento e experimentem novos programas e projetos juntos. Isso ajudará a aumentar a confiança dos seus voluntários sobre o que eles estão cobrindo no clube.
 
